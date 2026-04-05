@@ -1,0 +1,56 @@
+.page {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.title {
+  margin: 0 0 0.5rem;
+  font-size: 2rem;
+  color: var(--color-text);
+}
+
+.subtitle {
+  margin: 0;
+  font-size: 1rem;
+  color: var(--color-text-muted);
+}
+
+.loading {
+  text-align: center;
+  padding: 2rem;
+  color: var(--color-text-muted);
+  font-size: 1.1rem;
+}
+
+.noResults {
+  text-align: center;
+  padding: 3rem 1.5rem;
+  background: var(--color-surface);
+  border-radius: var(--radius-md);
+  border: 1px solid var(--color-border);
+  color: var(--color-text-muted);
+}
+
+.resultsSection {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.resultCount {
+  margin: 0;
+  font-size: 1.1rem;
+  color: var(--color-text);
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  gap: 1rem;
+}
