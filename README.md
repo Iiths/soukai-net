@@ -138,15 +138,11 @@ npm run preview
 
 ## サンプルデータ
 
-`src/data/ninjas.json` に7体のニンジャサンプルデータを含みます。
+`src/data/ninjas.json` に最小限のサンプルデータを含みます。
 
-- ナンシー
-- サイバーネン
-- アンコク・ダークニンジャ
-- フジキド・ケンジ（ニンジャスレイヤー）
-- ニグレオス・ソムニア
-- マダム・ラオフウ
-- ランニンガー
+- フジキド・ケンジ（ニンジャスレイヤー）— 確認済み最低限データ
+
+**データの追加方法**: [ニンジャスレイヤーWiki](https://wikiwiki.jp/njslyr/) のキャラクターページを参照し、スキーマ（`src/domain/entities/Ninja.ts`）に従ってJSONを追記してください。Claude に「このWikiのテキストをninjas.jsonのスキーマに変換して」と依頼することも可能です。
 
 ## デザイン
 
@@ -188,7 +184,7 @@ export function Component() {
 ## 関連リソース
 
 - [KICKOFF.md](./KICKOFF.md) — プロジェクト企画書
-- ニンジャスレイヤーWiki: https://ninjasrv.web.fc2.com/
+- [ニンジャスレイヤーWiki](https://wikiwiki.jp/njslyr/)
 
 ---
 
