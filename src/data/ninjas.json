@@ -6,12 +6,6 @@
       "ニンジャスレイヤー"
     ],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-ニンジャスレイヤー",
-      "name": "ニンジャスレイヤー",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [],
     "appearances": [],
     "status": "alive",
@@ -42,12 +36,6 @@
       "サツバツナイト"
     ],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-サツバツナイト",
-      "name": "サツバツナイト",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [],
     "appearances": [],
     "status": "dead",
@@ -59,12 +47,6 @@
     "name": "タキ",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-タキ",
-      "name": "タキ",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [],
     "appearances": [],
     "status": "dead",
@@ -76,12 +58,6 @@
     "name": "コトブキ",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-コトブキ",
-      "name": "コトブキ",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [],
     "appearances": [],
     "status": "dead",
@@ -95,12 +71,6 @@
       "ザック"
     ],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-ザカリー",
-      "name": "ザカリー",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [],
     "appearances": [],
     "status": "alive",
@@ -112,12 +82,6 @@
     "name": "ザナドゥ",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-ザナドゥ",
-      "name": "ザナドゥ",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [],
     "appearances": [],
     "status": "alive",
@@ -131,12 +95,6 @@
       "ナンシー・リー／ナンシー・リン"
     ],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-ナンシー・リー",
-      "name": "ナンシー・リー",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [],
     "appearances": [],
     "status": "alive",
@@ -148,12 +106,6 @@
     "name": "フィルギア",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-フィルギア",
-      "name": "フィルギア",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [],
     "appearances": [],
     "status": "alive",
@@ -167,12 +119,6 @@
       "モーターツクモ"
     ],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-モーターチビ",
-      "name": "モーターチビ",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [],
     "appearances": [],
     "status": "alive",
@@ -196,12 +142,6 @@
     "name": "シキベ・タカコ",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-シキベ・タカコ",
-      "name": "シキベ・タカコ",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [],
     "appearances": [],
     "status": "alive",
@@ -227,12 +167,6 @@
       "シルバーキー"
     ],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-シルバーキー",
-      "name": "シルバーキー",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [],
     "appearances": [],
     "status": "alive",
@@ -247,12 +181,6 @@
       "ショーゴー・マグチ"
     ],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-スーサイド",
-      "name": "スーサイド",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [
       {
         "id": "soukaiya-p1",
@@ -269,12 +197,6 @@
     "name": "ゾーイ",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-ゾーイ",
-      "name": "ゾーイ",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [],
     "appearances": [],
     "status": "alive",
@@ -286,12 +208,6 @@
     "name": "コルヴェット",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-コルヴェット",
-      "name": "コルヴェット",
-      "grade": "等級不明",
-      "clan": "カゼ・ニンジャクラン"
-    },
     "organizations": [],
     "appearances": [],
     "status": "alive",
@@ -303,12 +219,6 @@
     "name": "アナイアレイター",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-アナイアレイター",
-      "name": "アナイアレイター",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [],
     "appearances": [],
     "status": "alive",
@@ -494,12 +404,6 @@
       "ブルーブラッド"
     ],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-ブルーブラッド",
-      "name": "ブルーブラッド",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [
       {
         "id": "イモータル・ニンジャ・ワークショップ",
@@ -847,12 +751,6 @@
     "name": "ウーガダル",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-謎のリザーバー",
-      "name": "謎のリザーバー",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [
       {
         "id": "ボロブドゥール（ムカデ・ニンジャクラン）",
@@ -869,12 +767,6 @@
     "name": "コンヴァージ",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-コンヴァージ",
-      "name": "コンヴァージ",
-      "grade": "等級不明",
-      "clan": "アカラ・ニンジャクラン"
-    },
     "organizations": [
       {
         "id": "ボロブドゥール（ムカデ・ニンジャクラン）",
@@ -891,12 +783,6 @@
     "name": "グレイウィルム",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-グレイウィルム",
-      "name": "グレイウィルム",
-      "grade": "等級不明",
-      "clan": "ムカデ・ニンジャクラン"
-    },
     "organizations": [
       {
         "id": "ボロブドゥール（ムカデ・ニンジャクラン）",
@@ -913,12 +799,6 @@
     "name": "ゲオフィルス",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-ゲオフィルス",
-      "name": "ゲオフィルス",
-      "grade": "等級不明",
-      "clan": "ムカデ・ニンジャクラン"
-    },
     "organizations": [
       {
         "id": "ボロブドゥール（ムカデ・ニンジャクラン）",
@@ -935,12 +815,6 @@
     "name": "セストーダル",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-セストーダル",
-      "name": "セストーダル",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [
       {
         "id": "ボロブドゥール（ムカデ・ニンジャクラン）",
@@ -980,12 +854,6 @@
     "name": "アンブラ",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-アンブラ",
-      "name": "アンブラ",
-      "grade": "等級不明",
-      "clan": "ハデス・ニンジャクラン"
-    },
     "organizations": [
       {
         "id": "ハデス・ネット（ハデス・ニンジャクラン）",
@@ -1002,12 +870,6 @@
     "name": "カシマール",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-カシマール",
-      "name": "カシマール",
-      "grade": "等級不明",
-      "clan": "ハデス・ニンジャクラン"
-    },
     "organizations": [
       {
         "id": "ハデス・ネット（ハデス・ニンジャクラン）",
@@ -1043,12 +905,6 @@
     "name": "カシウス",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-カシウス",
-      "name": "カシウス",
-      "grade": "等級不明",
-      "clan": "ブラド・ニンジャクラン"
-    },
     "organizations": [
       {
         "id": "赤竜騎士団",
@@ -1082,12 +938,6 @@
     "name": "ジャイアントバット",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-ジャイアントバット",
-      "name": "ジャイアントバット",
-      "grade": "等級不明",
-      "clan": "ブラド・ニンジャクラン"
-    },
     "organizations": [
       {
         "id": "赤竜騎士団",
@@ -1189,12 +1039,6 @@
     "name": "ウイングドテラー",
     "aliases": [],
     "ninjaType": "バイオニンジャ",
-    "ninjaSoul": {
-      "id": "soul-ウイングドテラ―",
-      "name": "ウイングドテラ―",
-      "grade": "等級不明",
-      "clan": "ダイナソー・ニンジャクラン"
-    },
     "organizations": [
       {
         "id": "サワタリ・カンパニー",
@@ -1211,12 +1055,6 @@
     "name": "セントール",
     "aliases": [],
     "ninjaType": "バイオニンジャ",
-    "ninjaSoul": {
-      "id": "soul-セントール",
-      "name": "セントール",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [
       {
         "id": "サワタリ・カンパニー",
@@ -1233,12 +1071,6 @@
     "name": "ディスカバリー",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-ディスカバリー",
-      "name": "ディスカバリー",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [
       {
         "id": "サワタリ・カンパニー",
@@ -1255,12 +1087,6 @@
     "name": "ハイドラ",
     "aliases": [],
     "ninjaType": "バイオニンジャ",
-    "ninjaSoul": {
-      "id": "soul-ハイドラ",
-      "name": "ハイドラ",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [
       {
         "id": "サワタリ・カンパニー",
@@ -1277,12 +1103,6 @@
     "name": "フロッグボーイ",
     "aliases": [],
     "ninjaType": "バイオニンジャ",
-    "ninjaSoul": {
-      "id": "soul-フロッグボーイ",
-      "name": "フロッグボーイ",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [
       {
         "id": "サワタリ・カンパニー",
@@ -1299,12 +1119,6 @@
     "name": "ヘルレックス",
     "aliases": [],
     "ninjaType": "バイオニンジャ",
-    "ninjaSoul": {
-      "id": "soul-ヘルレックス",
-      "name": "ヘルレックス",
-      "grade": "等級不明",
-      "clan": "ダイナソー・ニンジャクラン"
-    },
     "organizations": [
       {
         "id": "サワタリ・カンパニー",
@@ -1321,12 +1135,6 @@
     "name": "マインドキル",
     "aliases": [],
     "ninjaType": "バイオニンジャ",
-    "ninjaSoul": {
-      "id": "soul-マインドキル",
-      "name": "マインドキル",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [
       {
         "id": "サワタリ・カンパニー",
@@ -1343,12 +1151,6 @@
     "name": "ローゼンベルグ",
     "aliases": [],
     "ninjaType": "バイオニンジャ",
-    "ninjaSoul": {
-      "id": "soul-ローゼンベルグ",
-      "name": "ローゼンベルグ",
-      "grade": "等級不明",
-      "clan": "ダイナソー・ニンジャクラン"
-    },
     "organizations": [
       {
         "id": "サワタリ・カンパニー",
@@ -1365,12 +1167,6 @@
     "name": "ロングモーン",
     "aliases": [],
     "ninjaType": "バイオニンジャ",
-    "ninjaSoul": {
-      "id": "soul-ロングモーン",
-      "name": "ロングモーン",
-      "grade": "等級不明",
-      "clan": "ダイナソー・ニンジャクラン"
-    },
     "organizations": [
       {
         "id": "サワタリ・カンパニー",
@@ -1389,12 +1185,6 @@
       "K2"
     ],
     "ninjaType": "バイオニンジャ",
-    "ninjaSoul": {
-      "id": "soul-K2",
-      "name": "K2",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [
       {
         "id": "サワタリ・カンパニー",
@@ -1530,12 +1320,6 @@
     "name": "ギスボーン",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-ギスボーン",
-      "name": "ギスボーン",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [
       {
         "id": "電子エーゲ海帝国",
@@ -1552,12 +1336,6 @@
     "name": "ジェイドワスプ",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-ジェイドワスプ",
-      "name": "ジェイドワスプ",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [
       {
         "id": "電子エーゲ海帝国",
@@ -1591,12 +1369,6 @@
     "name": "ヘリコイド",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-ヘリコイド",
-      "name": "ヘリコイド",
-      "grade": "等級不明",
-      "clan": "テッポウ・ニンジャクラン"
-    },
     "organizations": [
       {
         "id": "電子エーゲ海帝国",
@@ -1630,12 +1402,6 @@
     "name": "ドクタードーモ",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-ドクタードーモ",
-      "name": "ドクタードーモ",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [
       {
         "id": "電子エーゲ海帝国",
@@ -1669,12 +1435,6 @@
     "name": "アビスマル",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-アビスマル",
-      "name": "アビスマル",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [
       {
         "id": "エジプト（エネアド社）",
@@ -1742,12 +1502,6 @@
     "name": "グリーンウィスプ",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-グリーンウィスプ",
-      "name": "グリーンウィスプ",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [
       {
         "id": "エジプト（エネアド社）",
@@ -1783,12 +1537,6 @@
     "name": "シャゴタイト",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-シャゴタイト",
-      "name": "シャゴタイト",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [
       {
         "id": "エジプト（エネアド社）",
@@ -1807,12 +1555,6 @@
       "ダーティージュジュ"
     ],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-ダーティージュジュ",
-      "name": "ダーティージュジュ",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [
       {
         "id": "エジプト（エネアド社）",
@@ -1846,12 +1588,6 @@
     "name": "デスロール",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-デスロール",
-      "name": "デスロール",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [
       {
         "id": "エジプト（エネアド社）",
@@ -1902,12 +1638,6 @@
     "name": "ハイウェイマン",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-ハイウェイマン",
-      "name": "ハイウェイマン",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [
       {
         "id": "エジプト（エネアド社）",
@@ -1924,12 +1654,6 @@
     "name": "ブラックティアーズ",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-ブラックティアーズ",
-      "name": "ブラックティアーズ",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [
       {
         "id": "エジプト（エネアド社）",
@@ -1963,12 +1687,6 @@
     "name": "バスカヴィル",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-バスカヴィル",
-      "name": "バスカヴィル",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [
       {
         "id": "エジプト（エネアド社）",
@@ -2025,12 +1743,6 @@
     "name": "アンクル・ソノ",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-アンクル・ソノ",
-      "name": "アンクル・ソノ",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [
       {
         "id": "スレイプニル",
@@ -2049,12 +1761,6 @@
       "ヒュージシュリケン"
     ],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-ヒュージシュリケン",
-      "name": "ヒュージシュリケン",
-      "grade": "等級不明",
-      "clan": "フマー・ニンジャクラン"
-    },
     "organizations": [
       {
         "id": "スレイプニル",
@@ -2109,12 +1815,6 @@
     "name": "クエスター・ナル",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-クエスター・ナル",
-      "name": "クエスター・ナル",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [
       {
         "id": "スレイプニル",
@@ -2148,12 +1848,6 @@
     "name": "クラックタンク",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-クラックタンク",
-      "name": "クラックタンク",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [
       {
         "id": "キモン",
@@ -2170,12 +1864,6 @@
     "name": "ゲッコー",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-ゲッコー",
-      "name": "ゲッコー",
-      "grade": "等級不明",
-      "clan": "まさかソウルはトカゲ・ニンジャクラン"
-    },
     "organizations": [
       {
         "id": "キモン",
@@ -2211,12 +1899,6 @@
     "name": "タイトロープ",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-タイトロープ",
-      "name": "タイトロープ",
-      "grade": "等級不明",
-      "clan": "コソク・ニンジャクラン"
-    },
     "organizations": [
       {
         "id": "キモン",
@@ -2233,12 +1915,6 @@
     "name": "タフガイ",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-タフガイ",
-      "name": "タフガイ",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [
       {
         "id": "キモン",
@@ -2255,12 +1931,6 @@
     "name": "デッドエンド",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-デッドエンド",
-      "name": "デッドエンド",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [
       {
         "id": "キモン",
@@ -2294,12 +1964,6 @@
     "name": "アゾット",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-アゾット",
-      "name": "アゾット",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [
       {
         "id": "アゾット一味",
@@ -2779,12 +2443,6 @@
     "name": "ベルゼブブ",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-ベルゼブブ",
-      "name": "ベルゼブブ",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [
       {
         "id": "ケイムショの軍勢",
@@ -2837,12 +2495,6 @@
     "name": "サマナ",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-サマナ",
-      "name": "サマナ",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [
       {
         "id": "獄麗",
@@ -2876,12 +2528,6 @@
     "name": "ブライカン",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-ブライカン",
-      "name": "ブライカン",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [
       {
         "id": "獄麗",
@@ -2898,12 +2544,6 @@
     "name": "ワカ・イザラギ",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-ワカ・イザラギ",
-      "name": "ワカ・イザラギ",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [
       {
         "id": "獄麗",
@@ -2920,12 +2560,6 @@
     "name": "ヴェノモス",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-ヴェノモス",
-      "name": "ヴェノモス",
-      "grade": "等級不明",
-      "clan": "コドク・ニンジャクラン"
-    },
     "organizations": [
       {
         "id": "ヘイ・ジウ",
@@ -2959,12 +2593,6 @@
     "name": "ブラッシュウッド",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-ブラッシュウッド",
-      "name": "ブラッシュウッド",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [
       {
         "id": "サマズ社",
@@ -3104,12 +2732,6 @@
     "name": "サガサマ・ミネ",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-サガサマ・ミネ",
-      "name": "サガサマ・ミネ",
-      "grade": "等級不明",
-      "clan": "アカラ・ニンジャクラン"
-    },
     "organizations": [
       {
         "id": "チカハ社",
@@ -3126,12 +2748,6 @@
     "name": "スカラー",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-スカラー",
-      "name": "スカラー",
-      "grade": "等級不明",
-      "clan": "コダマ・ニンジャクラン"
-    },
     "organizations": [
       {
         "id": "ヤナマンチ社",
@@ -3373,12 +2989,6 @@
     "name": "イグザミナー",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-イグザミナー",
-      "name": "イグザミナー",
-      "grade": "等級不明",
-      "clan": "タコ・ニンジャクラン"
-    },
     "organizations": [
       {
         "id": "ヤルキ重工",
@@ -3395,12 +3005,6 @@
     "name": "ネンダイキ",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-ネンダイキ",
-      "name": "ネンダイキ",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [
       {
         "id": "ヤルキ重工",
@@ -3572,12 +3176,6 @@
     "name": "ウリエル",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-ウリエル",
-      "name": "ウリエル",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [
       {
         "id": "論理聖教会",
@@ -3594,12 +3192,6 @@
     "name": "アイアンフォージド",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-アイアンフォージド",
-      "name": "アイアンフォージド",
-      "grade": "等級不明",
-      "clan": "ブラド・ニンジャクラン"
-    },
     "organizations": [
       {
         "id": "論理聖教会",
@@ -3616,12 +3208,6 @@
     "name": "セラフィムニンジャ",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-セラフィムニンジャ",
-      "name": "セラフィムニンジャ",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [
       {
         "id": "論理聖教会",
@@ -3672,12 +3258,6 @@
     "name": "クラウドスティーラー",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-クラウドスティーラー",
-      "name": "クラウドスティーラー",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [
       {
         "id": "論理聖教会",
@@ -3746,12 +3326,6 @@
     "name": "ニューロサージ",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-ニューロサージ",
-      "name": "ニューロサージ",
-      "grade": "等級不明",
-      "clan": "ボトク・ニンジャクラン"
-    },
     "organizations": [],
     "appearances": [],
     "status": "alive",
@@ -3775,12 +3349,6 @@
     "name": "ストリングベンド",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-ストリングベンド",
-      "name": "ストリングベンド",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [],
     "appearances": [],
     "status": "alive",
@@ -3792,12 +3360,6 @@
     "name": "コーストウインド",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-コーストウインド",
-      "name": "コーストウインド",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [],
     "appearances": [],
     "status": "alive",
@@ -3909,12 +3471,6 @@
     "name": "ウッドマン",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-ウッドマン",
-      "name": "ウッドマン",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [
       {
         "id": "フーディーギャング",
@@ -3931,12 +3487,6 @@
     "name": "ブラッドレイス",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-ブラッドレイス",
-      "name": "ブラッドレイス",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [
       {
         "id": "フーディーギャング",
@@ -3953,12 +3503,6 @@
     "name": "タランテラ",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-タランテラ",
-      "name": "タランテラ",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [
       {
         "id": "フーディーギャング",
@@ -3975,12 +3519,6 @@
     "name": "シューティングスター",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-シューティングスター",
-      "name": "シューティングスター",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [
       {
         "id": "フーディーギャング",
@@ -3997,12 +3535,6 @@
     "name": "アスタロス",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-アスタロス",
-      "name": "アスタロス",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [
       {
         "id": "フーディーギャング",
@@ -4036,12 +3568,6 @@
     "name": "マグナカルタ",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-マグナカルタ",
-      "name": "マグナカルタ",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [
       {
         "id": "フーディーギャング",
@@ -4092,12 +3618,6 @@
     "name": "キャラコ",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-キャラコ",
-      "name": "キャラコ",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [],
     "appearances": [],
     "status": "alive",
@@ -4109,12 +3629,6 @@
     "name": "ウォーペイント",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-ウォーペイント",
-      "name": "ウォーペイント",
-      "grade": "等級不明",
-      "clan": "ノルド・ニンジャクラン"
-    },
     "organizations": [
       {
         "id": "その他",
@@ -4131,12 +3645,6 @@
     "name": "キャプテンジェネラル",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-キャプテンジェネラル",
-      "name": "キャプテンジェネラル",
-      "grade": "等級不明",
-      "clan": "ノーム・ニンジャクラン"
-    },
     "organizations": [
       {
         "id": "その他",
@@ -4153,12 +3661,6 @@
     "name": "サイサムライ",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-サイサムライ",
-      "name": "サイサムライ",
-      "grade": "等級不明",
-      "clan": "ヨロイ・ニンジャクラン"
-    },
     "organizations": [
       {
         "id": "その他",
@@ -4175,12 +3677,6 @@
     "name": "ストライダー",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-ストライダー",
-      "name": "ストライダー",
-      "grade": "等級不明",
-      "clan": null
-    },
     "organizations": [
       {
         "id": "その他",
@@ -4197,12 +3693,6 @@
     "name": "チリングブレード",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-チリングブレード",
-      "name": "チリングブレード",
-      "grade": "等級不明",
-      "clan": "コリ・ニンジャクラン"
-    },
     "organizations": [
       {
         "id": "その他",
