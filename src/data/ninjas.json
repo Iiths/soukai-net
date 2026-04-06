@@ -4207,6 +4207,10 @@
       {
         "id": "その他",
         "name": "その他"
+      },
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
       }
     ],
     "appearances": [],
@@ -4218,12 +4222,16 @@
     "id": "17754559228",
     "name": "レッドキャップ",
     "aliases": [],
-    "ninjaType": null,
+    "ninjaType": "ニンジャソウル憑依者",
     "ninjaSoul": null,
     "organizations": [
       {
         "id": "その他",
         "name": "その他"
+      },
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
       }
     ],
     "appearances": [],
@@ -5458,6 +5466,10 @@
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
+      },
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
       }
     ],
     "appearances": [],
@@ -5602,6 +5614,10 @@
       {
         "id": "soukaiya-p4",
         "name": "ソウカイヤ（第4部）"
+      },
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
       }
     ],
     "appearances": [],
@@ -5614,6 +5630,10 @@
       {
         "id": "soukaiya-p4",
         "name": "ソウカイヤ（第4部）"
+      },
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
       }
     ],
     "appearances": [],
@@ -5698,6 +5718,10 @@
       {
         "id": "soukaiya-p4",
         "name": "ソウカイヤ（第4部）"
+      },
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
       }
     ],
     "appearances": [],
@@ -6522,6 +6546,10 @@
       {
         "id": "zaibatsu-p2",
         "name": "ザイバツ（第2部）"
+      },
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
       }
     ],
     "appearances": [],
@@ -8632,6 +8660,2769 @@
       {
         "id": "zaibatsu-p3p4",
         "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "アガメムノン_0f097b8d",
+    "name": "アガメムノン",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "アルゴス_02595771",
+    "name": "アルゴス",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "キュア_2f20be3a",
+    "name": "キュア",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "トランスペアレントクィリン_92d8b4c2",
+    "name": "トランスペアレントクィリン",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ジャスティス_ac011314",
+    "name": "ジャスティス",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "スターゲイザー_6102bd80",
+    "name": "スターゲイザー",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "スパルタカス_f56b8fb2",
+    "name": "スパルタカス",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ハーヴェスター_5ccfb5fa",
+    "name": "ハーヴェスター",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ブラックロータス_e028adb4",
+    "name": "ブラックロータス",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "マジェスティ_d2646b03",
+    "name": "マジェスティ",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "マスターマインド_96f563c9",
+    "name": "マスターマインド",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "メフィストフェレス_a5255141",
+    "name": "メフィストフェレス",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "アルバレスト_60a88a10",
+    "name": "アルバレスト",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "インターセプター_320f78c5",
+    "name": "インターセプター",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "エルダーコング_535fa785",
+    "name": "エルダーコング",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "カメレオン_c0d3ed44",
+    "name": "カメレオン",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ガルーダ_4a7980fa",
+    "name": "ガルーダ",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "クーフーリン_1763bf6c",
+    "name": "クーフーリン",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "コロッシヴ_c8faf052",
+    "name": "コロッシヴ",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "サーガタナス_d6530f4f",
+    "name": "サーガタナス",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "シズケサ_4ae9f05d",
+    "name": "シズケサ",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "シャドウドラゴン_f2a66b4e",
+    "name": "シャドウドラゴン",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "スワッシュバックラー_d54c288b",
+    "name": "スワッシュバックラー",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "セプテントリオン_11e0f97f",
+    "name": "セプテントリオン",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ソードフィッシュ_e75c40c7",
+    "name": "ソードフィッシュ",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ソードモンガー_d6bc7551",
+    "name": "ソードモンガー",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ソフトマインド_2ff955ef",
+    "name": "ソフトマインド",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ソルスティス_cd015dba",
+    "name": "ソルスティス",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ダイアウルフ_bc382e4d",
+    "name": "ダイアウルフ",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "デュラハン_cb89caf8",
+    "name": "デュラハン",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ドラゴンベイン_1947043e",
+    "name": "ドラゴンベイン",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "パンデモニウム_23f377d4",
+    "name": "パンデモニウム",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ファイアブランド_1b189076",
+    "name": "ファイアブランド",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "フージ_クゥーチ_edeec056",
+    "name": "フージ・クゥーチ",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "フューネラル_99dee2b0",
+    "name": "フューネラル",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ブラックウィドー_b93678fa",
+    "name": "ブラックウィドー",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ブラックオニキス_00b4b425",
+    "name": "ブラックオニキス",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ブラックソーン_ba66985a",
+    "name": "ブラックソーン",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "フレイムタン_567b87fc",
+    "name": "フレイムタン",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ホットショット_f5cd7863",
+    "name": "ホットショット",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "モラックス_839656e6",
+    "name": "モラックス",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "レネゲイド_af443fb6",
+    "name": "レネゲイド",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ワイバーン_b80397c5",
+    "name": "ワイバーン",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "アイアンウォッチ_c6ac7cf8",
+    "name": "アイアンウォッチ",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "アイアンクラッド_82c3097d",
+    "name": "アイアンクラッド",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "アドミラル_f6fc1b4b",
+    "name": "アドミラル",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "アルデバラン_fe6c46e7",
+    "name": "アルデバラン",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "アンブレラ_e2d79d46",
+    "name": "アンブレラ",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "イスパイアル_3bee741b",
+    "name": "イスパイアル",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "イリテイション_26f8efd3",
+    "name": "イリテイション",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "インフレキシブル_d5844169",
+    "name": "インフレキシブル",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ヴァルキリー_a22d253b",
+    "name": "ヴァルキリー",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ヴァンブレイス_c3e32e80",
+    "name": "ヴァンブレイス",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ウェアジャッカル_fc06b63a",
+    "name": "ウェアジャッカル",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ヴェニヴィディヴィシ_6cbbc9c7",
+    "name": "ヴェニヴィディヴィシ",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "エクイテス_ea4540fe",
+    "name": "エクイテス",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "エプスタイン_38c6a7ab",
+    "name": "エプスタイン",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "オパビニア_fd702a9d",
+    "name": "オパビニア",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "カタナマンティス_a5892530",
+    "name": "カタナマンティス",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "カタフラクト_8fdb0a1d",
+    "name": "カタフラクト",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "カッツバルゲル_aa5890d2",
+    "name": "カッツバルゲル",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "カンニバル_3c346cb3",
+    "name": "カンニバル",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "キルスウィッチ_173a5b19",
+    "name": "キルスウィッチ",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "クリスタライズド_df22d23c",
+    "name": "クリスタライズド",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "クレイモア_c19b3448",
+    "name": "クレイモア",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "グロウダガー_94bf6fa4",
+    "name": "グロウダガー",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "コールドノヴァ_ed735649",
+    "name": "コールドノヴァ",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ゴールドライオン_881bff25",
+    "name": "ゴールドライオン",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "コールドロン_1cae88f8",
+    "name": "コールドロン",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "コロッサス_5ac6a037",
+    "name": "コロッサス",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "コンプレッサー_98d88fb0",
+    "name": "コンプレッサー",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "サーヴィター_c4b119b2",
+    "name": "サーヴィター",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "サイレントキル_b579563a",
+    "name": "サイレントキル",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "サクリリージ_9777ed47",
+    "name": "サクリリージ",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "サフォケイト_c8fae912",
+    "name": "サフォケイト",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "サルコフォガス_3ac2cacf",
+    "name": "サルコフォガス",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "シヴァー_d39e289b",
+    "name": "シヴァー",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ジャガンナート_ec1b6438",
+    "name": "ジャガンナート",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "シャーテック_7f879899",
+    "name": "シャーテック",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "シンクレア_75dbcb1a",
+    "name": "シンクレア",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ズィーミ_fd6087fb",
+    "name": "ズィーミ",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "スコージ_4a56a648",
+    "name": "スコージ",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ストーンコールド_ee2ddefa",
+    "name": "ストーンコールド",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "スリケニスト_5360712c",
+    "name": "スリケニスト",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "スレッショルド_61642002",
+    "name": "スレッショルド",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "セコエンシア_bce5bb9b",
+    "name": "セコエンシア",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "セレニティ_7a8fcffe",
+    "name": "セレニティ",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ソリティア_a4d3ac3d",
+    "name": "ソリティア",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ソルハンマー_d043db4e",
+    "name": "ソルハンマー",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ディヴァステイター_b16dc42e",
+    "name": "ディヴァステイター",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "デキュリオン_115b4c49",
+    "name": "デキュリオン",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "デスワーム_4071c8b6",
+    "name": "デスワーム",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "デメント_14fdc89e",
+    "name": "デメント",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ドーントレス_d0487a3e",
+    "name": "ドーントレス",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ニューオーダー_752b83ae",
+    "name": "ニューオーダー",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ネプチューンビートル_2f4c92a4",
+    "name": "ネプチューンビートル",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "バーサーク_97257aa7",
+    "name": "バーサーク",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ハイカウンセラー_6e4d8c78",
+    "name": "ハイカウンセラー",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "パスファインダー_16356331",
+    "name": "パスファインダー",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "パトリアーク_757af303",
+    "name": "パトリアーク",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ビショップ_c9ca5051",
+    "name": "ビショップ",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ファーストブラッド_c4823284",
+    "name": "ファーストブラッド",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "フォースカインド_f9bfb850",
+    "name": "フォースカインド",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "フラウィウスウァレリウスセウェルス_499de91a",
+    "name": "フラウィウスウァレリウスセウェルス",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ブラックダート_11bb039b",
+    "name": "ブラックダート",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ブラッドチェイサー_643dcae4",
+    "name": "ブラッドチェイサー",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "プリザーヴ_60456438",
+    "name": "プリザーヴ",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "フローズン_39963815",
+    "name": "フローズン",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "フロストデビル_bd92c659",
+    "name": "フロストデビル",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ベアハンター_702b39cf",
+    "name": "ベアハンター",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ペイガン_4c843cf9",
+    "name": "ペイガン",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ヘヴィレイン_e1e55d45",
+    "name": "ヘヴィレイン",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ベクトリアル_866e14e0",
+    "name": "ベクトリアル",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ヘルフィーンド_d604650f",
+    "name": "ヘルフィーンド",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ホーリードメイン_3fc353a4",
+    "name": "ホーリードメイン",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "マージナル_7a71c994",
+    "name": "マージナル",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "マーズ_013fc0a3",
+    "name": "マーズ",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "マインスイーパ_216530f5",
+    "name": "マインスイーパ",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "モナーク_d79561d0",
+    "name": "モナーク",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "レインメイカー_3fc27247",
+    "name": "レインメイカー",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "レーヴァテイン_ad48aa2c",
+    "name": "レーヴァテイン",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "レジオネール_38e82f18",
+    "name": "レジオネール",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ロングカット_9faddc81",
+    "name": "ロングカット",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ロングシップ_3e5efcab",
+    "name": "ロングシップ",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ワイプアウト_33fa3033",
+    "name": "ワイプアウト",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "クルセイダー_5f9f1168",
+    "name": "クルセイダー",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ターボアサシン_02e98622",
+    "name": "ターボアサシン",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ディスエイブラー_9eb390bc",
+    "name": "ディスエイブラー",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ドクター_コーマ_1a7a20d8",
+    "name": "ドクター・コーマ",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "バイセクター_62d26f7f",
+    "name": "バイセクター",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ベアナックル_54721f43",
+    "name": "ベアナックル",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ハイデッカー_0937bb67",
+    "name": "ハイデッカー",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ダートボムズ_ee2b7b82",
+    "name": "ダートボムズ",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "マンゴネル_b342ab2d",
+    "name": "マンゴネル",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ミスティルテイン_c8c3f4ac",
+    "name": "ミスティルテイン",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "スキピオ_74fd0016",
+    "name": "スキピオ",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "バルバロス_8c1d1c0c",
+    "name": "バルバロス",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ラクエリィ_cdf479e7",
+    "name": "ラクエリィ",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "デストロイヤー_22673b5f",
+    "name": "デストロイヤー",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "アイアンジャケット_21c42e98",
+    "name": "アイアンジャケット",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "aliases": [
+      "スチームアンカー"
+    ],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "アクアスパイダー_3bff4d89",
+    "name": "アクアスパイダー",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "サイコダート_5fdba28e",
+    "name": "サイコダート",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "シャープシューター_7549b001",
+    "name": "シャープシューター",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ジャックナイフ_3642de2e",
+    "name": "ジャックナイフ",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "スレッジハンマー_e74c2728",
+    "name": "スレッジハンマー",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ナイトクロウラー_a3335189",
+    "name": "ナイトクロウラー",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ファイアフライ_c772ce22",
+    "name": "ファイアフライ",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "アナンタ_ef5b925c",
+    "name": "アナンタ",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "テンプラー_4e9a0b4b",
+    "name": "テンプラー",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ホワイトドラゴン_3bed8717",
+    "name": "ホワイトドラゴン",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ブリザード_0932c78c",
+    "name": "ブリザード",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "アイスジャベリン_440dc3a9",
+    "name": "アイスジャベリン",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ダイヤモンドダスト_dd2f5480",
+    "name": "ダイヤモンドダスト",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ウォーヘッド_cb96d5e5",
+    "name": "ウォーヘッド",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "トリガーハッピー_e179ddbd",
+    "name": "トリガーハッピー",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "プラズマリザード_8374a24e",
+    "name": "プラズマリザード",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "トワイライト_73da19a5",
+    "name": "トワイライト",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ムーンビーム_18d82f60",
+    "name": "ムーンビーム",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "レイディアンス_c0ed6701",
+    "name": "レイディアンス",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ディスポイラー_76dce26d",
+    "name": "ディスポイラー",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "サーペンタイン_d0022d47",
+    "name": "サーペンタイン",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "スティールバイト_a19f07f3",
+    "name": "スティールバイト",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ホワイトパイソン_731c1a36",
+    "name": "ホワイトパイソン",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "パイロマンサー_d31855e0",
+    "name": "パイロマンサー",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "マーシフル_4fd91e9d",
+    "name": "マーシフル",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "グリーンパイソン_b65f28ec",
+    "name": "グリーンパイソン",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ゴーストクナイ_13579e8e",
+    "name": "ゴーストクナイ",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "トゥームクロウラー_76545625",
+    "name": "トゥームクロウラー",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ドレッドノート_ceafe3e5",
+    "name": "ドレッドノート",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ブラックハンド_e5a788fe",
+    "name": "ブラックハンド",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ポーラーベアー_4b727c8b",
+    "name": "ポーラーベアー",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ホミサイド_abb50e27",
+    "name": "ホミサイド",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ルーンナイト_cd334921",
+    "name": "ルーンナイト",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "レッドアイ_3d7b2311",
+    "name": "レッドアイ",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "アエシュマ_f5f64b98",
+    "name": "アエシュマ",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "アックスソード_440454c7",
+    "name": "アックスソード",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "アルビオン_c2fa5ca5",
+    "name": "アルビオン",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "アローレイン_50f25384",
+    "name": "アローレイン",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ヴェルヴェットスピア_38074b3f",
+    "name": "ヴェルヴェットスピア",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "エミュレイター_22fb922f",
+    "name": "エミュレイター",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "オーファン_bf0df6ea",
+    "name": "オーファン",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "カコデモン_9798397e",
+    "name": "カコデモン",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "キングピン_2d0ef9d5",
+    "name": "キングピン",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "クラリオン_dfdb0bb3",
+    "name": "クラリオン",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "クルーエルアイアン_76bdeae2",
+    "name": "クルーエルアイアン",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "クルーシヴル_45b6bf5b",
+    "name": "クルーシヴル",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "クロノス_ba137e45",
+    "name": "クロノス",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ゴーゴン_8a239848",
+    "name": "ゴーゴン",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "コールドホワイト_1ddab1ca",
+    "name": "コールドホワイト",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "サイスヒール_8f615a2a",
+    "name": "サイスヒール",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "サイバースピネル_6f00aa0d",
+    "name": "サイバースピネル",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "サクリファイサー_3aae9b5e",
+    "name": "サクリファイサー",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "サブスティテュート_a17dff55",
+    "name": "サブスティテュート",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "サンダーローニン_46474f95",
+    "name": "サンダーローニン",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "スクラピュラスエミッサリー_6e335bfa",
+    "name": "スクラピュラスエミッサリー",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ストームホーク_958bc6a9",
+    "name": "ストームホーク",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "スペクター_72a293b6",
+    "name": "スペクター",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ダイヒョウ_edbe0d70",
+    "name": "ダイヒョウ",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ディアハンター_7f85ee20",
+    "name": "ディアハンター",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ディクテイター_1fd1f89b",
+    "name": "ディクテイター",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "デッドロック_89fe90fd",
+    "name": "デッドロック",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "デプレッサー_7ead346d",
+    "name": "デプレッサー",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "トラッカー_4c2bb2c3",
+    "name": "トラッカー",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ナイトサーバント_d62283b1",
+    "name": "ナイトサーバント",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "パペットマスター_a95b4a4c",
+    "name": "パペットマスター",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ハリカルナッソス_8b363ad8",
+    "name": "ハリカルナッソス",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "バリトゥス_1175f0d9",
+    "name": "バリトゥス",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ピーコック_4cfb2acb",
+    "name": "ピーコック",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ファンタズマル_494f0539",
+    "name": "ファンタズマル",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "フォートレス_5b219654",
+    "name": "フォートレス",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "フォールダウン_5313d8aa",
+    "name": "フォールダウン",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ブラックシープ_7149ae6f",
+    "name": "ブラックシープ",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ブラックストーン_bf8d3fc6",
+    "name": "ブラックストーン",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ブラックメイル_941e7832",
+    "name": "ブラックメイル",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "プロボット_8e9e7c9a",
+    "name": "プロボット",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ペイバック_bedeb86b",
+    "name": "ペイバック",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ベイルソード_4c4b62c6",
+    "name": "ベイルソード",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ヘファイストス_01e8c3b8",
+    "name": "ヘファイストス",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "コーナラー_a506b1dd",
+    "name": "コーナラー",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ポインター_08c9dcfc",
+    "name": "ポインター",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "マグナニム_8680d764",
+    "name": "マグナニム",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ミゼリコルド_619eb72d",
+    "name": "ミゼリコルド",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "メタルベイン_d3545092",
+    "name": "メタルベイン",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "モダンエイジ_4bdfb80d",
+    "name": "モダンエイジ",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ユリシーズ_f66516d6",
+    "name": "ユリシーズ",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "リマーカブル_1ffde9b8",
+    "name": "リマーカブル",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "レキシコン_6a0789e4",
+    "name": "レキシコン",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "レッドアラート_e6d28d40",
+    "name": "レッドアラート",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "レッドスナッズ_262b016d",
+    "name": "レッドスナッズ",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "レッドラム_91836f68",
+    "name": "レッドラム",
+    "organizations": [
+      {
+        "id": "amakudari-p3",
+        "name": "アマクダリ（第3部）"
       }
     ],
     "appearances": [],
