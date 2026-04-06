@@ -955,13 +955,19 @@
   {
     "id": "1775455953",
     "name": "シャドウウィーヴ",
-    "aliases": [],
+    "aliases": [
+      "ナブナガ・レイジ"
+    ],
     "ninjaType": "非ニンジャ",
     "ninjaSoul": null,
     "organizations": [
       {
         "id": "ハデス・ネット（ハデス・ニンジャクラン）",
         "name": "ハデス・ネット（ハデス・ニンジャクラン）"
+      },
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
       }
     ],
     "appearances": [],
@@ -2003,6 +2009,10 @@
       {
         "id": "スレイプニル",
         "name": "スレイプニル"
+      },
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
       }
     ],
     "appearances": [],
@@ -4360,6 +4370,14 @@
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
+      },
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      },
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
       }
     ],
     "appearances": [],
@@ -5864,5 +5882,2759 @@
     ],
     "appearances": [],
     "ninjaType": "非ニンジャ"
+  },
+  {
+    "id": "ロード_オブ_ザイバツ_e1f293e6",
+    "name": "ロード・オブ・ザイバツ",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "リアルニンジャ"
+  },
+  {
+    "id": "イグゾーション_d64d2ab2",
+    "name": "イグゾーション",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ヴィジランス_bfd1c9e1",
+    "name": "ヴィジランス",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ケイビイン_8cd26fa6",
+    "name": "ケイビイン",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "サラマンダー_3c04da97",
+    "name": "サラマンダー",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "スローハンド_00bc0368",
+    "name": "スローハンド",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ダークドメイン_441c5a9d",
+    "name": "ダークドメイン",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ニーズヘグ_b96afd16",
+    "name": "ニーズヘグ",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      },
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "パーガトリー_8c3a2963",
+    "name": "パーガトリー",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      },
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "パラゴン_89073b2d",
+    "name": "パラゴン",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "アンバサダー_c9216d23",
+    "name": "アンバサダー",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "インソレンス_e85217f9",
+    "name": "インソレンス",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ヴェラー_8e60bd75",
+    "name": "ヴェラー",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ガラハッド_3a02fcfe",
+    "name": "ガラハッド",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "クエレブレ_886268cf",
+    "name": "クエレブレ",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "クリムゾンメイン_095dfe70",
+    "name": "クリムゾンメイン",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "コンジャラー_123b2308",
+    "name": "コンジャラー",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "サージョン_6388e12c",
+    "name": "サージョン",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "シースラッグ_b10354db",
+    "name": "シースラッグ",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ジャバウォック_1b58e598",
+    "name": "ジャバウォック",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ジルコニア_2300544a",
+    "name": "ジルコニア",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "スカベンジャー_7d3711f5",
+    "name": "スカベンジャー",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ストーカー_a9490c07",
+    "name": "ストーカー",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "チェインボルト_e1c2614b",
+    "name": "チェインボルト",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ディプロマット_9a26a00c",
+    "name": "ディプロマット",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "デスナイト_10c8747c",
+    "name": "デスナイト",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "トゥールビヨン_03208477",
+    "name": "トゥールビヨン",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ナイトメア_725b7b62",
+    "name": "ナイトメア",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ノクターン_65f565e7",
+    "name": "ノクターン",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "バードゥン_bdf15b54",
+    "name": "バードゥン",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "パラベラム_c70ad4a0",
+    "name": "パラベラム",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "バンシー_510f997d",
+    "name": "バンシー",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ブルーオーブ_5f5eeecb",
+    "name": "ブルーオーブ",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ペインキラー_d2db030a",
+    "name": "ペインキラー",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ヘカトンケイル_c79856aa",
+    "name": "ヘカトンケイル",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ヘリオン_efbb5889",
+    "name": "ヘリオン",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ボーツカイ_2c8cb5bf",
+    "name": "ボーツカイ",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ミラーシェード_de3d325f",
+    "name": "ミラーシェード",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      },
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "メイガス_c2a4720e",
+    "name": "メイガス",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ルーシディティ_e8739a54",
+    "name": "ルーシディティ",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ワイルドハント_2f62cd50",
+    "name": "ワイルドハント",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ブラックドラゴン_e1b92c55",
+    "name": "ブラックドラゴン",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "アイボリーイーグル_95ad2647",
+    "name": "アイボリーイーグル",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "バイオニンジャ"
+  },
+  {
+    "id": "パープルタコ_91ab9fbb",
+    "name": "パープルタコ",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      },
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "バイオニンジャ"
+  },
+  {
+    "id": "レッドゴリラ_446f86f6",
+    "name": "レッドゴリラ",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "バイオニンジャ"
+  },
+  {
+    "id": "メンタリスト_aa0dfcac",
+    "name": "メンタリスト",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ディグニティ_dd8ca0c1",
+    "name": "ディグニティ",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "アナトミー_3acb8952",
+    "name": "アナトミー",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      },
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "アノマロカリス_cdeb2631",
+    "name": "アノマロカリス",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "アブサーディティ_583ed432",
+    "name": "アブサーディティ",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "アロンダイト_d8415b04",
+    "name": "アロンダイト",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "アンダバタエ_c724ba4b",
+    "name": "アンダバタエ",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "aliases": [
+      "オルトロス"
+    ],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "インペイルメント_4d58ab27",
+    "name": "インペイルメント",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ヴァルチャー_bf868421",
+    "name": "ヴァルチャー",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ウェンディゴ_c62eaa30",
+    "name": "ウェンディゴ",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "エクスキューショナー_ec3ef1bc",
+    "name": "エクスキューショナー",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "エクスターミネイター_91ce0e8d",
+    "name": "エクスターミネイター",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "エトン_ee1d9115",
+    "name": "エトン",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "エボニーワーデン_ba7bd02a",
+    "name": "エボニーワーデン",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "オストリッチ_14c6e983",
+    "name": "オストリッチ",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ガーディアン_075f12e1",
+    "name": "ガーディアン",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ガイギス_289d5250",
+    "name": "ガイギス",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "カクタス_18b89b77",
+    "name": "カクタス",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ガンジャー_ff8d3c99",
+    "name": "ガンジャー",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ガンスリンガー_b031116a",
+    "name": "ガンスリンガー",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "aliases": [
+      "スズキ・キヨシ"
+    ],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "グラスホッパー_88396d55",
+    "name": "グラスホッパー",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "グラディエイター_5797fef7",
+    "name": "グラディエイター",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "クラミドサウルス_7a1d9914",
+    "name": "クラミドサウルス",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "クレアオーディエンス_ae541e69",
+    "name": "クレアオーディエンス",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "クロウラー_3c4dcfef",
+    "name": "クロウラー",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "コープサー_1090c61e",
+    "name": "コープサー",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "コットゥス_a1b41088",
+    "name": "コットゥス",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ゴライアス_d23bc9d1",
+    "name": "ゴライアス",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "コンフロント_21c7981b",
+    "name": "コンフロント",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "サーベラス_f6d9949e",
+    "name": "サーベラス",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "サイクロプス_2b0f551f",
+    "name": "サイクロプス",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "サイレン_37ac486c",
+    "name": "サイレン",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "サヴェージ_3c4adc35",
+    "name": "サヴェージ",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "サンバーン_e1c5bd49",
+    "name": "サンバーン",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "シーシュポス_d7e3a1d5",
+    "name": "シーシュポス",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "シーホース_95cc49c0",
+    "name": "シーホース",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ジェイドソード_068074bc",
+    "name": "ジェイドソード",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ジャイアントマンティス_84248a54",
+    "name": "ジャイアントマンティス",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "スカラベー_5459db39",
+    "name": "スカラベー",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ストームビートル_891f1b34",
+    "name": "ストームビートル",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ストームライダー_c6d0106e",
+    "name": "ストームライダー",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "セプテンバー_9ff68d1b",
+    "name": "セプテンバー",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "センチュリオン_2db6435d",
+    "name": "センチュリオン",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ソーサラー_7273ceb4",
+    "name": "ソーサラー",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ソルヴェント_17813da1",
+    "name": "ソルヴェント",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ディヴァーラー_e0b650a8",
+    "name": "ディヴァーラー",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ディスタンス_f1fa60dd",
+    "name": "ディスタンス",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "デザートバット_58e0e3b0",
+    "name": "デザートバット",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "デジタルワスプ_9f50499b",
+    "name": "デジタルワスプ",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "デスハイエナ_d77405f3",
+    "name": "デスハイエナ",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "デスペラード_32b79c28",
+    "name": "デスペラード",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "デトネイター_5c880014",
+    "name": "デトネイター",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "デフレクション_a837ca40",
+    "name": "デフレクション",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "トーメンター_dcd2349e",
+    "name": "トーメンター",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "トライデント_94d1190a",
+    "name": "トライデント",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ノーシーアム_2bf6caa3",
+    "name": "ノーシーアム",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ハイペリオン_52d008fb",
+    "name": "ハイペリオン",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "パウダーマン_5e46bf4f",
+    "name": "パウダーマン",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "バグベア_d9553df4",
+    "name": "バグベア",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "バッドヴィジョン_87621525",
+    "name": "バッドヴィジョン",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "パラサイト_30285082",
+    "name": "パラサイト",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ハリケーンゴースト_e43cbb87",
+    "name": "ハリケーンゴースト",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "パルスコブラ_7e743858",
+    "name": "パルスコブラ",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "バンダースナッチ_80193564",
+    "name": "バンダースナッチ",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ビーフイーター_8c989377",
+    "name": "ビーフイーター",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ビッグフット_6f1fa7e4",
+    "name": "ビッグフット",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ビハインドネス_5d4376c0",
+    "name": "ビハインドネス",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ピラニアバイト_383c3f59",
+    "name": "ピラニアバイト",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ファランクス_9095555a",
+    "name": "ファランクス",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ファルコン_8f4cb826",
+    "name": "ファルコン",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ファロス_83ec2ffd",
+    "name": "ファロス",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "フェイタル_4cfeca1c",
+    "name": "フェイタル",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "フォールチョン_9a80da02",
+    "name": "フォールチョン",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "フォビア_0dc13865",
+    "name": "フォビア",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "フューズフィンガー_1ef49a81",
+    "name": "フューズフィンガー",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "フュリアス_9131a177",
+    "name": "フュリアス",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ブラックバック_a804479b",
+    "name": "ブラックバック",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ブラックバンタム_bbab7a09",
+    "name": "ブラックバンタム",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ブリアレウス_1c1b944c",
+    "name": "ブリアレウス",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "プリンセプス_51aad3a2",
+    "name": "プリンセプス",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ブルートロール_c847e32d",
+    "name": "ブルートロール",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "フロッガー_daa294c0",
+    "name": "フロッガー",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ブロンズデーモン_538d59be",
+    "name": "ブロンズデーモン",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "プロンプター_b3fffeb1",
+    "name": "プロンプター",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ヘヴィーメイス_6ef7217a",
+    "name": "ヘヴィーメイス",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ヘッジホッグ_e5653428",
+    "name": "ヘッジホッグ",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ベロシティ_1e34d207",
+    "name": "ベロシティ",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ボロゴーヴ_2a41b3c2",
+    "name": "ボロゴーヴ",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      },
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ホワイトスタチュー_82ec5fbe",
+    "name": "ホワイトスタチュー",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ミッショネル_5f304551",
+    "name": "ミッショネル",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ミノタウル_490433e7",
+    "name": "ミノタウル",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ミミック_3c74ed7a",
+    "name": "ミミック",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ミラージュ_e75ac667",
+    "name": "ミラージュ",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "メズマライズ_38b38167",
+    "name": "メズマライズ",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "モスキート_b981d5ac",
+    "name": "モスキート",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "モスマン_a6b43489",
+    "name": "モスマン",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "モルディスライム_26bd2c83",
+    "name": "モルディスライム",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "モルフェウス_75b188ee",
+    "name": "モルフェウス",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ライノセラス_d7b96b42",
+    "name": "ライノセラス",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ラカンター_0731d363",
+    "name": "ラカンター",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ラビッドドッグ_6c855a5b",
+    "name": "ラビッドドッグ",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ランドリザード_f3a1c4c2",
+    "name": "ランドリザード",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "リマインダー_709d604f",
+    "name": "リマインダー",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "レッドブル_03d88ca9",
+    "name": "レッドブル",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "レプラコーン_f99a940e",
+    "name": "レプラコーン",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ワークラブ_bae45f59",
+    "name": "ワークラブ",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ワールウインド_c96370b0",
+    "name": "ワールウインド",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "グラッジ_b3661931",
+    "name": "グラッジ",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ジェスター_f60793c6",
+    "name": "ジェスター",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "レッドクリーヴァー_314f8fa9",
+    "name": "レッドクリーヴァー",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ワッチドッグ_3c5ff6ce",
+    "name": "ワッチドッグ",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "アバランチ_8c194133",
+    "name": "アバランチ",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ヴァンキッシュ_b990946e",
+    "name": "ヴァンキッシュ",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "キャンサー_fa436592",
+    "name": "キャンサー",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "クロックタワー_a9f8be88",
+    "name": "クロックタワー",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ジャッジメント_f4c63c20",
+    "name": "ジャッジメント",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "デーモンカイン_c0a62532",
+    "name": "デーモンカイン",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "デスシルエット_d42bd7d3",
+    "name": "デスシルエット",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "バイポッド_ee62c7f0",
+    "name": "バイポッド",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ブラスナックル_44e84712",
+    "name": "ブラスナックル",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "フルブライト_4f25ff8b",
+    "name": "フルブライト",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ブルフロッグ_185fd423",
+    "name": "ブルフロッグ",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "マッドドッグ_88b0655d",
+    "name": "マッドドッグ",
+    "organizations": [
+      {
+        "id": "zaibatsu-p2",
+        "name": "ザイバツ（第2部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ネクサス_b1595b9e",
+    "name": "ネクサス",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ランチハンド_f1592be1",
+    "name": "ランチハンド",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "エンブレイス_6087eb9a",
+    "name": "エンブレイス",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "オウガキラー_864f2e90",
+    "name": "オウガキラー",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "オウルセンス_cb6a745e",
+    "name": "オウルセンス",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "オッドジョブ_c2d3fb0a",
+    "name": "オッドジョブ",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "オロバス_beda02f1",
+    "name": "オロバス",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ギガント_8aa4edf8",
+    "name": "ギガント",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "キャプスタン_9c55cc0c",
+    "name": "キャプスタン",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "クアース_374cf4e9",
+    "name": "クアース",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "グリフォン_c472d180",
+    "name": "グリフォン",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ジークフリート_008e0810",
+    "name": "ジークフリート",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "スパルトイ_49c74611",
+    "name": "スパルトイ",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ディミヌエンド_da510f47",
+    "name": "ディミヌエンド",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ディムライト_0da05442",
+    "name": "ディムライト",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "デッドスプリント_12268aac",
+    "name": "デッドスプリント",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ドモボーイ_ec442158",
+    "name": "ドモボーイ",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ナイトウィンド_87ff1ba6",
+    "name": "ナイトウィンド",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ファイアウィルム_a208602a",
+    "name": "ファイアウィルム",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "プリースト_f4df974e",
+    "name": "プリースト",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ブルコラク_31e4e8f6",
+    "name": "ブルコラク",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ブロンタイド_5176cefa",
+    "name": "ブロンタイド",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ベオウルフ_b3deceff",
+    "name": "ベオウルフ",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ペトリファイズ_94aba3b8",
+    "name": "ペトリファイズ",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ボイリングメタル_b98cf7e7",
+    "name": "ボイリングメタル",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "マーチヘア_bbabed3b",
+    "name": "マーチヘア",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ランドクラブ_7e7b57ac",
+    "name": "ランドクラブ",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "コショウ_410a044e",
+    "name": "コショウ",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ルミナント_a77db545",
+    "name": "ルミナント",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "アガートラム_29127106",
+    "name": "アガートラム",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ヴィングイェルム_d75095be",
+    "name": "ヴィングイェルム",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ディアボリカ_a40152e5",
+    "name": "ディアボリカ",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "フェルファング_7d9c6fd5",
+    "name": "フェルファング",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "フローライト_0140f4aa",
+    "name": "フローライト",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "アイブリーズ_0da0f14d",
+    "name": "アイブリーズ",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "アジリティ_d2d90a63",
+    "name": "アジリティ",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ヴンダーホルン_577ecb65",
+    "name": "ヴンダーホルン",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "エコー_cb044f85",
+    "name": "エコー",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "コヴナント_a59649f7",
+    "name": "コヴナント",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "コズミックバロン_b5a12bc0",
+    "name": "コズミックバロン",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "コンフリー_9f93a34c",
+    "name": "コンフリー",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ジョングルール_29dfd871",
+    "name": "ジョングルール",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "スティギア_02dc0a38",
+    "name": "スティギア",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ストームコーラー_3c542167",
+    "name": "ストームコーラー",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ゼフィランサス_1465c621",
+    "name": "ゼフィランサス",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ダブルブレイダー_a69a96d2",
+    "name": "ダブルブレイダー",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ディヤーザル_cbfad9f4",
+    "name": "ディヤーザル",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "トリニティ_05163dae",
+    "name": "トリニティ",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ニムロッド_434b2f15",
+    "name": "ニムロッド",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ネオネイト_b470c54a",
+    "name": "ネオネイト",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ネフィリム_095320eb",
+    "name": "ネフィリム",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ポイズンダート_836abd5d",
+    "name": "ポイズンダート",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ポーン_fecce7e6",
+    "name": "ポーン",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ホロウサイト_e1e94071",
+    "name": "ホロウサイト",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "マークランド_ecce07ab",
+    "name": "マークランド",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ライゾーム_c0f3080c",
+    "name": "ライゾーム",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ラストサムライ_254d65a5",
+    "name": "ラストサムライ",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "リクトール_54916b91",
+    "name": "リクトール",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "リコリス_10e7e422",
+    "name": "リコリス",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4",
+        "name": "ザイバツ（第3部以降）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
   }
 ]
