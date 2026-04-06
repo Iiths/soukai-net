@@ -22,13 +22,7 @@ export function Layout({ children }: LayoutProps) {
               to="/"
               className={`${styles.navLink} ${isActive('/') ? styles.active : ''}`}
             >
-              簡易検索
-            </Link>
-            <Link
-              to="/search"
-              className={`${styles.navLink} ${isActive('/search') ? styles.active : ''}`}
-            >
-              詳細検索
+              ニンジャ検索
             </Link>
           </nav>
         </div>

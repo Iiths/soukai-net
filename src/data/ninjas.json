@@ -1,210 +1,26 @@
 [
   {
-    "id": "nancy",
-    "name": "ナンシー",
-    "realName": "南慈井 圭子",
-    "aliases": ["ネオサイタマ市警のニンジャ"],
-    "organizations": [
-      {
-        "id": "netojiritsusyo",
-        "name": "ネオサイタマ市警察本部"
-      }
-    ],
-    "appearances": [
-      {
-        "id": "ep-nancy-1",
-        "title": "第1部",
-        "arc": "第1部"
-      },
-      {
-        "id": "ep-nancy-2",
-        "title": "第2部",
-        "arc": "第2部"
-      }
-    ],
-    "skills": ["ニンジャ法執行", "銃撃戦", "追跡"],
-    "description": "ネオサイタマ市警察本部に所属するニンジャ。冷徹で職務に忠実。",
-    "status": "alive"
-  },
-  {
-    "id": "cybernen",
-    "name": "サイバーネン",
-    "aliases": ["ザ・サイバーネン", "改造忍者"],
-    "ninjaSoul": {
-      "id": "soul-cybernen",
-      "name": "サイバネティクス・ソウル",
-      "origin": "高度な科学力を持つ組織"
-    },
-    "organizations": [
-      {
-        "id": "soukaiya",
-        "name": "ソウカイヤ"
-      }
-    ],
-    "appearances": [
-      {
-        "id": "ep-cybernen-1",
-        "title": "第1部",
-        "arc": "第1部"
-      }
-    ],
-    "skills": ["電子制御", "ハッキング", "サイバー忍術"],
-    "description": "サイバネティクス技術とニンジャソウルを融合させたニンジャ。冷酷かつ効率的。",
-    "status": "unknown"
-  },
-  {
-    "id": "dakkuninja",
-    "name": "アンコク・ダークニンジャ",
-    "realName": "不明",
-    "aliases": ["ダークニンジャ", "暗黒忍者"],
-    "ninjaSoul": {
-      "id": "soul-daku",
-      "name": "ダークマター・ソウル",
-      "origin": "古い闇の力"
-    },
-    "organizations": [
-      {
-        "id": "soukaiya",
-        "name": "ソウカイヤ"
-      }
-    ],
-    "appearances": [
-      {
-        "id": "ep-daku-1",
-        "title": "第1部",
-        "arc": "第1部"
-      },
-      {
-        "id": "ep-daku-2",
-        "title": "第3部",
-        "arc": "第3部"
-      }
-    ],
-    "skills": ["暗黒忍術", "影の操作", "次元転移"],
-    "description": "ソウカイヤの幹部級ニンジャ。強大な力を持ち、古い時代の忍術を操る。",
-    "status": "dead"
-  },
-  {
-    "id": "fujikedonkenji",
+    "_comment": "以下のデータはサンプルです。正確な情報はhttps://wikiwiki.jp/njslyr/ を参照して追記してください",
+    "id": "fujikido-kenji",
     "name": "フジキド・ケンジ",
     "realName": "藤木堂 健司",
-    "aliases": ["ニンジャスレイヤー", "スレイヤー"],
+    "aliases": ["ニンジャスレイヤー"],
+    "ninjaType": "ニンジャソウル憑依者",
     "ninjaSoul": {
-      "id": "soul-slayer",
-      "name": "ニンジャスレイヤー・ソウル",
-      "origin": "古い時代のニンジャ殺し"
+      "id": "soul-ninjslyr",
+      "name": "ニンジャスレイヤー",
+      "grade": "アーチ級",
+      "clan": "不明"
     },
     "organizations": [],
     "appearances": [
-      {
-        "id": "ep-kenji-1",
-        "title": "第1部",
-        "arc": "第1部"
-      },
-      {
-        "id": "ep-kenji-2",
-        "title": "第2部",
-        "arc": "第2部"
-      },
-      {
-        "id": "ep-kenji-3",
-        "title": "第3部",
-        "arc": "第3部"
-      }
+      { "id": "arc-1-ep-1", "title": "ネオサイタマ・イン・フレイム", "arc": "第1部" },
+      { "id": "arc-2-ep-1", "title": "第2部エピソード", "arc": "第2部" },
+      { "id": "arc-3-ep-1", "title": "第3部エピソード", "arc": "第3部" }
     ],
-    "skills": ["ニンジャスレイヤー・テクニック", "カラテ", "ニンジャ殺し", "火炎放射"],
-    "description": "主人公。異世界からネオサイタマへ現れたニンジャスレイヤー。ニンジャソウルの憑依により、あらゆるニンジャの天敵となる。",
-    "status": "alive"
-  },
-  {
-    "id": "nigreosomnia",
-    "name": "ニグレオス・ソムニア",
-    "realName": "不明",
-    "aliases": ["暗夜のニグレオス", "常夜の王"],
-    "ninjaSoul": {
-      "id": "soul-nigleo",
-      "name": "ソムニアム・ソウル",
-      "origin": "夜と幻の領域"
-    },
-    "organizations": [
-      {
-        "id": "soukaiya",
-        "name": "ソウカイヤ"
-      }
-    ],
-    "appearances": [
-      {
-        "id": "ep-nigleo-1",
-        "title": "第2部",
-        "arc": "第2部"
-      },
-      {
-        "id": "ep-nigleo-2",
-        "title": "第3部",
-        "arc": "第3部"
-      }
-    ],
-    "skills": ["夜の忍術", "幻想操作", "暗黒視界", "高速移動"],
-    "description": "フジキドのライバル的存在。強大なニンジャソウルを持ち、夜の領域を自在に操る高位のニンジャ。",
-    "status": "unknown"
-  },
-  {
-    "id": "madamlaofuu",
-    "name": "マダム・ラオフウ",
-    "realName": "老婦人",
-    "aliases": ["老婦人", "組織の女性幹部"],
-    "ninjaSoul": {
-      "id": "soul-lao",
-      "name": "アンシェント・マザー・ソウル",
-      "origin": "古い知識の源"
-    },
-    "organizations": [
-      {
-        "id": "soukaiya",
-        "name": "ソウカイヤ"
-      }
-    ],
-    "appearances": [
-      {
-        "id": "ep-lao-1",
-        "title": "第1部",
-        "arc": "第1部"
-      },
-      {
-        "id": "ep-lao-2",
-        "title": "第2部",
-        "arc": "第2部"
-      }
-    ],
-    "skills": ["古い呪術", "組織操作", "知恵"],
-    "description": "ソウカイヤの高位メンバー。複数の組織と関わりを持つ謎めいた人物。",
-    "status": "alive"
-  },
-  {
-    "id": "runningner",
-    "name": "ランニンガー",
-    "realName": "不明",
-    "aliases": ["俊足のニンジャ"],
-    "ninjaSoul": {
-      "id": "soul-runner",
-      "name": "スウィフト・レッグス・ソウル",
-      "origin": "速度の源"
-    },
-    "organizations": [
-      {
-        "id": "underground",
-        "name": "ネオサイタマ地下ニンジャ組織"
-      }
-    ],
-    "appearances": [
-      {
-        "id": "ep-runner-1",
-        "title": "第1部",
-        "arc": "第1部"
-      }
-    ],
-    "skills": ["超高速移動", "素早い攻撃", "回避"],
-    "description": "俊足で知られるニンジャ。地下のニンジャ組織に属し、高速での移動能力を持つ。",
-    "status": "unknown"
+    "skills": ["カラテ", "ニンジャスレイング"],
+    "description": "主人公。ニンジャスレイヤーのソウルに憑依された元サラリーマン。妻子をニンジャに殺された復讐のためネオサイタマでニンジャを狩り続ける。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/?%E3%83%95%E3%82%B8%E3%82%AD%E3%83%89%E3%83%BB%E3%82%B1%E3%83%B3%E3%82%B8"
   }
 ]

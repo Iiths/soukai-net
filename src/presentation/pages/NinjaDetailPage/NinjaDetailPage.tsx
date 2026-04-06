@@ -62,12 +62,25 @@ export function NinjaDetailPage() {
           </section>
         )}
 
+        {ninja.ninjaType && (
+          <section className={styles.section}>
+            <h2 className={styles.sectionTitle}>ニンジャタイプ</h2>
+            <span className={styles.ninjaType}>{ninja.ninjaType}</span>
+          </section>
+        )}
+
         {ninja.ninjaSoul && (
           <section className={styles.section}>
             <h2 className={styles.sectionTitle}>ニンジャソウル</h2>
             <div className={styles.soul}>
               <div className={styles.soulName}>
                 <Badge variant="soul" text={ninja.ninjaSoul.name} />
+                {ninja.ninjaSoul.grade && (
+                  <span className={styles.soulGrade}>{ninja.ninjaSoul.grade}ニンジャ</span>
+                )}
+                {ninja.ninjaSoul.clan && (
+                  <span className={styles.soulClan}>{ninja.ninjaSoul.clan}</span>
+                )}
               </div>
               {ninja.ninjaSoul.origin && (
                 <p className={styles.soulOrigin}>{ninja.ninjaSoul.origin}</p>
@@ -105,9 +118,12 @@ export function NinjaDetailPage() {
               {ninja.appearances.map((ep) => (
                 <div key={ep.id} className={styles.episode}>
                   <div className={styles.episodeTitle}>{ep.title}</div>
-                  {ep.arc && (
-                    <Badge variant="arc" text={ep.arc} />
-                  )}
+                  <div className={styles.episodeMeta}>
+                    {ep.arc && <Badge variant="arc" text={ep.arc} />}
+                    {ep.season !== undefined && (
+                      <span className={styles.episodeSeason}>S{ep.season}</span>
+                    )}
+                  </div>
                 </div>
               ))}
             </div>

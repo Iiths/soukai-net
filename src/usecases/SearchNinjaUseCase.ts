@@ -4,6 +4,9 @@ import { NinjaRepository } from '../domain/repositories/NinjaRepository';
 export class SearchNinjaUseCase {
   constructor(private repo: NinjaRepository) {}
 
+  /**
+   * 名前・別名で部分一致検索する（ニンジャソウル名は含まない）
+   */
   async execute(query: string): Promise<Ninja[]> {
     const ninjas = await this.repo.findAll();
     const lowerQuery = query.toLowerCase();
@@ -13,11 +16,8 @@ export class SearchNinjaUseCase {
       const aliasMatch = ninja.aliases?.some((alias) =>
         alias.toLowerCase().includes(lowerQuery)
       );
-      const soulMatch = ninja.ninjaSoul?.name
-        .toLowerCase()
-        .includes(lowerQuery);
 
-      return nameMatch || aliasMatch || soulMatch;
+      return nameMatch || aliasMatch;
     });
   }
 }
