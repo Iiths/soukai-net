@@ -243,7 +243,8 @@
     "id": "1775455914",
     "name": "ショーゴー・マグチ",
     "aliases": [
-      "スーサイド"
+      "スーサイド",
+      "ショーゴー・マグチ"
     ],
     "ninjaType": "ニンジャソウル憑依者",
     "ninjaSoul": {
@@ -252,7 +253,12 @@
       "grade": "等級不明",
       "clan": null
     },
-    "organizations": [],
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
     "appearances": [],
     "status": "alive",
     "description": null,
@@ -2043,6 +2049,10 @@
       {
         "id": "スレイプニル",
         "name": "スレイプニル"
+      },
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
       }
     ],
     "appearances": [],
@@ -4318,5 +4328,1541 @@
     "status": null,
     "description": null,
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%83%9E%E3%83%BC%E3%83%BB%E3%82%AA%E3%83%A0%E3%83%A9"
+  },
+  {
+    "id": "ラオモト_カン_2d19cb1f",
+    "name": "ラオモト・カン",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "リアルニンジャ"
+  },
+  {
+    "id": "ゲイトキーパー_d4831bd0",
+    "name": "ゲイトキーパー",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ダークニンジャ_ea711ecf",
+    "name": "ダークニンジャ",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "アースクエイク_d1f3d115",
+    "name": "アースクエイク",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%BC%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A4%E3%82%AF"
+  },
+  {
+    "id": "インターラプター_c2128d31",
+    "name": "インターラプター",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "コッカトリス_f21d20dd",
+    "name": "コッカトリス",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "バンディット_e93dc3e2",
+    "name": "バンディット",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ビホルダー_ba75adb0",
+    "name": "ビホルダー",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ダイダロス_4fb59b2a",
+    "name": "ダイダロス",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ヘルカイト_d21b2cf5",
+    "name": "ヘルカイト",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "アルマジロ_49a3fe5b",
+    "name": "アルマジロ",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ウォーターボード_5dab8174",
+    "name": "ウォーターボード",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "デビルフィッシュ_7676ea0f",
+    "name": "デビルフィッシュ",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "モービッド_f8997794",
+    "name": "モービッド",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "レイザーエッジ_74bdf31c",
+    "name": "レイザーエッジ",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ウォーロック_f1140ec0",
+    "name": "ウォーロック",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ガーゴイル_0c3d0461",
+    "name": "ガーゴイル",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "クイックシルヴァー_6d92243a",
+    "name": "クイックシルヴァー",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ソニックブーム_562b94f4",
+    "name": "ソニックブーム",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ナイトシェイド_35d8a63d",
+    "name": "ナイトシェイド",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "フロストバイト_0781b55f",
+    "name": "フロストバイト",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "アーソン_a04759d6",
+    "name": "アーソン",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "アイアンヴァイス_a7d9c8bc",
+    "name": "アイアンヴァイス",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "アイアンフィスト_35de511a",
+    "name": "アイアンフィスト",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "アイスシールド_ba14486c",
+    "name": "アイスシールド",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "アゴニィ_c4643b2a",
+    "name": "アゴニィ",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "アルバトロス_74dc507d",
+    "name": "アルバトロス",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "イクエイション_18172fc4",
+    "name": "イクエイション",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "インパルス_38f235b9",
+    "name": "インパルス",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "インフェクション_25ffc0c6",
+    "name": "インフェクション",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ウィールダー_f5166bc1",
+    "name": "ウィールダー",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ヴィトリオール_28b22647",
+    "name": "ヴィトリオール",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "オニヤス_カネコ_d526c0ba",
+    "name": "オニヤス・カネコ",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": []
+  },
+  {
+    "id": "オフェンダー_03f5c336",
+    "name": "オフェンダー",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "オブリヴィオン_3257bc28",
+    "name": "オブリヴィオン",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ガントレット_3c50af7c",
+    "name": "ガントレット",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "クイックサンド_a388da3f",
+    "name": "クイックサンド",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "クエスチョナー_6cae5ece",
+    "name": "クエスチョナー",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "クレアボヤンス_28ed9612",
+    "name": "クレアボヤンス",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "グレイハウンド_087959e3",
+    "name": "グレイハウンド",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "グレネディア_dac55c07",
+    "name": "グレネディア",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "コーシャス_13315617",
+    "name": "コーシャス",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "コラプション_c4926ef7",
+    "name": "コラプション",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "コンストリクター_58dfbcba",
+    "name": "コンストリクター",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "サードアイ_b50b782f",
+    "name": "サードアイ",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "サイプレス_bd8bcdd5",
+    "name": "サイプレス",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "サブシスタンス_59310e1a",
+    "name": "サブシスタンス",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "サボター_f499ec50",
+    "name": "サボター",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "サンセット_7d44defa",
+    "name": "サンセット",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "シャープトゥース_c7b9c177",
+    "name": "シャープトゥース",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "スキールニル_cbb49181",
+    "name": "スキールニル",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "スキャッター_fadf5e8a",
+    "name": "スキャッター",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "スクワッシャー_0d9cfd0d",
+    "name": "スクワッシャー",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "スコルピオン_1113f31c",
+    "name": "スコルピオン",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ストーンゴーレム_cdba0e3d",
+    "name": "ストーンゴーレム",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "スパイダー_4da6fef3",
+    "name": "スパイダー",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "スマッグラー_24e4e634",
+    "name": "スマッグラー",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ゼブラ_bde1a79b",
+    "name": "ゼブラ",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "センチピード_ea044957",
+    "name": "センチピード",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "セントリー_007db8b7",
+    "name": "セントリー",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ソーンヴァイン_d6ca39db",
+    "name": "ソーンヴァイン",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ダブルソード_6b7e269f",
+    "name": "ダブルソード",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "タルピダイ_fc3a98d6",
+    "name": "タルピダイ",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "チューブラー_f12c6a2d",
+    "name": "チューブラー",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ディサイプル_f41bf216",
+    "name": "ディサイプル",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "デスソーサー_2a0cbb2b",
+    "name": "デスソーサー",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "デッドライン_891a35c4",
+    "name": "デッドライン",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "デッドリーフ_81ea7223",
+    "name": "デッドリーフ",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "テンカウント_e73a49a4",
+    "name": "テンカウント",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ドミナント_a23e9265",
+    "name": "ドミナント",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "トラッフルホッグ_09a16fca",
+    "name": "トラッフルホッグ",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ナイトクーガー_defbebb5",
+    "name": "ナイトクーガー",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ナインフィンガー_78b57f32",
+    "name": "ナインフィンガー",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ナッツクラッカー_d0c010a4",
+    "name": "ナッツクラッカー",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "バーグラー_38e153e1",
+    "name": "バーグラー",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "バイコーン_67829036",
+    "name": "バイコーン",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "バタフライ_c76d3e7c",
+    "name": "バタフライ",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "パラポネラ_00055d2e",
+    "name": "パラポネラ",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ビーハイヴ_723e0b42",
+    "name": "ビーハイヴ",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ファイアイーター_6020515b",
+    "name": "ファイアイーター",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "フェルピット_1d1f966c",
+    "name": "フェルピット",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ブラックストライプス_e2fc870b",
+    "name": "ブラックストライプス",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ブルースクイッド_1b63e008",
+    "name": "ブルースクイッド",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "プロミネンス_db86f700",
+    "name": "プロミネンス",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ペイヴメント_758c44a4",
+    "name": "ペイヴメント",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ベイルファイア_92c03667",
+    "name": "ベイルファイア",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ヘルディーラー_7c259c8d",
+    "name": "ヘルディーラー",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ホーネット_a595f816",
+    "name": "ホーネット",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ホロスコープ_59dd939b",
+    "name": "ホロスコープ",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "マタドール_22a607e6",
+    "name": "マタドール",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ミニットマン_42f13bc7",
+    "name": "ミニットマン",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ミュルミドン_48e3dd08",
+    "name": "ミュルミドン",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ユコバック_8104446b",
+    "name": "ユコバック",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ラウンダーズ_16bc9621",
+    "name": "ラウンダーズ",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ラバーダック_245b4dee",
+    "name": "ラバーダック",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "レオパルド_015f713f",
+    "name": "レオパルド",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ロングドゥア_8b7ea790",
+    "name": "ロングドゥア",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ワイアード_cecf7292",
+    "name": "ワイアード",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ダストスパイダー_68bd50e1",
+    "name": "ダストスパイダー",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ヴァンガード_efe82734",
+    "name": "ヴァンガード",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "テラーマシーン_bfd82ffa",
+    "name": "テラーマシーン",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ブリガンド_d4f1bdf1",
+    "name": "ブリガンド",
+    "organizations": [
+      {
+        "id": "soukaiya-p1",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ラオモト_チバ_8d45a205",
+    "name": "ラオモト・チバ",
+    "organizations": [
+      {
+        "id": "soukaiya-p4",
+        "name": "ソウカイヤ（第4部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "非ニンジャ"
+  },
+  {
+    "id": "テンプテイション_f7fbccb0",
+    "name": "テンプテイション",
+    "organizations": [
+      {
+        "id": "soukaiya-p4",
+        "name": "ソウカイヤ（第4部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ネヴァーモア_0787ba18",
+    "name": "ネヴァーモア",
+    "organizations": [
+      {
+        "id": "soukaiya-p4",
+        "name": "ソウカイヤ（第4部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ヴァニティ_6c38dda0",
+    "name": "ヴァニティ",
+    "organizations": [
+      {
+        "id": "soukaiya-p4",
+        "name": "ソウカイヤ（第4部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ガーランド_846a7668",
+    "name": "ガーランド",
+    "organizations": [
+      {
+        "id": "soukaiya-p4",
+        "name": "ソウカイヤ（第4部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "カバレット_15245e6e",
+    "name": "カバレット",
+    "organizations": [
+      {
+        "id": "soukaiya-p4",
+        "name": "ソウカイヤ（第4部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "シガーカッター_4efa9a76",
+    "name": "シガーカッター",
+    "organizations": [
+      {
+        "id": "soukaiya-p4",
+        "name": "ソウカイヤ（第4部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "デッドフレア_caee5fc0",
+    "name": "デッドフレア",
+    "organizations": [
+      {
+        "id": "soukaiya-p4",
+        "name": "ソウカイヤ（第4部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ホローポイント_d678bbe9",
+    "name": "ホローポイント",
+    "organizations": [
+      {
+        "id": "soukaiya-p4",
+        "name": "ソウカイヤ（第4部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "インシネレイト_316b5f2b",
+    "name": "インシネレイト",
+    "organizations": [
+      {
+        "id": "soukaiya-p4",
+        "name": "ソウカイヤ（第4部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "アイアンゲート_10e9fc64",
+    "name": "アイアンゲート",
+    "organizations": [
+      {
+        "id": "soukaiya-p4",
+        "name": "ソウカイヤ（第4部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "アウクシリア_290d4ab1",
+    "name": "アウクシリア",
+    "organizations": [
+      {
+        "id": "soukaiya-p4",
+        "name": "ソウカイヤ（第4部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "アラマンダ_76c4573e",
+    "name": "アラマンダ",
+    "organizations": [
+      {
+        "id": "soukaiya-p4",
+        "name": "ソウカイヤ（第4部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "アロガント_cefb9aa7",
+    "name": "アロガント",
+    "organizations": [
+      {
+        "id": "soukaiya-p4",
+        "name": "ソウカイヤ（第4部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "イルストーン_ffe45bd2",
+    "name": "イルストーン",
+    "organizations": [
+      {
+        "id": "soukaiya-p4",
+        "name": "ソウカイヤ（第4部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "クレイマン_c1328ecd",
+    "name": "クレイマン",
+    "organizations": [
+      {
+        "id": "soukaiya-p4",
+        "name": "ソウカイヤ（第4部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "サイレントブロー_ff682599",
+    "name": "サイレントブロー",
+    "organizations": [
+      {
+        "id": "soukaiya-p4",
+        "name": "ソウカイヤ（第4部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "シュピーゲル_763768d2",
+    "name": "シュピーゲル",
+    "organizations": [
+      {
+        "id": "soukaiya-p4",
+        "name": "ソウカイヤ（第4部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "デスペレイト_d418460a",
+    "name": "デスペレイト",
+    "organizations": [
+      {
+        "id": "soukaiya-p4",
+        "name": "ソウカイヤ（第4部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "プリーストパンチャー_6b3803c2",
+    "name": "プリーストパンチャー",
+    "organizations": [
+      {
+        "id": "soukaiya-p4",
+        "name": "ソウカイヤ（第4部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ブルハウンド_6763c13a",
+    "name": "ブルハウンド",
+    "organizations": [
+      {
+        "id": "soukaiya-p4",
+        "name": "ソウカイヤ（第4部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "メイレイン_8ef31c93",
+    "name": "メイレイン",
+    "organizations": [
+      {
+        "id": "soukaiya-p4",
+        "name": "ソウカイヤ（第4部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ラスティクル_a8f11265",
+    "name": "ラスティクル",
+    "organizations": [
+      {
+        "id": "soukaiya-p4",
+        "name": "ソウカイヤ（第4部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "リザードベノム_42deca10",
+    "name": "リザードベノム",
+    "organizations": [
+      {
+        "id": "soukaiya-p4",
+        "name": "ソウカイヤ（第4部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "ロミオ_148d18d5",
+    "name": "ロミオ",
+    "organizations": [
+      {
+        "id": "soukaiya-p4",
+        "name": "ソウカイヤ（第4部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者"
+  },
+  {
+    "id": "クスバ_ae842727",
+    "name": "クスバ",
+    "organizations": [
+      {
+        "id": "soukaiya-p4",
+        "name": "ソウカイヤ（第4部）"
+      }
+    ],
+    "appearances": [],
+    "ninjaType": "非ニンジャ"
   }
 ]
