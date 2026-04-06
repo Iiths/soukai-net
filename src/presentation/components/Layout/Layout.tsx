@@ -15,7 +15,8 @@ export function Layout({ children }: LayoutProps) {
       <header className={styles.header}>
         <div className={styles.container}>
           <Link to="/" className={styles.logo}>
-            <span className={styles.logoText}>SOUKAI.NET</span>
+            <span className={styles.logoIcon}>⚡</span>
+            <span className={styles.logoText}>SOUKAI<span>.NET</span></span>
           </Link>
           <nav className={styles.nav}>
             <Link

@@ -103,8 +103,10 @@ export function SimpleSearchPage() {
   return (
     <div className={styles.page}>
       <div className={styles.header}>
-        <h1 className={styles.title}>ニンジャを検索</h1>
-        <p className={styles.subtitle}>名前または別名で検索します</p>
+        <h1 className={styles.title}>
+          <span className={styles.titleAccent}>忍</span> NINJA DATABASE
+        </h1>
+        <p className={styles.subtitle}>名前・別名・組織・登場部で検索できます</p>
       </div>
 
       <div className={styles.searchSection}>
@@ -146,9 +148,9 @@ export function SimpleSearchPage() {
 
       {!isLoading && results.length > 0 && (
         <div className={styles.resultsSection}>
-          <h2 className={styles.resultCount}>
-            {results.length}件のニンジャが見つかりました
-          </h2>
+          <p className={styles.resultCount}>
+            <strong>{results.length}</strong> 件のニンジャが見つかりました
+          </p>
           <div className={styles.grid}>
             {results.map((ninja) => (
               <NinjaCard

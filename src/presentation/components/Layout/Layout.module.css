@@ -6,13 +6,16 @@
   color: var(--color-text);
 }
 
+/* ---- Header ---- */
 .header {
-  background: var(--color-surface);
+  background: var(--color-bg);
   border-bottom: 1px solid var(--color-border);
-  padding: 1rem 0;
+  padding: 0.875rem 0;
   position: sticky;
   top: 0;
   z-index: 100;
+  /* subtle warm glow along the bottom edge */
+  box-shadow: 0 1px 0 var(--color-border), 0 4px 20px rgba(0,0,0,0.6);
 }
 
 .container {
@@ -27,6 +30,7 @@
   align-items: center;
 }
 
+/* ---- Logo ---- */
 .logo {
   text-decoration: none;
   color: inherit;
@@ -35,16 +39,33 @@
   gap: 0.5rem;
 }
 
+.logoIcon {
+  font-size: 1.2rem;
+  filter: var(--glow-primary);
+  animation: logoPulse 3s ease-in-out infinite;
+}
+
+@keyframes logoPulse {
+  0%, 100% { filter: drop-shadow(0 0 2px #00d992); }
+  50%       { filter: drop-shadow(0 0 8px #00d992); }
+}
+
 .logoText {
-  font-size: 1.5rem;
-  font-weight: 800;
-  letter-spacing: 0.05em;
+  font-family: var(--font-heading);
+  font-size: 1.35rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  color: var(--color-text);
+}
+
+.logoText span {
   color: var(--color-primary);
 }
 
+/* ---- Nav ---- */
 .nav {
   display: flex;
-  gap: 2rem;
+  gap: 1.75rem;
   align-items: center;
 }
 
@@ -53,7 +74,10 @@
   color: var(--color-text-muted);
   transition: color 0.2s ease;
   font-weight: 500;
-  font-size: 0.95rem;
+  font-size: 0.9rem;
+  letter-spacing: 0.01em;
+  padding-bottom: 2px;
+  border-bottom: 2px solid transparent;
 }
 
 .navLink:hover {
@@ -62,10 +86,10 @@
 
 .navLink.active {
   color: var(--color-primary);
-  border-bottom: 2px solid var(--color-primary);
-  padding-bottom: 0.25rem;
+  border-bottom-color: var(--color-primary);
 }
 
+/* ---- Main content ---- */
 .main {
   flex: 1;
   padding: 2rem 0;
@@ -76,16 +100,18 @@
   flex-direction: column;
 }
 
+/* ---- Footer ---- */
 .footer {
   background: var(--color-surface);
   border-top: 1px solid var(--color-border);
-  padding: 1.5rem 0;
+  padding: 1.25rem 0;
   margin-top: auto;
 }
 
 .credit {
   margin: 0;
   color: var(--color-text-muted);
-  font-size: 0.9rem;
+  font-size: 0.82rem;
   text-align: center;
+  letter-spacing: 0.03em;
 }
