@@ -1,26 +1,4322 @@
 [
   {
-    "_comment": "以下のデータはサンプルです。正確な情報はhttps://wikiwiki.jp/njslyr/ を参照して追記してください",
-    "id": "fujikido-kenji",
-    "name": "フジキド・ケンジ",
-    "realName": "藤木堂 健司",
-    "aliases": ["ニンジャスレイヤー"],
+    "id": "177545590",
+    "name": "マスラダ・カイ",
+    "aliases": [
+      "ニンジャスレイヤー"
+    ],
     "ninjaType": "ニンジャソウル憑依者",
     "ninjaSoul": {
-      "id": "soul-ninjslyr",
+      "id": "soul-ニンジャスレイヤー",
       "name": "ニンジャスレイヤー",
-      "grade": "アーチ級",
-      "clan": "不明"
+      "grade": "等級不明",
+      "clan": null
     },
     "organizations": [],
-    "appearances": [
-      { "id": "arc-1-ep-1", "title": "ネオサイタマ・イン・フレイム", "arc": "第1部" },
-      { "id": "arc-2-ep-1", "title": "第2部エピソード", "arc": "第2部" },
-      { "id": "arc-3-ep-1", "title": "第3部エピソード", "arc": "第3部" }
-    ],
-    "skills": ["カラテ", "ニンジャスレイング"],
-    "description": "主人公。ニンジャスレイヤーのソウルに憑依された元サラリーマン。妻子をニンジャに殺された復讐のためネオサイタマでニンジャを狩り続ける。",
+    "appearances": [],
     "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/?%E3%83%95%E3%82%B8%E3%82%AD%E3%83%89%E3%83%BB%E3%82%B1%E3%83%B3%E3%82%B8"
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%B9%E3%83%A9%E3%83%80%E3%83%BB%E3%82%AB%E3%82%A4"
+  },
+  {
+    "id": "177545591",
+    "name": "ナラク・ニンジャ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-ナラク・ニンジャ",
+      "name": "ナラク・ニンジャ",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8A%E3%83%A9%E3%82%AF%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "177545592",
+    "name": "フジキド・ケンジ",
+    "aliases": [
+      "サツバツナイト"
+    ],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-サツバツナイト",
+      "name": "サツバツナイト",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [],
+    "appearances": [],
+    "status": "dead",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%84%E3%83%90%E3%83%84%E3%83%8A%E3%82%A4%E3%83%88"
+  },
+  {
+    "id": "177545593",
+    "name": "タキ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-タキ",
+      "name": "タキ",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [],
+    "appearances": [],
+    "status": "dead",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%82%AD"
+  },
+  {
+    "id": "177545594",
+    "name": "コトブキ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-コトブキ",
+      "name": "コトブキ",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [],
+    "appearances": [],
+    "status": "dead",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B3%E3%83%88%E3%83%96%E3%82%AD"
+  },
+  {
+    "id": "177545595",
+    "name": "ザカリー",
+    "aliases": [
+      "ザック"
+    ],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-ザカリー",
+      "name": "ザカリー",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B6%E3%82%AB%E3%83%AA%E3%83%BC"
+  },
+  {
+    "id": "177545596",
+    "name": "ザナドゥ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-ザナドゥ",
+      "name": "ザナドゥ",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B6%E3%83%8A%E3%83%89%E3%82%A5"
+  },
+  {
+    "id": "177545597",
+    "name": "ナンシー・リー",
+    "aliases": [
+      "ナンシー・リー／ナンシー・リン"
+    ],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-ナンシー・リー",
+      "name": "ナンシー・リー",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8A%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%BB%E3%83%AA%E3%83%BC"
+  },
+  {
+    "id": "177545598",
+    "name": "フィルギア",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-フィルギア",
+      "name": "フィルギア",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A3%E3%83%AB%E3%82%AE%E3%82%A2"
+  },
+  {
+    "id": "177545599",
+    "name": "モーターチビ",
+    "aliases": [
+      "モーターツクモ"
+    ],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-モーターチビ",
+      "name": "モーターチビ",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%81%E3%83%93#k8e62c31"
+  },
+  {
+    "id": "1775455910",
+    "name": "ユンコ・スズキ",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [],
+    "appearances": [],
+    "status": "dead",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A6%E3%83%B3%E3%82%B3%E3%83%BB%E3%82%B9%E3%82%BA%E3%82%AD"
+  },
+  {
+    "id": "1775455911",
+    "name": "シキベ・タカコ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-シキベ・タカコ",
+      "name": "シキベ・タカコ",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%82%AD%E3%83%99%E3%83%BB%E3%82%BF%E3%82%AB%E3%82%B3"
+  },
+  {
+    "id": "1775455912",
+    "name": "タカギ・ガンドー",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%82%AB%E3%82%AE%E3%83%BB%E3%82%AC%E3%83%B3%E3%83%89%E3%83%BC"
+  },
+  {
+    "id": "1775455913",
+    "name": "カタオキ・シンイチ",
+    "aliases": [
+      "シルバーキー"
+    ],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-シルバーキー",
+      "name": "シルバーキー",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC%E3%82%AD%E3%83%BC"
+  },
+  {
+    "id": "1775455914",
+    "name": "ショーゴー・マグチ",
+    "aliases": [
+      "スーサイド"
+    ],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-スーサイド",
+      "name": "スーサイド",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%89"
+  },
+  {
+    "id": "1775455915",
+    "name": "ゾーイ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-ゾーイ",
+      "name": "ゾーイ",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BE%E3%83%BC%E3%82%A4"
+  },
+  {
+    "id": "1775455916",
+    "name": "コルヴェット",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-コルヴェット",
+      "name": "コルヴェット",
+      "grade": "等級不明",
+      "clan": "カゼ・ニンジャクラン"
+    },
+    "organizations": [],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B3%E3%83%AB%E3%83%B4%E3%82%A7%E3%83%83%E3%83%88"
+  },
+  {
+    "id": "1775455917",
+    "name": "アナイアレイター",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-アナイアレイター",
+      "name": "アナイアレイター",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%8A%E3%82%A4%E3%82%A2%E3%83%AC%E3%82%A4%E3%82%BF%E3%83%BC"
+  },
+  {
+    "id": "1775455918",
+    "name": "シノリ・ユウモイン",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ユウモイン家関係者",
+        "name": "ユウモイン家関係者"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%8E%E3%83%AA%E3%83%BB%E3%83%A6%E3%82%A6%E3%83%A2%E3%82%A4%E3%83%B3"
+  },
+  {
+    "id": "1775455919",
+    "name": "ウブネ",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ユウモイン家関係者",
+        "name": "ユウモイン家関係者"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%83%96%E3%83%8D"
+  },
+  {
+    "id": "1775455920",
+    "name": "シャドウフォール",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ユウモイン家関係者",
+        "name": "ユウモイン家関係者"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB"
+  },
+  {
+    "id": "1775455921",
+    "name": "レッドラビット",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ユウモイン家関係者",
+        "name": "ユウモイン家関係者"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%83%83%E3%83%89%E3%83%A9%E3%83%93%E3%83%83%E3%83%88"
+  },
+  {
+    "id": "1775455922",
+    "name": "エアウォーカー",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ユウモイン家関係者",
+        "name": "ユウモイン家関係者"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AB%E3%83%BC"
+  },
+  {
+    "id": "1775455923",
+    "name": "サイドワインダー",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ユウモイン家関係者",
+        "name": "ユウモイン家関係者"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%82%A4%E3%83%89%E3%83%AF%E3%82%A4%E3%83%B3%E3%83%80%E3%83%BC"
+  },
+  {
+    "id": "1775455924",
+    "name": "スカイレイ",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ユウモイン家関係者",
+        "name": "ユウモイン家関係者"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%AC%E3%82%A4"
+  },
+  {
+    "id": "1775455925",
+    "name": "プロシフィルス",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ユウモイン家関係者",
+        "name": "ユウモイン家関係者"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%97%E3%83%AD%E3%82%B7%E3%83%95%E3%82%A3%E3%83%AB%E3%82%B9"
+  },
+  {
+    "id": "1775455926",
+    "name": "リー・アラキ",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "イモータル・ニンジャ・ワークショップ",
+        "name": "イモータル・ニンジャ・ワークショップ"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%A2%E3%83%A9%E3%82%AD"
+  },
+  {
+    "id": "1775455927",
+    "name": "フブキ・ナハタ",
+    "aliases": [
+      "フォーティーナイン"
+    ],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "イモータル・ニンジャ・ワークショップ",
+        "name": "イモータル・ニンジャ・ワークショップ"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%83%96%E3%82%AD%E3%83%BB%E3%83%8A%E3%83%8F%E3%82%BF"
+  },
+  {
+    "id": "1775455928",
+    "name": "トリダ・チュンイチ",
+    "aliases": [
+      "ブルーブラッド"
+    ],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-ブルーブラッド",
+      "name": "ブルーブラッド",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [
+      {
+        "id": "イモータル・ニンジャ・ワークショップ",
+        "name": "イモータル・ニンジャ・ワークショップ"
+      }
+    ],
+    "appearances": [],
+    "status": "dead",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%AB%E3%83%BC%E3%83%96%E3%83%A9%E3%83%83%E3%83%89"
+  },
+  {
+    "id": "1775455929",
+    "name": "ゴナイダ",
+    "aliases": [
+      "マスター"
+    ],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ジェノサイド・チルドレン関係者",
+        "name": "ジェノサイド・チルドレン関係者"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B4%E3%83%8A%E3%82%A4%E3%83%80"
+  },
+  {
+    "id": "1775455930",
+    "name": "エクスカベーター",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ジェノサイド・チルドレン関係者",
+        "name": "ジェノサイド・チルドレン関係者"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%82%AF%E3%82%B9%E3%82%AB%E3%83%99%E3%83%BC%E3%82%BF%E3%83%BC"
+  },
+  {
+    "id": "1775455931",
+    "name": "ゴーストドッグ",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ジェノサイド・チルドレン関係者",
+        "name": "ジェノサイド・チルドレン関係者"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B4%E3%83%BC%E3%82%B9%E3%83%88%E3%83%89%E3%83%83%E3%82%B0"
+  },
+  {
+    "id": "1775455932",
+    "name": "メデューサ／ゴルゴーン",
+    "aliases": [
+      "ゴルゴーン"
+    ],
+    "ninjaType": "バイオニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ジェノサイド・チルドレン関係者",
+        "name": "ジェノサイド・チルドレン関係者"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A1%E3%83%87%E3%83%A5%E3%83%BC%E3%82%B5%EF%BC%8F%E3%82%B4%E3%83%AB%E3%82%B4%E3%83%BC%E3%83%B3"
+  },
+  {
+    "id": "1775455933",
+    "name": "サッドネス",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ジェノサイド・チルドレン関係者",
+        "name": "ジェノサイド・チルドレン関係者"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%83%E3%83%89%E3%83%8D%E3%82%B9"
+  },
+  {
+    "id": "1775455934",
+    "name": "ジェットペイン",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ジェノサイド・チルドレン関係者",
+        "name": "ジェノサイド・チルドレン関係者"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E3%83%9A%E3%82%A4%E3%83%B3"
+  },
+  {
+    "id": "1775455935",
+    "name": "シュガーブライド",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ジェノサイド・チルドレン関係者",
+        "name": "ジェノサイド・チルドレン関係者"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%A5%E3%82%AC%E3%83%BC%E3%83%96%E3%83%A9%E3%82%A4%E3%83%89"
+  },
+  {
+    "id": "1775455936",
+    "name": "スプライト",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ジェノサイド・チルドレン関係者",
+        "name": "ジェノサイド・チルドレン関係者"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%97%E3%83%A9%E3%82%A4%E3%83%88"
+  },
+  {
+    "id": "1775455937",
+    "name": "デュアルヘッドマサカー",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ジェノサイド・チルドレン関係者",
+        "name": "ジェノサイド・チルドレン関係者"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%83%A5%E3%82%A2%E3%83%AB%E3%83%98%E3%83%83%E3%83%89%E3%83%9E%E3%82%B5%E3%82%AB%E3%83%BC"
+  },
+  {
+    "id": "1775455938",
+    "name": "ヘテロポーダ",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ジェノサイド・チルドレン関係者",
+        "name": "ジェノサイド・チルドレン関係者"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%86%E3%83%AD%E3%83%9D%E3%83%BC%E3%83%80"
+  },
+  {
+    "id": "1775455939",
+    "name": "ヘルストーム",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ジェノサイド・チルドレン関係者",
+        "name": "ジェノサイド・チルドレン関係者"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%AB%E3%82%B9%E3%83%88%E3%83%BC%E3%83%A0"
+  },
+  {
+    "id": "1775455940",
+    "name": "コヨミ・ウサギ",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "コヨミ・ウサギ一味",
+        "name": "コヨミ・ウサギ一味"
+      }
+    ],
+    "appearances": [],
+    "status": "dead",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B3%E3%83%A8%E3%83%9F%E3%83%BB%E3%82%A6%E3%82%B5%E3%82%AE"
+  },
+  {
+    "id": "1775455941",
+    "name": "カシンダン／エンプーサ／サイコパルサー",
+    "aliases": [
+      "エンプーサ"
+    ],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "コヨミ・ウサギ一味",
+        "name": "コヨミ・ウサギ一味"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%82%B7%E3%83%B3%E3%83%80%E3%83%B3%EF%BC%8F%E3%82%A8%E3%83%B3%E3%83%97%E3%83%BC%E3%82%B5%EF%BC%8F%E3%82%B5%E3%82%A4%E3%82%B3%E3%83%91%E3%83%AB%E3%82%B5%E3%83%BC"
+  },
+  {
+    "id": "1775455942",
+    "name": "ハルピュイア",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "コヨミ・ウサギ一味",
+        "name": "コヨミ・ウサギ一味"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%83%AB%E3%83%94%E3%83%A5%E3%82%A4%E3%82%A2"
+  },
+  {
+    "id": "1775455943",
+    "name": "ブラックドッグ",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "コヨミ・ウサギ一味",
+        "name": "コヨミ・ウサギ一味"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%89%E3%83%83%E3%82%B0"
+  },
+  {
+    "id": "1775455944",
+    "name": "ユカノ",
+    "aliases": [
+      "ドラゴン・ユカノ"
+    ],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ドラゴン・ドージョー",
+        "name": "ドラゴン・ドージョー"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A6%E3%82%AB%E3%83%8E"
+  },
+  {
+    "id": "1775455945",
+    "name": "タイセン・シトシ",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ドラゴン・ドージョー",
+        "name": "ドラゴン・ドージョー"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%82%A4%E3%82%BB%E3%83%B3%E3%83%BB%E3%82%B7%E3%83%88%E3%82%B7"
+  },
+  {
+    "id": "1775455946",
+    "name": "シレイ",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ドラゴン・ドージョー",
+        "name": "ドラゴン・ドージョー"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%AC%E3%82%A4"
+  },
+  {
+    "id": "1775455947",
+    "name": "シャン・ロア",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ボロブドゥール（ムカデ・ニンジャクラン）",
+        "name": "ボロブドゥール（ムカデ・ニンジャクラン）"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%BB%E3%83%AD%E3%82%A2"
+  },
+  {
+    "id": "1775455948",
+    "name": "ウーガダル",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-謎のリザーバー",
+      "name": "謎のリザーバー",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [
+      {
+        "id": "ボロブドゥール（ムカデ・ニンジャクラン）",
+        "name": "ボロブドゥール（ムカデ・ニンジャクラン）"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%83%BC%E3%82%AC%E3%83%80%E3%83%AB"
+  },
+  {
+    "id": "1775455949",
+    "name": "コンヴァージ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-コンヴァージ",
+      "name": "コンヴァージ",
+      "grade": "等級不明",
+      "clan": "アカラ・ニンジャクラン"
+    },
+    "organizations": [
+      {
+        "id": "ボロブドゥール（ムカデ・ニンジャクラン）",
+        "name": "ボロブドゥール（ムカデ・ニンジャクラン）"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B3%E3%83%B3%E3%83%B4%E3%82%A1%E3%83%BC%E3%82%B8"
+  },
+  {
+    "id": "1775455950",
+    "name": "グレイウィルム",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-グレイウィルム",
+      "name": "グレイウィルム",
+      "grade": "等級不明",
+      "clan": "ムカデ・ニンジャクラン"
+    },
+    "organizations": [
+      {
+        "id": "ボロブドゥール（ムカデ・ニンジャクラン）",
+        "name": "ボロブドゥール（ムカデ・ニンジャクラン）"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B0%E3%83%AC%E3%82%A4%E3%82%A6%E3%82%A3%E3%83%AB%E3%83%A0"
+  },
+  {
+    "id": "1775455951",
+    "name": "ゲオフィルス",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-ゲオフィルス",
+      "name": "ゲオフィルス",
+      "grade": "等級不明",
+      "clan": "ムカデ・ニンジャクラン"
+    },
+    "organizations": [
+      {
+        "id": "ボロブドゥール（ムカデ・ニンジャクラン）",
+        "name": "ボロブドゥール（ムカデ・ニンジャクラン）"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B2%E3%82%AA%E3%83%95%E3%82%A3%E3%83%AB%E3%82%B9"
+  },
+  {
+    "id": "1775455952",
+    "name": "セストーダル",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-セストーダル",
+      "name": "セストーダル",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [
+      {
+        "id": "ボロブドゥール（ムカデ・ニンジャクラン）",
+        "name": "ボロブドゥール（ムカデ・ニンジャクラン）"
+      }
+    ],
+    "appearances": [],
+    "status": "dead",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BB%E3%82%B9%E3%83%88%E3%83%BC%E3%83%80%E3%83%AB"
+  },
+  {
+    "id": "1775455953",
+    "name": "シャドウウィーヴ",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ハデス・ネット（ハデス・ニンジャクラン）",
+        "name": "ハデス・ネット（ハデス・ニンジャクラン）"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%82%A6%E3%82%A3%E3%83%BC%E3%83%B4"
+  },
+  {
+    "id": "1775455954",
+    "name": "アンブラ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-アンブラ",
+      "name": "アンブラ",
+      "grade": "等級不明",
+      "clan": "ハデス・ニンジャクラン"
+    },
+    "organizations": [
+      {
+        "id": "ハデス・ネット（ハデス・ニンジャクラン）",
+        "name": "ハデス・ネット（ハデス・ニンジャクラン）"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%B3%E3%83%96%E3%83%A9"
+  },
+  {
+    "id": "1775455955",
+    "name": "カシマール",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-カシマール",
+      "name": "カシマール",
+      "grade": "等級不明",
+      "clan": "ハデス・ニンジャクラン"
+    },
+    "organizations": [
+      {
+        "id": "ハデス・ネット（ハデス・ニンジャクラン）",
+        "name": "ハデス・ネット（ハデス・ニンジャクラン）"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%82%B7%E3%83%9E%E3%83%BC%E3%83%AB"
+  },
+  {
+    "id": "1775455956",
+    "name": "ブラド・ツェペシュ",
+    "aliases": [
+      "レッドドラゴン"
+    ],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "赤竜騎士団",
+        "name": "赤竜騎士団"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%83%83%E3%83%89%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3"
+  },
+  {
+    "id": "1775455957",
+    "name": "カシウス",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-カシウス",
+      "name": "カシウス",
+      "grade": "等級不明",
+      "clan": "ブラド・ニンジャクラン"
+    },
+    "organizations": [
+      {
+        "id": "赤竜騎士団",
+        "name": "赤竜騎士団"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%82%B7%E3%82%A6%E3%82%B9"
+  },
+  {
+    "id": "1775455958",
+    "name": "カノネス",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "赤竜騎士団",
+        "name": "赤竜騎士団"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%83%8E%E3%83%8D%E3%82%B9"
+  },
+  {
+    "id": "1775455959",
+    "name": "ジャイアントバット",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-ジャイアントバット",
+      "name": "ジャイアントバット",
+      "grade": "等級不明",
+      "clan": "ブラド・ニンジャクラン"
+    },
+    "organizations": [
+      {
+        "id": "赤竜騎士団",
+        "name": "赤竜騎士団"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B8%E3%83%A3%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88%E3%83%90%E3%83%83%E3%83%88"
+  },
+  {
+    "id": "1775455960",
+    "name": "ノインテイター",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "赤竜騎士団",
+        "name": "赤竜騎士団"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8E%E3%82%A4%E3%83%B3%E3%83%86%E3%82%A4%E3%82%BF%E3%83%BC"
+  },
+  {
+    "id": "1775455961",
+    "name": "リヒター",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "赤竜騎士団",
+        "name": "赤竜騎士団"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AA%E3%83%92%E3%82%BF%E3%83%BC"
+  },
+  {
+    "id": "1775455962",
+    "name": "ローンウルフ",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "赤竜騎士団",
+        "name": "赤竜騎士団"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AD%E3%83%BC%E3%83%B3%E3%82%A6%E3%83%AB%E3%83%95"
+  },
+  {
+    "id": "1775455963",
+    "name": "ソニア・スダチカワフ",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "赤竜騎士団",
+        "name": "赤竜騎士団"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BD%E3%83%8B%E3%82%A2%E3%83%BB%E3%82%B9%E3%83%80%E3%83%81%E3%82%AB%E3%83%AF%E3%83%95"
+  },
+  {
+    "id": "1775455964",
+    "name": "フォレスト・サワタリ",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "サワタリ・カンパニー",
+        "name": "サワタリ・カンパニー"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A9%E3%83%AC%E3%82%B9%E3%83%88%E3%83%BB%E3%82%B5%E3%83%AF%E3%82%BF%E3%83%AA"
+  },
+  {
+    "id": "1775455965",
+    "name": "ウイングドテラー",
+    "aliases": [],
+    "ninjaType": "バイオニンジャ",
+    "ninjaSoul": {
+      "id": "soul-ウイングドテラ―",
+      "name": "ウイングドテラ―",
+      "grade": "等級不明",
+      "clan": "ダイナソー・ニンジャクラン"
+    },
+    "organizations": [
+      {
+        "id": "サワタリ・カンパニー",
+        "name": "サワタリ・カンパニー"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%89%E3%83%86%E3%83%A9%E3%83%BC"
+  },
+  {
+    "id": "1775455966",
+    "name": "セントール",
+    "aliases": [],
+    "ninjaType": "バイオニンジャ",
+    "ninjaSoul": {
+      "id": "soul-セントール",
+      "name": "セントール",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [
+      {
+        "id": "サワタリ・カンパニー",
+        "name": "サワタリ・カンパニー"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BB%E3%83%B3%E3%83%88%E3%83%BC%E3%83%AB"
+  },
+  {
+    "id": "1775455967",
+    "name": "ディスカバリー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-ディスカバリー",
+      "name": "ディスカバリー",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [
+      {
+        "id": "サワタリ・カンパニー",
+        "name": "サワタリ・カンパニー"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AB%E3%83%90%E3%83%AA%E3%83%BC"
+  },
+  {
+    "id": "1775455968",
+    "name": "ハイドラ",
+    "aliases": [],
+    "ninjaType": "バイオニンジャ",
+    "ninjaSoul": {
+      "id": "soul-ハイドラ",
+      "name": "ハイドラ",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [
+      {
+        "id": "サワタリ・カンパニー",
+        "name": "サワタリ・カンパニー"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%82%A4%E3%83%89%E3%83%A9"
+  },
+  {
+    "id": "1775455969",
+    "name": "フロッグボーイ",
+    "aliases": [],
+    "ninjaType": "バイオニンジャ",
+    "ninjaSoul": {
+      "id": "soul-フロッグボーイ",
+      "name": "フロッグボーイ",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [
+      {
+        "id": "サワタリ・カンパニー",
+        "name": "サワタリ・カンパニー"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%83%AD%E3%83%83%E3%82%B0%E3%83%9C%E3%83%BC%E3%82%A4"
+  },
+  {
+    "id": "1775455970",
+    "name": "ヘルレックス",
+    "aliases": [],
+    "ninjaType": "バイオニンジャ",
+    "ninjaSoul": {
+      "id": "soul-ヘルレックス",
+      "name": "ヘルレックス",
+      "grade": "等級不明",
+      "clan": "ダイナソー・ニンジャクラン"
+    },
+    "organizations": [
+      {
+        "id": "サワタリ・カンパニー",
+        "name": "サワタリ・カンパニー"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%AB%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9"
+  },
+  {
+    "id": "1775455971",
+    "name": "マインドキル",
+    "aliases": [],
+    "ninjaType": "バイオニンジャ",
+    "ninjaSoul": {
+      "id": "soul-マインドキル",
+      "name": "マインドキル",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [
+      {
+        "id": "サワタリ・カンパニー",
+        "name": "サワタリ・カンパニー"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%A4%E3%83%B3%E3%83%89%E3%82%AD%E3%83%AB"
+  },
+  {
+    "id": "1775455972",
+    "name": "ローゼンベルグ",
+    "aliases": [],
+    "ninjaType": "バイオニンジャ",
+    "ninjaSoul": {
+      "id": "soul-ローゼンベルグ",
+      "name": "ローゼンベルグ",
+      "grade": "等級不明",
+      "clan": "ダイナソー・ニンジャクラン"
+    },
+    "organizations": [
+      {
+        "id": "サワタリ・カンパニー",
+        "name": "サワタリ・カンパニー"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AD%E3%83%BC%E3%82%BC%E3%83%B3%E3%83%99%E3%83%AB%E3%82%B0"
+  },
+  {
+    "id": "1775455973",
+    "name": "ロングモーン",
+    "aliases": [],
+    "ninjaType": "バイオニンジャ",
+    "ninjaSoul": {
+      "id": "soul-ロングモーン",
+      "name": "ロングモーン",
+      "grade": "等級不明",
+      "clan": "ダイナソー・ニンジャクラン"
+    },
+    "organizations": [
+      {
+        "id": "サワタリ・カンパニー",
+        "name": "サワタリ・カンパニー"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%A2%E3%83%BC%E3%83%B3"
+  },
+  {
+    "id": "K2K3177574",
+    "name": "K2／K3",
+    "aliases": [
+      "K2"
+    ],
+    "ninjaType": "バイオニンジャ",
+    "ninjaSoul": {
+      "id": "soul-K2",
+      "name": "K2",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [
+      {
+        "id": "サワタリ・カンパニー",
+        "name": "サワタリ・カンパニー"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/K2%EF%BC%8FK3"
+  },
+  {
+    "id": "1775455975",
+    "name": "ペドロ",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "サワタリ・カンパニー",
+        "name": "サワタリ・カンパニー"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9A%E3%83%89%E3%83%AD"
+  },
+  {
+    "id": "1775455976",
+    "name": "ミゲル",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "サワタリ・カンパニー",
+        "name": "サワタリ・カンパニー"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9F%E3%82%B2%E3%83%AB"
+  },
+  {
+    "id": "1775455977",
+    "name": "モニカ・ヤシマ",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "サワタリ・カンパニー",
+        "name": "サワタリ・カンパニー"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%8B%E3%82%AB%E3%83%BB%E3%83%A4%E3%82%B7%E3%83%9E"
+  },
+  {
+    "id": "1775455978",
+    "name": "デッドマン",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "エル・キケン",
+        "name": "エル・キケン"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%83%83%E3%83%89%E3%83%9E%E3%83%B3"
+  },
+  {
+    "id": "1775455979",
+    "name": "ファッショニスタ",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "エル・キケン",
+        "name": "エル・キケン"
+      }
+    ],
+    "appearances": [],
+    "status": "dead",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8B%E3%82%B9%E3%82%BF"
+  },
+  {
+    "id": "1775455980",
+    "name": "ハチコ",
+    "aliases": [],
+    "ninjaType": "バイオニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "エル・キケン",
+        "name": "エル・キケン"
+      }
+    ],
+    "appearances": [],
+    "status": "dead",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%83%81%E3%82%B3"
+  },
+  {
+    "id": "1775455981",
+    "name": "ボーファー・ウルベイン",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "電子エーゲ海帝国",
+        "name": "電子エーゲ海帝国"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9C%E3%83%BC%E3%83%95%E3%82%A1%E3%83%BC%E3%83%BB%E3%82%A6%E3%83%AB%E3%83%99%E3%82%A4%E3%83%B3"
+  },
+  {
+    "id": "1775455982",
+    "name": "ギスボーン",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-ギスボーン",
+      "name": "ギスボーン",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [
+      {
+        "id": "電子エーゲ海帝国",
+        "name": "電子エーゲ海帝国"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AE%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%B3"
+  },
+  {
+    "id": "1775455983",
+    "name": "ジェイドワスプ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-ジェイドワスプ",
+      "name": "ジェイドワスプ",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [
+      {
+        "id": "電子エーゲ海帝国",
+        "name": "電子エーゲ海帝国"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%89%E3%83%AF%E3%82%B9%E3%83%97"
+  },
+  {
+    "id": "1775455984",
+    "name": "ツァイトガイスト",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "電子エーゲ海帝国",
+        "name": "電子エーゲ海帝国"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%84%E3%82%A1%E3%82%A4%E3%83%88%E3%82%AC%E3%82%A4%E3%82%B9%E3%83%88"
+  },
+  {
+    "id": "1775455985",
+    "name": "ヘリコイド",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-ヘリコイド",
+      "name": "ヘリコイド",
+      "grade": "等級不明",
+      "clan": "テッポウ・ニンジャクラン"
+    },
+    "organizations": [
+      {
+        "id": "電子エーゲ海帝国",
+        "name": "電子エーゲ海帝国"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%AA%E3%82%B3%E3%82%A4%E3%83%89"
+  },
+  {
+    "id": "1775455986",
+    "name": "デスドーモコア",
+    "aliases": [],
+    "ninjaType": "ロボ・ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "電子エーゲ海帝国",
+        "name": "電子エーゲ海帝国"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B9%E3%83%89%E3%83%BC%E3%83%A2%E3%82%B3%E3%82%A2"
+  },
+  {
+    "id": "1775455987",
+    "name": "ドクタードーモ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-ドクタードーモ",
+      "name": "ドクタードーモ",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [
+      {
+        "id": "電子エーゲ海帝国",
+        "name": "電子エーゲ海帝国"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%89%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%89%E3%83%BC%E3%83%A2"
+  },
+  {
+    "id": "1775455988",
+    "name": "セト",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "エジプト（エネアド社）",
+        "name": "エジプト（エネアド社）"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BB%E3%83%88"
+  },
+  {
+    "id": "1775455989",
+    "name": "アビスマル",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-アビスマル",
+      "name": "アビスマル",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [
+      {
+        "id": "エジプト（エネアド社）",
+        "name": "エジプト（エネアド社）"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%93%E3%82%B9%E3%83%9E%E3%83%AB"
+  },
+  {
+    "id": "1775455990",
+    "name": "アシッドヴァイパー",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "エジプト（エネアド社）",
+        "name": "エジプト（エネアド社）"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%B7%E3%83%83%E3%83%89%E3%83%B4%E3%82%A1%E3%82%A4%E3%83%91%E3%83%BC"
+  },
+  {
+    "id": "1775455991",
+    "name": "イスハーク・ミザワ",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "エジプト（エネアド社）",
+        "name": "エジプト（エネアド社）"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%82%B9%E3%83%8F%E3%83%BC%E3%82%AF%E3%83%BB%E3%83%9F%E3%82%B6%E3%83%AF"
+  },
+  {
+    "id": "1775455992",
+    "name": "エンデーバー",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "エジプト（エネアド社）",
+        "name": "エジプト（エネアド社）"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%83%B3%E3%83%87%E3%83%BC%E3%83%90%E3%83%BC"
+  },
+  {
+    "id": "1775455993",
+    "name": "グリーンウィスプ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-グリーンウィスプ",
+      "name": "グリーンウィスプ",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [
+      {
+        "id": "エジプト（エネアド社）",
+        "name": "エジプト（エネアド社）"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%A6%E3%82%A3%E3%82%B9%E3%83%97"
+  },
+  {
+    "id": "1775455994",
+    "name": "シックスフィーター／ラスティカトラス",
+    "aliases": [
+      "シックスフィーター"
+    ],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "エジプト（エネアド社）",
+        "name": "エジプト（エネアド社）"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%83%E3%82%AF%E3%82%B9%E3%83%95%E3%82%A3%E3%83%BC%E3%82%BF%E3%83%BC%EF%BC%8F%E3%83%A9%E3%82%B9%E3%83%86%E3%82%A3%E3%82%AB%E3%83%88%E3%83%A9%E3%82%B9"
+  },
+  {
+    "id": "1775455995",
+    "name": "シャゴタイト",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-シャゴタイト",
+      "name": "シャゴタイト",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [
+      {
+        "id": "エジプト（エネアド社）",
+        "name": "エジプト（エネアド社）"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%A3%E3%82%B4%E3%82%BF%E3%82%A4%E3%83%88"
+  },
+  {
+    "id": "1775455996",
+    "name": "ダーティージュジュ／ノーコーン／ユダンナキ",
+    "aliases": [
+      "ダーティージュジュ"
+    ],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-ダーティージュジュ",
+      "name": "ダーティージュジュ",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [
+      {
+        "id": "エジプト（エネアド社）",
+        "name": "エジプト（エネアド社）"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%80%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%82%B8%E3%83%A5%E3%82%B8%E3%83%A5%EF%BC%8F%E3%83%8E%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%B3%EF%BC%8F%E3%83%A6%E3%83%80%E3%83%B3%E3%83%8A%E3%82%AD"
+  },
+  {
+    "id": "1775455997",
+    "name": "ディスパッチ",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "エジプト（エネアド社）",
+        "name": "エジプト（エネアド社）"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%91%E3%83%83%E3%83%81"
+  },
+  {
+    "id": "1775455998",
+    "name": "デスロール",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-デスロール",
+      "name": "デスロール",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [
+      {
+        "id": "エジプト（エネアド社）",
+        "name": "エジプト（エネアド社）"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B9%E3%83%AD%E3%83%BC%E3%83%AB"
+  },
+  {
+    "id": "1775455999",
+    "name": "トレメンダス",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "エジプト（エネアド社）",
+        "name": "エジプト（エネアド社）"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%88%E3%83%AC%E3%83%A1%E3%83%B3%E3%83%80%E3%82%B9"
+  },
+  {
+    "id": "17754559100",
+    "name": "ナイチンゲール",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "エジプト（エネアド社）",
+        "name": "エジプト（エネアド社）"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8A%E3%82%A4%E3%83%81%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%AB"
+  },
+  {
+    "id": "17754559101",
+    "name": "ハイウェイマン",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-ハイウェイマン",
+      "name": "ハイウェイマン",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [
+      {
+        "id": "エジプト（エネアド社）",
+        "name": "エジプト（エネアド社）"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%82%A4%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%9E%E3%83%B3"
+  },
+  {
+    "id": "17754559102",
+    "name": "ブラックティアーズ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-ブラックティアーズ",
+      "name": "ブラックティアーズ",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [
+      {
+        "id": "エジプト（エネアド社）",
+        "name": "エジプト（エネアド社）"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%86%E3%82%A3%E3%82%A2%E3%83%BC%E3%82%BA"
+  },
+  {
+    "id": "17754559103",
+    "name": "マリシャス",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "エジプト（エネアド社）",
+        "name": "エジプト（エネアド社）"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%83%AA%E3%82%B7%E3%83%A3%E3%82%B9"
+  },
+  {
+    "id": "17754559104",
+    "name": "バスカヴィル",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-バスカヴィル",
+      "name": "バスカヴィル",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [
+      {
+        "id": "エジプト（エネアド社）",
+        "name": "エジプト（エネアド社）"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%82%B9%E3%82%AB%E3%83%B4%E3%82%A3%E3%83%AB"
+  },
+  {
+    "id": "17754559105",
+    "name": "エネアド社所属ないし傭兵",
+    "aliases": [
+      "ショットブラスト"
+    ],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "エジプト（エネアド社）",
+        "name": "エジプト（エネアド社）"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%E3%83%96%E3%83%A9%E3%82%B9%E3%83%88"
+  },
+  {
+    "id": "17754559106",
+    "name": "イグナイト",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "スレイプニル",
+        "name": "スレイプニル"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%82%B0%E3%83%8A%E3%82%A4%E3%83%88"
+  },
+  {
+    "id": "17754559107",
+    "name": "アンクル・ソノ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-アンクル・ソノ",
+      "name": "アンクル・ソノ",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [
+      {
+        "id": "スレイプニル",
+        "name": "スレイプニル"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%B3%E3%82%AF%E3%83%AB%E3%83%BB%E3%82%BD%E3%83%8E"
+  },
+  {
+    "id": "41775455108",
+    "name": "ヒュージシュリケン（第4部以降）",
+    "aliases": [
+      "ヒュージシュリケン"
+    ],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-ヒュージシュリケン",
+      "name": "ヒュージシュリケン",
+      "grade": "等級不明",
+      "clan": "フマー・ニンジャクラン"
+    },
+    "organizations": [
+      {
+        "id": "スレイプニル",
+        "name": "スレイプニル"
+      }
+    ],
+    "appearances": [],
+    "status": "dead",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%92%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%B7%E3%83%A5%E3%83%AA%E3%82%B1%E3%83%B3%EF%BC%88%E7%AC%AC4%E9%83%A8%E4%BB%A5%E9%99%8D%EF%BC%89"
+  },
+  {
+    "id": "17754559109",
+    "name": "コンノ・ケジ",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "スレイプニル",
+        "name": "スレイプニル"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B3%E3%83%B3%E3%83%8E%E3%83%BB%E3%82%B1%E3%82%B8"
+  },
+  {
+    "id": "17754559110",
+    "name": "ジャッキー",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "スレイプニル",
+        "name": "スレイプニル"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AD%E3%83%BC"
+  },
+  {
+    "id": "17754559111",
+    "name": "クエスター・ナル",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-クエスター・ナル",
+      "name": "クエスター・ナル",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [
+      {
+        "id": "スレイプニル",
+        "name": "スレイプニル"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%8A%E3%83%AB"
+  },
+  {
+    "id": "17754559112",
+    "name": "ノボセ・ゲンソン",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "キモン",
+        "name": "キモン"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8E%E3%83%9C%E3%82%BB%E3%83%BB%E3%82%B2%E3%83%B3%E3%82%BD%E3%83%B3"
+  },
+  {
+    "id": "17754559113",
+    "name": "クラックタンク",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-クラックタンク",
+      "name": "クラックタンク",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [
+      {
+        "id": "キモン",
+        "name": "キモン"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%A9%E3%83%83%E3%82%AF%E3%82%BF%E3%83%B3%E3%82%AF"
+  },
+  {
+    "id": "17754559114",
+    "name": "ゲッコー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-ゲッコー",
+      "name": "ゲッコー",
+      "grade": "等級不明",
+      "clan": "まさかソウルはトカゲ・ニンジャクラン"
+    },
+    "organizations": [
+      {
+        "id": "キモン",
+        "name": "キモン"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B2%E3%83%83%E3%82%B3%E3%83%BC"
+  },
+  {
+    "id": "17754559115",
+    "name": "ナカジマ",
+    "aliases": [
+      "スポイラー"
+    ],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "キモン",
+        "name": "キモン"
+      }
+    ],
+    "appearances": [],
+    "status": "dead",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8A%E3%82%AB%E3%82%B8%E3%83%9E"
+  },
+  {
+    "id": "17754559116",
+    "name": "タイトロープ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-タイトロープ",
+      "name": "タイトロープ",
+      "grade": "等級不明",
+      "clan": "コソク・ニンジャクラン"
+    },
+    "organizations": [
+      {
+        "id": "キモン",
+        "name": "キモン"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AD%E3%83%BC%E3%83%97"
+  },
+  {
+    "id": "17754559117",
+    "name": "タフガイ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-タフガイ",
+      "name": "タフガイ",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [
+      {
+        "id": "キモン",
+        "name": "キモン"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%83%95%E3%82%AC%E3%82%A4"
+  },
+  {
+    "id": "17754559118",
+    "name": "デッドエンド",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-デッドエンド",
+      "name": "デッドエンド",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [
+      {
+        "id": "キモン",
+        "name": "キモン"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%83%83%E3%83%89%E3%82%A8%E3%83%B3%E3%83%89"
+  },
+  {
+    "id": "17754559119",
+    "name": "ノボセ・ムギコ",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "キモン",
+        "name": "キモン"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8E%E3%83%9C%E3%82%BB%E3%83%BB%E3%83%A0%E3%82%AE%E3%82%B3"
+  },
+  {
+    "id": "17754559120",
+    "name": "アゾット",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-アゾット",
+      "name": "アゾット",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [
+      {
+        "id": "アゾット一味",
+        "name": "アゾット一味"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%BE%E3%83%83%E3%83%88"
+  },
+  {
+    "id": "17754559121",
+    "name": "ト・キコ",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "アゾット一味",
+        "name": "アゾット一味"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%88%E3%83%BB%E3%82%AD%E3%82%B3"
+  },
+  {
+    "id": "17754559122",
+    "name": "サメムラ",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "アゾット一味",
+        "name": "アゾット一味"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%A1%E3%83%A0%E3%83%A9"
+  },
+  {
+    "id": "17754559123",
+    "name": "ボン・サイ",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "アゾット一味",
+        "name": "アゾット一味"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9C%E3%83%B3%E3%83%BB%E3%82%B5%E3%82%A4"
+  },
+  {
+    "id": "17754559124",
+    "name": "ンズ・デイ",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "アゾット一味",
+        "name": "アゾット一味"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%B3%E3%82%BA%E3%83%BB%E3%83%87%E3%82%A4"
+  },
+  {
+    "id": "17754559125",
+    "name": "龍崎",
+    "aliases": [
+      "ウィルムケープ"
+    ],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ゾウラン・ダイ・カイ",
+        "name": "ゾウラン・ダイ・カイ"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%82%A3%E3%83%AB%E3%83%A0%E3%82%B1%E3%83%BC%E3%83%97"
+  },
+  {
+    "id": "17754559126",
+    "name": "アイアンデビル",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ゾウラン・ダイ・カイ",
+        "name": "ゾウラン・ダイ・カイ"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%87%E3%83%93%E3%83%AB"
+  },
+  {
+    "id": "17754559127",
+    "name": "総督",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ハイランド",
+        "name": "ハイランド"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E7%B7%8F%E7%9D%A3"
+  },
+  {
+    "id": "17754559128",
+    "name": "アスクレピオス",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ハイランド",
+        "name": "ハイランド"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%B9%E3%82%AF%E3%83%AC%E3%83%94%E3%82%AA%E3%82%B9"
+  },
+  {
+    "id": "17754559129",
+    "name": "エリダヌス",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ハイランド",
+        "name": "ハイランド"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%83%AA%E3%83%80%E3%83%8C%E3%82%B9"
+  },
+  {
+    "id": "17754559130",
+    "name": "クラウドバーナー",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ハイランド",
+        "name": "ハイランド"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%83%90%E3%83%BC%E3%83%8A%E3%83%BC"
+  },
+  {
+    "id": "17754559131",
+    "name": "クリプトウォーカー",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ハイランド",
+        "name": "ハイランド"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AB%E3%83%BC"
+  },
+  {
+    "id": "17754559132",
+    "name": "コールドブラッド",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ハイランド",
+        "name": "ハイランド"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%96%E3%83%A9%E3%83%83%E3%83%89"
+  },
+  {
+    "id": "17754559133",
+    "name": "スノークーガー",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ハイランド",
+        "name": "ハイランド"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%8E%E3%83%BC%E3%82%AF%E3%83%BC%E3%82%AC%E3%83%BC"
+  },
+  {
+    "id": "17754559134",
+    "name": "ボレアリス／ゼピュロス／ペンドラゴン",
+    "aliases": [
+      "ゼピュロス"
+    ],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ハイランド",
+        "name": "ハイランド"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9C%E3%83%AC%E3%82%A2%E3%83%AA%E3%82%B9%EF%BC%8F%E3%82%BC%E3%83%94%E3%83%A5%E3%83%AD%E3%82%B9%EF%BC%8F%E3%83%9A%E3%83%B3%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3"
+  },
+  {
+    "id": "17754559135",
+    "name": "ヒュギエイア",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ハイランド",
+        "name": "ハイランド"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%92%E3%83%A5%E3%82%AE%E3%82%A8%E3%82%A4%E3%82%A2"
+  },
+  {
+    "id": "17754559136",
+    "name": "フォルス",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ハイランド",
+        "name": "ハイランド"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A9%E3%83%AB%E3%82%B9"
+  },
+  {
+    "id": "17754559137",
+    "name": "フロームンド",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ハイランド",
+        "name": "ハイランド"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%83%AD%E3%83%BC%E3%83%A0%E3%83%B3%E3%83%89"
+  },
+  {
+    "id": "17754559138",
+    "name": "ホワイトロック",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ハイランド",
+        "name": "ハイランド"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%AD%E3%83%83%E3%82%AF"
+  },
+  {
+    "id": "17754559139",
+    "name": "タリヤ・カミカ",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ハイランド",
+        "name": "ハイランド"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%83%AA%E3%83%A4%E3%83%BB%E3%82%AB%E3%83%9F%E3%82%AB"
+  },
+  {
+    "id": "17754559140",
+    "name": "ケイムショ",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ケイムショの軍勢",
+        "name": "ケイムショの軍勢"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B1%E3%82%A4%E3%83%A0%E3%82%B7%E3%83%A7"
+  },
+  {
+    "id": "17754559141",
+    "name": "アッシュクロフト",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ケイムショの軍勢",
+        "name": "ケイムショの軍勢"
+      }
+    ],
+    "appearances": [],
+    "status": "dead",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%83%E3%82%B7%E3%83%A5%E3%82%AF%E3%83%AD%E3%83%95%E3%83%88"
+  },
+  {
+    "id": "17754559142",
+    "name": "シリーンホース",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ケイムショの軍勢",
+        "name": "ケイムショの軍勢"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%9B%E3%83%BC%E3%82%B9"
+  },
+  {
+    "id": "17754559143",
+    "name": "ステイションマスター",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ケイムショの軍勢",
+        "name": "ケイムショの軍勢"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%86%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC"
+  },
+  {
+    "id": "17754559144",
+    "name": "ハーズマン",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ケイムショの軍勢",
+        "name": "ケイムショの軍勢"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%83%BC%E3%82%BA%E3%83%9E%E3%83%B3"
+  },
+  {
+    "id": "17754559145",
+    "name": "ビーンポール",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ケイムショの軍勢",
+        "name": "ケイムショの軍勢"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%93%E3%83%BC%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%AB"
+  },
+  {
+    "id": "17754559146",
+    "name": "ヘリオトロープ",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ケイムショの軍勢",
+        "name": "ケイムショの軍勢"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%AA%E3%82%AA%E3%83%88%E3%83%AD%E3%83%BC%E3%83%97"
+  },
+  {
+    "id": "17754559147",
+    "name": "ヘルシェパード",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ケイムショの軍勢",
+        "name": "ケイムショの軍勢"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%AB%E3%82%B7%E3%82%A7%E3%83%91%E3%83%BC%E3%83%89"
+  },
+  {
+    "id": "17754559148",
+    "name": "ベルゼブブ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-ベルゼブブ",
+      "name": "ベルゼブブ",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [
+      {
+        "id": "ケイムショの軍勢",
+        "name": "ケイムショの軍勢"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%99%E3%83%AB%E3%82%BC%E3%83%96%E3%83%96"
+  },
+  {
+    "id": "17754559149",
+    "name": "ロンドン・アイ",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ケイムショの軍勢",
+        "name": "ケイムショの軍勢"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AD%E3%83%B3%E3%83%89%E3%83%B3%E3%83%BB%E3%82%A2%E3%82%A4"
+  },
+  {
+    "id": "17754559150",
+    "name": "ザクロ",
+    "aliases": [
+      "ネザークイーン"
+    ],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "獄麗",
+        "name": "獄麗"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8D%E3%82%B6%E3%83%BC%E3%82%AF%E3%82%A4%E3%83%BC%E3%83%B3"
+  },
+  {
+    "id": "17754559151",
+    "name": "サマナ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-サマナ",
+      "name": "サマナ",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [
+      {
+        "id": "獄麗",
+        "name": "獄麗"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%9E%E3%83%8A"
+  },
+  {
+    "id": "17754559152",
+    "name": "スコーピオン",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "獄麗",
+        "name": "獄麗"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%94%E3%82%AA%E3%83%B3"
+  },
+  {
+    "id": "17754559153",
+    "name": "ブライカン",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-ブライカン",
+      "name": "ブライカン",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [
+      {
+        "id": "獄麗",
+        "name": "獄麗"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%82%A4%E3%82%AB%E3%83%B3"
+  },
+  {
+    "id": "17754559154",
+    "name": "ワカ・イザラギ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-ワカ・イザラギ",
+      "name": "ワカ・イザラギ",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [
+      {
+        "id": "獄麗",
+        "name": "獄麗"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AF%E3%82%AB%E3%83%BB%E3%82%A4%E3%82%B6%E3%83%A9%E3%82%AE"
+  },
+  {
+    "id": "17754559155",
+    "name": "ヴェノモス",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-ヴェノモス",
+      "name": "ヴェノモス",
+      "grade": "等級不明",
+      "clan": "コドク・ニンジャクラン"
+    },
+    "organizations": [
+      {
+        "id": "ヘイ・ジウ",
+        "name": "ヘイ・ジウ"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%B4%E3%82%A7%E3%83%8E%E3%83%A2%E3%82%B9"
+  },
+  {
+    "id": "17754559156",
+    "name": "バニシングポイント",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ヘイ・ジウ",
+        "name": "ヘイ・ジウ"
+      }
+    ],
+    "appearances": [],
+    "status": "dead",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%83%8B%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88"
+  },
+  {
+    "id": "17754559157",
+    "name": "ブラッシュウッド",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-ブラッシュウッド",
+      "name": "ブラッシュウッド",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [
+      {
+        "id": "サマズ社",
+        "name": "サマズ社"
+      }
+    ],
+    "appearances": [],
+    "status": "dead",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%A6%E3%83%83%E3%83%89"
+  },
+  {
+    "id": "17754559158",
+    "name": "デシケイター",
+    "aliases": [
+      "エドゥアルト・ナランホ"
+    ],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "シンケンタメダ・カンザイ・メディケア社",
+        "name": "シンケンタメダ・カンザイ・メディケア社"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B7%E3%82%B1%E3%82%A4%E3%82%BF%E3%83%BC"
+  },
+  {
+    "id": "17754559159",
+    "name": "ススキ",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "シンケンタメダ・カンザイ・メディケア社",
+        "name": "シンケンタメダ・カンザイ・メディケア社"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%B9%E3%82%AD"
+  },
+  {
+    "id": "17754559160",
+    "name": "アンキタ",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "シンケンタメダ・カンザイ・メディケア社",
+        "name": "シンケンタメダ・カンザイ・メディケア社"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%B3%E3%82%AD%E3%82%BF"
+  },
+  {
+    "id": "17754559161",
+    "name": "ブラスハート",
+    "aliases": [
+      "カイル・オズモンド"
+    ],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "クラバサ・インコーポレイテッド",
+        "name": "クラバサ・インコーポレイテッド"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%82%B9%E3%83%8F%E3%83%BC%E3%83%88"
+  },
+  {
+    "id": "17754559162",
+    "name": "カヤシダ",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "クラバサ・インコーポレイテッド",
+        "name": "クラバサ・インコーポレイテッド"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%83%A4%E3%82%B7%E3%83%80"
+  },
+  {
+    "id": "17754559163",
+    "name": "トライアンフ",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "デクタ・サキモノ・エメツ・テクノロジー・アンド・リサーチ社",
+        "name": "デクタ・サキモノ・エメツ・テクノロジー・アンド・リサーチ社"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%88%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%95"
+  },
+  {
+    "id": "17754559164",
+    "name": "ルックアウト",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "デクタ・サキモノ・エメツ・テクノロジー・アンド・リサーチ社",
+        "name": "デクタ・サキモノ・エメツ・テクノロジー・アンド・リサーチ社"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AB%E3%83%83%E3%82%AF%E3%82%A2%E3%82%A6%E3%83%88"
+  },
+  {
+    "id": "17754559165",
+    "name": "サガサマ・ミネ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-サガサマ・ミネ",
+      "name": "サガサマ・ミネ",
+      "grade": "等級不明",
+      "clan": "アカラ・ニンジャクラン"
+    },
+    "organizations": [
+      {
+        "id": "チカハ社",
+        "name": "チカハ社"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%82%AC%E3%82%B5%E3%83%9E%E3%83%BB%E3%83%9F%E3%83%8D"
+  },
+  {
+    "id": "17754559166",
+    "name": "スカラー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-スカラー",
+      "name": "スカラー",
+      "grade": "等級不明",
+      "clan": "コダマ・ニンジャクラン"
+    },
+    "organizations": [
+      {
+        "id": "ヤナマンチ社",
+        "name": "ヤナマンチ社"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%AB%E3%83%A9%E3%83%BC"
+  },
+  {
+    "id": "17754559167",
+    "name": "スライサー",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ヤナマンチ社",
+        "name": "ヤナマンチ社"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%A9%E3%82%A4%E3%82%B5%E3%83%BC"
+  },
+  {
+    "id": "17754559168",
+    "name": "オホートニク",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "スダチカワフ・アームズ社",
+        "name": "スダチカワフ・アームズ社"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AA%E3%83%9B%E3%83%BC%E3%83%88%E3%83%8B%E3%82%AF"
+  },
+  {
+    "id": "17754559169",
+    "name": "アンタゴニス",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "アダナス・コーポレーション",
+        "name": "アダナス・コーポレーション"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%B3%E3%82%BF%E3%82%B4%E3%83%8B%E3%82%B9"
+  },
+  {
+    "id": "17754559170",
+    "name": "イータ",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "アダナス・コーポレーション",
+        "name": "アダナス・コーポレーション"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%83%BC%E3%82%BF"
+  },
+  {
+    "id": "17754559171",
+    "name": "スドク",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "アダナス・コーポレーション",
+        "name": "アダナス・コーポレーション"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%89%E3%82%AF"
+  },
+  {
+    "id": "17754559172",
+    "name": "シンゴ・アモ",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "シンゴ社",
+        "name": "シンゴ社"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%B3%E3%82%B4%E3%83%BB%E3%82%A2%E3%83%A2"
+  },
+  {
+    "id": "17754559173",
+    "name": "タバタ・ヤスキリ",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "シンゴ社",
+        "name": "シンゴ社"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%83%90%E3%82%BF%E3%83%BB%E3%83%A4%E3%82%B9%E3%82%AD%E3%83%AA"
+  },
+  {
+    "id": "17754559174",
+    "name": "ノンリニア",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "リロン・ケミカル社",
+        "name": "リロン・ケミカル社"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8E%E3%83%B3%E3%83%AA%E3%83%8B%E3%82%A2"
+  },
+  {
+    "id": "17754559175",
+    "name": "ハウリンウルフ",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "リロン・ケミカル社",
+        "name": "リロン・ケミカル社"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%82%A6%E3%83%AA%E3%83%B3%E3%82%A6%E3%83%AB%E3%83%95"
+  },
+  {
+    "id": "17754559176",
+    "name": "グルヤマ",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ピザスキ",
+        "name": "ピザスキ"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B0%E3%83%AB%E3%83%A4%E3%83%9E"
+  },
+  {
+    "id": "17754559177",
+    "name": "マトウ／タナパシ",
+    "aliases": [
+      "タナパシ"
+    ],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ピザスキ",
+        "name": "ピザスキ"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%83%88%E3%82%A6%EF%BC%8F%E3%82%BF%E3%83%8A%E3%83%91%E3%82%B7"
+  },
+  {
+    "id": "17754559178",
+    "name": "ディーン・ノミタケ",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ピザスキ",
+        "name": "ピザスキ"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%A3%E3%83%BC%E3%83%B3%E3%83%BB%E3%83%8E%E3%83%9F%E3%82%BF%E3%82%B1"
+  },
+  {
+    "id": "17754559179",
+    "name": "クルーカット",
+    "aliases": [
+      "ネゴシエイター"
+    ],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "カワザ・セイジツ・インコーポレイティッド",
+        "name": "カワザ・セイジツ・インコーポレイティッド"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%AB%E3%83%83%E3%83%88"
+  },
+  {
+    "id": "17754559180",
+    "name": "イグザミナー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-イグザミナー",
+      "name": "イグザミナー",
+      "grade": "等級不明",
+      "clan": "タコ・ニンジャクラン"
+    },
+    "organizations": [
+      {
+        "id": "ヤルキ重工",
+        "name": "ヤルキ重工"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%82%B0%E3%82%B6%E3%83%9F%E3%83%8A%E3%83%BC"
+  },
+  {
+    "id": "17754559181",
+    "name": "ネンダイキ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-ネンダイキ",
+      "name": "ネンダイキ",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [
+      {
+        "id": "ヤルキ重工",
+        "name": "ヤルキ重工"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8D%E3%83%B3%E3%83%80%E3%82%A4%E3%82%AD"
+  },
+  {
+    "id": "17754559182",
+    "name": "エグゾブレイド",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "アマテラス・アームズ社",
+        "name": "アマテラス・アームズ社"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%82%B0%E3%82%BE%E3%83%96%E3%83%AC%E3%82%A4%E3%83%89"
+  },
+  {
+    "id": "17754559183",
+    "name": "ヒナタ",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "アマテラス・アームズ社",
+        "name": "アマテラス・アームズ社"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%92%E3%83%8A%E3%82%BF"
+  },
+  {
+    "id": "17754559184",
+    "name": "カーク・コシカタ",
+    "aliases": [],
+    "ninjaType": "リアルニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "コシカタ・ファブリック社",
+        "name": "コシカタ・ファブリック社"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%B3%E3%82%B7%E3%82%AB%E3%82%BF"
+  },
+  {
+    "id": "17754559185",
+    "name": "カブトワリ",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "コシカタ・ファブリック社",
+        "name": "コシカタ・ファブリック社"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%83%96%E3%83%88%E3%83%AF%E3%83%AA"
+  },
+  {
+    "id": "17754559186",
+    "name": "カワダ・イチロク／カワダ・ナゴヤ",
+    "aliases": [
+      "カワダ・イチロク"
+    ],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ダイハンジョウ",
+        "name": "ダイハンジョウ"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%83%AF%E3%83%80%E3%83%BB%E3%82%A4%E3%83%81%E3%83%AD%E3%82%AF%EF%BC%8F%E3%82%AB%E3%83%AF%E3%83%80%E3%83%BB%E3%83%8A%E3%82%B4%E3%83%A4"
+  },
+  {
+    "id": "17754559187",
+    "name": "オノマチ・ツルゴ",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "トクボ・ファイナンス",
+        "name": "トクボ・ファイナンス"
+      }
+    ],
+    "appearances": [],
+    "status": "dead",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AA%E3%83%8E%E3%83%9E%E3%83%81%E3%83%BB%E3%83%84%E3%83%AB%E3%82%B4"
+  },
+  {
+    "id": "17754559188",
+    "name": "センダイユメコ",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ウキヨポリス",
+        "name": "ウキヨポリス"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BB%E3%83%B3%E3%83%80%E3%82%A4%E3%83%A6%E3%83%A1%E3%82%B3"
+  },
+  {
+    "id": "17754559189",
+    "name": "リンゴアメ",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ウキヨポリス",
+        "name": "ウキヨポリス"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AA%E3%83%B3%E3%82%B4%E3%82%A2%E3%83%A1"
+  },
+  {
+    "id": "17754559190",
+    "name": "バギヌキ",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "ウキヨポリス",
+        "name": "ウキヨポリス"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%82%AE%E3%83%8C%E3%82%AD"
+  },
+  {
+    "id": "17754559191",
+    "name": "ウリエル",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-ウリエル",
+      "name": "ウリエル",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [
+      {
+        "id": "論理聖教会",
+        "name": "論理聖教会"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%83%AA%E3%82%A8%E3%83%AB"
+  },
+  {
+    "id": "17754559192",
+    "name": "アイアンフォージド",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-アイアンフォージド",
+      "name": "アイアンフォージド",
+      "grade": "等級不明",
+      "clan": "ブラド・ニンジャクラン"
+    },
+    "organizations": [
+      {
+        "id": "論理聖教会",
+        "name": "論理聖教会"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B8%E3%83%89"
+  },
+  {
+    "id": "17754559193",
+    "name": "セラフィムニンジャ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-セラフィムニンジャ",
+      "name": "セラフィムニンジャ",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [
+      {
+        "id": "論理聖教会",
+        "name": "論理聖教会"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BB%E3%83%A9%E3%83%95%E3%82%A3%E3%83%A0%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "17754559194",
+    "name": "ラグエル",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "論理聖教会",
+        "name": "論理聖教会"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%82%B0%E3%82%A8%E3%83%AB"
+  },
+  {
+    "id": "17754559195",
+    "name": "アキナ・モリナガ・セオ",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "論理聖教会",
+        "name": "論理聖教会"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%AD%E3%83%8A%E3%83%BB%E3%83%A2%E3%83%AA%E3%83%8A%E3%82%AC%E3%83%BB%E3%82%BB%E3%82%AA"
+  },
+  {
+    "id": "17754559196",
+    "name": "クラウドスティーラー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-クラウドスティーラー",
+      "name": "クラウドスティーラー",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [
+      {
+        "id": "論理聖教会",
+        "name": "論理聖教会"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%A9%E3%83%BC"
+  },
+  {
+    "id": "17754559197",
+    "name": "リュウモンジ／ジャケタ",
+    "aliases": [
+      "リュウモンジ"
+    ],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AA%E3%83%A5%E3%82%A6%E3%83%A2%E3%83%B3%E3%82%B8%EF%BC%8F%E3%82%B8%E3%83%A3%E3%82%B1%E3%82%BF#ryumonji"
+  },
+  {
+    "id": "17754559198",
+    "name": "リュウモンジ／ジャケタ",
+    "aliases": [
+      "ジャケタ"
+    ],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AA%E3%83%A5%E3%82%A6%E3%83%A2%E3%83%B3%E3%82%B8%EF%BC%8F%E3%82%B8%E3%83%A3%E3%82%B1%E3%82%BF#jaketa"
+  },
+  {
+    "id": "17754559199",
+    "name": "ゼバ・ザクマ",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BC%E3%83%90%E3%83%BB%E3%82%B6%E3%82%AF%E3%83%9E"
+  },
+  {
+    "id": "17754559200",
+    "name": "トバ・ユウト",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%88%E3%83%90%E3%83%BB%E3%83%A6%E3%82%A6%E3%83%88"
+  },
+  {
+    "id": "17754559201",
+    "name": "ニューロサージ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-ニューロサージ",
+      "name": "ニューロサージ",
+      "grade": "等級不明",
+      "clan": "ボトク・ニンジャクラン"
+    },
+    "organizations": [],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%AD%E3%82%B5%E3%83%BC%E3%82%B8"
+  },
+  {
+    "id": "17754559202",
+    "name": "スカルヘッド",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%98%E3%83%83%E3%83%89"
+  },
+  {
+    "id": "17754559203",
+    "name": "ストリングベンド",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-ストリングベンド",
+      "name": "ストリングベンド",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%88%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%99%E3%83%B3%E3%83%89"
+  },
+  {
+    "id": "17754559204",
+    "name": "コーストウインド",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-コーストウインド",
+      "name": "コーストウインド",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B3%E3%83%BC%E3%82%B9%E3%83%88%E3%82%A6%E3%82%A4%E3%83%B3%E3%83%89"
+  },
+  {
+    "id": "NFILES17205",
+    "name": "N-FILESに名前のみ登場",
+    "aliases": [
+      "デビルズカインド"
+    ],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [],
+    "appearances": [],
+    "status": "dead",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%83%93%E3%83%AB%E3%82%BA%E3%82%AB%E3%82%A4%E3%83%B3%E3%83%89"
+  },
+  {
+    "id": "17754559206",
+    "name": "トジカタ・ウルフ",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%88%E3%82%B8%E3%82%AB%E3%82%BF%E3%83%BB%E3%82%A6%E3%83%AB%E3%83%95"
+  },
+  {
+    "id": "17754559207",
+    "name": "ブラッドドッグ",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%83%83%E3%83%89%E3%83%89%E3%83%83%E3%82%B0"
+  },
+  {
+    "id": "17754559208",
+    "name": "テンペスター",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [],
+    "appearances": [],
+    "status": "dead",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%86%E3%83%B3%E3%83%9A%E3%82%B9%E3%82%BF%E3%83%BC"
+  },
+  {
+    "id": "17754559209",
+    "name": "ボイコット",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9C%E3%82%A4%E3%82%B3%E3%83%83%E3%83%88"
+  },
+  {
+    "id": "17754559210",
+    "name": "ワープリング／バッカーニア",
+    "aliases": [
+      "バッカーニア"
+    ],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AF%E3%83%BC%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B0%EF%BC%8F%E3%83%90%E3%83%83%E3%82%AB%E3%83%BC%E3%83%8B%E3%82%A2"
+  },
+  {
+    "id": "17754559211",
+    "name": "ブラッドサッカー",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%83%83%E3%83%89%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC"
+  },
+  {
+    "id": "31775455212",
+    "name": "サイダ3",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%82%A4%E3%83%803"
+  },
+  {
+    "id": "17754559213",
+    "name": "ウッドマン",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-ウッドマン",
+      "name": "ウッドマン",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [
+      {
+        "id": "フーディーギャング",
+        "name": "フーディーギャング"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%83%83%E3%83%89%E3%83%9E%E3%83%B3"
+  },
+  {
+    "id": "17754559214",
+    "name": "ブラッドレイス",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-ブラッドレイス",
+      "name": "ブラッドレイス",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [
+      {
+        "id": "フーディーギャング",
+        "name": "フーディーギャング"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%83%83%E3%83%89%E3%83%AC%E3%82%A4%E3%82%B9"
+  },
+  {
+    "id": "17754559215",
+    "name": "タランテラ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-タランテラ",
+      "name": "タランテラ",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [
+      {
+        "id": "フーディーギャング",
+        "name": "フーディーギャング"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%83%A9%E3%83%B3%E3%83%86%E3%83%A9"
+  },
+  {
+    "id": "17754559216",
+    "name": "シューティングスター",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-シューティングスター",
+      "name": "シューティングスター",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [
+      {
+        "id": "フーディーギャング",
+        "name": "フーディーギャング"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%82%BF%E3%83%BC"
+  },
+  {
+    "id": "17754559217",
+    "name": "アスタロス",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-アスタロス",
+      "name": "アスタロス",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [
+      {
+        "id": "フーディーギャング",
+        "name": "フーディーギャング"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%B9%E3%82%BF%E3%83%AD%E3%82%B9"
+  },
+  {
+    "id": "17754559218",
+    "name": "ユーチャリス",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "フーディーギャング",
+        "name": "フーディーギャング"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A6%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AA%E3%82%B9"
+  },
+  {
+    "id": "17754559219",
+    "name": "マグナカルタ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-マグナカルタ",
+      "name": "マグナカルタ",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [
+      {
+        "id": "フーディーギャング",
+        "name": "フーディーギャング"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%B0%E3%83%8A%E3%82%AB%E3%83%AB%E3%82%BF"
+  },
+  {
+    "id": "17754559220",
+    "name": "マッドカッパ",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "フーディーギャング",
+        "name": "フーディーギャング"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%83%83%E3%83%89%E3%82%AB%E3%83%83%E3%83%91"
+  },
+  {
+    "id": "17754559221",
+    "name": "テラートリガー",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "フーディーギャング",
+        "name": "フーディーギャング"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%86%E3%83%A9%E3%83%BC%E3%83%88%E3%83%AA%E3%82%AC%E3%83%BC"
+  },
+  {
+    "id": "17754559222",
+    "name": "キャラコ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-キャラコ",
+      "name": "キャラコ",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%B3"
+  },
+  {
+    "id": "17754559223",
+    "name": "ウォーペイント",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-ウォーペイント",
+      "name": "ウォーペイント",
+      "grade": "等級不明",
+      "clan": "ノルド・ニンジャクラン"
+    },
+    "organizations": [
+      {
+        "id": "その他",
+        "name": "その他"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%9A%E3%82%A4%E3%83%B3%E3%83%88"
+  },
+  {
+    "id": "17754559224",
+    "name": "キャプテンジェネラル",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-キャプテンジェネラル",
+      "name": "キャプテンジェネラル",
+      "grade": "等級不明",
+      "clan": "ノーム・ニンジャクラン"
+    },
+    "organizations": [
+      {
+        "id": "その他",
+        "name": "その他"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AD%E3%83%A3%E3%83%97%E3%83%86%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%A9%E3%83%AB"
+  },
+  {
+    "id": "17754559225",
+    "name": "サイサムライ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-サイサムライ",
+      "name": "サイサムライ",
+      "grade": "等級不明",
+      "clan": "ヨロイ・ニンジャクラン"
+    },
+    "organizations": [
+      {
+        "id": "その他",
+        "name": "その他"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%82%A4%E3%82%B5%E3%83%A0%E3%83%A9%E3%82%A4"
+  },
+  {
+    "id": "17754559226",
+    "name": "ストライダー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-ストライダー",
+      "name": "ストライダー",
+      "grade": "等級不明",
+      "clan": null
+    },
+    "organizations": [
+      {
+        "id": "その他",
+        "name": "その他"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC"
+  },
+  {
+    "id": "17754559227",
+    "name": "チリングブレード",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "soul-チリングブレード",
+      "name": "チリングブレード",
+      "grade": "等級不明",
+      "clan": "コリ・ニンジャクラン"
+    },
+    "organizations": [
+      {
+        "id": "その他",
+        "name": "その他"
+      }
+    ],
+    "appearances": [],
+    "status": "alive",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%81%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%96%E3%83%AC%E3%83%BC%E3%83%89"
+  },
+  {
+    "id": "17754559228",
+    "name": "レッドキャップ",
+    "aliases": [],
+    "ninjaType": null,
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "その他",
+        "name": "その他"
+      }
+    ],
+    "appearances": [],
+    "status": "dead",
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%83%83%E3%83%89%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97"
+  },
+  {
+    "id": "17754559229",
+    "name": "タカ・キンケイド・コウイチ",
+    "aliases": [
+      "キンキー・コウイチ"
+    ],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "その他",
+        "name": "その他"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%82%B7%E3%83%AA%E3%83%BB%E3%83%A2%E3%83%8E%E9%81%8B%E5%96%B6%E9%96%A2%E4%BF%82%E8%80%85#e0004f4c"
+  },
+  {
+    "id": "17754559230",
+    "name": "マナブ／スゴイヘッド",
+    "aliases": [
+      "スゴイヘッド"
+    ],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "その他",
+        "name": "その他"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%83%8A%E3%83%96%EF%BC%8F%E3%82%B9%E3%82%B4%E3%82%A4%E3%83%98%E3%83%83%E3%83%89"
+  },
+  {
+    "id": "17754559231",
+    "name": "ヒナヤ・イケル・タニグチ",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "その他",
+        "name": "その他"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%92%E3%83%8A%E3%83%A4%E3%83%BB%E3%82%A4%E3%82%B1%E3%83%AB%E3%83%BB%E3%82%BF%E3%83%8B%E3%82%B0%E3%83%81"
+  },
+  {
+    "id": "17754559232",
+    "name": "ヘルゲート",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "その他",
+        "name": "その他"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%AB%E3%82%B2%E3%83%BC%E3%83%88"
+  },
+  {
+    "id": "17754559233",
+    "name": "マッチ・ジュンゴー",
+    "aliases": [
+      "ホバタ・ジュンゴー"
+    ],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "その他",
+        "name": "その他"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%83%83%E3%83%81%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%B3%E3%82%B4%E3%83%BC"
+  },
+  {
+    "id": "17754559234",
+    "name": "モーティマー・オムラ",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "ninjaSoul": null,
+    "organizations": [
+      {
+        "id": "その他",
+        "name": "その他"
+      }
+    ],
+    "appearances": [],
+    "status": null,
+    "description": null,
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%83%9E%E3%83%BC%E3%83%BB%E3%82%AA%E3%83%A0%E3%83%A9"
   }
 ]
