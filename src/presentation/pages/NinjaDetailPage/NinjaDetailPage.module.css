@@ -4,8 +4,14 @@
   gap: 1.5rem;
 }
 
+/* ---- トップバー（戻るボタン + 編集ボタン） ---- */
+.topBar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
 .backButton {
-  align-self: flex-start;
   padding: 0.5rem 1rem;
   border: 1px solid var(--color-border);
   border-radius: var(--radius-sm);
@@ -22,6 +28,25 @@
   border-color: var(--color-primary);
 }
 
+.editButton {
+  padding: 0.5rem 1.25rem;
+  border: 1px solid var(--color-accent);
+  border-radius: var(--radius-sm);
+  background: transparent;
+  color: var(--color-accent);
+  cursor: pointer;
+  font-size: 0.95rem;
+  font-weight: 600;
+  transition: all 0.2s ease;
+  font-family: var(--font-family);
+}
+
+.editButton:hover {
+  background: var(--color-accent);
+  color: #000;
+}
+
+/* ---- 読み込み / 未検索 ---- */
 .loading,
 .notFound {
   text-align: center;
@@ -37,202 +62,285 @@
   color: var(--color-text);
 }
 
+/* ---- メインコンテナ ---- */
 .container {
   display: flex;
   flex-direction: column;
-  gap: 2rem;
+  gap: 1.75rem;
   background: var(--color-surface);
   border: 1px solid var(--color-border);
   border-radius: var(--radius-md);
   padding: 2rem;
 }
 
+/* ---- ヘッダー ---- */
 .header {
   display: flex;
   flex-direction: column;
-  gap: 1rem;
+  gap: 0.6rem;
   border-bottom: 2px solid var(--color-border);
-  padding-bottom: 1.5rem;
+  padding-bottom: 1.25rem;
 }
 
-.nameSection {
+.nameRow {
   display: flex;
-  gap: 1rem;
   align-items: center;
+  gap: 1rem;
   flex-wrap: wrap;
 }
 
 .name {
   margin: 0;
-  font-size: 2.5rem;
+  font-size: 2.2rem;
   color: var(--color-primary);
   line-height: 1.1;
 }
 
+.statusBadge {
+  padding: 0.3rem 0.8rem;
+  border-radius: var(--radius-sm);
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+}
+.statusAlive  { background: rgba(6,214,160,0.15);  color: var(--color-arc);    border: 1px solid rgba(6,214,160,0.4); }
+.statusDead   { background: rgba(230,57,70,0.15);   color: var(--color-primary);border: 1px solid rgba(230,57,70,0.4); }
+.statusUnknown{ background: rgba(136,136,136,0.15); color: var(--color-text-muted); border: 1px solid rgba(136,136,136,0.3); }
+
 .realName {
   margin: 0;
-  font-size: 1.1rem;
+  font-size: 0.95rem;
   color: var(--color-text-muted);
-  font-style: italic;
 }
 
+/* ---- 基本情報グリッド ---- */
+.infoGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+}
+
+.infoItem {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.infoLabel {
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--color-text-muted);
+}
+
+.infoValue {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+/* ---- タグ共通 ---- */
+.tagRow {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.aliasTag {
+  padding: 0.3rem 0.75rem;
+  background: rgba(255,214,10,0.1);
+  color: var(--color-accent);
+  border: 1px solid rgba(255,214,10,0.3);
+  border-radius: var(--radius-sm);
+  font-size: 0.88rem;
+}
+
+.ninjaTypeTag {
+  padding: 0.35rem 0.85rem;
+  background: rgba(0,180,216,0.12);
+  color: var(--color-org);
+  border: 1px solid rgba(0,180,216,0.35);
+  border-radius: var(--radius-sm);
+  font-size: 0.88rem;
+  font-weight: 600;
+}
+
+/* ---- セクション共通 ---- */
 .section {
   display: flex;
   flex-direction: column;
-  gap: 1rem;
+  gap: 0.75rem;
 }
 
 .sectionTitle {
   margin: 0;
-  font-size: 1.2rem;
-  color: var(--color-text);
+  font-size: 0.8rem;
+  font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.1em;
   color: var(--color-accent);
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--color-border);
 }
 
-.aliases {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.75rem;
-}
-
-.alias {
-  background: rgba(255, 214, 10, 0.1);
-  color: var(--color-accent);
-  padding: 0.5rem 1rem;
-  border-radius: var(--radius-sm);
-  border: 1px solid rgba(255, 214, 10, 0.3);
-}
-
-.soul {
-  display: flex;
-  flex-direction: column;
-  gap: 0.75rem;
-}
-
-.ninjaType {
-  display: inline-block;
-  padding: 0.4rem 0.9rem;
-  background: rgba(0, 180, 216, 0.12);
-  color: var(--color-org);
-  border: 1px solid rgba(0, 180, 216, 0.35);
-  border-radius: var(--radius-sm);
-  font-size: 0.9rem;
-  font-weight: 600;
-}
-
-.soulName {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-  align-items: center;
-}
-
-.soulGrade {
-  display: inline-block;
-  padding: 0.3rem 0.7rem;
-  background: rgba(155, 93, 229, 0.12);
-  color: var(--color-soul);
-  border: 1px solid rgba(155, 93, 229, 0.35);
-  border-radius: var(--radius-sm);
-  font-size: 0.85rem;
-  font-weight: 600;
-}
-
-.soulClan {
-  display: inline-block;
-  padding: 0.3rem 0.7rem;
-  background: rgba(6, 214, 160, 0.1);
-  color: var(--color-arc);
-  border: 1px solid rgba(6, 214, 160, 0.3);
-  border-radius: var(--radius-sm);
-  font-size: 0.85rem;
-}
-
-.soulOrigin {
-  margin: 0;
+.emptyValue {
+  font-size: 0.88rem;
   color: var(--color-text-muted);
-  font-size: 0.95rem;
+  font-style: italic;
 }
 
-.organizations {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.75rem;
-}
-
-.skills {
-  margin: 0;
-  padding-left: 2rem;
-  display: flex;
-  flex-direction: column;
-  gap: 0.5rem;
-}
-
-.skills li {
-  color: var(--color-text);
-}
-
-.episodes {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-  gap: 1rem;
-}
-
-.episode {
+/* ---- ニンジャソウル ---- */
+.soulCard {
   background: var(--color-bg);
-  border: 1px solid var(--color-border);
+  border: 1px solid rgba(155,93,229,0.25);
   border-radius: var(--radius-sm);
   padding: 1rem;
   display: flex;
   flex-direction: column;
-  gap: 0.5rem;
+  gap: 0.75rem;
 }
 
-.episodeTitle {
+.soulHeader {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  flex-wrap: wrap;
+}
+
+.soulGrade {
+  padding: 0.25rem 0.6rem;
+  background: rgba(155,93,229,0.12);
+  color: var(--color-soul);
+  border: 1px solid rgba(155,93,229,0.35);
+  border-radius: var(--radius-sm);
+  font-size: 0.82rem;
   font-weight: 600;
+}
+
+.soulDetail {
+  margin: 0;
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  gap: 0.3rem 1rem;
+  font-size: 0.88rem;
+}
+
+.soulDetail dt {
+  color: var(--color-text-muted);
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding-top: 0.1rem;
+}
+
+.soulDetail dd {
+  margin: 0;
   color: var(--color-text);
 }
 
-.episodeMeta {
+/* ---- スキルリスト ---- */
+.skillList {
+  margin: 0;
+  padding-left: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.skillList li {
+  color: var(--color-text);
+  font-size: 0.95rem;
+}
+
+/* ---- エピソード ---- */
+.episodeGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  gap: 0.75rem;
+}
+
+.episodeCard {
+  background: var(--color-bg);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  padding: 0.75rem 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.epTitle {
+  font-weight: 600;
+  color: var(--color-text);
+  font-size: 0.9rem;
+}
+
+.epMeta {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.4rem;
+  gap: 0.35rem;
   align-items: center;
 }
 
-.episodeSeason {
-  display: inline-block;
-  padding: 0.2rem 0.5rem;
-  background: rgba(255, 214, 10, 0.1);
+.epSeason {
+  padding: 0.15rem 0.45rem;
+  background: rgba(255,214,10,0.1);
   color: var(--color-accent);
-  border: 1px solid rgba(255, 214, 10, 0.3);
+  border: 1px solid rgba(255,214,10,0.3);
   border-radius: 3px;
-  font-size: 0.78rem;
+  font-size: 0.75rem;
   font-weight: 700;
 }
 
+/* ---- 説明 ---- */
 .description {
   margin: 0;
   color: var(--color-text);
-  line-height: 1.6;
-  font-size: 1rem;
+  line-height: 1.7;
+  font-size: 0.95rem;
+}
+
+/* ---- メタ情報フッター ---- */
+.metaFooter {
+  margin-top: 0.5rem;
+  padding-top: 1rem;
+  border-top: 1px dashed var(--color-border);
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.metaRow {
+  display: flex;
+  align-items: baseline;
+  gap: 0.75rem;
+  font-size: 0.82rem;
+}
+
+.metaLabel {
+  flex-shrink: 0;
+  width: 4rem;
+  color: var(--color-text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.metaCode {
+  color: var(--color-text-muted);
+  font-family: monospace;
+  font-size: 0.8rem;
+  word-break: break-all;
 }
 
 .wikiLink {
-  display: inline-block;
-  padding: 0.75rem 1rem;
-  background: var(--color-primary);
-  color: white;
+  color: var(--color-org);
   text-decoration: none;
-  border-radius: var(--radius-sm);
-  transition: all 0.2s ease;
-  font-weight: 600;
-  width: fit-content;
+  font-size: 0.82rem;
+  word-break: break-all;
 }
 
 .wikiLink:hover {
-  background: var(--color-accent);
-  color: black;
+  text-decoration: underline;
 }

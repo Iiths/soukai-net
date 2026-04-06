@@ -86,6 +86,8 @@ export function AdvancedSearchPage() {
         arcs={arcs}
         ninjaSouls={ninjaSouls}
         organizations={organizations}
+        seasons={[]}
+        ninjaSoulClans={[]}
       />
 
       {isLoading && (

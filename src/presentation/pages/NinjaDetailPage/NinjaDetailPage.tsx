@@ -3,6 +3,35 @@ import { useNinjaDetail } from '../../hooks/useNinjaDetail';
 import { Badge } from '../../components/Badge/Badge';
 import styles from './NinjaDetailPage.module.css';
 
+const STATUS_LABEL: Record<string, string> = {
+  alive: '生存',
+  dead: '死亡',
+  unknown: '不明',
+};
+
+const STATUS_CLASS: Record<string, string> = {
+  alive: styles.statusAlive,
+  dead: styles.statusDead,
+  unknown: styles.statusUnknown,
+};
+
+/** 値がある（null/undefined/''/[]でない）かを判定 */
+function hasValue(v: unknown): boolean {
+  if (v === null || v === undefined) return false;
+  if (typeof v === 'string') return v.trim().length > 0;
+  if (Array.isArray(v)) return v.length > 0;
+  return true;
+}
+
+/** 未登録の場合に表示するプレースホルダー */
+function Empty({ label }: { label: string }) {
+  return (
+    <span className={styles.emptyValue}>
+      {label}（未登録）
+    </span>
+  );
+}
+
 export function NinjaDetailPage() {
   const { id = '' } = useParams<{ id: string }>();
   const navigate = useNavigate();
@@ -31,124 +60,166 @@ export function NinjaDetailPage() {
 
   return (
     <div className={styles.page}>
-      <button onClick={() => navigate(-1)} className={styles.backButton}>
-        ← 戻る
-      </button>
+      <div className={styles.topBar}>
+        <button onClick={() => navigate(-1)} className={styles.backButton}>
+          ← 戻る
+        </button>
+        <button
+          onClick={() => navigate(`/ninja/${ninja.id}/edit`)}
+          className={styles.editButton}
+        >
+          編集
+        </button>
+      </div>
 
       <div className={styles.container}>
+        {/* ヘッダー: 名前・ステータス */}
         <div className={styles.header}>
-          <div className={styles.nameSection}>
+          <div className={styles.nameRow}>
             <h1 className={styles.name}>{ninja.name}</h1>
-            {ninja.status && (
-              <Badge variant="status" text={ninja.status} />
+            {hasValue(ninja.status) && (
+              <span className={`${styles.statusBadge} ${STATUS_CLASS[ninja.status!] ?? ''}`}>
+                {STATUS_LABEL[ninja.status!] ?? ninja.status}
+              </span>
             )}
           </div>
-
-          {ninja.realName && (
-            <p className={styles.realName}>{ninja.realName}</p>
+          {hasValue(ninja.realName) && (
+            <p className={styles.realName}>本名: {ninja.realName}</p>
           )}
         </div>
 
-        {ninja.aliases && ninja.aliases.length > 0 && (
-          <section className={styles.section}>
-            <h2 className={styles.sectionTitle}>別名</h2>
-            <div className={styles.aliases}>
-              {ninja.aliases.map((alias, idx) => (
-                <span key={idx} className={styles.alias}>
-                  {alias}
-                </span>
-              ))}
+        {/* 基本情報グリッド */}
+        <div className={styles.infoGrid}>
+          {/* 別名 */}
+          <div className={styles.infoItem}>
+            <div className={styles.infoLabel}>別名</div>
+            <div className={styles.infoValue}>
+              {hasValue(ninja.aliases) ? (
+                <div className={styles.tagRow}>
+                  {ninja.aliases!.map((alias, i) => (
+                    <span key={i} className={styles.aliasTag}>{alias}</span>
+                  ))}
+                </div>
+              ) : <Empty label="別名" />}
             </div>
-          </section>
-        )}
+          </div>
 
-        {ninja.ninjaType && (
-          <section className={styles.section}>
-            <h2 className={styles.sectionTitle}>ニンジャタイプ</h2>
-            <span className={styles.ninjaType}>{ninja.ninjaType}</span>
-          </section>
-        )}
+          {/* ニンジャタイプ */}
+          <div className={styles.infoItem}>
+            <div className={styles.infoLabel}>ニンジャタイプ</div>
+            <div className={styles.infoValue}>
+              {hasValue(ninja.ninjaType)
+                ? <span className={styles.ninjaTypeTag}>{ninja.ninjaType}</span>
+                : <Empty label="タイプ" />}
+            </div>
+          </div>
+        </div>
 
-        {ninja.ninjaSoul && (
-          <section className={styles.section}>
-            <h2 className={styles.sectionTitle}>ニンジャソウル</h2>
-            <div className={styles.soul}>
-              <div className={styles.soulName}>
+        {/* ニンジャソウル */}
+        <section className={styles.section}>
+          <h2 className={styles.sectionTitle}>ニンジャソウル</h2>
+          {ninja.ninjaSoul ? (
+            <div className={styles.soulCard}>
+              <div className={styles.soulHeader}>
                 <Badge variant="soul" text={ninja.ninjaSoul.name} />
-                {ninja.ninjaSoul.grade && (
+                {hasValue(ninja.ninjaSoul.grade) && (
                   <span className={styles.soulGrade}>{ninja.ninjaSoul.grade}ニンジャ</span>
                 )}
-                {ninja.ninjaSoul.clan && (
-                  <span className={styles.soulClan}>{ninja.ninjaSoul.clan}</span>
-                )}
               </div>
-              {ninja.ninjaSoul.origin && (
-                <p className={styles.soulOrigin}>{ninja.ninjaSoul.origin}</p>
-              )}
+              <dl className={styles.soulDetail}>
+                <dt>クラン</dt>
+                <dd>{hasValue(ninja.ninjaSoul.clan) ? ninja.ninjaSoul.clan : <Empty label="クラン" />}</dd>
+                {hasValue(ninja.ninjaSoul.origin) && (
+                  <>
+                    <dt>出自</dt>
+                    <dd>{ninja.ninjaSoul.origin}</dd>
+                  </>
+                )}
+              </dl>
             </div>
-          </section>
-        )}
+          ) : (
+            <Empty label="ニンジャソウル" />
+          )}
+        </section>
 
-        {ninja.organizations && ninja.organizations.length > 0 && (
-          <section className={styles.section}>
-            <h2 className={styles.sectionTitle}>所属組織</h2>
-            <div className={styles.organizations}>
-              {ninja.organizations.map((org) => (
+        {/* 所属組織 */}
+        <section className={styles.section}>
+          <h2 className={styles.sectionTitle}>所属組織</h2>
+          {hasValue(ninja.organizations) ? (
+            <div className={styles.tagRow}>
+              {ninja.organizations!.map((org) => (
                 <Badge key={org.id} variant="org" text={org.name} />
               ))}
             </div>
-          </section>
-        )}
+          ) : <Empty label="所属組織" />}
+        </section>
 
-        {ninja.skills && ninja.skills.length > 0 && (
-          <section className={styles.section}>
-            <h2 className={styles.sectionTitle}>忍術・スキル</h2>
-            <ul className={styles.skills}>
-              {ninja.skills.map((skill, idx) => (
-                <li key={idx}>{skill}</li>
+        {/* 忍術・スキル */}
+        <section className={styles.section}>
+          <h2 className={styles.sectionTitle}>忍術・スキル</h2>
+          {hasValue(ninja.skills) ? (
+            <ul className={styles.skillList}>
+              {ninja.skills!.map((skill, i) => (
+                <li key={i}>{skill}</li>
               ))}
             </ul>
-          </section>
-        )}
+          ) : <Empty label="スキル" />}
+        </section>
 
-        {ninja.appearances && ninja.appearances.length > 0 && (
-          <section className={styles.section}>
-            <h2 className={styles.sectionTitle}>登場エピソード</h2>
-            <div className={styles.episodes}>
+        {/* 登場エピソード */}
+        <section className={styles.section}>
+          <h2 className={styles.sectionTitle}>登場エピソード</h2>
+          {hasValue(ninja.appearances) ? (
+            <div className={styles.episodeGrid}>
               {ninja.appearances.map((ep) => (
-                <div key={ep.id} className={styles.episode}>
-                  <div className={styles.episodeTitle}>{ep.title}</div>
-                  <div className={styles.episodeMeta}>
-                    {ep.arc && <Badge variant="arc" text={ep.arc} />}
+                <div key={ep.id} className={styles.episodeCard}>
+                  <div className={styles.epTitle}>{ep.title}</div>
+                  <div className={styles.epMeta}>
+                    {hasValue(ep.arc) && <Badge variant="arc" text={ep.arc!} />}
                     {ep.season !== undefined && (
-                      <span className={styles.episodeSeason}>S{ep.season}</span>
+                      <span className={styles.epSeason}>S{ep.season}</span>
                     )}
                   </div>
                 </div>
               ))}
             </div>
-          </section>
-        )}
+          ) : <Empty label="エピソード" />}
+        </section>
 
-        {ninja.description && (
-          <section className={styles.section}>
-            <h2 className={styles.sectionTitle}>説明</h2>
-            <p className={styles.description}>{ninja.description}</p>
-          </section>
-        )}
+        {/* 説明 */}
+        <section className={styles.section}>
+          <h2 className={styles.sectionTitle}>説明</h2>
+          {hasValue(ninja.description)
+            ? <p className={styles.description}>{ninja.description}</p>
+            : <Empty label="説明" />}
+        </section>
 
-        {ninja.wikiUrl && (
-          <section className={styles.section}>
-            <a
-              href={ninja.wikiUrl}
-              target="_blank"
-              rel="noopener noreferrer"
-              className={styles.wikiLink}
-            >
-              Wikiで詳細を見る →
-            </a>
-          </section>
-        )}
+        {/* メタ情報フッター */}
+        <div className={styles.metaFooter}>
+          <div className={styles.metaRow}>
+            <span className={styles.metaLabel}>ID</span>
+            <code className={styles.metaCode}>{ninja.id}</code>
+          </div>
+          {hasValue(ninja.imageUrl) && (
+            <div className={styles.metaRow}>
+              <span className={styles.metaLabel}>画像URL</span>
+              <code className={styles.metaCode}>{ninja.imageUrl}</code>
+            </div>
+          )}
+          {hasValue(ninja.wikiUrl) && (
+            <div className={styles.metaRow}>
+              <span className={styles.metaLabel}>Wiki</span>
+              <a
+                href={ninja.wikiUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                className={styles.wikiLink}
+              >
+                {ninja.wikiUrl}
+              </a>
+            </div>
+          )}
+        </div>
       </div>
     </div>
   );

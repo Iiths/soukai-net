@@ -5,6 +5,14 @@ export type NinjaSoulGrade =
   | '等級不明'
   | '等級なし';
 
+export const NINJA_SOUL_GRADES: NinjaSoulGrade[] = [
+  'アーチ級',
+  'グレーター級',
+  'レッサー級',
+  '等級不明',
+  '等級なし',
+];
+
 export type NinjaSoul = {
   id: string;
   name: string;
