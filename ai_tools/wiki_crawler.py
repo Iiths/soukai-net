@@ -440,6 +440,8 @@ def create_new_entry(name: str, org_name: str, wiki_url: "str | None", detail: d
         "name":          name,
         "organizations": [{"id": org_id_from_name(org_name), "name": org_name}],
         "appearances":   [],
+        # role / appearance はWikiページから自動抽出が困難なため手動入力フィールド
+        # スクレイピングでは設定しない（null = 未登録扱い）
     }
     if wiki_url:
         entry["wikiUrl"] = wiki_url

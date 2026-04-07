@@ -113,7 +113,25 @@ export function NinjaDetailPage() {
                 : <Empty label="タイプ" />}
             </div>
           </div>
+
+          {/* 役職 */}
+          <div className={styles.infoItem}>
+            <div className={styles.infoLabel}>役職</div>
+            <div className={styles.infoValue}>
+              {hasValue(ninja.role)
+                ? <span className={styles.roleTag}>{ninja.role}</span>
+                : <Empty label="役職" />}
+            </div>
+          </div>
         </div>
+
+        {/* 外見 */}
+        {hasValue(ninja.appearance) && (
+          <section className={styles.section}>
+            <h2 className={styles.sectionTitle}>外見</h2>
+            <p className={styles.appearanceText}>{ninja.appearance}</p>
+          </section>
+        )}
 
         {/* ニンジャソウル */}
         <section className={styles.section}>

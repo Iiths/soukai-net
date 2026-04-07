@@ -315,6 +315,25 @@
   font-weight: 700;
 }
 
+/* ---- Role tag ---- */
+.roleTag {
+  padding: 0.28rem 0.75rem;
+  background: rgba(255, 214, 10, 0.08);
+  color: var(--color-accent);
+  border: 1px solid rgba(255, 214, 10, 0.28);
+  border-radius: var(--radius-sm);
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+/* ---- Appearance text ---- */
+.appearanceText {
+  margin: 0;
+  color: var(--color-text-secondary);
+  line-height: 1.75;
+  font-size: 0.93rem;
+}
+
 /* ---- Description ---- */
 .description {
   margin: 0;

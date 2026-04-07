@@ -145,6 +145,26 @@ npm run preview
 
 **データの追加方法**: [ニンジャスレイヤーWiki](https://wikiwiki.jp/njslyr/) のキャラクターページを参照し、スキーマ（`src/domain/entities/Ninja.ts`）に従ってJSONを追記してください。Claude に「このWikiのテキストをninjas.jsonのスキーマに変換して」と依頼することも可能です。
 
+### データスキーマ（主要フィールド）
+
+| フィールド | 型 | 内容 | 収集方法 |
+|---|---|---|---|
+| `id` | string | 一意ID（ハッシュ8桁） | 自動生成 |
+| `name` | string | キャラクター名 | Wiki自動 |
+| `realName` | string? | 本名 | 手動 |
+| `aliases` | string[]? | 別名・通称 | 手動 |
+| `ninjaType` | NinjaType? | ニンジャ種別 | Wiki自動 |
+| `ninjaSoul` | NinjaSoul? | ニンジャソウル情報 | Wiki自動 |
+| `organizations` | Organization[]? | 所属組織 | Wiki自動 |
+| `appearances` | Episode[] | 登場エピソード | 手動 |
+| `skills` | string[]? | ジツ・カラテ等 | 手動 |
+| `role` | string? | 役職・肩書き（例: ドン、幹部） | **手動のみ** |
+| `appearance` | string? | 外見の描写（髪色・体格・服装等） | **手動のみ** |
+| `description` | string? | キャラクター説明・メモ | 手動 |
+| `status` | alive/dead/unknown? | 生死ステータス | Wiki自動（一部） |
+| `imageUrl` | string? | 画像URL | 手動 |
+| `wikiUrl` | string? | WikiページURL | Wiki自動 |
+
 ## デザイン
 
 ### カラーパレット（ダークテーマ）

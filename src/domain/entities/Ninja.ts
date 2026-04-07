@@ -30,6 +30,10 @@ export type Ninja = {
   organizations?: Organization[];
   appearances: Episode[];
   skills?: string[];
+  /** 役職・肩書き（例: ドン、幹部、アンダーボス） */
+  role?: string;
+  /** 外見の描写（髪色・体格・服装など） */
+  appearance?: string;
   description?: string;
   status?: 'alive' | 'dead' | 'unknown';
   imageUrl?: string;

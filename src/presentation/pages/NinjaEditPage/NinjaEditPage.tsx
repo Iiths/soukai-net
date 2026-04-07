@@ -55,6 +55,8 @@ function formToNinja(form: FormState): Ninja {
     ninjaSoul: _hasSoul ? form.ninjaSoul : undefined,
     // 空文字のオプショナルフィールドを undefined に戻す
     realName: form.realName?.trim() || undefined,
+    role: form.role?.trim() || undefined,
+    appearance: form.appearance?.trim() || undefined,
     description: form.description?.trim() || undefined,
     imageUrl: form.imageUrl?.trim() || undefined,
     wikiUrl: form.wikiUrl?.trim() || undefined,
@@ -401,6 +403,30 @@ export function NinjaEditPage() {
             ))}
             <button className={styles.btnAdd} onClick={addSkill}>＋ スキルを追加</button>
           </div>
+        </fieldset>
+
+        {/* ── 役職・外見 ── */}
+        <fieldset className={styles.fieldset}>
+          <legend className={styles.legend}>役職・外見</legend>
+          <div className={styles.fieldGrid}>
+            <Field label="役職">
+              <input
+                className={styles.input}
+                value={form.role ?? ''}
+                onChange={e => set('role', e.target.value)}
+                placeholder="例: ドン、幹部、アンダーボス（任意）"
+              />
+            </Field>
+          </div>
+          <Field label="外見">
+            <textarea
+              className={styles.textarea}
+              value={form.appearance ?? ''}
+              onChange={e => set('appearance', e.target.value)}
+              rows={3}
+              placeholder="髪色・体格・服装など外見の描写（任意）"
+            />
+          </Field>
         </fieldset>
 
         {/* ── 説明 ── */}
