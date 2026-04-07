@@ -367,49 +367,78 @@
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%82%AB%E3%82%AE%E3%83%BB%E3%82%AC%E3%83%B3%E3%83%89%E3%83%BC"
   },
   {
-    "id": "1775455913",
-    "name": "カタオキ・シンイチ",
-    "aliases": [
-      "シルバーキー"
-    ],
-    "ninjaType": "ニンジャソウル憑依者",
-    "organizations": [
-      {
-        "id": "ニンジャスレイヤーと協力者達",
-        "name": "ニンジャスレイヤーと協力者達"
-      }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "description": null,
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC%E3%82%AD%E3%83%BC"
+  "id": "1775455913",
+  "name": "シルバーキー",
+  "aliases": [
+    "カタオキ・シンイチ",
+    "グレイハーミット"
+  ],
+  "ninjaType": "ニンジャソウル憑依者",
+  "ninjaSoul": {
+    "id": "xmraloki",
+    "name": "名称不明",
+    "grade": "アーチ級",
+    "clan": ""
+  },
+  "organizations": [
+    {
+      "id": "ニンジャスレイヤーと協力者達",
+      "name": "ニンジャスレイヤーと協力者達"
+    }
+  ],
+  "appearances": [],
+  "skills": [
+    "ユメミル・ジツ"
+  ],
+  "description": "善良なニンジャ鍼灸師。イグナイトと共存していた時期がある。\n第4部ではグレイハーミットの名で隠居中。",
+  "status": "alive",
+  "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC%E3%82%AD%E3%83%BC"
   },
   {
-    "id": "1775455914",
-    "name": "ショーゴー・マグチ",
-    "aliases": [
-      "スーサイド",
-      "ショーゴー・マグチ"
-    ],
-    "ninjaType": "ニンジャソウル憑依者",
-    "organizations": [
-      {
-        "id": "soukaiya-p1",
-        "name": "ソウカイヤ（第1部）"
-      },
-      {
-        "id": "サークル・シマナガシ",
-        "name": "サークル・シマナガシ"
-      },
-      {
-        "id": "ニンジャスレイヤーと協力者達",
-        "name": "ニンジャスレイヤーと協力者達"
-      }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "description": null,
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%89"
+  "id": "1775455914",
+  "name": "スーサイド",
+  "realName": "ショーゴー・マグチ",
+  "aliases": [],
+  "ninjaType": "ニンジャソウル憑依者",
+  "ninjaSoul": {
+    "id": "dbcfqs8o",
+    "name": "パンク・ニンジャ",
+    "grade": "アーチ級",
+    "clan": "",
+    "origin": ""
+  },
+  "organizations": [
+    {
+      "id": "soukaiya-p1",
+      "name": "ソウカイヤ（第1部）"
+    },
+    {
+      "id": "サークル・シマナガシ",
+      "name": "サークル・シマナガシ"
+    },
+    {
+      "id": "ニンジャスレイヤーと協力者達",
+      "name": "ニンジャスレイヤーと協力者達"
+    }
+  ],
+  "appearances": [
+    {
+      "id": "nqhpydnc",
+      "title": "ラスト・ガール・スタンディング",
+      "arc": "第1部"
+    },
+    {
+      "id": "8x6pt5fy",
+      "title": "ニュー・メッセンジャー・オブ・ホワット",
+      "arc": "第1部"
+    }
+  ],
+  "skills": [
+    "ソウル・アブソープション・ジツ"
+  ],
+  "description": "アフロ頭の元高校生ニンジャ。\n1部ではソウカイヤを抜けシマナガシに属していた。\n4部以降はアラスカでアニキと慕われている。",
+  "status": "alive",
+  "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%89"
   },
   {
     "id": "1775455915",
@@ -2295,27 +2324,36 @@
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%82%B9%E3%82%AB%E3%83%B4%E3%82%A3%E3%83%AB"
   },
   {
-    "id": "17754559105",
-    "name": "エネアド社所属ないし傭兵",
-    "aliases": [
-      "ショットブラスト"
-    ],
-    "ninjaType": null,
-    "ninjaSoul": null,
-    "organizations": [
-      {
-        "id": "エジプト（エネアド社）",
-        "name": "エジプト（エネアド社）"
-      },
-      {
-        "id": "エネアド社",
-        "name": "エネアド社"
-      }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "description": null,
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%E3%83%96%E3%83%A9%E3%82%B9%E3%83%88"
+  "id": "17754559105",
+  "name": "ショットブラスト",
+  "aliases": [],
+  "ninjaType": "ニンジャソウル憑依者",
+  "ninjaSoul": {
+    "id": "dd8ki6km",
+    "name": "不明",
+    "clan": "",
+    "origin": ""
+  },
+  "organizations": [
+    {
+      "id": "エネアド社",
+      "name": "エネアド社"
+    }
+  ],
+  "appearances": [
+    {
+      "id": "ztgiz3kg",
+      "title": "アシッド・シグナル・トランザクション",
+      "arc": "第4部",
+      "season": 4
+    }
+  ],
+  "skills": [
+    "スリングショット"
+  ],
+  "description": "ザナドゥを倒すために派遣されたニンジャの一人。\n黄金のスリング弾を撃ち込んで攻撃する。\nエネアド社所属なのか傭兵なのかは不明。",
+  "status": "dead",
+  "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%E3%83%96%E3%83%A9%E3%82%B9%E3%83%88"
   },
   {
     "id": "17754559106",
