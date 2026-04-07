@@ -1237,43 +1237,50 @@
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%82%B7%E3%83%9E%E3%83%BC%E3%83%AB"
   },
   {
-    "id": "1775455956",
-    "name": "ブラド・ツェペシュ",
-    "aliases": [
-      "レッドドラゴン"
-    ],
-    "ninjaType": "非ニンジャ",
-    "ninjaSoul": null,
-    "organizations": [
-      {
-        "id": "赤竜騎士団",
-        "name": "赤竜騎士団"
-      },
-      {
-        "id": "オムラ・エンパイア",
-        "name": "オムラ・エンパイア"
-      }
-    ],
-    "appearances": [],
-    "status": null,
-    "description": null,
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%83%83%E3%83%89%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3"
+  "id": "1775455956",
+  "name": "レッドドラゴン",
+  "realName": "ブラド・ツェペシュ",
+  "aliases": [
+    "ブラド3世"
+  ],
+  "ninjaType": "リアルニンジャ",
+  "ninjaSoul": {
+    "id": "1nfjf4yk",
+    "name": "ブラド・ニンジャ",
+    "grade": "アーチ級",
+    "clan": "ブラド・ニンジャクラン",
+    "origin": "シの眷属にルーツを持つ"
   },
-  {
-    "id": "1775455957",
-    "name": "カシウス",
-    "aliases": [],
-    "ninjaType": "ニンジャソウル憑依者",
-    "organizations": [
-      {
-        "id": "赤竜騎士団",
-        "name": "赤竜騎士団"
-      }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "description": null,
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%82%B7%E3%82%A6%E3%82%B9"
+  "organizations": [
+    {
+      "id": "赤竜騎士団",
+      "name": "赤竜騎士団"
+    }
+  ],
+  "appearances": [
+    {
+      "id": "futllzdo",
+      "title": "アセイルド・ドージョー",
+      "arc": "第4部",
+      "season": 1
+    },
+    {
+      "id": "dk9icyo7",
+      "title": "クルセイド・ワラキア",
+      "arc": "第4部",
+      "season": 2
+    }
+  ],
+  "skills": [
+    "<夜>",
+    "インペイラー・ツキ",
+    "カラテドレイン",
+    "再生能力",
+    "蝙蝠や血の霧への変身"
+  ],
+  "description": "ネオワラキアを支配する王。\nドージョーを構え、奥ゆかしい統治をしている。\n現代技術に強い関心を持つ。",
+  "status": "alive",
+  "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%83%83%E3%83%89%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3"
   },
   {
     "id": "1775455958",
