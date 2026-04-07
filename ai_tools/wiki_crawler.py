@@ -75,6 +75,10 @@ ORG_URL_KEYWORDS = [
 # 見出しの link.title としてよく現れるが、組織名ではないもの
 NON_ORG_TITLES = {"地名", "ニンジャクラン一覧", "翻訳チーム", ""}
 
+# マージ時に organizations への追加を禁止する組織名
+# （第N部つき名称が別途存在するため、汎用名での追加は競合を招く）
+BLOCKED_ORG_NAMES = {"ソウカイヤ", "ザイバツ"}
+
 _fetch_count = 0
 
 # ============================================================
@@ -328,8 +332,8 @@ def normalize(name: str) -> str:
 
 
 def make_id(name: str) -> str:
-    safe = re.sub(r"[^\w]", "_", name)[:20]
-    return f"{safe}_{uuid.uuid4().hex[:6]}"
+    """新規エントリ用ID。ハッシュ8桁のみ（名前プレフィックスなし）"""
+    return uuid.uuid4().hex[:8]
 
 
 def org_id_from_name(org_name: str) -> str:
@@ -346,6 +350,8 @@ def build_index(ninjas: list) -> dict:
 
 
 def add_org(ninja: dict, org_name: str):
+    if org_name in BLOCKED_ORG_NAMES:
+        return  # 汎用名での追加を禁止（第N部つき名称が別途存在するため）
     oid = org_id_from_name(org_name)
     orgs = ninja.setdefault("organizations", [])
     if not any(o.get("id") == oid or o.get("name") == org_name for o in orgs):
