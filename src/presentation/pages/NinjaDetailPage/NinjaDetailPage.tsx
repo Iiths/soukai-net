@@ -154,9 +154,9 @@ export function NinjaDetailPage() {
           ) : <Empty label="所属組織" />}
         </section>
 
-        {/* 忍術・スキル */}
+        {/* ジツ・カラテなど */}
         <section className={styles.section}>
-          <h2 className={styles.sectionTitle}>忍術・スキル</h2>
+          <h2 className={styles.sectionTitle}>ジツ・カラテなど</h2>
           {hasValue(ninja.skills) ? (
             <ul className={styles.skillList}>
               {ninja.skills!.map((skill, i) => (

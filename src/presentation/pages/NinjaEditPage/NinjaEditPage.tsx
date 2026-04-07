@@ -384,9 +384,9 @@ export function NinjaEditPage() {
           </div>
         </fieldset>
 
-        {/* ── 忍術・スキル ── */}
+        {/* ── ジツ・カラテなど ── */}
         <fieldset className={styles.fieldset}>
-          <legend className={styles.legend}>忍術・スキル</legend>
+          <legend className={styles.legend}>ジツ・カラテなど</legend>
           <div className={styles.dynamicList}>
             {form.skills?.map((skill, i) => (
               <div key={i} className={styles.listRow}>
