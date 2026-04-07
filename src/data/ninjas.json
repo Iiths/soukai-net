@@ -1,68 +1,161 @@
 [
   {
-    "id": "177545590",
-    "name": "マスラダ・カイ",
-    "aliases": [
-      "ニンジャスレイヤー"
-    ],
-    "ninjaType": "ニンジャソウル憑依者",
-    "organizations": [],
-    "appearances": [],
-    "status": "alive",
-    "description": null,
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%B9%E3%83%A9%E3%83%80%E3%83%BB%E3%82%AB%E3%82%A4"
-  },
-  {
-    "id": "177545591",
+  "id": "177545590",
+  "name": "マスラダ・カイ",
+  "aliases": [
+    "ニンジャスレイヤー"
+  ],
+  "ninjaType": "ニンジャソウル憑依者",
+  "ninjaSoul": {
+    "id": "fyixlzfs",
     "name": "ナラク・ニンジャ",
-    "aliases": [],
-    "ninjaType": "ニンジャソウル憑依者",
-    "ninjaSoul": {
-      "id": "soul-ナラク・ニンジャ",
-      "name": "ナラク・ニンジャ",
-      "grade": "等級不明",
-      "clan": null
+    "grade": "等級不明",
+    "clan": "",
+    "origin": ""
+  },
+  "organizations": [
+    {
+      "id": "qdiy2dh4",
+      "name": "ピザタキ"
+    }
+  ],
+  "appearances": [
+    {
+      "id": "nubhusa7",
+      "title": "トーメント・イーブン・アフター・デス",
+      "arc": "第4部",
+      "season": 1
+    }
+  ],
+  "skills": [
+    "我流チャドー",
+    "黒炎"
+  ],
+  "description": "第4部以降の主人公。ニンジャスレイヤー。\nサツガイを追って戦っていたが、\n現在は職業としてニンジャスレイヤーをしている。",
+  "status": "alive",
+  "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%B9%E3%83%A9%E3%83%80%E3%83%BB%E3%82%AB%E3%82%A4"
+},
+  {
+  "id": "177545591",
+  "name": "ナラク・ニンジャ",
+  "aliases": [
+    "ニンジャスレイヤー"
+  ],
+  "ninjaType": "リアルニンジャ",
+  "ninjaSoul": {
+    "id": "soul-ナラク・ニンジャ",
+    "name": "ナラク・ニンジャ",
+    "grade": "等級不明",
+    "clan": null
+  },
+  "organizations": [],
+  "appearances": [
+    {
+      "id": "wkq7s6ie",
+      "title": "ボーン・イン・レッド・ブラック",
+      "arc": "第1部"
+    }
+  ],
+  "skills": [
+    "ジュー・ジツ",
+    "黒炎"
+  ],
+  "description": "ニンジャスレイヤーに宿る宿る謎のニンジャソウル。\n第4部現在はマスラダに憑いている。\n邪悪だが、先代ニンジャスレイヤーであるフジキドの影響も受けている。",
+  "status": "alive",
+  "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8A%E3%83%A9%E3%82%AF%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+  "id": "177545592",
+  "name": "フジキド・ケンジ",
+  "realName": "フジキド・ケンジ",
+  "aliases": [
+    "サツバツナイト",
+    "ニンジャスレイヤー",
+    "アイアンリング"
+  ],
+  "ninjaType": "リアルニンジャ",
+  "ninjaSoul": {
+    "id": "ykiufnv7",
+    "name": "ダイ・ニンジャ",
+    "grade": "アーチ級",
+    "clan": "不明",
+    "origin": "第三部最終版にてリアルニンジャ化"
+  },
+  "organizations": [
+    {
+      "id": "4f04u1l8",
+      "name": "国際探偵"
+    }
+  ],
+  "appearances": [
+    {
+      "id": "i91tdhp6",
+      "title": "ボーン・イン・レッド・ブラック",
+      "arc": "第1部"
     },
-    "organizations": [],
-    "appearances": [],
-    "status": "alive",
-    "description": null,
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8A%E3%83%A9%E3%82%AF%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+    {
+      "id": "kqp68e75",
+      "title": "バック・イン・ブラック",
+      "arc": "第1部"
+    }
+  ],
+  "skills": [
+    "チャドー",
+    "ジュー・ジツ"
+  ],
+  "description": "第三部までの主人公、ニンジャスレイヤー。\n第四部以降はサツバツナイトを名乗り、国際探偵として全国各地で活躍中。",
+  "status": "alive",
+  "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%84%E3%83%90%E3%83%84%E3%83%8A%E3%82%A4%E3%83%88"
   },
   {
-    "id": "177545592",
-    "name": "フジキド・ケンジ",
-    "aliases": [
-      "サツバツナイト"
-    ],
-    "ninjaType": "ニンジャソウル憑依者",
-    "organizations": [],
-    "appearances": [],
-    "status": "dead",
-    "description": null,
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%84%E3%83%90%E3%83%84%E3%83%8A%E3%82%A4%E3%83%88"
+  "id": "177545593",
+  "name": "タキ",
+  "aliases": [],
+  "ninjaType": "非ニンジャ",
+  "organizations": [
+    {
+      "id": "fsirtlz9",
+      "name": "ピザタキ"
+    }
+  ],
+  "appearances": [
+    {
+      "id": "jf6jozwe",
+      "title": "トーメント・イーブン・アフター・デス",
+      "arc": "第4部",
+      "season": 1
+    }
+  ],
+  "skills": [
+    "ハッカー"
+  ],
+  "description": "ピザタキの店主。本名不明。\n冷凍ピザ屋を営む傍らでハッカーをしている。",
+  "status": "alive",
+  "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%82%AD"
   },
   {
-    "id": "177545593",
-    "name": "タキ",
-    "aliases": [],
-    "ninjaType": "ニンジャソウル憑依者",
-    "organizations": [],
-    "appearances": [],
-    "status": "dead",
-    "description": null,
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%82%AD"
-  },
-  {
-    "id": "177545594",
-    "name": "コトブキ",
-    "aliases": [],
-    "ninjaType": "ニンジャソウル憑依者",
-    "organizations": [],
-    "appearances": [],
-    "status": "dead",
-    "description": null,
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B3%E3%83%88%E3%83%96%E3%82%AD"
+  "id": "177545594",
+  "name": "コトブキ",
+  "aliases": [],
+  "ninjaType": "非ニンジャ",
+  "organizations": [
+    {
+      "id": "hr4a0dqg",
+      "name": "ピザタキ"
+    }
+  ],
+  "appearances": [
+    {
+      "id": "80qupnd7",
+      "title": "サンズ・オブ・ケオス",
+      "arc": "第4部",
+      "season": 1
+    }
+  ],
+  "skills": [],
+  "description": "自我を得たオイランドロイド、ウキヨの一人。\nピザタキで働いている。カンフーが得意。",
+  "status": "alive",
+  "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B3%E3%83%88%E3%83%96%E3%82%AD"
   },
   {
     "id": "177545595",
