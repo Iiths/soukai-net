@@ -50,11 +50,6 @@ export function NinjaCard({ ninja, onClick }: NinjaCardProps) {
         <p className={styles.description}>{ninja.description}</p>
       )}
 
-      <div className={styles.footer}>
-        <span className={styles.appearances}>
-          登場: {ninja.appearances.length}部
-        </span>
-      </div>
     </div>
   );
 }

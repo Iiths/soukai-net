@@ -91,16 +91,3 @@
   line-height: 1.5;
 }
 
-/* ---- Footer ---- */
-.footer {
-  display: flex;
-  justify-content: flex-end;
-  margin-top: 0.25rem;
-  padding-top: 0.6rem;
-  border-top: 1px solid var(--color-border-subtle);
-  font-size: 0.8rem;
-}
-
-.appearances {
-  color: var(--color-text-muted);
-}
