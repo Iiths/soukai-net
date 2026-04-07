@@ -103,9 +103,8 @@ export function SimpleSearchPage() {
   return (
     <div className={styles.page}>
       <div className={styles.header}>
-        <h1 className={styles.title}>
-          ◆<span className={styles.titleAccent}>忍</span>◆ 検索画面な ◆<span className={styles.titleAccent}>索</span>◆
-        </h1>
+        <img src="/soukai-icon.png" alt="SOUKAI.NET" className={styles.titleIcon} />
+        <h1 className={styles.title}>◆ニンジャ検索重点◆</h1>
         <p className={styles.subtitle}>名前・別名・組織・登場部で検索できます</p>
       </div>
 

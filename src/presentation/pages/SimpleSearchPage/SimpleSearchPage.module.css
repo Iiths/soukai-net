@@ -10,19 +10,34 @@
   padding: 2rem 0 0.5rem;
 }
 
+.titleIcon {
+  display: block;
+  margin: 0 auto 1rem;
+  width: 72px;
+  height: 72px;
+  object-fit: contain;
+  filter: drop-shadow(0 0 10px #00d992) drop-shadow(0 0 24px rgba(0, 217, 146, 0.45));
+  animation: iconPulse 3s ease-in-out infinite;
+}
+
+@keyframes iconPulse {
+  0%, 100% { filter: drop-shadow(0 0 6px #00d992) drop-shadow(0 0 16px rgba(0, 217, 146, 0.35)); }
+  50%       { filter: drop-shadow(0 0 14px #00d992) drop-shadow(0 0 32px rgba(0, 217, 146, 0.6)); }
+}
+
 .title {
   margin: 0 0 0.6rem;
   font-family: var(--font-heading);
   font-size: clamp(1.75rem, 4vw, 2.8rem);
   font-weight: 400;
   line-height: 1.05;
-  letter-spacing: -0.04em;
-  color: var(--color-text);
-}
-
-/* "SOUKAI" part gets the green accent */
-.titleAccent {
+  letter-spacing: 0.06em;
   color: var(--color-primary);
+  text-shadow:
+    0 0 6px #00d992,
+    0 0 18px rgba(0, 217, 146, 0.55),
+    0 0 36px rgba(0, 217, 146, 0.25);
+  filter: var(--glow-primary);
 }
 
 .subtitle {

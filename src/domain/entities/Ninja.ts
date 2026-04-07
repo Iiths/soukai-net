@@ -7,7 +7,8 @@ export type NinjaType =
   | 'リアルニンジャ'
   | 'ロボ・ニンジャ'
   | 'バイオニンジャ'
-  | '非ニンジャ';
+  | '非ニンジャ'
+  | 'カツ・ワンソーの影';
 
 export const NINJA_TYPES: NinjaType[] = [
   'ニンジャソウル憑依者',
@@ -15,6 +16,7 @@ export const NINJA_TYPES: NinjaType[] = [
   'ロボ・ニンジャ',
   'バイオニンジャ',
   '非ニンジャ',
+  'カツ・ワンソーの影',
 ];
 
 export type Ninja = {
