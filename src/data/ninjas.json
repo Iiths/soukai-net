@@ -2718,23 +2718,39 @@
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%B3%E3%82%BA%E3%83%BB%E3%83%87%E3%82%A4"
   },
   {
-    "id": "17754559125",
-    "name": "龍崎",
-    "aliases": [
-      "ウィルムケープ"
-    ],
-    "ninjaType": "非ニンジャ",
-    "ninjaSoul": null,
-    "organizations": [
-      {
-        "id": "ゾウラン・ダイ・カイ",
-        "name": "ゾウラン・ダイ・カイ"
-      }
-    ],
-    "appearances": [],
-    "status": null,
-    "description": null,
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%82%A3%E3%83%AB%E3%83%A0%E3%82%B1%E3%83%BC%E3%83%97"
+  "id": "17754559125",
+  "name": "ウィルムケープ",
+  "aliases": [
+    "龍崎"
+  ],
+  "ninjaSoul": {
+    "id": "c70ockgq",
+    "name": "",
+    "clan": "",
+    "origin": ""
+  },
+  "organizations": [
+    {
+      "id": "ゾウラン・ダイ・カイ",
+      "name": "ゾウラン・ダイ・カイ"
+    }
+  ],
+  "appearances": [
+    {
+      "id": "0hamcejv",
+      "title": "アイアン・アトラス・バトルロイヤル！",
+      "arc": "第4部"
+    },
+    {
+      "id": "r4yepeot",
+      "title": "オペレイション・ムーンチャイルド",
+      "arc": "第4部",
+      "season": 5
+    }
+  ],
+  "skills": [],
+  "description": "ゾウラン・ダイ・カイの頭首",
+  "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%82%A3%E3%83%AB%E3%83%A0%E3%82%B1%E3%83%BC%E3%83%97"
   },
   {
     "id": "17754559126",
