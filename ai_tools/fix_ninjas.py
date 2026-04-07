@@ -5,7 +5,9 @@ ninjas.json 一括クリーンアップスクリプト
 
 修正内容:
   ① 組織名競合: organizations内の "ソウカイヤ" "ザイバツ" を全エントリから削除
-  ② エピソード名エントリを削除（「ソウカイ・シンジケート」等）
+  ② エピソード名エントリを削除
+     ・REMOVE_ENTRY_NAMES に列挙された名前の正確一致
+     ・名前が「 で始まり 」で終わるエントリ（エピソードタイトル形式）
   ③ ／区切り名前を個別エントリに分割
   ④ 名前付きID（例: ラオモト_カン_2d19cb1f）をハッシュ部分のみに変更
      ※ 数字IDのみの旧形式（177545590 等）は変更しない
@@ -24,9 +26,11 @@ NINJAS_JSON = BASE_DIR / "src" / "data" / "ninjas.json"
 REMOVE_ORG_NAMES = {"ソウカイヤ", "ザイバツ"}
 
 # ② 削除対象のキャラクターエントリ名（正確一致）
+# 「〜」パターンに合わない特殊ケースをここに追記する
 REMOVE_ENTRY_NAMES = {
     "「ソウカイ・シンジケート」",
     "「NINJA SLAYER - SAN」",
+    "「スレイト・オブ・ニンジャ」登場人物一覧",  # 末尾が「一覧」のためパターン不一致
 }
 
 
@@ -43,10 +47,24 @@ def fix_orgs(ninjas: list) -> tuple[list, int]:
     return ninjas, removed
 
 
+def _is_episode_entry(n: dict) -> bool:
+    """エピソードタイトル形式のエントリかどうかを判定。
+    ・REMOVE_ENTRY_NAMES に含まれる名前の正確一致
+    ・名前が 「 で始まり 」 で終わる（エピソードタイトル形式）
+    """
+    name = n.get("name", "")
+    if name in REMOVE_ENTRY_NAMES:
+        return True
+    # 「〜」形式（エピソードタイトル）
+    if name.startswith("「") and name.endswith("」"):
+        return True
+    return False
+
+
 def remove_episode_entries(ninjas: list) -> tuple[list, int]:
     """② エピソード名エントリを削除"""
     before = len(ninjas)
-    ninjas = [n for n in ninjas if n.get("name") not in REMOVE_ENTRY_NAMES]
+    ninjas = [n for n in ninjas if not _is_episode_entry(n)]
     return ninjas, before - len(ninjas)
 
 

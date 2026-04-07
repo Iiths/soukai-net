@@ -12720,26 +12720,6 @@
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9B%E3%83%BC%E3%82%B9%E3%83%90%E3%83%83%E3%82%AF"
   },
   {
-    "id": "962f25",
-    "name": "「スレイト・オブ・ニンジャ」登場人物一覧",
-    "organizations": [
-      {
-        "id": "ヘイ・ジウ",
-        "name": "ヘイ・ジウ"
-      },
-      {
-        "id": "オムラ・エンパイア",
-        "name": "オムラ・エンパイア"
-      },
-      {
-        "id": "ゼン・ミライ社",
-        "name": "ゼン・ミライ社"
-      }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%80%8C%E3%82%B9%E3%83%AC%E3%82%A4%E3%83%88%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3%E3%80%8D%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9%E4%B8%80%E8%A6%A7"
-  },
-  {
     "id": "a8b6f56c",
     "name": "サイレントブロー",
     "organizations": [],
@@ -12771,13 +12751,6 @@
     "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B3%E3%83%88%E3%83%80%E3%83%9E%E7%A9%BA%E9%96%93"
-  },
-  {
-    "id": "4a29f0",
-    "name": "「スズメバチの黄色」",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%80%8C%E3%82%B9%E3%82%BA%E3%83%A1%E3%83%90%E3%83%81%E3%81%AE%E9%BB%84%E8%89%B2%E3%80%8D"
   },
   {
     "id": "00918e29",
@@ -14642,18 +14615,6 @@
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9C%E3%82%BF%E3%83%8B%E3%83%83%E3%82%AF"
   },
   {
-    "id": "68d23c",
-    "name": "「バイオテック・イズ・チュパカブラ」",
-    "organizations": [
-      {
-        "id": "ヨロシサン製薬",
-        "name": "ヨロシサン製薬"
-      }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%80%8C%E3%83%90%E3%82%A4%E3%82%AA%E3%83%86%E3%83%83%E3%82%AF%E3%83%BB%E3%82%A4%E3%82%BA%E3%83%BB%E3%83%81%E3%83%A5%E3%83%91%E3%82%AB%E3%83%96%E3%83%A9%E3%80%8D"
-  },
-  {
     "id": "622bb3",
     "name": "ザ・ヴァーティゴ",
     "organizations": [
@@ -14776,18 +14737,6 @@
     ],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%AA%E3%83%A0%E3%83%A9"
-  },
-  {
-    "id": "4df317",
-    "name": "「モータードリヴン・ブルース」",
-    "organizations": [
-      {
-        "id": "オムラ・インダストリ",
-        "name": "オムラ・インダストリ"
-      }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%80%8C%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%89%E3%83%AA%E3%83%B4%E3%83%B3%E3%83%BB%E3%83%96%E3%83%AB%E3%83%BC%E3%82%B9%E3%80%8D"
   },
   {
     "id": "06594f",
@@ -16414,18 +16363,6 @@
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B3%E3%82%A6%E3%83%9C%E3%82%A6"
   },
   {
-    "id": "8d4b44",
-    "name": "「ニュー・メッセンジャー・オブ・パスト・アンド・フューチャー」",
-    "organizations": [
-      {
-        "id": "芸能関係者",
-        "name": "芸能関係者"
-      }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%80%8C%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%BB%E3%83%A1%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%91%E3%82%B9%E3%83%88%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%83%95%E3%83%A5%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%E3%80%8D"
-  },
-  {
     "id": "8283cb",
     "name": "ニンジャスレイヤープラス",
     "organizations": [
@@ -16482,18 +16419,6 @@
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BC%E3%82%A6%E3%82%B9%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
   },
   {
-    "id": "0ae1b3",
-    "name": "「ニンジャスレイヤー刃鉄」",
-    "organizations": [
-      {
-        "id": "芸能関係者",
-        "name": "芸能関係者"
-      }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%80%8C%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3%E3%82%B9%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E5%88%83%E9%89%84%E3%80%8D"
-  },
-  {
     "id": "fa27e1",
     "name": "マルノウチ抗争",
     "organizations": [
@@ -16504,18 +16429,6 @@
     ],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%83%AB%E3%83%8E%E3%82%A6%E3%83%81%E6%8A%97%E4%BA%89"
-  },
-  {
-    "id": "73912a",
-    "name": "「マグロ・サンダーボルト」",
-    "organizations": [
-      {
-        "id": "芸能関係者",
-        "name": "芸能関係者"
-      }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%80%8C%E3%83%9E%E3%82%B0%E3%83%AD%E3%83%BB%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%9C%E3%83%AB%E3%83%88%E3%80%8D"
   },
   {
     "id": "353957",
@@ -16682,18 +16595,6 @@
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BD%E3%82%AC%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
   },
   {
-    "id": "029a67",
-    "name": "「フェイト・オブ・ザ・ブラック・ロータス」",
-    "organizations": [
-      {
-        "id": "リアルニンジャ",
-        "name": "リアルニンジャ"
-      }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%80%8C%E3%83%95%E3%82%A7%E3%82%A4%E3%83%88%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%82%B6%E3%83%BB%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%BB%E3%83%AD%E3%83%BC%E3%82%BF%E3%82%B9%E3%80%8D"
-  },
-  {
     "id": "93747a",
     "name": "アイサツ・コトワザ・ヤクザスラング・感嘆詞・掛声",
     "organizations": [
@@ -16770,18 +16671,6 @@
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%80%E3%82%B4%E3%83%B3%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
   },
   {
-    "id": "88456e",
-    "name": "「ギルティ・オブ・ビーイング・ニンジャ」",
-    "organizations": [
-      {
-        "id": "リアルニンジャ",
-        "name": "リアルニンジャ"
-      }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%80%8C%E3%82%AE%E3%83%AB%E3%83%86%E3%82%A3%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%93%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3%E3%80%8D"
-  },
-  {
     "id": "e1115e",
     "name": "ニンジャスレイヤー3部作アーカイブ",
     "organizations": [
@@ -16792,18 +16681,6 @@
     ],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3%E3%82%B9%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC3%E9%83%A8%E4%BD%9C%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%96"
-  },
-  {
-    "id": "436182",
-    "name": "「トレイス・オブ・ダークニンジャ」",
-    "organizations": [
-      {
-        "id": "リアルニンジャ",
-        "name": "リアルニンジャ"
-      }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%80%8C%E3%83%88%E3%83%AC%E3%82%A4%E3%82%B9%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%80%E3%83%BC%E3%82%AF%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3%E3%80%8D"
   },
   {
     "id": "296b76",
@@ -16828,30 +16705,6 @@
     ],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%83%B3%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
-  },
-  {
-    "id": "33407b",
-    "name": "「トレジャー・エヴリー・ミーティング」",
-    "organizations": [
-      {
-        "id": "リアルニンジャ",
-        "name": "リアルニンジャ"
-      }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%80%8C%E3%83%88%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%BB%E3%82%A8%E3%83%B4%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%9F%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%80%8D"
-  },
-  {
-    "id": "be5571",
-    "name": "「ディフュージョン・アキュミュレイション・リボーン・ディストラクション」",
-    "organizations": [
-      {
-        "id": "リアルニンジャ",
-        "name": "リアルニンジャ"
-      }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%80%8C%E3%83%87%E3%82%A3%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%82%A2%E3%82%AD%E3%83%A5%E3%83%9F%E3%83%A5%E3%83%AC%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%AA%E3%83%9C%E3%83%BC%E3%83%B3%E3%83%BB%E3%83%87%E3%82%A3%E3%82%B9%E3%83%88%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%8D"
   },
   {
     "id": "a2262d",
@@ -18774,18 +18627,6 @@
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E7%94%9F%E7%89%A9"
   },
   {
-    "id": "602c23",
-    "name": "「クルセイド・ワラキア」",
-    "organizations": [
-      {
-        "id": "オムラ・エンパイア",
-        "name": "オムラ・エンパイア"
-      }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%80%8C%E3%82%AF%E3%83%AB%E3%82%BB%E3%82%A4%E3%83%89%E3%83%BB%E3%83%AF%E3%83%A9%E3%82%AD%E3%82%A2%E3%80%8D"
-  },
-  {
     "id": "b6ff85",
     "name": "ネザーキョウ",
     "organizations": [
@@ -18820,18 +18661,6 @@
     ],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%83%B3%E3%82%B6%E3%82%A4%E3%83%BB%E3%82%B3%E3%83%B3%E3%82%B9%E3%83%94%E3%83%A9%E3%82%B7%E3%83%BC"
-  },
-  {
-    "id": "a0fbb2",
-    "name": "「プラグ・ザ・デモンズ・ハート」",
-    "organizations": [
-      {
-        "id": "オムラ・エンパイア",
-        "name": "オムラ・エンパイア"
-      }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%80%8C%E3%83%97%E3%83%A9%E3%82%B0%E3%83%BB%E3%82%B6%E3%83%BB%E3%83%87%E3%83%A2%E3%83%B3%E3%82%BA%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%88%E3%80%8D"
   },
   {
     "id": "ff07c4",
@@ -18968,18 +18797,6 @@
     ],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%B9%E3%83%88%E3%83%BC%E3%83%A0"
-  },
-  {
-    "id": "10504f",
-    "name": "「エスケープ・フロム・ホンノウジ」",
-    "organizations": [
-      {
-        "id": "ヌーテック社",
-        "name": "ヌーテック社"
-      }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%80%8C%E3%82%A8%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%97%E3%83%BB%E3%83%95%E3%83%AD%E3%83%A0%E3%83%BB%E3%83%9B%E3%83%B3%E3%83%8E%E3%82%A6%E3%82%B8%E3%80%8D"
   },
   {
     "id": "4f5b85",
@@ -19160,18 +18977,6 @@
     ],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%B4%E3%82%A1%E3%82%A4%E3%83%B3"
-  },
-  {
-    "id": "40ccb4",
-    "name": "「ナクソス・アンダー・ファイア」",
-    "organizations": [
-      {
-        "id": "オクダスカヤ社",
-        "name": "オクダスカヤ社"
-      }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%80%8C%E3%83%8A%E3%82%AF%E3%82%BD%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%80%E3%83%BC%E3%83%BB%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%80%8D"
   },
   {
     "id": "23c15c",
