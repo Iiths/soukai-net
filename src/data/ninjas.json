@@ -9370,16 +9370,28 @@
     "ninjaType": "ニンジャソウル憑依者"
   },
   {
-    "id": "セレニティ_7a8fcffe",
-    "name": "セレニティ",
-    "organizations": [
-      {
-        "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
-      }
-    ],
-    "appearances": [],
-    "ninjaType": "ニンジャソウル憑依者"
+  "id": "セレニティ_7a8fcffe",
+  "name": "セレニティ",
+  "aliases": [],
+  "ninjaType": "ニンジャソウル憑依者",
+  "organizations": [
+    {
+      "id": "amakudari-p3",
+      "name": "アマクダリ（第3部）"
+    }
+  ],
+  "appearances": [
+    {
+      "id": "9udapkti",
+      "title": "ニチョーム・ウォー",
+      "arc": "第3部"
+    }
+  ],
+  "skills": [
+    "二刀流サイ"
+  ],
+  "description": "アマクダリ・セクトのニンジャ。\nニチョームを襲い、ヤモトを苦しめた。",
+  "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BB%E3%83%AC%E3%83%8B%E3%83%86%E3%82%A3"
   },
   {
     "id": "ソリティア_a4d3ac3d",
