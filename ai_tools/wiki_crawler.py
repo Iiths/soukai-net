@@ -146,12 +146,18 @@ def parse_list_page(soup: BeautifulSoup, section_label: str) -> list[dict]:
     """
     登場人物一覧ページを解析。
 
+    【注意】BeautifulSoupの html.parser は wikiwiki.jp の <hr class="full_hr"> を
+    空要素ではなくコンテナとして解析し、後続の H2/H3/UL 等を全て内包してしまう。
+    そのため content.children の反復では H2/H3 が直接見えず 0件になる。
+    → content.find_all() で全子孫から H2/H3/H4 を抽出し、
+      find_next_siblings() で各見出しに続く要素を処理する方式に変更。
+
     Returns:
         [
           {
             'org_name': str,
-            'org_ref':  str | None,   # 組織個別ページURL（ある場合）
-            'chars':    [{name, wiki_url}, ...],  # 直接リストされているキャラ
+            'org_ref':  str | None,
+            'chars':    [{name, wiki_url}, ...],
             'section':  str,
           },
           ...
@@ -162,51 +168,45 @@ def parse_list_page(soup: BeautifulSoup, section_label: str) -> list[dict]:
         print("  ⚠ id='content' 要素が見つかりません")
         return []
 
-    sections: list[dict] = []
-    current: dict | None = None
-
     SKIP_ORG_NAMES = {"目次", "Contents", "編集", "翻訳チームによるニンジャ名鑑", ""}
+    sections: list[dict] = []
 
-    for el in content.children:
-        tag = getattr(el, "name", None)
-        if not tag:
+    # content 配下の全 H2/H3/H4 を順番に取得
+    headings = content.find_all(["h2", "h3", "h4"])
+
+    for heading in headings:
+        org_name = org_name_from_heading(heading)
+        if org_name in SKIP_ORG_NAMES or len(org_name) < 2:
             continue
 
-        # ── 見出し → 組織セクション開始 ──
-        if tag in ("h2", "h3", "h4"):
-            org_name = org_name_from_heading(el)
-            if org_name in SKIP_ORG_NAMES or len(org_name) < 2:
-                current = None
-                continue
-            current = {
-                "org_name": org_name,
-                "org_ref":  None,
-                "chars":    [],
-                "section":  section_label,
-            }
-            sections.append(current)
+        current: dict = {
+            "org_name": org_name,
+            "org_ref":  None,
+            "chars":    [],
+            "section":  section_label,
+        }
+        sections.append(current)
 
-        elif current is None:
-            continue
+        # 次の見出し（H2/H3/H4）が来るまでの兄弟要素を処理
+        for sibling in heading.find_next_siblings():
+            if sibling.name in ("h2", "h3", "h4"):
+                break  # 次のセクション開始
 
-        # ── <p> → 組織ページへの参照リンクを探す ──
-        elif tag == "p":
-            for a in el.find_all("a", href=True):
-                href = a.get("href", "")
-                if not href.startswith("/njslyr/"):
-                    continue
-                decoded = unquote(href)
-                # 登場人物一覧ページへの自己参照は除外
-                if "登場人物一覧" in decoded or "::cmd" in decoded:
-                    continue
-                # アンカー部分を除去してURLを取得
-                base_href = href.split("#")[0]
-                current["org_ref"] = BASE_URL + base_href
-                break  # 最初の有効なリンクのみ使用
+            # ── <p> → 組織ページへの参照リンクを探す ──
+            if sibling.name == "p":
+                for a in sibling.find_all("a", href=True):
+                    href = a.get("href", "")
+                    if not href.startswith("/njslyr/"):
+                        continue
+                    decoded = unquote(href)
+                    if "登場人物一覧" in decoded or "::cmd" in decoded:
+                        continue
+                    current["org_ref"] = BASE_URL + href.split("#")[0]
+                    break
 
-        # ── <ul> → ul.list2 内のキャラクターリンクを抽出 ──
-        elif tag == "ul":
-            _extract_chars_from_ul(el, current["chars"])
+            # ── <ul> → ul.list2 内のキャラクターリンクを抽出 ──
+            elif sibling.name == "ul":
+                _extract_chars_from_ul(sibling, current["chars"])
 
     return sections
 
