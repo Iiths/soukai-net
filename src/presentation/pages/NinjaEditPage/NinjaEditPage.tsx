@@ -70,12 +70,12 @@ function formToNinja(form: FormState): Ninja {
 export function NinjaEditPage() {
   const { id = '' } = useParams<{ id: string }>();
   const navigate = useNavigate();
-  const { getOverride, saveOverride } = useNinjaEditContext();
+  const { getOverride, saveOverride, overrideCount, downloadNinjas } = useNinjaEditContext();
 
   const [form, setForm] = useState<FormState | null>(null);
   const [isLoading, setIsLoading] = useState(true);
   const [saved, setSaved] = useState(false);
-  const [copied, setCopied] = useState(false);
+  const [downloading, setDownloading] = useState(false);
 
   useEffect(() => {
     const load = async () => {
@@ -139,13 +139,13 @@ export function NinjaEditPage() {
     setTimeout(() => navigate(`/ninja/${ninja.id}`), 600);
   };
 
-  const handleCopyJson = () => {
-    if (!form) return;
-    const ninja = formToNinja(form);
-    navigator.clipboard.writeText(JSON.stringify(ninja, null, 2)).then(() => {
-      setCopied(true);
-      setTimeout(() => setCopied(false), 2000);
-    });
+  const handleDownloadAll = async () => {
+    setDownloading(true);
+    try {
+      await downloadNinjas();
+    } finally {
+      setDownloading(false);
+    }
   };
 
   if (isLoading) {
@@ -171,8 +171,13 @@ export function NinjaEditPage() {
           ← キャンセル
         </button>
         <div className={styles.topActions}>
-          <button onClick={handleCopyJson} className={styles.btnSecondary}>
-            {copied ? '✓ コピー完了' : 'JSONをコピー'}
+          <button
+            onClick={handleDownloadAll}
+            className={styles.btnDownload}
+            disabled={downloading}
+            title={`ninjas.json 全体をダウンロード（編集${overrideCount}件を反映）`}
+          >
+            {downloading ? '生成中...' : `📥 ninjas.json${overrideCount > 0 ? ` (${overrideCount}件編集済)` : ''}`}
           </button>
           <button onClick={handleSave} className={`${styles.btnPrimary} ${saved ? styles.btnSaved : ''}`}>
             {saved ? '✓ 保存済み' : '保存'}
@@ -445,11 +450,19 @@ export function NinjaEditPage() {
         {/* ── 保存ボタン（下部） ── */}
         <div className={styles.bottomActions}>
           <p className={styles.saveNote}>
-            ※ 保存はセッション中のみ有効です。JSONコピーでデータを取り出し、ninjas.jsonに反映してください。
+            ※ 保存はセッション中のみ有効です。複数ニンジャを編集後、「📥 ninjas.json」ボタンで全体をダウンロードし、
+            プロジェクトの <code>src/data/ninjas.json</code> に上書きしてください。
+            {overrideCount > 0 && (
+              <strong className={styles.saveNoteHighlight}> 現在 {overrideCount} 件の未保存編集があります。</strong>
+            )}
           </p>
           <div className={styles.bottomButtons}>
-            <button onClick={handleCopyJson} className={styles.btnSecondary}>
-              {copied ? '✓ コピー完了' : 'JSONをコピー'}
+            <button
+              onClick={handleDownloadAll}
+              className={styles.btnDownload}
+              disabled={downloading}
+            >
+              {downloading ? '生成中...' : `📥 ninjas.json をダウンロード`}
             </button>
             <button onClick={handleSave} className={`${styles.btnPrimary} ${saved ? styles.btnSaved : ''}`}>
               {saved ? '✓ 保存済み' : '保存して詳細へ'}

@@ -1,5 +1,6 @@
 import { createContext, useContext, useState, ReactNode } from 'react';
 import { Ninja } from '../../domain/entities/Ninja';
+import { JsonNinjaRepository } from '../../infrastructure/repositories/JsonNinjaRepository';
 
 /**
  * ニンジャ編集コンテキスト
@@ -15,12 +16,21 @@ interface NinjaEditContextValue {
   saveOverride: (ninja: Ninja) => void;
   /** 全編集済みデータ（デバッグ用・JSON出力用） */
   getAllOverrides: () => Ninja[];
+  /** 現在の編集件数 */
+  overrideCount: number;
+  /**
+   * ninjas.json 全体を編集マージしてダウンロードする。
+   * 元データに in-memory の編集を上書きし、ninjas.json としてブラウザに保存する。
+   */
+  downloadNinjas: () => Promise<void>;
 }
 
 const NinjaEditContext = createContext<NinjaEditContextValue>({
   getOverride: () => null,
   saveOverride: () => {},
   getAllOverrides: () => [],
+  overrideCount: 0,
+  downloadNinjas: async () => {},
 });
 
 export function NinjaEditProvider({ children }: { children: ReactNode }) {
@@ -39,8 +49,27 @@ export function NinjaEditProvider({ children }: { children: ReactNode }) {
 
   const getAllOverrides = (): Ninja[] => Array.from(overrides.values());
 
+  const overrideCount = overrides.size;
+
+  const downloadNinjas = async () => {
+    const repo = new JsonNinjaRepository();
+    const all = await repo.findAll();
+    // in-memory の編集で元データを上書きマージ
+    const merged = all.map((n) => overrides.get(n.id) ?? n);
+    const json = JSON.stringify(merged, null, 2);
+    const blob = new Blob([json], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = 'ninjas.json';
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+  };
+
   return (
-    <NinjaEditContext.Provider value={{ getOverride, saveOverride, getAllOverrides }}>
+    <NinjaEditContext.Provider value={{ getOverride, saveOverride, getAllOverrides, overrideCount, downloadNinjas }}>
       {children}
     </NinjaEditContext.Provider>
   );

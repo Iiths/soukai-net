@@ -301,5 +301,282 @@
   font-size: 0.8rem;
   color: var(--color-text-muted);
   font-style: italic;
-  align-self: center;
+  margin: 0;
+  line-height: 1.6;
+}
+
+.saveNoteHighlight {
+  color: var(--color-primary);
+  font-style: normal;
+}
+
+/* ---- ボタン（汎用） ---- */
+.btn {
+  padding: 0.5rem 1rem;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  background: var(--color-surface);
+  color: var(--color-text);
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: all 0.2s ease;
+  font-family: var(--font-family);
+}
+
+.btn:hover {
+  border-color: var(--color-primary);
+}
+
+.btnSecondary {
+  padding: 0.5rem 1rem;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  background: var(--color-surface);
+  color: var(--color-text-secondary);
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: all 0.2s ease;
+  font-family: var(--font-family);
+}
+
+.btnSecondary:hover {
+  border-color: var(--color-primary);
+  color: var(--color-text);
+}
+
+.btnPrimary {
+  padding: 0.55rem 1.5rem;
+  background: var(--color-primary);
+  border: 1px solid var(--color-primary);
+  border-radius: var(--radius-sm);
+  color: #000;
+  font-size: 0.9rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-family: var(--font-family);
+}
+
+.btnPrimary:hover {
+  background: var(--color-primary-mint);
+  border-color: var(--color-primary-mint);
+}
+
+.btnSaved {
+  background: var(--color-surface);
+  border-color: var(--color-primary);
+  color: var(--color-primary);
+}
+
+.btnDownload {
+  padding: 0.55rem 1.25rem;
+  background: transparent;
+  border: 1px solid var(--color-primary);
+  border-radius: var(--radius-sm);
+  color: var(--color-primary);
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-family: var(--font-family);
+}
+
+.btnDownload:hover {
+  background: var(--color-primary-dim);
+}
+
+.btnDownload:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.btnRemove {
+  flex-shrink: 0;
+  padding: 0.35rem 0.6rem;
+  background: transparent;
+  border: 1px solid rgba(251, 86, 91, 0.35);
+  border-radius: var(--radius-sm);
+  color: rgba(251, 86, 91, 0.7);
+  cursor: pointer;
+  font-size: 0.8rem;
+  line-height: 1;
+  transition: all 0.2s ease;
+  font-family: var(--font-family);
+}
+
+.btnRemove:hover {
+  background: rgba(251, 86, 91, 0.1);
+  border-color: var(--color-danger);
+  color: var(--color-danger);
+}
+
+.btnAdd {
+  align-self: flex-start;
+  padding: 0.4rem 0.9rem;
+  background: transparent;
+  border: 1px dashed var(--color-border);
+  border-radius: var(--radius-sm);
+  color: var(--color-text-muted);
+  cursor: pointer;
+  font-size: 0.85rem;
+  transition: all 0.2s ease;
+  font-family: var(--font-family);
+}
+
+.btnAdd:hover {
+  border-color: var(--color-primary);
+  color: var(--color-primary);
+}
+
+/* ---- トップバー拡張 ---- */
+.topActions {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+/* ---- フォームコンテナ ---- */
+.formContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+/* ---- ページタイトル ---- */
+.pageTitleName {
+  color: var(--color-primary);
+}
+
+.pageTitleSub {
+  color: var(--color-text-muted);
+  font-weight: 400;
+  font-size: 1rem;
+  margin-left: 0.4rem;
+}
+
+/* ---- フィールドセット ---- */
+.fieldset {
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  padding: 1.25rem 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.legend {
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--color-primary);
+  padding: 0 0.4rem;
+}
+
+.fieldGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 0.85rem;
+}
+
+.fieldLabel {
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--color-text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.15rem;
+}
+
+.inputReadonly {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+/* ---- 動的リスト ---- */
+.dynamicList {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.listRow {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.listRow .input {
+  flex: 1;
+}
+
+/* ---- トグル（チェックボックス行） ---- */
+.toggle {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  cursor: pointer;
+  user-select: none;
+  font-size: 0.9rem;
+  color: var(--color-text);
+}
+
+.toggle input[type="checkbox"] {
+  width: 1rem;
+  height: 1rem;
+  accent-color: var(--color-primary);
+  cursor: pointer;
+}
+
+/* ---- エピソードリスト ---- */
+.episodeList {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.episodeEntry {
+  background: var(--color-bg);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  padding: 0.85rem 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
+}
+
+.episodeEntryHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* ---- 下部アクション ---- */
+.bottomActions {
+  border-top: 1px dashed var(--color-border);
+  padding-top: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.bottomButtons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  align-items: center;
+}
+
+/* ---- 見つからない ---- */
+.notFound {
+  text-align: center;
+  padding: 3rem 1.5rem;
+  background: var(--color-surface);
+  border-radius: var(--radius-md);
+  border: 1px solid var(--color-border);
+  color: var(--color-text-muted);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
 }
