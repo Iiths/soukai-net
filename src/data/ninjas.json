@@ -39,7 +39,7 @@
       "我流チャドー",
       "黒炎"
     ],
-    "description": "第4部以降の主人公。ニンジャスレイヤー。\nサツガイを追って戦っていたが、\n現在は職業としてニンジャスレイヤーをしている。",
+    "description": "第4部以降の主人公。ニンジャスレイヤー。\nサツガイを追って戦っていた。\n現在はとあるニンジャの意志と依頼を引き継いでいる。",
     "status": "alive",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%B9%E3%83%A9%E3%83%80%E3%83%BB%E3%82%AB%E3%82%A4"
   },
@@ -1306,9 +1306,7 @@
     ],
     "description": "危険なナム妄想に囚われた狂気のニンジャ。\n仲間を守るため奔走している。",
     "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A9%E3%83%AC%E3%82%B9%E3%83%88%E3%83%BB%E3%82%B5%E3%83%AF%E3%82%BF%E3%83%AA",
-    "role": "サヴァイヴァー・ドージョーのリーダー サワタリ・カンパニーのボス",
-    "appearance": "迷彩柄のニンジャ装束。ベトナム風の編笠\n4部では平常時はモスグリーンの開襟シャツや白衣"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A9%E3%83%AC%E3%82%B9%E3%83%88%E3%83%BB%E3%82%B5%E3%83%AF%E3%82%BF%E3%83%AA"
   },
   {
     "id": "1775455965",
@@ -1427,8 +1425,7 @@
     ],
     "description": "サヴァイヴァー・ドージョーの一員。後のサワタリ・カンパニー社員。\n強い再生能力を持つバイオニンジャ。",
     "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%82%A4%E3%83%89%E3%83%A9",
-    "appearance": "フード状のニンジャ頭巾。白目のない赤く円い三つ眼。恐竜めいた顔。身長190cm。\n四部以降は古いカラテ・ウェアとハチマキを愛用。"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%82%A4%E3%83%89%E3%83%A9"
   },
   {
     "id": "1775455969",
@@ -4477,15 +4474,37 @@
   {
     "id": "d1f3d115",
     "name": "アースクエイク",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "6v2nsttr",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "ビッグ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%BC%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A4%E3%82%AF"
+    "appearances": [
+      {
+        "id": "qad20i3w",
+        "title": "サプライズド・ドージョー",
+        "arc": "第1部"
+      }
+    ],
+    "skills": [
+      "ビッグカラテ",
+      "大型ハーレー"
+    ],
+    "description": "ソウカイ・シックスゲイツの一人。\n怪力、耐久力に加えて冷徹な指揮能力をも備える。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%BC%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A4%E3%82%AF",
+    "role": "ソウカイ・シックスゲイツ",
+    "appearance": "身長2m50cm。アニメイシヨンでは更に超巨体。"
   },
   {
     "id": "c2128d31",
@@ -4516,28 +4535,80 @@
   {
     "id": "e93dc3e2",
     "name": "バンディット",
+    "realName": "ロク・スズガケ",
+    "aliases": [
+      "ダート・オブ・ソウカイヤ"
+    ],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "qzeufwye",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "シノビ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%83%B3%E3%83%87%E3%82%A3%E3%83%83%E3%83%88"
+    "appearances": [
+      {
+        "id": "n5zbx62l",
+        "title": "レイジ・アゲンスト・トーフ",
+        "arc": "第1部"
+      },
+      {
+        "id": "kgwlkkns",
+        "title": "バトルグラウンド・サツ・バツ",
+        "arc": "外伝"
+      }
+    ],
+    "skills": [
+      "常人の三倍の脚力",
+      "ステルス・ジツ",
+      "ブラインドシャドウ"
+    ],
+    "description": "ソウカイ・シックスゲイツの一人。隠密行動が得意。\n本編での情けない出番に反し、外伝「バトルグラウンド・サツ・バツ」では主役を張っている。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%83%B3%E3%83%87%E3%82%A3%E3%83%83%E3%83%88",
+    "role": "ソウカイ・シックスゲイツ",
+    "appearance": "茶色のステルスニンジャ装束。アニメイシヨンでは青と紫。\n片目がサイバネアイ。"
   },
   {
     "id": "ba75adb0",
     "name": "ビホルダー",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "sqg6fh5n",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "コブラ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%93%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC"
+    "appearances": [
+      {
+        "id": "zpx1ki1p",
+        "title": "レイジ・アゲンスト・トーフ",
+        "arc": "第1部"
+      }
+    ],
+    "skills": [
+      "フドウカナシバリ・ジツ",
+      "ゼゲン・ゲイズ"
+    ],
+    "description": "ソウカイ・シックスゲイツの一人。\nジツと話術によって巧みに人心を操る。\n負傷を負う前は強力なカラテ戦士でもあった。",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%93%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC",
+    "role": "ソウカイ・シックスゲイツ",
+    "appearance": "サイバーサングラス。車椅子。身長183cm。"
   },
   {
     "id": "4fb59b2a",
@@ -4615,9 +4686,7 @@
     ],
     "description": "ソウカイ・シックスゲイツの一人。\n凧に乗って空を舞い、斥侯からサポートまで幅広くこなす。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%AB%E3%82%AB%E3%82%A4%E3%83%88",
-    "role": "ソウカイ・シックスゲイツ",
-    "appearance": "オフホワイトのニンジャ装束。様々な文言が書かれたニンジャ凧。"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%AB%E3%82%AB%E3%82%A4%E3%83%88"
   },
   {
     "id": "49a3fe5b",
@@ -4745,9 +4814,7 @@
     ],
     "description": "ヘルカイトの先任者的立場だったシックスゲイツの一人。\n不可解な事故で死亡しており作中では故人だった。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AC%E3%83%BC%E3%82%B4%E3%82%A4%E3%83%AB",
-    "role": "ソウカイ・シックスゲイツ",
-    "appearance": "カメレオン式ステルスニンジャ装束"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AC%E3%83%BC%E3%82%B4%E3%82%A4%E3%83%AB"
   },
   {
     "id": "6d92243a",
@@ -4795,9 +4862,7 @@
     ],
     "description": "ソウカイヤのスカウト部門筆頭。\n元ヤクザ・バウンサー。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF%E3%83%96%E3%83%BC%E3%83%A0",
-    "role": "ソウカイ・シックスゲイツ",
-    "appearance": "威圧的なリーゼントヘアー、スタッズ付きブレーサー、金糸のニンジャ装束、悪趣味な"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF%E3%83%96%E3%83%BC%E3%83%A0"
   },
   {
     "id": "35d8a63d",
@@ -4828,14 +4893,34 @@
   {
     "id": "a04759d6",
     "name": "アーソン",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "pi1dkrkk",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "ヒバナ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": []
+    "appearances": [
+      {
+        "id": "xltxlo86",
+        "title": "マシン・オブ・ヴェンジェンス",
+        "arc": "第1部"
+      }
+    ],
+    "skills": [
+      "カトン・パンチ"
+    ],
+    "description": "ソウカイヤのニンジャ。\n殴った相手を発火させるカトン・ジツの使い手。",
+    "status": "dead",
+    "appearance": "痩身。灰色のスーツ姿。ダークオレンジ色のニンジャ装束。\n漫画版では「火」のカンジを象ったメンポ。\nアニメイシヨンでは緑色のスーツ。"
   },
   {
     "id": "a7d9c8bc",
@@ -4906,8 +4991,7 @@
     "skills": [
       "イタミ・ジツ"
     ],
-    "description": "ソウカイヤの末端ニンジャ。\n打撃吸収の特性とマゾヒズムが一体化した厄介なニンジャ。",
-    "appearance": "レザースーツ。全身にタタミ針。"
+    "description": "ソウカイヤの末端ニンジャ。\n打撃吸収の特性とマゾヒズムが一体化した厄介なニンジャ。"
   },
   {
     "id": "74dc507d",
@@ -4984,8 +5068,7 @@
     ],
     "skills": [],
     "description": "ソウカイヤの末端ニンジャ。\n殺（キルズ）ではサイバネを活かしたニンジャチョップ大車輪攻撃が可能であった。",
-    "status": "dead",
-    "appearance": "特になし。殺（キルズ）描写では上半身が巨大な車輪状のサイバネに置換されている。"
+    "status": "dead"
   },
   {
     "id": "28b22647",
@@ -5028,8 +5111,7 @@
       "ダガーナイフ"
     ],
     "description": "ソウカイヤの末端ニンジャ。カラテが弱い。",
-    "status": "dead",
-    "appearance": "小柄な体格。黄土色のニンジャ装束。猿のようなメンポ。"
+    "status": "dead"
   },
   {
     "id": "3257bc28",
@@ -5046,14 +5128,43 @@
   {
     "id": "3c50af7c",
     "name": "ガントレット",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "geox56ns",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "ノブシ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
+      },
+      {
+        "id": "whf19cos",
+        "name": "シャーテック"
       }
     ],
-    "appearances": []
+    "appearances": [
+      {
+        "id": "op22vpoh",
+        "title": "ジ・アフターマス",
+        "arc": "第1部"
+      },
+      {
+        "id": "0ij95wkj",
+        "title": "トゥー・ファー・トゥー・ヒア・ユア・ハイク",
+        "arc": "第3部"
+      }
+    ],
+    "skills": [
+      "スナイパー・スリケン"
+    ],
+    "description": "ソウカイヤの狙撃ニンジャ。\n彼が創出した組織が母体となり、シャーテックに引き継がれた。",
+    "status": "dead",
+    "appearance": "ゴミと枯れ草をこねあわせたような、毛むくじゃらのビッグフットのような怪物的ギリー・ニンジャ装束。\nガスマスク。スナイパー・スリケン射出用ガントレット。狙撃用スコープ。"
   },
   {
     "id": "a388da3f",
@@ -5249,8 +5360,7 @@
     "skills": [
       "スリケン"
     ],
-    "description": "ソウカイヤの末端ニンジャ。\n典型的サンシタ。",
-    "appearance": "中肉中背。紺のニンジャ装束。足袋。無地のフード付きPVCレインコート。"
+    "description": "ソウカイヤの末端ニンジャ。\n典型的サンシタ。"
   },
   {
     "id": "f499ec50",
@@ -5305,8 +5415,7 @@
       "サイバネ牙"
     ],
     "description": "ソウカイヤのニンジャ。\n刺突攻撃に加えメイアルーア・ジ・コンパッソも放つ。",
-    "status": "dead",
-    "appearance": "手首にサイバネ牙が飛び出す機構。"
+    "status": "dead"
   },
   {
     "id": "cbb49181",
@@ -5349,8 +5458,7 @@
       "探知能力"
     ],
     "description": "ソウカイヤの末端ニンジャ。索敵能力を持つ分カラテは弱い。",
-    "status": "dead",
-    "appearance": "円柱形の奇妙なフルフェイス・ニンジャヘルム。ハンディカメラ。"
+    "status": "dead"
   },
   {
     "id": "0d9cfd0d",
@@ -5381,8 +5489,7 @@
       "ニンジャアーマー"
     ],
     "description": "ソウカイヤの末端ニンジャ。\n強固なアーマーでスリケン攻撃を弾く。",
-    "status": "dead",
-    "appearance": "鉛色のニンジャアーマー\n殺（キルズ）描写：「潰し者」とショドーされたアーマー。クロスカタナのエンブレムを模したフルフェイスメンポ。"
+    "status": "dead"
   },
   {
     "id": "1113f31c",
@@ -5447,14 +5554,28 @@
   {
     "id": "ea044957",
     "name": "センチピード",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "nkaftvou",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "ムカデ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": []
+    "appearances": [],
+    "skills": [
+      "ドトン・ジツ",
+      "サイバネティック・ムカデ化"
+    ],
+    "description": "ソウカイヤのニンジャ。\nムカデ化で三倍の長さまで伸びる。",
+    "appearance": "小柄な体格。枯れ草色のニンジャ装束。両手に爪状の武器"
   },
   {
     "id": "007db8b7",
@@ -5526,8 +5647,7 @@
       "ドトン・ジツ"
     ],
     "description": "ソウカイヤの末端ニンジャ。\nドラゴン・ドージョーの捜索に赴いていた。",
-    "status": "dead",
-    "appearance": "土色のニンジャ装束。"
+    "status": "dead"
   },
   {
     "id": "f12c6a2d",
@@ -5556,8 +5676,7 @@
     ],
     "skills": [],
     "description": "ソウカイヤの末端ニンジャ。\n殺（キルズ）ではカトン系のニンジャ……だったのかもしれない。",
-    "status": "dead",
-    "appearance": "殺（キルズ）描写：灯油ポンプ状のメンポ。灯油タンク型のバックパック。"
+    "status": "dead"
   },
   {
     "id": "f41bf216",
@@ -5640,8 +5759,7 @@
     ],
     "skills": [],
     "description": "ソウカイヤの末端ニンジャ。\nドラゴン・ドージョー探索に赴いていた。",
-    "status": "dead",
-    "appearance": "枯れ葉迷彩装束。"
+    "status": "dead"
   },
   {
     "id": "e73a49a4",
@@ -5685,8 +5803,7 @@
       "エンハンス・ジツ"
     ],
     "description": "ソウカイヤのニンジャ。ゲイトキーパーの直弟子。\nダークニンジャに対抗意識を抱く。",
-    "status": "dead",
-    "appearance": "黒玉色のニンジャ装束。青い眼光。"
+    "status": "dead"
   },
   {
     "id": "09a16fca",
@@ -5801,8 +5918,7 @@
       "ドク・カミツキ"
     ],
     "description": "ソウカイヤの末端ニンジャ。\n毒液滴るメンポの噛みつきで攻撃する。",
-    "status": "dead",
-    "appearance": "マッドグリーン色の装束。スズメバチの顎めいた開口式メンポ。"
+    "status": "dead"
   },
   {
     "id": "723e0b42",
@@ -5905,8 +6021,7 @@
       "ドク矢"
     ],
     "description": "ソウカイヤのニンジャ。\nマスタードガスを散布するニンジャ矢を射る。",
-    "status": "dead",
-    "appearance": "ニンジャ弓を持つ。"
+    "status": "dead"
   },
   {
     "id": "92c03667",
@@ -6037,8 +6152,7 @@
       "高機動装甲バイク「シロイ」"
     ],
     "description": "ソウカイヤの強襲ニンジャ。\nゲイトキーパー直々に鍛えられた精鋭。\nモーターサイクルにまたがり、人車一体の攻撃を繰り出す。",
-    "status": "dead",
-    "appearance": "流体力学に則った形状の装甲型ニンジャ装束。\n媒体によって装束の色が違う（原作は白、アニメイシヨンはオレンジ、など）"
+    "status": "dead"
   },
   {
     "id": "8104446b",
@@ -6117,8 +6231,7 @@
       "ホバーホイール"
     ],
     "description": "ソウカイヤの末端ニンジャ。\n水上をホバー移動し、火炎瓶で炎の壁を作る。",
-    "status": "dead",
-    "appearance": "足にホバーホイール。\n殺（キルズ）描写：ドナルドダッグめいたメンポ。"
+    "status": "dead"
   },
   {
     "id": "015f713f",
@@ -12551,8 +12664,7 @@
     ],
     "description": "元オリガミ部の女子高生ニンジャ。\n4部ではシ・ニンジャにまつわるニンジャから命を狙われていた。",
     "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A4%E3%83%A2%E3%83%88%E3%83%BB%E3%82%B3%E3%82%AD",
-    "appearance": "黒い瞳、黒髪、華奢な体格、セーラー服、平坦な胸\nニンジャソウル覚醒時は桜色の瞳と桜色のマフラー\n4部では上記の姿を髪が伸びた成人女性姿を切り替える。キモノをカラテ生成する。"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A4%E3%83%A2%E3%83%88%E3%83%BB%E3%82%B3%E3%82%AD"
   },
   {
     "id": "d04d37",
@@ -12573,14 +12685,59 @@
   {
     "id": "4ab9ce",
     "name": "ドラゴン・ゲンドーソー",
+    "aliases": [
+      "ローシ・ニンジャ"
+    ],
+    "ninjaType": "リアルニンジャ",
+    "ninjaSoul": {
+      "id": "yt78rp66",
+      "name": "ローシ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "ドラゴン・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "ニンジャスレイヤーと協力者達",
         "name": "ニンジャスレイヤーと協力者達"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%BB%E3%82%B2%E3%83%B3%E3%83%89%E3%83%BC%E3%82%BD%E3%83%BC"
+    "appearances": [
+      {
+        "id": "z7uztu9e",
+        "title": "バック・イン・ブラック",
+        "arc": "第1部"
+      },
+      {
+        "id": "44101bhf",
+        "title": "キックアウト・ザ・ニンジャ・マザーファッカー",
+        "arc": "第1部"
+      },
+      {
+        "id": "12ygsrzo",
+        "title": "サプライズド・ドージョー",
+        "arc": "第1部"
+      },
+      {
+        "id": "kyoxsvhv",
+        "title": "ジ・アフターマス",
+        "arc": "第1部"
+      },
+      {
+        "id": "6j3u6srn",
+        "title": "メナス・オブ・ダークニンジャ",
+        "arc": "第1部"
+      }
+    ],
+    "skills": [
+      "ドラゴン・カラテ",
+      "ソウル・ブロウナウト・ジツの派生"
+    ],
+    "description": "ドラゴン・ニンジャクランの末裔。\nニンジャスレイヤーに数々のインストラクションを授けた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%BB%E3%82%B2%E3%83%B3%E3%83%89%E3%83%BC%E3%82%BD%E3%83%BC",
+    "role": "最後のリアルニンジャ",
+    "appearance": "小柄な老人。竜の刺繍入ニンジャ装束。鋭い眼光。\n「メナス・オブ・ダークニンジャ」では死に装束。額に三角巾。"
   },
   {
     "id": "77c4c0",
@@ -13280,8 +13437,7 @@
       "液体金属バイオボディ"
     ],
     "description": "サヴァイヴァー・ドージョーの一員。\n水銀のように自由自在に液状化し、刃物化した腕などで奇襲する。",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%A3%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%96%E3%83%89",
-    "appearance": "水銀色のメンポ、ニンジャ装束"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%A3%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%96%E3%83%89"
   },
   {
     "id": "47a7ac",
@@ -13326,8 +13482,7 @@
     ],
     "description": "サヴァイヴァー・ドージョー所属。\n四本の腕に二本の刀、バイオ・イアイドで戦う。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8E%E3%83%88%E3%83%BC%E3%83%AA%E3%82%A2%E3%82%B9",
-    "appearance": "薄緑色のニンジャ装束。四本腕。二本のセラミックカタナ。"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8E%E3%83%88%E3%83%BC%E3%83%AA%E3%82%A2%E3%82%B9"
   },
   {
     "id": "a69131",
@@ -13378,8 +13533,7 @@
       "マキモノ・ジツ"
     ],
     "description": "サヴァイヴァー・ドージョーの副官的ニンジャ。\nカエルにまたがりマキモノで攻撃する、忍者らしいニンジャ。",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%83%AD%E3%83%83%E3%82%B0%E3%83%9E%E3%83%B3",
-    "appearance": "小柄な体型、開閉機構付きのメンポ、臍から生えた管が巨大バイオカエルに接続している"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%83%AD%E3%83%83%E3%82%B0%E3%83%9E%E3%83%B3"
   },
   {
     "id": "4ee5b2",
@@ -15976,6 +16130,8 @@
   {
     "id": "df473a",
     "name": "スミス",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
     "organizations": [
       {
         "id": "ヤクザ",
@@ -15986,8 +16142,44 @@
         "name": "キョート・リパブリック"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%9F%E3%82%B9"
+    "appearances": [
+      {
+        "id": "q0opqpd8",
+        "title": "マシン・オブ・ヴェンジェンス",
+        "arc": "第1部"
+      },
+      {
+        "id": "7orkjubb",
+        "title": "モータル・ニンジャ・レジスター",
+        "arc": "第2部"
+      },
+      {
+        "id": "d6eo1dkg",
+        "title": "ガントレット・ウィズ・フューリー",
+        "arc": "第2部"
+      },
+      {
+        "id": "9iwuv5sd",
+        "title": "キョート・ヘル・オン・アース",
+        "arc": "第2部"
+      },
+      {
+        "id": "t2l0ugzn",
+        "title": "バトルクエスト・クレンチ・ユア・フィスト",
+        "arc": "第3部"
+      },
+      {
+        "id": "xh9n74xs",
+        "title": "グラウンド・ゼロ、デス・ヴァレイ・オブ・センジン",
+        "arc": "第3部"
+      }
+    ],
+    "skills": [],
+    "description": "黒人の元ヤクザオヤブン。\nニンジャとの邂逅が切っ掛けで立場を転々とし、キョートのボンズになった。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%9F%E3%82%B9",
+    "role": "ヨコハマロープウェイクランの元オヤブン",
+    "appearance": "鋭い目つき。スキンヘッドの黒人\nヨコハマロープウェイクラン時代：「横浜御縄談合」の文字が銀刺繍されたスタジアムジャンパー\nボンズ時代：朱色のバトルサムエ姿"
   },
   {
     "id": "270122",
