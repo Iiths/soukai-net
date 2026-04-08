@@ -243,30 +243,30 @@
     "id": "177545597",
     "name": "ナンシー・リー",
     "aliases": [
-      "ナンシー・リー／ナンシー・リン"
+      "ナンシー・リー",
+      "ナンシー・リン"
     ],
-    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaType": "非ニンジャ",
     "organizations": [
       {
         "id": "ニンジャスレイヤーと協力者達",
         "name": "ニンジャスレイヤーと協力者達"
-      },
-      {
-        "id": "ヨロシサン製薬",
-        "name": "ヨロシサン製薬"
-      },
-      {
-        "id": "サンズ・オブ・ケオス",
-        "name": "サンズ・オブ・ケオス"
-      },
-      {
-        "id": "スレイト・オブ・ニンジャ",
-        "name": "「スレイト・オブ・ニンジャ」"
       }
     ],
-    "appearances": [],
+    "appearances": [
+      {
+        "id": "gx89trl9",
+        "title": "ベイン・オブ・サーペント",
+        "arc": "第1部"
+      }
+    ],
+    "skills": [
+      "ハッカー"
+    ],
+    "description": "フリー・ジャーナリストにしてハッカー。\n時に単独で敵地に侵入し、時にニンジャスレイヤーと共に悪事を暴く。\n4部では汎用オイランドロイドに宿り、ナンシー・リンを名乗る。",
     "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8A%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%BB%E3%83%AA%E3%83%BC"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8A%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%BB%E3%83%AA%E3%83%BC",
+    "appearance": "金髪碧眼の美女。豊満。\n強化PVCキャットスーツやレザー・ライダースーツなどを着用することが多い。"
   },
   {
     "id": "177545598",
@@ -4502,9 +4502,7 @@
     ],
     "description": "ソウカイ・シックスゲイツの一人。\n怪力、耐久力に加えて冷徹な指揮能力をも備える。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%BC%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A4%E3%82%AF",
-    "role": "ソウカイ・シックスゲイツ",
-    "appearance": "身長2m50cm。アニメイシヨンでは更に超巨体。"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%BC%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A4%E3%82%AF"
   },
   {
     "id": "c2128d31",
@@ -4522,15 +4520,42 @@
   {
     "id": "f21d20dd",
     "name": "コッカトリス",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "sqta2q6z",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "ヘビ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B3%E3%83%83%E3%82%AB%E3%83%88%E3%83%AA%E3%82%B9"
+    "appearances": [
+      {
+        "id": "9rk5hoiz",
+        "title": "ベイン・オブ・サーペント",
+        "arc": "第1部"
+      },
+      {
+        "id": "vr3fq73p",
+        "title": "バトルグラウンド・サツ・バツ",
+        "arc": "外伝"
+      }
+    ],
+    "skills": [
+      "ダイジャ・バイト",
+      "ドク・ジツ"
+    ],
+    "description": "ソウカイ・シックスゲイツの一人。\n抗争で失った両腕を危険なバイオ手術で補った。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B3%E3%83%83%E3%82%AB%E3%83%88%E3%83%AA%E3%82%B9",
+    "role": "ソウカイ・シックスゲイツ",
+    "appearance": "黄緑色のニンジャ装束。首に巻いた黒と黄土色の網模様の蛇。\n異常に巨大で汚い包帯に巻かれた両腕。その中には生きた大蛇。\n右腕はアナコンダ、左腕はコブラ。"
   },
   {
     "id": "e93dc3e2",
@@ -4572,9 +4597,7 @@
     ],
     "description": "ソウカイ・シックスゲイツの一人。隠密行動が得意。\n本編での情けない出番に反し、外伝「バトルグラウンド・サツ・バツ」では主役を張っている。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%83%B3%E3%83%87%E3%82%A3%E3%83%83%E3%83%88",
-    "role": "ソウカイ・シックスゲイツ",
-    "appearance": "茶色のステルスニンジャ装束。アニメイシヨンでは青と紫。\n片目がサイバネアイ。"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%83%B3%E3%83%87%E3%82%A3%E3%83%83%E3%83%88"
   },
   {
     "id": "ba75adb0",
@@ -4606,26 +4629,47 @@
       "ゼゲン・ゲイズ"
     ],
     "description": "ソウカイ・シックスゲイツの一人。\nジツと話術によって巧みに人心を操る。\n負傷を負う前は強力なカラテ戦士でもあった。",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%93%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC",
-    "role": "ソウカイ・シックスゲイツ",
-    "appearance": "サイバーサングラス。車椅子。身長183cm。"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%93%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC"
   },
   {
     "id": "4fb59b2a",
     "name": "ダイダロス",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "99r3dts1",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
-      },
-      {
-        "id": "ヨロシサン製薬",
-        "name": "ヨロシサン製薬"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%80%E3%82%A4%E3%83%80%E3%83%AD%E3%82%B9"
+    "appearances": [
+      {
+        "id": "60p5g4zq",
+        "title": "ユーレイ・ダンシング・オン・コンクリート・ハカバ",
+        "arc": "第1部"
+      },
+      {
+        "id": "r3d5m4sz",
+        "title": "ワン・ミニット・ビフォア・ザ・タヌキ",
+        "arc": "第1部"
+      }
+    ],
+    "skills": [
+      "ハッカー",
+      "多重ログイン"
+    ],
+    "description": "ソウカイ・シックスゲイツの一人。\nヤバイ級ハッカーをも上回る電子戦のスペシャリスト。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%80%E3%82%A4%E3%83%80%E3%83%AD%E3%82%B9",
+    "appearance": "黒いサイバーニンジャ装束。身長178cm。\n円環型サイバーサングラス。サイバー入力デヴァイス。",
+    "role": "ソウカイ・シックスゲイツ"
   },
   {
     "id": "d21b2cf5",
@@ -4867,15 +4911,36 @@
   {
     "id": "35d8a63d",
     "name": "ナイトシェイド",
+    "realName": "ジバ・ソウタツ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "iqq3p654",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "スミレ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8A%E3%82%A4%E3%83%88%E3%82%B7%E3%82%A7%E3%82%A4%E3%83%89"
+    "appearances": [
+      {
+        "id": "jx5eajyo",
+        "title": "デス・オブ・バタフライ",
+        "arc": "第1部"
+      }
+    ],
+    "skills": [
+      "シュギ・ジキ"
+    ],
+    "description": "ソウカイ・シックスゲイツの一人。\n料亭「ダルマ」の４階を棲家とし、\n数々の罠でニンジャスレイヤーを苦しめた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8A%E3%82%A4%E3%83%88%E3%82%B7%E3%82%A7%E3%82%A4%E3%83%89",
+    "role": "ソウカイ・シックスゲイツ"
   },
   {
     "id": "0781b55f",
@@ -4919,20 +4984,41 @@
       "カトン・パンチ"
     ],
     "description": "ソウカイヤのニンジャ。\n殴った相手を発火させるカトン・ジツの使い手。",
-    "status": "dead",
-    "appearance": "痩身。灰色のスーツ姿。ダークオレンジ色のニンジャ装束。\n漫画版では「火」のカンジを象ったメンポ。\nアニメイシヨンでは緑色のスーツ。"
+    "status": "dead"
   },
   {
     "id": "a7d9c8bc",
     "name": "アイアンヴァイス",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "oilpmp4s",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "クロガネ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": []
+    "appearances": [
+      {
+        "id": "tde9kneb",
+        "title": "キルゾーン・スモトリ",
+        "arc": "第1部"
+      }
+    ],
+    "skills": [
+      "ムテキ・アティチュード",
+      "スリケン"
+    ],
+    "description": "ソウカイヤのニンジャ。\nスリケンや銃弾を弾くムテキ・アティチュードと、\n万力のような握力が武器。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%B4%E3%82%A1%E3%82%A4%E3%82%B9",
+    "appearance": "黒いニンジャ装束。馬の目のような黒目。"
   },
   {
     "id": "35de511a",
@@ -5008,14 +5094,35 @@
   {
     "id": "18172fc4",
     "name": "イクエイション",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "pyokebuf",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": []
+    "appearances": [
+      {
+        "id": "x6t1b1fr",
+        "title": "ゼロ・トレラント・サンスイ",
+        "arc": "第1部"
+      }
+    ],
+    "skills": [
+      "ミガワリ・ジツ"
+    ],
+    "description": "ソウカイヤのニンジャ。\nミニットマンのコンビ。\n電子戦争経験者。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%82%AF%E3%82%A8%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3",
+    "appearance": "全身をバイオ・ケブラーで覆う。"
   },
   {
     "id": "38f235b9",
@@ -5163,8 +5270,7 @@
       "スナイパー・スリケン"
     ],
     "description": "ソウカイヤの狙撃ニンジャ。\n彼が創出した組織が母体となり、シャーテックに引き継がれた。",
-    "status": "dead",
-    "appearance": "ゴミと枯れ草をこねあわせたような、毛むくじゃらのビッグフットのような怪物的ギリー・ニンジャ装束。\nガスマスク。スナイパー・スリケン射出用ガントレット。狙撃用スコープ。"
+    "status": "dead"
   },
   {
     "id": "a388da3f",
@@ -5494,14 +5600,35 @@
   {
     "id": "1113f31c",
     "name": "スコルピオン",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "clorpwhg",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "サソリ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": []
+    "appearances": [
+      {
+        "id": "2phn7min",
+        "title": "ユーレイ・ダンシング・オン・コンクリート・ハカバ",
+        "arc": "第1部"
+      }
+    ],
+    "skills": [
+      "サソリ・ファイティング・スタイル",
+      "カトン・ジツ"
+    ],
+    "description": "ソウカイヤの末端ニンジャ。メキシコ人。\n海を泳いで不法入国を果たしたと嘯く。自慢話が好き。",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%B3%E3%83%AB%E3%83%94%E3%82%AA%E3%83%B3",
+    "appearance": "筋骨隆々の巨漢。身長は2m超。\n上半身は裸で刺青まみれ。"
   },
   {
     "id": "cdba0e3d",
@@ -5574,8 +5701,7 @@
       "ドトン・ジツ",
       "サイバネティック・ムカデ化"
     ],
-    "description": "ソウカイヤのニンジャ。\nムカデ化で三倍の長さまで伸びる。",
-    "appearance": "小柄な体格。枯れ草色のニンジャ装束。両手に爪状の武器"
+    "description": "ソウカイヤのニンジャ。\nムカデ化で三倍の長さまで伸びる。"
   },
   {
     "id": "007db8b7",
@@ -6084,43 +6210,100 @@
   {
     "id": "59dd939b",
     "name": "ホロスコープ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "f3blfwto",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "ドルイド・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": []
+    "appearances": [
+      {
+        "id": "37xaoefv",
+        "title": "ザ・フォーチュン・テラー",
+        "arc": "第1部"
+      }
+    ],
+    "skills": [
+      "十二星座動物の強化",
+      "シュギ・ジキ"
+    ],
+    "description": "ソウカイヤのニンジャ。\n巨大バイオズワイガニをはじめとする星座動物を使役し、\n 数々の罠でニンジャスレイヤーを苦しめた。",
+    "status": "dead",
+    "appearance": "青いニンジャ装束。殺（キルズ）では奇術師めいたマントとスーツ。カイゼルめいた髭。鼻から上のみを覆うメンポ。"
   },
   {
     "id": "22a607e6",
     "name": "マタドール",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "eqi3qk5n",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "ウシカイ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": []
+    "appearances": [
+      {
+        "id": "xebveoef",
+        "title": "デストロイ・ザ・ショーギ・バスタード",
+        "arc": "第1部"
+      }
+    ],
+    "skills": [
+      "闘牛カラテ"
+    ],
+    "description": "ソウカイヤのニンジャ。\n地下賭博場の胴元で、あらゆるバクチに精通する。\nイクサではバイオ猛牛「マツザカ」とともに戦う。",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB",
+    "appearance": "黒いニンジャ装束。真っ赤なフロシキ。"
   },
   {
     "id": "42f13bc7",
     "name": "ミニットマン",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "b6hjb6ec",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "キツネ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
-      },
-      {
-        "id": "アマクダリ",
-        "name": "アマクダリ"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9F%E3%83%8B%E3%83%83%E3%83%88%E3%83%9E%E3%83%B3"
+    "appearances": [
+      {
+        "id": "slo3ghfu",
+        "title": "ゼロ・トレラント・サンスイ",
+        "arc": "第1部"
+      }
+    ],
+    "skills": [
+      "シニフリ・ジツ"
+    ],
+    "description": "ソウカイヤのニンジャ。\n脅威の匍匐前進速度と秘密のジツを持つ。\n電子戦争経験者。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9F%E3%83%8B%E3%83%83%E3%83%88%E3%83%9E%E3%83%B3",
+    "appearance": "キャタピラ的な装束。網膜に生体センサー。"
   },
   {
     "id": "48e3dd08",
@@ -12735,9 +12918,7 @@
     ],
     "description": "ドラゴン・ニンジャクランの末裔。\nニンジャスレイヤーに数々のインストラクションを授けた。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%BB%E3%82%B2%E3%83%B3%E3%83%89%E3%83%BC%E3%82%BD%E3%83%BC",
-    "role": "最後のリアルニンジャ",
-    "appearance": "小柄な老人。竜の刺繍入ニンジャ装束。鋭い眼光。\n「メナス・オブ・ダークニンジャ」では死に装束。額に三角巾。"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%BB%E3%82%B2%E3%83%B3%E3%83%89%E3%83%BC%E3%82%BD%E3%83%BC"
   },
   {
     "id": "77c4c0",
@@ -14538,14 +14719,45 @@
   {
     "id": "57728c",
     "name": "ロブスター",
+    "aliases": [],
+    "ninjaType": "バイオニンジャ",
+    "ninjaSoul": {
+      "id": "uxtx75to",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "ヨロシサン製薬",
         "name": "ヨロシサン製薬"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AD%E3%83%96%E3%82%B9%E3%82%BF%E3%83%BC"
+    "appearances": [
+      {
+        "id": "vnhzwml6",
+        "title": "デイ・オブ・ザ・ロブスター",
+        "arc": "第1部"
+      },
+      {
+        "id": "631a6gfp",
+        "title": "デイ・オブ・ザ・ロブスター2",
+        "arc": "第1部"
+      },
+      {
+        "id": "w1iu2r5k",
+        "title": "デイ・オブ・ザ・ロブスター3",
+        "arc": "第2部"
+      }
+    ],
+    "skills": [
+      "ハサミ"
+    ],
+    "description": "両腕のハサミで戦うヨロシサンのバイオニンジャ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AD%E3%83%96%E3%82%B9%E3%82%BF%E3%83%BC",
+    "appearance": "上半身、または全身がロブスター。両手に巨大なハサミ。"
   },
   {
     "id": "503523",
@@ -16177,9 +16389,7 @@
     "skills": [],
     "description": "黒人の元ヤクザオヤブン。\nニンジャとの邂逅が切っ掛けで立場を転々とし、キョートのボンズになった。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%9F%E3%82%B9",
-    "role": "ヨコハマロープウェイクランの元オヤブン",
-    "appearance": "鋭い目つき。スキンヘッドの黒人\nヨコハマロープウェイクラン時代：「横浜御縄談合」の文字が銀刺繍されたスタジアムジャンパー\nボンズ時代：朱色のバトルサムエ姿"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%9F%E3%82%B9"
   },
   {
     "id": "270122",
