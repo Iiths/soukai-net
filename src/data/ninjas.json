@@ -4559,15 +4559,65 @@
   {
     "id": "d21b2cf5",
     "name": "ヘルカイト",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "au08ngvg",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "トブ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%AB%E3%82%AB%E3%82%A4%E3%83%88"
+    "appearances": [
+      {
+        "id": "bzmuc2m8",
+        "title": "バック・イン・ブラック",
+        "arc": "第1部"
+      },
+      {
+        "id": "g8cjaep2",
+        "title": "レイジ・アゲンスト・トーフ",
+        "arc": "第1部"
+      },
+      {
+        "id": "60lvikkv",
+        "title": "サプライズド・ドージョー",
+        "arc": "第1部"
+      },
+      {
+        "id": "qhat4thc",
+        "title": "デッドムーン・オン・ザ・レッドスカイ",
+        "arc": "第1部"
+      },
+      {
+        "id": "naqths7k",
+        "title": "ストレンジャー・ストレンジャー・ザン・フィクション",
+        "arc": "第1部"
+      },
+      {
+        "id": "w2yqllq6",
+        "title": "ネオサイタマ・イン・フレイム",
+        "arc": "第1部"
+      }
+    ],
+    "skills": [
+      "ステルス凧",
+      "サーチライト",
+      "マキビシ",
+      "ヤリ",
+      "サイバーサングラス・レーザー"
+    ],
+    "description": "ソウカイ・シックスゲイツの一人。\n凧に乗って空を舞い、斥侯からサポートまで幅広くこなす。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%AB%E3%82%AB%E3%82%A4%E3%83%88",
+    "role": "ソウカイ・シックスゲイツ",
+    "appearance": "オフホワイトのニンジャ装束。様々な文言が書かれたニンジャ凧。"
   },
   {
     "id": "49a3fe5b",
@@ -4826,14 +4876,38 @@
   {
     "id": "c4643b2a",
     "name": "アゴニィ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "j32703um",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "イタミ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": []
+    "appearances": [
+      {
+        "id": "w9uepaj5",
+        "title": "バック・イン・ブラック",
+        "arc": "第1部"
+      },
+      {
+        "id": "qs1ghuk5",
+        "title": "キックアウト・ザ・ニンジャ・マザーファッカー",
+        "arc": "第1部"
+      }
+    ],
+    "skills": [
+      "イタミ・ジツ"
+    ],
+    "description": "ソウカイヤの末端ニンジャ。\n打撃吸収の特性とマゾヒズムが一体化した厄介なニンジャ。",
+    "appearance": "レザースーツ。全身にタタミ針。"
   },
   {
     "id": "74dc507d",
@@ -4886,14 +4960,32 @@
   {
     "id": "f5166bc1",
     "name": "ウィールダー",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "awpjg4rc",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": []
+    "appearances": [
+      {
+        "id": "625c0zgy",
+        "title": "バック・イン・ブラック",
+        "arc": "第1部"
+      }
+    ],
+    "skills": [],
+    "description": "ソウカイヤの末端ニンジャ。\n殺（キルズ）ではサイバネを活かしたニンジャチョップ大車輪攻撃が可能であった。",
+    "status": "dead",
+    "appearance": "特になし。殺（キルズ）描写では上半身が巨大な車輪状のサイバネに置換されている。"
   },
   {
     "id": "28b22647",
@@ -4910,14 +5002,34 @@
   {
     "id": "03f5c336",
     "name": "オフェンダー",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "4qaf71gf",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "ヤマイヌ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": []
+    "appearances": [
+      {
+        "id": "a44ha73j",
+        "title": "ボーン・イン・レッド・ブラック",
+        "arc": "第1部"
+      }
+    ],
+    "skills": [
+      "ダガーナイフ"
+    ],
+    "description": "ソウカイヤの末端ニンジャ。カラテが弱い。",
+    "status": "dead",
+    "appearance": "小柄な体格。黄土色のニンジャ装束。猿のようなメンポ。"
   },
   {
     "id": "3257bc28",
@@ -5006,14 +5118,31 @@
   {
     "id": "13315617",
     "name": "コーシャス",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "ctq5rzio",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": []
+    "appearances": [
+      {
+        "id": "21qoefb5",
+        "title": "バック・イン・ブラック",
+        "arc": "第1部"
+      }
+    ],
+    "skills": [],
+    "description": "ソウカイヤの末端ニンジャ。\nドラゴン・ドージョーの捜索に赴いていた。",
+    "status": "dead"
   },
   {
     "id": "c4926ef7",
@@ -5054,26 +5183,74 @@
   {
     "id": "bd8bcdd5",
     "name": "サイプレス",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "h1v1m6ql",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": []
+    "appearances": [
+      {
+        "id": "g22njv54",
+        "title": "バック・イン・ブラック",
+        "arc": "第1部"
+      },
+      {
+        "id": "qxnycbye",
+        "title": "バトルグラウンド・サツ・バツ",
+        "arc": "外伝"
+      }
+    ],
+    "skills": [
+      "ステルス・ジツ"
+    ],
+    "description": "ソウカイヤの末端ニンジャ。\n糸杉の枝葉にカモフラージュしてステルス潜伏できる。",
+    "status": "dead"
   },
   {
     "id": "59310e1a",
     "name": "サブシスタンス",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "0efvk127",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": []
+    "appearances": [
+      {
+        "id": "pa38fbc8",
+        "title": "バック・イン・ブラック",
+        "arc": "第1部"
+      },
+      {
+        "id": "qx91tgh2",
+        "title": "バトルグラウンド・サツ・バツ",
+        "arc": "外伝"
+      }
+    ],
+    "skills": [
+      "スリケン"
+    ],
+    "description": "ソウカイヤの末端ニンジャ。\n典型的サンシタ。",
+    "appearance": "中肉中背。紺のニンジャ装束。足袋。無地のフード付きPVCレインコート。"
   },
   {
     "id": "f499ec50",
@@ -5102,14 +5279,34 @@
   {
     "id": "c7b9c177",
     "name": "シャープトゥース",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "j7e945c3",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": []
+    "appearances": [
+      {
+        "id": "00e29gpz",
+        "title": "バック・イン・ブラック",
+        "arc": ""
+      }
+    ],
+    "skills": [
+      "サイバネ牙"
+    ],
+    "description": "ソウカイヤのニンジャ。\n刺突攻撃に加えメイアルーア・ジ・コンパッソも放つ。",
+    "status": "dead",
+    "appearance": "手首にサイバネ牙が飛び出す機構。"
   },
   {
     "id": "cbb49181",
@@ -5126,26 +5323,66 @@
   {
     "id": "fadf5e8a",
     "name": "スキャッター",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "ys44o8e5",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "コダマ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": []
+    "appearances": [
+      {
+        "id": "e6zr20iz",
+        "title": "ボーン・イン・レッド・ブラック",
+        "arc": "第1部"
+      }
+    ],
+    "skills": [
+      "探知能力"
+    ],
+    "description": "ソウカイヤの末端ニンジャ。索敵能力を持つ分カラテは弱い。",
+    "status": "dead",
+    "appearance": "円柱形の奇妙なフルフェイス・ニンジャヘルム。ハンディカメラ。"
   },
   {
     "id": "0d9cfd0d",
     "name": "スクワッシャー",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "75cazqfn",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "ヨロイ・ニンジャ・クラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": []
+    "appearances": [
+      {
+        "id": "oj4bjtkn",
+        "title": "バック・イン・ブラック",
+        "arc": "第1部"
+      }
+    ],
+    "skills": [
+      "ニンジャアーマー"
+    ],
+    "description": "ソウカイヤの末端ニンジャ。\n強固なアーマーでスリケン攻撃を弾く。",
+    "status": "dead",
+    "appearance": "鉛色のニンジャアーマー\n殺（キルズ）描写：「潰し者」とショドーされたアーマー。クロスカタナのエンブレムを模したフルフェイスメンポ。"
   },
   {
     "id": "1113f31c",
@@ -5263,26 +5500,64 @@
   {
     "id": "fc3a98d6",
     "name": "タルピダイ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "r2m2pscf",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": []
+    "appearances": [
+      {
+        "id": "pmiianwi",
+        "title": "バック・イン・ブラック",
+        "arc": "第1部"
+      }
+    ],
+    "skills": [
+      "ドトン・ジツ"
+    ],
+    "description": "ソウカイヤの末端ニンジャ。\nドラゴン・ドージョーの捜索に赴いていた。",
+    "status": "dead",
+    "appearance": "土色のニンジャ装束。"
   },
   {
     "id": "f12c6a2d",
     "name": "チューブラー",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "4hknkndx",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": []
+    "appearances": [
+      {
+        "id": "fltn1imu",
+        "title": "バック・イン・ブラック",
+        "arc": "第1部"
+      }
+    ],
+    "skills": [],
+    "description": "ソウカイヤの末端ニンジャ。\n殺（キルズ）ではカトン系のニンジャ……だったのかもしれない。",
+    "status": "dead",
+    "appearance": "殺（キルズ）描写：灯油ポンプ状のメンポ。灯油タンク型のバックパック。"
   },
   {
     "id": "f41bf216",
@@ -5341,14 +5616,32 @@
   {
     "id": "81ea7223",
     "name": "デッドリーフ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "6g1g2wan",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": []
+    "appearances": [
+      {
+        "id": "0jifyeit",
+        "title": "バック・イン・ブラック",
+        "arc": "第1部"
+      }
+    ],
+    "skills": [],
+    "description": "ソウカイヤの末端ニンジャ。\nドラゴン・ドージョー探索に赴いていた。",
+    "status": "dead",
+    "appearance": "枯れ葉迷彩装束。"
   },
   {
     "id": "e73a49a4",
@@ -5365,14 +5658,35 @@
   {
     "id": "a23e9265",
     "name": "ドミナント",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "5anpar2m",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "シノビ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": []
+    "appearances": [
+      {
+        "id": "qd33dq1y",
+        "title": "バック・イン・ブラック",
+        "arc": ""
+      }
+    ],
+    "skills": [
+      "エメイシ",
+      "エンハンス・ジツ"
+    ],
+    "description": "ソウカイヤのニンジャ。ゲイトキーパーの直弟子。\nダークニンジャに対抗意識を抱く。",
+    "status": "dead",
+    "appearance": "黒玉色のニンジャ装束。青い眼光。"
   },
   {
     "id": "09a16fca",
@@ -5461,14 +5775,34 @@
   {
     "id": "00055d2e",
     "name": "パラポネラ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "xucxcel5",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": []
+    "appearances": [
+      {
+        "id": "9afec573",
+        "title": "バック・イン・ブラック",
+        "arc": "第1部"
+      }
+    ],
+    "skills": [
+      "ドク・カミツキ"
+    ],
+    "description": "ソウカイヤの末端ニンジャ。\n毒液滴るメンポの噛みつきで攻撃する。",
+    "status": "dead",
+    "appearance": "マッドグリーン色の装束。スズメバチの顎めいた開口式メンポ。"
   },
   {
     "id": "723e0b42",
@@ -5545,14 +5879,34 @@
   {
     "id": "758c44a4",
     "name": "ペイヴメント",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "acaw9f4i",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": []
+    "appearances": [
+      {
+        "id": "3nfe8975",
+        "title": "バック・イン・ブラック",
+        "arc": "第1部"
+      }
+    ],
+    "skills": [
+      "ドク矢"
+    ],
+    "description": "ソウカイヤのニンジャ。\nマスタードガスを散布するニンジャ矢を射る。",
+    "status": "dead",
+    "appearance": "ニンジャ弓を持つ。"
   },
   {
     "id": "92c03667",
@@ -5569,14 +5923,31 @@
   {
     "id": "7c259c8d",
     "name": "ヘルディーラー",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "u55uh8bq",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": []
+    "appearances": [
+      {
+        "id": "9y33gynx",
+        "title": "バック・イン・ブラック",
+        "arc": "第1部"
+      }
+    ],
+    "skills": [],
+    "description": "ソウカイヤの末端ニンジャ。\n違法薬物の取引をしていた。",
+    "status": "dead"
   },
   {
     "id": "a595f816",
@@ -5639,14 +6010,35 @@
   {
     "id": "48e3dd08",
     "name": "ミュルミドン",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "dhko9utx",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "ヤブサメ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": []
+    "appearances": [
+      {
+        "id": "wda75pmi",
+        "title": "ボーン・イン・レッド・ブラック",
+        "arc": ""
+      }
+    ],
+    "skills": [
+      "ニンジャアーマー「シロイ」",
+      "高機動装甲バイク「シロイ」"
+    ],
+    "description": "ソウカイヤの強襲ニンジャ。\nゲイトキーパー直々に鍛えられた精鋭。\nモーターサイクルにまたがり、人車一体の攻撃を繰り出す。",
+    "status": "dead",
+    "appearance": "流体力学に則った形状の装甲型ニンジャ装束。\n媒体によって装束の色が違う（原作は白、アニメイシヨンはオレンジ、など）"
   },
   {
     "id": "8104446b",
@@ -5667,26 +6059,66 @@
   {
     "id": "16bc9621",
     "name": "ラウンダーズ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "ua71r55d",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": []
+    "appearances": [
+      {
+        "id": "1rx3976q",
+        "title": "バック・イン・ブラック",
+        "arc": "第1部"
+      }
+    ],
+    "skills": [
+      "トテキ・ジツ"
+    ],
+    "description": "ソウカイヤの末端ニンジャ。\nマルチプル・クナイなど投擲に特化している。",
+    "status": "dead"
   },
   {
     "id": "245b4dee",
     "name": "ラバーダック",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "ouundxjy",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": []
+    "appearances": [
+      {
+        "id": "1keocgtx",
+        "title": "バック・イン・ブラック",
+        "arc": "第1部"
+      }
+    ],
+    "skills": [
+      "火炎瓶",
+      "ホバーホイール"
+    ],
+    "description": "ソウカイヤの末端ニンジャ。\n水上をホバー移動し、火炎瓶で炎の壁を作る。",
+    "status": "dead",
+    "appearance": "足にホバーホイール。\n殺（キルズ）描写：ドナルドダッグめいたメンポ。"
   },
   {
     "id": "015f713f",
