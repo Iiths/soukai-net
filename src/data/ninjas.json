@@ -2410,9 +2410,7 @@
     ],
     "description": "叩き上げの伝説的デッカー。\n現在はキモン長官としてネオサイタマの中立を維持している。",
     "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8E%E3%83%9C%E3%82%BB%E3%83%BB%E3%82%B2%E3%83%B3%E3%82%BD%E3%83%B3",
-    "role": "キモン長官（元ネオサイタマ市警49課上官）",
-    "appearance": "隻眼。両手合わせて3本のケジメ。"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8E%E3%83%9C%E3%82%BB%E3%83%BB%E3%82%B2%E3%83%B3%E3%82%BD%E3%83%B3"
   },
   {
     "id": "17754559113",
@@ -4649,9 +4647,7 @@
     ],
     "description": "妖刀ベッピンを操るニンジャ。\nラオモト・カンの懐刀として、またはザイバツのニンジャとして、\nニンジャスレイヤー（フジキド・ケンジ）と幾度となく渡り合った。\n現在は打倒カツ・ワンソーを掲げ、新生したザイバツを率いている。",
     "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%80%E3%83%BC%E3%82%AF%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
-    "role": "ザイバツ・グランドロード",
-    "appearance": "灰色の髪。ハガネ色の瞳。身長183cm。\nオブシディアン色のニンジャ装束。\n全身甲冑、またはローブ姿。"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%80%E3%83%BC%E3%82%AF%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
   },
   {
     "id": "d1f3d115",
@@ -5093,15 +5089,36 @@
   {
     "id": "6d92243a",
     "name": "クイックシルヴァー",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "izu0ygfr",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "スッパ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%82%A4%E3%83%83%E3%82%AF%E3%82%B7%E3%83%AB%E3%83%B4%E3%82%A1%E3%83%BC"
+    "appearances": [
+      {
+        "id": "zqxhdh7e",
+        "title": "ガイデッド・バイ・マサシ",
+        "arc": "第1部"
+      }
+    ],
+    "skills": [
+      "高速しゃがみ前進",
+      "サマーソルトキック"
+    ],
+    "description": "ソウカイ・シックスゲイツの一人。\nジツの力でしゃがみながら高速移動する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%82%A4%E3%83%83%E3%82%AF%E3%82%B7%E3%83%AB%E3%83%B4%E3%82%A1%E3%83%BC",
+    "role": "ソウカイ・シックスゲイツ"
   },
   {
     "id": "562b94f4",
@@ -5203,9 +5220,7 @@
     ],
     "description": "ソウカイ・シックスゲイツの一人。冬季限定。\nコリ・スリケンによる暗殺を得意とする。夏はドサンコで任務にあたっている。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%83%AD%E3%82%B9%E3%83%88%E3%83%90%E3%82%A4%E3%83%88",
-    "role": "ソウカイ・シックスゲイツ",
-    "appearance": "灰色のニンジャ装束。背中に小型急速冷凍装置。身長179cm。"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%83%AD%E3%82%B9%E3%83%88%E3%83%90%E3%82%A4%E3%83%88"
   },
   {
     "id": "a04759d6",
@@ -5536,8 +5551,7 @@
     ],
     "description": "ソウカイヤのニンジャ。\n掴んだ相手を超振動分解するジツを使う。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AA%E3%83%96%E3%83%AA%E3%83%B4%E3%82%A3%E3%82%AA%E3%83%B3",
-    "appearance": "朱色のニンジャ装束。"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AA%E3%83%96%E3%83%AA%E3%83%B4%E3%82%A3%E3%82%AA%E3%83%B3"
   },
   {
     "id": "3c50af7c",
@@ -5778,14 +5792,37 @@
   {
     "id": "f499ec50",
     "name": "サボター",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "keu1p78b",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": []
+    "appearances": [
+      {
+        "id": "vckfggkw",
+        "title": "フジ・サン・ライジング",
+        "arc": "第1部"
+      }
+    ],
+    "skills": [
+      "パンキドー",
+      "ロシアンスリケン"
+    ],
+    "description": "ソウカイ・シックスゲイツの一人。\nロシア人。パンキドーの熟練者。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%9C%E3%82%BF%E3%83%BC",
+    "role": "ソウカイ・シックスゲイツ",
+    "appearance": "ガンメタル色のロシア風ニンジャ装束。暗い瞳。"
   },
   {
     "id": "7d44defa",
@@ -6240,14 +6277,45 @@
   {
     "id": "09a16fca",
     "name": "トラッフルホッグ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "vjzwbfbt",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": []
+    "appearances": [
+      {
+        "id": "3rbo5xaf",
+        "title": "ア・カインド・オブ・サツバツ・ナイト",
+        "arc": "第1部"
+      },
+      {
+        "id": "ls8y5smz",
+        "title": "ストレンジャー・ストレンジャー・ザン・フィクション",
+        "arc": "第1部"
+      },
+      {
+        "id": "mzc6v87c",
+        "title": "バトルグラウンド・サツ・バツ",
+        "arc": "外伝"
+      }
+    ],
+    "skills": [
+      "ニンジャ嗅覚"
+    ],
+    "description": "ソウカイヤの末端ニンジャ。\nスカウト部門所属。嗅覚に優れる。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%88%E3%83%A9%E3%83%83%E3%83%95%E3%83%AB%E3%83%9B%E3%83%83%E3%82%B0",
+    "appearance": "小太りのニンジャ。首筋に生体LAN端子。豚鼻のメンポ。"
   },
   {
     "id": "defbebb5",
@@ -6290,8 +6358,7 @@
       "ハッキングツール"
     ],
     "description": "ソウカイヤのニンジャ。\n右手の義手による物理的ハッキングを得意とする。",
-    "status": "dead",
-    "appearance": "藍色のニンジャ装束。右手にサイバネ義手。"
+    "status": "dead"
   },
   {
     "id": "d0c010a4",
@@ -6783,14 +6850,35 @@
   {
     "id": "015f713f",
     "name": "レオパルド",
+    "realName": "ヨモダ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "09oehv6u",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "ジャガー・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": []
+    "appearances": [
+      {
+        "id": "4jkfmcn1",
+        "title": "ア・カインド・オブ・サツバツ・ナイト",
+        "arc": "第1部"
+      }
+    ],
+    "skills": [
+      "常人の三倍の脚力"
+    ],
+    "description": "ソウカイヤの末端ニンジャ。\n鍵爪と脚力が持ち味。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%82%AA%E3%83%91%E3%83%AB%E3%83%89"
   },
   {
     "id": "8b7ea790",
@@ -13339,14 +13427,78 @@
   {
     "id": "ef1524",
     "name": "バーバヤガ",
+    "aliases": [],
     "organizations": [
       {
         "id": "ニンジャスレイヤーと協力者達",
         "name": "ニンジャスレイヤーと協力者達"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%83%BC%E3%83%90%E3%83%A4%E3%82%AC"
+    "appearances": [
+      {
+        "id": "9a7q6o48",
+        "title": "グランス・オブ・マザーカース",
+        "arc": "第1部"
+      },
+      {
+        "id": "feqikocu",
+        "title": "ストレンジャー・ストレンジャー・ザン・フィクション",
+        "arc": "第1部"
+      },
+      {
+        "id": "js9ejlo6",
+        "title": "ブレードヤクザ・ヴェイカント・ヴェンジェンス",
+        "arc": "第2部"
+      },
+      {
+        "id": "3zn1rjr5",
+        "title": "アウェイクニング・イン・ジ・アビス",
+        "arc": "第2部"
+      },
+      {
+        "id": "6o0erlqp",
+        "title": "ディフュージョン・アキュミュレイション・リボーン・ディストラクション",
+        "arc": "第2部"
+      },
+      {
+        "id": "quygr0n2",
+        "title": "シージ・トゥ・ザ・スリーピング・ビューティー",
+        "arc": "第2部"
+      },
+      {
+        "id": "g01g2lf0",
+        "title": "ザ・マン・フー・カムズ・トゥ・スラム・ザ・リジグネイション",
+        "arc": "第2部"
+      },
+      {
+        "id": "54yw7ru2",
+        "title": "キョート・ヘル・オン・アース",
+        "arc": "第2部"
+      },
+      {
+        "id": "7ngj3zv7",
+        "title": "ダークサイド・オブ・ザ・ムーン",
+        "arc": "第3部"
+      },
+      {
+        "id": "zuvwg5gm",
+        "title": "ニンジャスレイヤー：ネヴァーダイズ",
+        "arc": "第3部"
+      },
+      {
+        "id": "0u9lh1lc",
+        "title": "ウィア・スラッツ、チープ・プロダクツ、イン・サム・ニンジャズ・ノートブック",
+        "arc": "第4部",
+        "season": 1
+      }
+    ],
+    "skills": [
+      "第三の目"
+    ],
+    "description": "コトダマ空間上に出現する謎めいた存在。\nフジキドに数々の啓示を与える。ナンシーと関係があるようだ。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%83%BC%E3%83%90%E3%83%A4%E3%82%AC",
+    "appearance": "身長10フィートを超す巨大な老婆。\nまたは透き通るような裸体を曝け出した黒髪の美女。\nまたは白髪混じりの長い黒髪を持つ中年女性。"
   },
   {
     "id": "ea666b",
@@ -15180,14 +15332,46 @@
   {
     "id": "a0c307",
     "name": "ケジメニンジャ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "eonxv01v",
+      "name": "マンジ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "マンジ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "ヨロシサン製薬",
         "name": "ヨロシサン製薬"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B1%E3%82%B8%E3%83%A1%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+    "appearances": [
+      {
+        "id": "9f861bk0",
+        "title": "ブレードヤクザ・ヴェイカント・ヴェンジェンス",
+        "arc": "第2部"
+      },
+      {
+        "id": "0pifwo7m",
+        "title": "グランス・オブ・マザーカース",
+        "arc": "第1部"
+      },
+      {
+        "id": "chlihup4",
+        "title": "キョート・ヘル・オン・アース",
+        "arc": "第2部"
+      }
+    ],
+    "skills": [
+      "カマイタチ・ジツ",
+      "ドス・ダガー二刀流"
+    ],
+    "description": "自我を持ったクローンヤクザがニンジャ化した存在。\n己のルーツを求めてヨロシサン関係者をケジメさせる。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B1%E3%82%B8%E3%83%A1%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
+    "appearance": "クローンヤクザY-13型そのものの肉体。\n濃紺のニンジャ装束。キツネ・オメーン。\nニンジャスレイヤーとの決戦時はスーツ姿。"
   },
   {
     "id": "a18762",
@@ -15610,8 +15794,7 @@
     "skills": [],
     "description": "ネコチャン、カワイイコの二人で結成された人気アイドルユニット。\nネコネコカワイイジャンプは老若男女問わず多くの人々を魅了した。\n3部終盤でネコチャンが電撃的引退。その後紆余曲折を経て128人に増え、\n第4部S5現在は更に増えてNNK-256になった。",
     "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8D%E3%82%B3%E3%83%8D%E3%82%B3%E3%82%AB%E3%83%AF%E3%82%A4%E3%82%A4",
-    "appearance": "サイバーサングラス。アイドル的コスチューム。"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8D%E3%82%B3%E3%83%8D%E3%82%B3%E3%82%AB%E3%83%AF%E3%82%A4%E3%82%A4"
   },
   {
     "id": "3dd90d",
@@ -16120,14 +16303,26 @@
   {
     "id": "c96918",
     "name": "ノリベ",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
     "organizations": [
       {
         "id": "ネオサイタマ市警49課",
         "name": "ネオサイタマ市警49課"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8E%E3%83%AA%E3%83%99"
+    "appearances": [
+      {
+        "id": "voa5unux",
+        "title": "ア・カインド・オブ・サツバツ・ナイト",
+        "arc": "第1部"
+      }
+    ],
+    "skills": [],
+    "description": "ネオサイタマ市警49課に所属するフォールン・デッカー。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8E%E3%83%AA%E3%83%99",
+    "appearance": "ダイヤモンドチタン製の戦闘義手。サイバーサングラス。恐らく警官姿。"
   },
   {
     "id": "fcd664",
@@ -17454,8 +17649,7 @@
     ],
     "description": "ダークニンジャを導く謎めいた運命者。 過去を見通すと嘯く。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%AF%E3%83%AC%E3%82%A4%E3%83%B3",
-    "appearance": "「ツル」と書かれたニンジャ装束。シシマイ・オメーン。\n全長240cm超。"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%AF%E3%83%AC%E3%82%A4%E3%83%B3"
   },
   {
     "id": "c3371a",
@@ -17501,8 +17695,7 @@
       "レーザー光線"
     ],
     "description": "ダークニンジャを導く謎めいた運命者。\n未来を見通すと嘯く。",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%88%E3%83%BC%E3%82%BF%E3%82%B9",
-    "appearance": "「カメ」と書かれたニンジャ装束。シシマイ・オメーン。全長240cm超。"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%88%E3%83%BC%E3%82%BF%E3%82%B9"
   },
   {
     "id": "c15b4e",
