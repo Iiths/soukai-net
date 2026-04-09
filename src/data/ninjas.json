@@ -423,6 +423,128 @@
         "id": "8x6pt5fy",
         "title": "ニュー・メッセンジャー・オブ・ホワット",
         "arc": "第1部"
+      },
+      {
+        "id": "nsdl0ytg",
+        "title": "ニュー・メッセンジャー・オブ・パスト・アンド・フューチャー",
+        "arc": "第3部"
+      },
+      {
+        "id": "st6b9q7x",
+        "title": "サツバツ・ナイト・バイ・ナイト",
+        "arc": "第3部"
+      },
+      {
+        "id": "gba0awyv",
+        "title": "ヘイル・トゥ・ザ・シェード・オブ・ブッダスピード",
+        "arc": "第3部"
+      },
+      {
+        "id": "x9g18jha",
+        "title": "ゼア・イズ・ア・ライト",
+        "arc": "第3部"
+      },
+      {
+        "id": "z7rgd0bm",
+        "title": "ステイ・アライヴ・フォー・ユア・カラテ",
+        "arc": "第3部"
+      },
+      {
+        "id": "qeenefau",
+        "title": "デス・トラップ、スーサイド・ラップ",
+        "arc": "第3部"
+      },
+      {
+        "id": "yg4p8qly",
+        "title": "ニチョーム・ウォー……ビギニング",
+        "arc": "第3部"
+      },
+      {
+        "id": "yrr4132n",
+        "title": "フェアウェル・マイ・シャドウ",
+        "arc": "第3部"
+      },
+      {
+        "id": "2v6e48gz",
+        "title": "ニチョーム・ウォー",
+        "arc": "第3部"
+      },
+      {
+        "id": "8r8ibb8m",
+        "title": "ニンジャスレイヤー：ネヴァーダイズ",
+        "arc": "第3部"
+      },
+      {
+        "id": "na7t80qm",
+        "title": "フラワーズ・フロム・フロスト",
+        "arc": "第4部",
+        "season": 1
+      },
+      {
+        "id": "0pg8ano6",
+        "title": "エリミネイト・アナイアレイター",
+        "arc": "第4部",
+        "season": 2
+      },
+      {
+        "id": "v6sqo9jc",
+        "title": "ライフ・アフター・デス",
+        "arc": "第4部",
+        "season": 2
+      },
+      {
+        "id": "0ssoqq7s",
+        "title": "ベイン・オブ・カトー",
+        "arc": "第4部",
+        "season": 2
+      },
+      {
+        "id": "kehqgsdx",
+        "title": "ポッシブル・ドミネイション",
+        "arc": "第4部",
+        "season": 2
+      },
+      {
+        "id": "wjryt0u9",
+        "title": "ハート・オブ・ダウントロッデン・ソウルズ",
+        "arc": "第4部",
+        "season": 2
+      },
+      {
+        "id": "vrvaz1y4",
+        "title": "カウンシル・フジミ",
+        "arc": "第4部",
+        "season": 2
+      },
+      {
+        "id": "typqvzha",
+        "title": "ベリアル・アンダーカバー",
+        "arc": "第4部",
+        "season": 2
+      },
+      {
+        "id": "0nci6tph",
+        "title": "ドラゴン・インストラクション",
+        "arc": "第4部",
+        "season": 2
+      },
+      {
+        "id": "i9di1e9q",
+        "title": "フリージング・フジサン",
+        "arc": "第4部",
+        "season": 2
+      },
+      {
+        "id": "his9gvkp",
+        "title": "アルター・オブ・マッポーカリプス",
+        "arc": "第4部",
+        "season": 2
+      },
+      {
+        "id": "gzrph4m3",
+        "title": "ベルリン・デンノ・ティーンエイジ・ライオット",
+        "arc": "第4部",
+        "season": 4
       }
     ],
     "skills": [
@@ -430,7 +552,8 @@
     ],
     "description": "アフロ頭の元高校生ニンジャ。\n1部ではソウカイヤを抜けシマナガシに属していた。\n4部以降はアラスカでアニキと慕われている。",
     "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%89"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%89",
+    "appearance": "アフロヘアー。上半身裸。サングラス。\n4部では顎髭を生やしている。"
   },
   {
     "id": "1775455915",
@@ -5359,9 +5482,11 @@
       "ソニックカラテ",
       "ジェット・ツキ"
     ],
-    "description": "ソウカイヤのスカウト部門筆頭。\n元ヤクザ・バウンサー。",
+    "description": "ソウカイ・シックスゲイツの一人。スカウト部門筆頭。\n元ヤクザ・バウンサーでソニックカラテの使い手。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF%E3%83%96%E3%83%BC%E3%83%A0"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF%E3%83%96%E3%83%BC%E3%83%A0",
+    "role": "ソウカイ・シックスゲイツ",
+    "appearance": "金糸のニンジャ装束、悪趣味な。\nリーゼント。柄シャツに白いズボン。スタッズ付きブレーサー。"
   },
   {
     "id": "35d8a63d",
@@ -5960,14 +6085,36 @@
   {
     "id": "b50b782f",
     "name": "サードアイ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "z41ybr9q",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "ランパニンジャ・クラン",
+      "origin": "推定"
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": []
+    "appearances": [
+      {
+        "id": "uc0djqkh",
+        "title": "スワン・ソング・サング・バイ・ア・フェイデッド・クロウ",
+        "arc": "第1部"
+      }
+    ],
+    "skills": [
+      "テレパス・ジツ",
+      "サイコキネシス"
+    ],
+    "description": "ソウカイヤのニンジャ。\nサイコキネシス干渉波とテレパスを組み合わせカラテミサイルを防ぐ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%BC%E3%83%89%E3%82%A2%E3%82%A4",
+    "appearance": "暗緑色の装束。メンポ。装束の合わせ目にクロスカタナのエンブレム。\n両肩に試作サイバネ機構。背中にニンジャソード。"
   },
   {
     "id": "bd8bcdd5",
@@ -6632,14 +6779,35 @@
   {
     "id": "d0c010a4",
     "name": "ナッツクラッカー",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "qb3fvt9r",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": []
+    "appearances": [
+      {
+        "id": "gm7nxfzt",
+        "title": "スワン・ソング・サング・バイ・ア・フェイデッド・クロウ",
+        "arc": "第1部"
+      }
+    ],
+    "skills": [
+      "サイバネ顎"
+    ],
+    "description": "ソウカイヤの末端ニンジャ。\nサイバネ改造した顎で敵に喰らいつく。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8A%E3%83%83%E3%83%84%E3%82%AF%E3%83%A9%E3%83%83%E3%82%AB%E3%83%BC",
+    "appearance": "開閉機構付きのメンポ。"
   },
   {
     "id": "38e153e1",
@@ -6656,14 +6824,28 @@
   {
     "id": "67829036",
     "name": "バイコーン",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "50n6b1nl",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": []
+    "appearances": [],
+    "skills": [
+      "二本角"
+    ],
+    "description": "ソウカイヤのニンジャ。\n垂直に生えた二本角が特徴。電流攻撃に注意。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%82%A4%E3%82%B3%E3%83%BC%E3%83%B3"
   },
   {
     "id": "c76d3e7c",
@@ -13627,7 +13809,8 @@
     "name": "ヤモト・コキ",
     "realName": "ヤモト・コキ",
     "aliases": [
-      "シキ・ニンジャ"
+      "シキ・ニンジャ",
+      "シ・ニンジャ"
     ],
     "ninjaType": "リアルニンジャ",
     "ninjaSoul": {
@@ -13652,6 +13835,138 @@
         "id": "muf7g4wb",
         "title": "ラスト・ガール・スタンディング",
         "arc": "第1部"
+      },
+      {
+        "id": "9783k1pu",
+        "title": "スワン・ソング・サング・バイ・ア・フェイデッド・クロウ",
+        "arc": "第1部"
+      },
+      {
+        "id": "vmkrxmbu",
+        "title": "トレジャー・エヴリー・ミーティング",
+        "arc": "第1部"
+      },
+      {
+        "id": "5dwtcedl",
+        "title": "キックスタート・ア・ニュー・デイ",
+        "arc": "第2部"
+      },
+      {
+        "id": "29kjj569",
+        "title": "ウェルカム・トゥ・ネオサイタマ",
+        "arc": "第2部"
+      },
+      {
+        "id": "8hejs1x6",
+        "title": "ウェイティング・フォー・マイ・ニンジャ",
+        "arc": "第2部"
+      },
+      {
+        "id": "idr06hqf",
+        "title": "シルバー・シュライン・ライク・ア・バレット",
+        "arc": "第2部"
+      },
+      {
+        "id": "yuqyqixd",
+        "title": "フィジシャン、ヒール・ユアセルフ",
+        "arc": "第2部"
+      },
+      {
+        "id": "yvei9keq",
+        "title": "シージ・トゥ・ザ・スリーピング・ビューティー",
+        "arc": "第2部"
+      },
+      {
+        "id": "wqkmx1ik",
+        "title": "リブート、レイヴン",
+        "arc": "第2部"
+      },
+      {
+        "id": "fr2m6cis",
+        "title": "サツバツ・ナイト・バイ・ナイト",
+        "arc": "第3部"
+      },
+      {
+        "id": "sk8osmmk",
+        "title": "デス・トラップ、スーサイド・ラップ",
+        "arc": "第3部"
+      },
+      {
+        "id": "ntsgihe9",
+        "title": "ニチョーム・ウォー……ビギニング",
+        "arc": "第3部"
+      },
+      {
+        "id": "a5aiu21s",
+        "title": "ショック・トゥ・ザ・システム",
+        "arc": "第3部"
+      },
+      {
+        "id": "gd4fxxsf",
+        "title": "フェアウェル・マイ・シャドウ",
+        "arc": "第3部"
+      },
+      {
+        "id": "8tcuv6yp",
+        "title": "ニチョーム・ウォー",
+        "arc": "第3部"
+      },
+      {
+        "id": "nzwyb1xq",
+        "title": "ニチョーム・オヒガン・ロックアウト",
+        "arc": "第3部"
+      },
+      {
+        "id": "vztxdir4",
+        "title": "アンヴェイル・ザ・トレイル",
+        "arc": "第3部"
+      },
+      {
+        "id": "aufw5w39",
+        "title": "ニンジャスレイヤー：ネヴァーダイズ",
+        "arc": "第3部"
+      },
+      {
+        "id": "60ccznjz",
+        "title": "デッド！　デダー・ザン・デッド！",
+        "arc": "第4部",
+        "season": 1
+      },
+      {
+        "id": "njhe6wz9",
+        "title": "フォ・フーム・ザ・ベル・トールズ",
+        "arc": "第4部",
+        "season": 1
+      },
+      {
+        "id": "2ng3zl8s",
+        "title": "ヨロシサン・エクスプレス",
+        "arc": "第4部",
+        "season": 3
+      },
+      {
+        "id": "umufyew6",
+        "title": "ビフォア・ジ・エンド・オブ・ザ・ライン",
+        "arc": "第4部",
+        "season": 3
+      },
+      {
+        "id": "8m0jzogt",
+        "title": "カレイドスコープ・オブ・ケオス",
+        "arc": "第4部",
+        "season": 3
+      },
+      {
+        "id": "1zhd7uhd",
+        "title": "タイラント・オブ・マッポーカリプス",
+        "arc": "第4部",
+        "season": 3
+      },
+      {
+        "id": "v11nwxpk",
+        "title": "クエスト・フォー・ヨモガハマ",
+        "arc": "第4部",
+        "season": 4
       }
     ],
     "skills": [
@@ -13661,7 +13976,8 @@
     ],
     "description": "元オリガミ部の女子高生ニンジャ。\n4部ではシ・ニンジャにまつわるニンジャから命を狙われていた。",
     "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A4%E3%83%A2%E3%83%88%E3%83%BB%E3%82%B3%E3%82%AD"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A4%E3%83%A2%E3%83%88%E3%83%BB%E3%82%B3%E3%82%AD",
+    "appearance": "黒い瞳。黒髪。桜色の瞳。桜色のマフラー。\n4部では上記の姿と髪の伸びた成人姿を使い分ける。キモノも生成。"
   },
   {
     "id": "d04d37",
@@ -15998,14 +16314,33 @@
   {
     "id": "5bb86b",
     "name": "シルバーカラス",
-    "organizations": [
+    "aliases": [
+      "カギ・タナカ"
+    ],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "4fghauuc",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "ゴジュッポ・ニンジャクラン",
+      "origin": ""
+    },
+    "organizations": [],
+    "appearances": [
       {
-        "id": "ヨロシサン製薬",
-        "name": "ヨロシサン製薬"
+        "id": "qg4pc9zo",
+        "title": "スワン・ソング・サング・バイ・ア・フェイデッド・クロウ",
+        "arc": "第1部"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC%E3%82%AB%E3%83%A9%E3%82%B9"
+    "skills": [
+      "イアイドー",
+      "試作兵器"
+    ],
+    "description": "サイバーツジギリを生業とするフリーランスニンジャ。\n何らかの病を患っていた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC%E3%82%AB%E3%83%A9%E3%82%B9",
+    "appearance": "鈍色のニンジャ装束。平時は普通の上着でイクサ時に変形。身長180cm。"
   },
   {
     "id": "abe383",
@@ -16403,25 +16738,66 @@
   {
     "id": "1de2b6",
     "name": "エレクトリックイール",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "9nqcjsea",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "タケダチック・アガキ社",
         "name": "タケダチック・アガキ社"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%82%A4%E3%83%BC%E3%83%AB"
+    "appearances": [
+      {
+        "id": "r6mvy66h",
+        "title": "スワン・ソング・サング・バイ・ア・フェイデッド・クロウ",
+        "arc": "第1部"
+      }
+    ],
+    "skills": [
+      "ショックアーム"
+    ],
+    "description": "タケダ社の企業ニンジャ。\n自社製品であるショックアームを使って戦う。",
+    "status": "dead",
+    "wikiUrl": "%E3%83%83%E3%82%AF%E3%82%A4%E3%83%BC%E3%83%AB",
+    "appearance": "サイバネアーム、または手首から伸びた金属ロープ"
   },
   {
     "id": "f3dfad",
     "name": "バズキル",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "jdot9zer",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "タケダチック・アガキ社",
         "name": "タケダチック・アガキ社"
       }
     ],
-    "appearances": [],
+    "appearances": [
+      {
+        "id": "tyxb4i2k",
+        "title": "スワン・ソング・サング・バイ・ア・フェイデッド・クロウ",
+        "arc": "第1部"
+      }
+    ],
+    "skills": [
+      "高速震動ダガー"
+    ],
+    "description": "タケダ社の企業ニンジャ。\n自社製品の高速震動ダガーで戦う。",
+    "status": "dead",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%82%BA%E3%82%AD%E3%83%AB"
   },
   {
