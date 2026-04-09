@@ -91,6 +91,54 @@
   border-bottom-color: var(--color-primary);
 }
 
+/* ---- ローカル開発用ナビボタン ---- */
+.navButton {
+  padding: 0.3rem 0.85rem;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  background: transparent;
+  color: var(--color-text-muted);
+  cursor: pointer;
+  font-size: 0.82rem;
+  font-family: var(--font-body);
+  font-weight: 500;
+  transition: border-color 0.2s ease, color 0.2s ease, background 0.2s ease;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  white-space: nowrap;
+  line-height: 1;
+}
+
+.navButton:hover {
+  border-color: var(--color-primary);
+  color: var(--color-text);
+}
+
+.navButtonSave {
+  border-color: rgba(0, 217, 146, 0.35);
+  color: var(--color-primary-mint);
+}
+
+.navButtonSave:hover {
+  background: rgba(0, 217, 146, 0.08);
+  border-color: var(--color-primary);
+}
+
+.navBadge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--color-primary);
+  color: #0d1117;
+  border-radius: 999px;
+  font-size: 0.68rem;
+  font-weight: 700;
+  min-width: 1.3em;
+  height: 1.3em;
+  padding: 0 0.3em;
+}
+
 /* ---- Main content ---- */
 .main {
   flex: 1;

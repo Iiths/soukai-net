@@ -70,12 +70,37 @@ function formToNinja(form: FormState): Ninja {
   };
 }
 
+// ---- 空フォームを作成（新規追加用） ----
+
+function emptyForm(): FormState {
+  return {
+    id: genId(),
+    name: '',
+    realName: undefined,
+    aliases: [],
+    ninjaType: undefined,
+    ninjaSoul: { id: genId(), name: '', grade: undefined, clan: undefined, origin: undefined },
+    organizations: [],
+    appearances: [],
+    skills: [],
+    role: undefined,
+    appearance: undefined,
+    description: undefined,
+    status: undefined,
+    imageUrl: undefined,
+    wikiUrl: undefined,
+    _hasSoul: false,
+  };
+}
+
 // ---- メインコンポーネント ----
 
 export function NinjaEditPage() {
   const { id = '' } = useParams<{ id: string }>();
   const navigate = useNavigate();
   const { getOverride, saveOverride, overrideCount, downloadNinjas } = useNinjaEditContext();
+
+  const isNew = id === 'new';
 
   const [form, setForm] = useState<FormState | null>(null);
   const [allEpisodes, setAllEpisodes] = useState<Episode[]>([]);
@@ -89,20 +114,28 @@ export function NinjaEditPage() {
       setIsLoading(true);
       try {
         const episodeRepo = new JsonEpisodeRepository();
-        const [allEps, ninja] = await Promise.all([
-          episodeRepo.findAll(),
-          (async () => {
-            const override = getOverride(id);
-            if (override) return override;
-            const repo = new JsonNinjaRepository();
-            const useCase = new GetNinjaDetailUseCase(repo);
-            return await useCase.execute(id);
-          })(),
-        ]);
 
-        setAllEpisodes(allEps);
-        const epMap = new Map(allEps.map((ep) => [ep.id, ep]));
-        setForm(ninja ? ninjaToForm(ninja, epMap) : null);
+        if (isNew) {
+          // 新規追加モード: エピソードだけ読み込んで空フォームを用意
+          const allEps = await episodeRepo.findAll();
+          setAllEpisodes(allEps);
+          setForm(emptyForm());
+        } else {
+          const [allEps, ninja] = await Promise.all([
+            episodeRepo.findAll(),
+            (async () => {
+              const override = getOverride(id);
+              if (override) return override;
+              const repo = new JsonNinjaRepository();
+              const useCase = new GetNinjaDetailUseCase(repo);
+              return await useCase.execute(id);
+            })(),
+          ]);
+
+          setAllEpisodes(allEps);
+          const epMap = new Map(allEps.map((ep) => [ep.id, ep]));
+          setForm(ninja ? ninjaToForm(ninja, epMap) : null);
+        }
       } finally {
         setIsLoading(false);
       }
@@ -191,7 +224,10 @@ export function NinjaEditPage() {
     <div className={styles.page}>
       {/* トップバー */}
       <div className={styles.topBar}>
-        <button onClick={() => navigate(`/ninja/${id}`)} className={styles.btnSecondary}>
+        <button
+          onClick={() => isNew ? navigate('/') : navigate(`/ninja/${id}`)}
+          className={styles.btnSecondary}
+        >
           ← キャンセル
         </button>
         <div className={styles.topActions}>
@@ -211,8 +247,14 @@ export function NinjaEditPage() {
 
       <div className={styles.formContainer}>
         <h1 className={styles.pageTitle}>
-          <span className={styles.pageTitleName}>{form.name}</span>
-          <span className={styles.pageTitleSub}>を編集中</span>
+          {isNew ? (
+            <span className={styles.pageTitleSub}>ニンジャ新規追加</span>
+          ) : (
+            <>
+              <span className={styles.pageTitleName}>{form.name || '（名前未入力）'}</span>
+              <span className={styles.pageTitleSub}>を編集中</span>
+            </>
+          )}
         </h1>
 
         {/* ── 基本情報 ── */}

@@ -55,8 +55,12 @@ export function NinjaEditProvider({ children }: { children: ReactNode }) {
     const repo = new JsonNinjaRepository();
     const all = await repo.findAll();
     // in-memory の編集で元データを上書きマージ
+    const existingIds = new Set(all.map((n) => n.id));
     const merged = all.map((n) => overrides.get(n.id) ?? n);
-    const json = JSON.stringify(merged, null, 2);
+    // 新規追加ニンジャ（元 JSON に存在しない ID）を末尾に追加
+    const brandNew = Array.from(overrides.values()).filter((n) => !existingIds.has(n.id));
+    const final = [...merged, ...brandNew];
+    const json = JSON.stringify(final, null, 2);
     const blob = new Blob([json], { type: 'application/json' });
     const url = URL.createObjectURL(blob);
     const a = document.createElement('a');
@@ -66,6 +70,7 @@ export function NinjaEditProvider({ children }: { children: ReactNode }) {
     a.click();
     document.body.removeChild(a);
     URL.revokeObjectURL(url);
+    // ダウンロード後に編集件数はリセットしない（ユーザーが上書き保存後もアプリを使い続けられるように）
   };
 
   return (

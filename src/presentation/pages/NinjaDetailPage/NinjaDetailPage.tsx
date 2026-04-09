@@ -1,5 +1,6 @@
 import { useParams, useNavigate } from 'react-router-dom';
 import { useNinjaDetail } from '../../hooks/useNinjaDetail';
+import { useIsLocalDev } from '../../hooks/useIsLocalDev';
 import { Badge } from '../../components/Badge/Badge';
 import styles from './NinjaDetailPage.module.css';
 
@@ -47,6 +48,7 @@ function WithLineBreaks({ text }: { text: string }) {
 export function NinjaDetailPage() {
   const { id = '' } = useParams<{ id: string }>();
   const navigate = useNavigate();
+  const isLocalDev = useIsLocalDev();
   const { ninja, episodes, isLoading } = useNinjaDetail(id);
 
   if (isLoading) {
@@ -76,12 +78,14 @@ export function NinjaDetailPage() {
         <button onClick={() => navigate(-1)} className={styles.backButton}>
           ← 戻る
         </button>
-        <button
-          onClick={() => navigate(`/ninja/${ninja.id}/edit`)}
-          className={styles.editButton}
-        >
-          編集
-        </button>
+        {isLocalDev && (
+          <button
+            onClick={() => navigate(`/ninja/${ninja.id}/edit`)}
+            className={styles.editButton}
+          >
+            編集
+          </button>
+        )}
       </div>
 
       <div className={styles.container}>
@@ -226,32 +230,30 @@ export function NinjaDetailPage() {
             : <Empty label="説明" />}
         </section>
 
-        {/* メタ情報フッター */}
-        <div className={styles.metaFooter}>
-          <div className={styles.metaRow}>
-            <span className={styles.metaLabel}>ID</span>
-            <code className={styles.metaCode}>{ninja.id}</code>
+        {/* メタ情報フッター（画像URL・WikiURLがある場合のみ表示） */}
+        {(hasValue(ninja.imageUrl) || hasValue(ninja.wikiUrl)) && (
+          <div className={styles.metaFooter}>
+            {hasValue(ninja.imageUrl) && (
+              <div className={styles.metaRow}>
+                <span className={styles.metaLabel}>画像URL</span>
+                <code className={styles.metaCode}>{ninja.imageUrl}</code>
+              </div>
+            )}
+            {hasValue(ninja.wikiUrl) && (
+              <div className={styles.metaRow}>
+                <span className={styles.metaLabel}>Wiki</span>
+                <a
+                  href={ninja.wikiUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className={styles.wikiLink}
+                >
+                  {ninja.wikiUrl}
+                </a>
+              </div>
+            )}
           </div>
-          {hasValue(ninja.imageUrl) && (
-            <div className={styles.metaRow}>
-              <span className={styles.metaLabel}>画像URL</span>
-              <code className={styles.metaCode}>{ninja.imageUrl}</code>
-            </div>
-          )}
-          {hasValue(ninja.wikiUrl) && (
-            <div className={styles.metaRow}>
-              <span className={styles.metaLabel}>Wiki</span>
-              <a
-                href={ninja.wikiUrl}
-                target="_blank"
-                rel="noopener noreferrer"
-                className={styles.wikiLink}
-              >
-                {ninja.wikiUrl}
-              </a>
-            </div>
-          )}
-        </div>
+        )}
       </div>
     </div>
   );

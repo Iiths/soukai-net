@@ -1,4 +1,6 @@
-import { Link, useLocation } from 'react-router-dom';
+import { Link, useLocation, useNavigate } from 'react-router-dom';
+import { useNinjaEditContext } from '../../context/NinjaEditContext';
+import { useIsLocalDev } from '../../hooks/useIsLocalDev';
 import styles from './Layout.module.css';
 
 interface LayoutProps {
@@ -7,6 +9,9 @@ interface LayoutProps {
 
 export function Layout({ children }: LayoutProps) {
   const location = useLocation();
+  const navigate = useNavigate();
+  const isLocalDev = useIsLocalDev();
+  const { downloadNinjas, overrideCount } = useNinjaEditContext();
 
   const isActive = (path: string) => location.pathname === path;
 
@@ -25,6 +30,27 @@ export function Layout({ children }: LayoutProps) {
             >
               ニンジャ検索
             </Link>
+            {isLocalDev && (
+              <button
+                className={styles.navButton}
+                onClick={() => navigate('/ninja/new/edit')}
+                title="新しいニンジャを追加する"
+              >
+                ＋ 新規追加
+              </button>
+            )}
+            {isLocalDev && (
+              <button
+                className={`${styles.navButton} ${styles.navButtonSave}`}
+                onClick={downloadNinjas}
+                title={`ninjas.json をダウンロード（編集 ${overrideCount} 件反映）`}
+              >
+                📥 ninjas.json 保存
+                {overrideCount > 0 && (
+                  <span className={styles.navBadge}>{overrideCount}</span>
+                )}
+              </button>
+            )}
           </nav>
         </div>
       </header>
