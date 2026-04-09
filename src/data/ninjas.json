@@ -4830,15 +4830,52 @@
   {
     "id": "d4831bd0",
     "name": "ゲイトキーパー",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "l3of0yb5",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "ハガネ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B2%E3%82%A4%E3%83%88%E3%82%AD%E3%83%BC%E3%83%91%E3%83%BC"
+    "appearances": [
+      {
+        "id": "k5zapoeo",
+        "title": "バック・イン・ブラック",
+        "arc": "第1部"
+      },
+      {
+        "id": "sytg0fzd",
+        "title": "ストレンジャー・ストレンジャー・ザン・フィクション",
+        "arc": "第1部"
+      },
+      {
+        "id": "kly904vr",
+        "title": "ネオサイタマ・イン・フレイム",
+        "arc": "第1部"
+      },
+      {
+        "id": "h5kn5rih",
+        "title": "カース・オブ・エンシェント・カンジ、オア・ザ・シークレット・オブ・ダークニンジャ・ソウル",
+        "arc": "第2部"
+      }
+    ],
+    "skills": [
+      "トンファー・ジツ",
+      "エンハンスメント・ジツ"
+    ],
+    "description": "ソウカイ・シックスゲイツの創設者。ラオモトの側近。\n一線を退いていたがカラテは健在。ダークニンジャやドミナントを鍛え上げた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B2%E3%82%A4%E3%83%88%E3%82%AD%E3%83%BC%E3%83%91%E3%83%BC",
+    "role": "ソウカイ・シックスゲイツ",
+    "appearance": "ミラーめいたニンジャ装束。一対の鋼鉄トンファー。\n普段は紺色のスーツ。"
   },
   {
     "id": "ea711ecf",
@@ -5268,46 +5305,129 @@
   {
     "id": "49a3fe5b",
     "name": "アルマジロ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "njrcmy1s",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "アルマジロ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%AB%E3%83%9E%E3%82%B8%E3%83%AD"
+    "appearances": [
+      {
+        "id": "p0oo1nyt",
+        "title": "ネオサイタマ・イン・フレイム",
+        "arc": "第1部"
+      },
+      {
+        "id": "1jlkovix",
+        "title": "バトルグラウンド・サツ・バツ",
+        "arc": "外伝"
+      }
+    ],
+    "skills": [
+      "オムラ・チタニウム装甲",
+      "転がる"
+    ],
+    "description": "ソウカイ・シックスゲイツの一人。末期シックスゲイツ。\n元スモトリの体格を活かし、攻防一体のローリングを得意とする。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%AB%E3%83%9E%E3%82%B8%E3%83%AD",
+    "appearance": "装甲ニンジャ装束。巨漢。",
+    "role": "ソウカイ・シックスゲイツ"
   },
   {
     "id": "5dab8174",
     "name": "ウォーターボード",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "cp4og1u3",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "シャチ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89"
+    "appearances": [
+      {
+        "id": "yv1yfon9",
+        "title": "ネオサイタマ・イン・フレイム",
+        "arc": "第1部"
+      },
+      {
+        "id": "p59bnq5q",
+        "title": "バトルグラウンド・サツ・バツ",
+        "arc": "外伝"
+      }
+    ],
+    "skills": [
+      "アクアカラテ",
+      "ハープーン"
+    ],
+    "description": "ソウカイ・シックスゲイツの一人。末期シックスゲイツ。\n水中戦に特化している。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89",
+    "role": "ソウカイ・シックスゲイツ",
+    "appearance": "ウェットニンジャ装束。シュノーケルめいたメンポ。\n両腕部にハープーン射出装置。"
   },
   {
     "id": "7676ea0f",
     "name": "デビルフィッシュ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "hs23jy8b",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "イカ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%83%93%E3%83%AB%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5"
+    "appearances": [
+      {
+        "id": "6nx9clsj",
+        "title": "ネオサイタマ・イン・フレイム",
+        "arc": "第1部"
+      }
+    ],
+    "skills": [
+      "高性能メカアーム"
+    ],
+    "description": "ソウカイ・シックスゲイツの一人。末期シックスゲイツ。\nメカアームを使いこなし、同時に12本のスリケンを投擲する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%83%93%E3%83%AB%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5",
+    "role": "ソウカイ・シックスゲイツ",
+    "appearance": "黒い斑点入りの白ニンジャ装束。\n背中のインプラントから10本のサイバネアーム。"
   },
   {
     "id": "f8997794",
     "name": "モービッド",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "yfrmu1nl",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "タナカ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
@@ -5318,21 +5438,55 @@
         "name": "イモータル・ニンジャ・ワークショップ"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%83%93%E3%83%83%E3%83%89"
+    "appearances": [
+      {
+        "id": "7bf10zos",
+        "title": "ネオサイタマ・イン・フレイム",
+        "arc": "第1部"
+      }
+    ],
+    "skills": [
+      "精神幻覚攻撃"
+    ],
+    "description": "ソウカイ・シックスゲイツの一人。末期シックスゲイツ。\nかつてムーホンを試みた罰として侵入者撃退用に調整されたアンデッドニンジャと化した。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%83%93%E3%83%83%E3%83%89",
+    "appearance": "ミイラめいた全身。鎖で吊るされている。周囲に魔法陣。",
+    "role": "ソウカイ・シックスゲイツ"
   },
   {
     "id": "74bdf31c",
     "name": "レイザーエッジ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "u9ya2a3n",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "ヤイバ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%82%A4%E3%82%B6%E3%83%BC%E3%82%A8%E3%83%83%E3%82%B8"
+    "appearances": [
+      {
+        "id": "6yhkp9o5",
+        "title": "ネオサイタマ・イン・フレイム",
+        "arc": "第1部"
+      }
+    ],
+    "skills": [
+      "カクシ・キリ"
+    ],
+    "description": "ソウカイ・シックスゲイツの一人。末期シックスゲイツ。\n計数百本のカタナで奇襲する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%82%A4%E3%82%B6%E3%83%BC%E3%82%A8%E3%83%83%E3%82%B8",
+    "appearance": "スリムフィット黒ニンジャ装束。\n全身にセラミックカタナ・カタナを展開する機構がある。",
+    "role": "ソウカイ・シックスゲイツ"
   },
   {
     "id": "f1140ec0",
@@ -13872,14 +14026,26 @@
   {
     "id": "53644d",
     "name": "アガタ・マリア",
-    "organizations": [
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "organizations": [],
+    "appearances": [
       {
-        "id": "ニンジャスレイヤーと協力者達",
-        "name": "ニンジャスレイヤーと協力者達"
+        "id": "4heg67na",
+        "title": "ストレンジャー・ストレンジャー・ザン・フィクション",
+        "arc": "第1部"
+      },
+      {
+        "id": "hjuspj1u",
+        "title": "ネオサイタマ・イン・フレイム",
+        "arc": "第1部"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%AC%E3%82%BF%E3%83%BB%E3%83%9E%E3%83%AA%E3%82%A2"
+    "skills": [],
+    "description": "フリーランスのウキヨエ絵師。女性。\n一時フジキドの隠れ家の隣に住んでいた。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%AC%E3%82%BF%E3%83%BB%E3%83%9E%E3%83%AA%E3%82%A2",
+    "appearance": "黒髪の女性。第1部時点で37歳。"
   },
   {
     "id": "ddc03b",
