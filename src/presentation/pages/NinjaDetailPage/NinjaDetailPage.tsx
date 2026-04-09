@@ -91,18 +91,18 @@ export function NinjaDetailPage() {
         {/* 基本情報グリッド */}
         <div className={styles.infoGrid}>
           {/* 別名 */}
-          <div className={styles.infoItem}>
-            <div className={styles.infoLabel}>別名</div>
-            <div className={styles.infoValue}>
-              {hasValue(ninja.aliases) ? (
+          {hasValue(ninja.aliases) && (
+            <div className={styles.infoItem}>
+              <div className={styles.infoLabel}>別名</div>
+              <div className={styles.infoValue}>
                 <div className={styles.tagRow}>
                   {ninja.aliases!.map((alias, i) => (
                     <span key={i} className={styles.aliasTag}>{alias}</span>
                   ))}
                 </div>
-              ) : <Empty label="別名" />}
+              </div>
             </div>
-          </div>
+          )}
 
           {/* ニンジャタイプ */}
           <div className={styles.infoItem}>
@@ -115,14 +115,14 @@ export function NinjaDetailPage() {
           </div>
 
           {/* 役職 */}
-          <div className={styles.infoItem}>
-            <div className={styles.infoLabel}>役職</div>
-            <div className={styles.infoValue}>
-              {hasValue(ninja.role)
-                ? <span className={styles.roleTag}>{ninja.role}</span>
-                : <Empty label="役職" />}
+          {hasValue(ninja.role) && (
+            <div className={styles.infoItem}>
+              <div className={styles.infoLabel}>役職</div>
+              <div className={styles.infoValue}>
+                <span className={styles.roleTag}>{ninja.role}</span>
+              </div>
             </div>
-          </div>
+          )}
         </div>
 
         {/* 外見 */}
@@ -134,9 +134,9 @@ export function NinjaDetailPage() {
         )}
 
         {/* ニンジャソウル */}
-        <section className={styles.section}>
-          <h2 className={styles.sectionTitle}>ニンジャソウル</h2>
-          {ninja.ninjaSoul ? (
+        {ninja.ninjaSoul && (
+          <section className={styles.section}>
+            <h2 className={styles.sectionTitle}>ニンジャソウル</h2>
             <div className={styles.soulCard}>
               <div className={styles.soulHeader}>
                 <Badge variant="soul" text={ninja.ninjaSoul.name} />
@@ -145,8 +145,12 @@ export function NinjaDetailPage() {
                 )}
               </div>
               <dl className={styles.soulDetail}>
-                <dt>クラン</dt>
-                <dd>{hasValue(ninja.ninjaSoul.clan) ? ninja.ninjaSoul.clan : <Empty label="クラン" />}</dd>
+                {hasValue(ninja.ninjaSoul.clan) && (
+                  <>
+                    <dt>クラン</dt>
+                    <dd>{ninja.ninjaSoul.clan}</dd>
+                  </>
+                )}
                 {hasValue(ninja.ninjaSoul.origin) && (
                   <>
                     <dt>出自</dt>
@@ -155,10 +159,8 @@ export function NinjaDetailPage() {
                 )}
               </dl>
             </div>
-          ) : (
-            <Empty label="ニンジャソウル" />
-          )}
-        </section>
+          </section>
+        )}
 
         {/* 所属組織 */}
         <section className={styles.section}>
