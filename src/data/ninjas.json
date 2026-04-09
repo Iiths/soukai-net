@@ -616,8 +616,71 @@
         "name": "アマクダリ"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%A2%E3%83%A9%E3%82%AD"
+    "appearances": [
+      {
+        "id": "48pg2qdu",
+        "title": "ユーレイ・ダンシング・オン・コンクリート・ハカバ",
+        "arc": "第1部"
+      },
+      {
+        "id": "t4llx7ft",
+        "title": "デッドムーン・オン・ザ・レッドスカイ",
+        "arc": "第1部"
+      },
+      {
+        "id": "xl6ufucq",
+        "title": "ネクロマンティック・フィードバック",
+        "arc": "第1部"
+      },
+      {
+        "id": "orlfnv3l",
+        "title": "トレジャー・エヴリー・ミーティング",
+        "arc": "第1部"
+      },
+      {
+        "id": "w0ir764o",
+        "title": "リターン・ザ・ギフト",
+        "arc": "第2部"
+      },
+      {
+        "id": "zt9pvzah",
+        "title": "ホワット・ア・ホリブル・ナイト・トゥ・ハヴ・ア・カラテ",
+        "arc": "第3部"
+      },
+      {
+        "id": "5jvbtmyb",
+        "title": "レイズ・ザ・フラッグ・オブ・ヘイトレッド",
+        "arc": "第3部"
+      },
+      {
+        "id": "f0q6hbvy",
+        "title": "アンダーワールド・レフュージ",
+        "arc": "第3部"
+      },
+      {
+        "id": "pihhhdov",
+        "title": "ニンジャスレイヤー：ネヴァーダイズ",
+        "arc": "第3部"
+      },
+      {
+        "id": "1rdmzslz",
+        "title": "デッド！　デダー・ザン・デッド！",
+        "arc": "第4部",
+        "season": 1
+      },
+      {
+        "id": "fb6lf4me",
+        "title": "プラグ・ザ・デモンズ・ハート",
+        "arc": "第4部",
+        "season": 3
+      }
+    ],
+    "skills": [],
+    "description": "イモータル・ニンジャ・ワークショップの所長。\nモータルならざる異常知性の持ち主。\n助手と共に危険なゾンビーニンジャを生み出す。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%A2%E3%83%A9%E3%82%AD",
+    "role": "12人",
+    "appearance": "長身痩躯。返り血を浴びた薄汚い白衣。眼鏡。身長176cm。"
   },
   {
     "id": "1775455927",
@@ -625,15 +688,77 @@
     "aliases": [
       "フォーティーナイン"
     ],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "j6umkeqo",
+      "name": "ヨミ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "シ・ニンジャクラン",
+      "origin": "イカ・ニンジャクランの高位ソウルも併せ持つ。"
+    },
     "organizations": [
       {
         "id": "イモータル・ニンジャ・ワークショップ",
         "name": "イモータル・ニンジャ・ワークショップ"
       }
     ],
-    "appearances": [],
+    "appearances": [
+      {
+        "id": "myajr7ej",
+        "title": "ユーレイ・ダンシング・オン・コンクリート・ハカバ",
+        "arc": "第1部"
+      },
+      {
+        "id": "oh25qm7g",
+        "title": "デッドムーン・オン・ザ・レッドスカイ",
+        "arc": "第1部"
+      },
+      {
+        "id": "pw5wzdnb",
+        "title": "ネクロマンティック・フィードバック",
+        "arc": "第1部"
+      },
+      {
+        "id": "c5rgjkm3",
+        "title": "トレジャー・エヴリー・ミーティング",
+        "arc": "第1部"
+      },
+      {
+        "id": "q3zfdmh7",
+        "title": "リターン・ザ・ギフト",
+        "arc": "第2部"
+      },
+      {
+        "id": "ph9thbny",
+        "title": "ホワット・ア・ホリブル・ナイト・トゥ・ハヴ・ア・カラテ",
+        "arc": "第3部"
+      },
+      {
+        "id": "7ju6z3i4",
+        "title": "アンダーワールド・レフュージ",
+        "arc": "第3部"
+      },
+      {
+        "id": "zmzvkm2s",
+        "title": "ニンジャスレイヤー：ネヴァーダイズ",
+        "arc": "第3部"
+      },
+      {
+        "id": "w6pknvp1",
+        "title": "デッド！　デダー・ザン・デッド！",
+        "arc": "第4部",
+        "season": 1
+      }
+    ],
+    "skills": [
+      "触手",
+      "カラテドレイン",
+      "ゾンビー生成"
+    ],
+    "description": "リー先生の愛人兼助手。\n日本有数の頭脳を持つ。現在の本体はカイジュウサイズ。",
     "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%83%96%E3%82%AD%E3%83%BB%E3%83%8A%E3%83%8F%E3%82%BF"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%83%96%E3%82%AD%E3%83%BB%E3%83%8A%E3%83%8F%E3%82%BF",
+    "appearance": "PVC白衣。PVCナース帽。オレンジ色のボブカット。ハイヒール。シリコン製の豊満。\n灰色の肌にした、浮遊する半実体の肉体。\n本体は巨大な死肉と触手と目玉の塊。"
   },
   {
     "id": "1775455928",
@@ -642,15 +767,99 @@
       "ブルーブラッド"
     ],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "upl3lzo8",
+      "name": "フジミ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "シ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "イモータル・ニンジャ・ワークショップ",
         "name": "イモータル・ニンジャ・ワークショップ"
       }
     ],
-    "appearances": [],
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%AB%E3%83%BC%E3%83%96%E3%83%A9%E3%83%83%E3%83%89"
+    "appearances": [
+      {
+        "id": "y7rx02e9",
+        "title": "デッドムーン・オン・ザ・レッドスカイ",
+        "arc": "第1部"
+      },
+      {
+        "id": "3vxmhtdx",
+        "title": "ネクロマンティック・フィードバック",
+        "arc": "第1部"
+      },
+      {
+        "id": "4pl2tq7t",
+        "title": "トレジャー・エヴリー・ミーティング",
+        "arc": "第1部"
+      },
+      {
+        "id": "9j0jnn2l",
+        "title": "ウェルカム・トゥ・ネオサイタマ",
+        "arc": "第2部"
+      },
+      {
+        "id": "fwq12d1u",
+        "title": "フィジシャン、ヒール・ユアセルフ",
+        "arc": "第2部"
+      },
+      {
+        "id": "7ex3ew6v",
+        "title": "ホワット・ア・ホリブル・ナイト・トゥ・ハヴ・ア・カラテ",
+        "arc": "第3部"
+      },
+      {
+        "id": "uawmchzy",
+        "title": "デス・トラップ、スーサイド・ラップ",
+        "arc": "第3部"
+      },
+      {
+        "id": "0ntk1rs3",
+        "title": "アンダーワールド・レフュージ",
+        "arc": "第3部"
+      },
+      {
+        "id": "juhlgzww",
+        "title": "ニンジャスレイヤー：ネヴァーダイズ",
+        "arc": "第3部"
+      },
+      {
+        "id": "sqrznax3",
+        "title": "デッド！　デダー・ザン・デッド！",
+        "arc": "第4部",
+        "season": 1
+      },
+      {
+        "id": "s8svrkeo",
+        "title": "プラグ・ザ・デモンズ・ハート",
+        "arc": "第4部",
+        "season": 3
+      },
+      {
+        "id": "2ro7dlra",
+        "title": "タイラント・オブ・マッポーカリプス",
+        "arc": "第4部",
+        "season": 3
+      },
+      {
+        "id": "emcygtsj",
+        "title": "クエスト・フォー・ヨモガハマ",
+        "arc": "第4部",
+        "season": 4
+      }
+    ],
+    "skills": [
+      "爪",
+      "超再生能力",
+      "ゲン・ジツ"
+    ],
+    "description": "リー先生の助手兼護衛。\n強大なニンジャソウルを得た代償に日光アレルギーになった。\nよく首だけになる。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%AB%E3%83%BC%E3%83%96%E3%83%A9%E3%83%83%E3%83%89",
+    "appearance": "病的な細面。長身痩躯。PVC白衣。暗青のニンジャ装束。ルビー色の目に尖った歯。アルビノめいて白い長髪"
   },
   {
     "id": "1775455929",
@@ -5117,8 +5326,7 @@
     ],
     "description": "ソウカイ・シックスゲイツの一人。\nジツの力でしゃがみながら高速移動する。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%82%A4%E3%83%83%E3%82%AF%E3%82%B7%E3%83%AB%E3%83%B4%E3%82%A1%E3%83%BC",
-    "role": "ソウカイ・シックスゲイツ"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%82%A4%E3%83%83%E3%82%AF%E3%82%B7%E3%83%AB%E3%83%B4%E3%82%A1%E3%83%BC"
   },
   {
     "id": "562b94f4",
@@ -5301,14 +5509,36 @@
   {
     "id": "ba14486c",
     "name": "アイスシールド",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "yg3vqkzr",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "コリ・ニンジャクラン",
+      "origin": "推定"
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": []
+    "appearances": [
+      {
+        "id": "k99nm6ll",
+        "title": "アイス・クラッシュ",
+        "arc": "第1部"
+      }
+    ],
+    "skills": [
+      "コリ・タテ・ジツ",
+      "緊急脱出用カイト"
+    ],
+    "description": "ソウカイヤのニンジャ。\n超自然の氷のシールドを展開する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%A4%E3%82%B9%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89",
+    "appearance": "黒ヤクザスーツ。蛍光ブルーのメンポ。"
   },
   {
     "id": "c4643b2a",
@@ -5620,14 +5850,35 @@
   {
     "id": "28ed9612",
     "name": "クレアボヤンス",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "qslladyx",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": []
+    "appearances": [
+      {
+        "id": "puvu8a4v",
+        "title": "モパイ・マスト・ダイ",
+        "arc": "第1部"
+      }
+    ],
+    "skills": [
+      "ソナー・モパイ・ジツ",
+      "ソナー・ジュー・ジツ"
+    ],
+    "description": "ソウカイヤのニンジャ。\n違法マージョンカジノの支配人。\n指からソナー電波を放ち牌を読み取る。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%AC%E3%82%A2%E3%83%9C%E3%83%A4%E3%83%B3%E3%82%B9"
   },
   {
     "id": "087959e3",
@@ -5820,9 +6071,7 @@
     ],
     "description": "ソウカイ・シックスゲイツの一人。\nロシア人。パンキドーの熟練者。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%9C%E3%82%BF%E3%83%BC",
-    "role": "ソウカイ・シックスゲイツ",
-    "appearance": "ガンメタル色のロシア風ニンジャ装束。暗い瞳。"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%9C%E3%82%BF%E3%83%BC"
   },
   {
     "id": "7d44defa",
@@ -6049,14 +6298,35 @@
   {
     "id": "007db8b7",
     "name": "セントリー",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "l3vcy4lp",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": []
+    "appearances": [
+      {
+        "id": "sbw427wb",
+        "title": "デッドムーン・オン・ザ・レッドスカイ",
+        "arc": ""
+      }
+    ],
+    "skills": [
+      "セントリーガン",
+      "セントリーパンチ"
+    ],
+    "description": "ソウカイヤの末端ニンジャ。\nサンシタ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BB%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC"
   },
   {
     "id": "d6ca39db",
@@ -6314,8 +6584,7 @@
     ],
     "description": "ソウカイヤの末端ニンジャ。\nスカウト部門所属。嗅覚に優れる。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%88%E3%83%A9%E3%83%83%E3%83%95%E3%83%AB%E3%83%9B%E3%83%83%E3%82%B0",
-    "appearance": "小太りのニンジャ。首筋に生体LAN端子。豚鼻のメンポ。"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%88%E3%83%A9%E3%83%83%E3%83%95%E3%83%AB%E3%83%9B%E3%83%83%E3%82%B0"
   },
   {
     "id": "defbebb5",
@@ -6478,14 +6747,37 @@
   {
     "id": "e2fc870b",
     "name": "ブラックストライプス",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "ag92hp2x",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": []
+    "appearances": [
+      {
+        "id": "ka6kath5",
+        "title": "ブラック・ストライプス",
+        "arc": "第1部"
+      }
+    ],
+    "skills": [
+      "ドトン・ジツ",
+      "ヤマビコ・ジツ",
+      "催涙ガスクナイ・ダート"
+    ],
+    "description": "ソウカイヤのニンジャ。\n砂地などをフーリンカザンとし、身を隠しながら敵を甚振る。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A4%E3%83%97%E3%82%B9",
+    "appearance": "黒い縦縞模様テキスタイルが施された深緑のニンジャ装束。"
   },
   {
     "id": "1b63e008",
@@ -13247,18 +13539,88 @@
   {
     "id": "a5e5e5",
     "name": "デッドムーン",
+    "realName": "ミフネ・ヒトリ",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
     "organizations": [
       {
         "id": "ニンジャスレイヤーと協力者達",
         "name": "ニンジャスレイヤーと協力者達"
-      },
-      {
-        "id": "芸能関係者",
-        "name": "芸能関係者"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%83%83%E3%83%89%E3%83%A0%E3%83%BC%E3%83%B3"
+    "appearances": [
+      {
+        "id": "2o8xbo3c",
+        "title": "デッドムーン・オン・ザ・レッドスカイ",
+        "arc": "第1部"
+      },
+      {
+        "id": "n18b20ae",
+        "title": "キックスタート・ア・ニュー・デイ",
+        "arc": "第2部"
+      },
+      {
+        "id": "quhs4c2s",
+        "title": "ウェルカム・トゥ・ネオサイタマ",
+        "arc": "第2部"
+      },
+      {
+        "id": "cc57v76p",
+        "title": "オン・ジ・エッジ・オブ・ザ・ホイール・オブ・ブルータル・フェイト",
+        "arc": "第2部"
+      },
+      {
+        "id": "68q536wv",
+        "title": "シルバー・シュライン・ライク・ア・バレット",
+        "arc": "第2部"
+      },
+      {
+        "id": "tqlc7ayk",
+        "title": "シージ・トゥ・ザ・スリーピング・ビューティー",
+        "arc": "第2部"
+      },
+      {
+        "id": "oer10ykn",
+        "title": "リブート、レイヴン",
+        "arc": "第2部"
+      },
+      {
+        "id": "5yxs7jbc",
+        "title": "ファスト・アズ・ライトニング、コールド・アズ・ウインター",
+        "arc": "第3部"
+      },
+      {
+        "id": "zqv40ass",
+        "title": "マグロ・サンダーボルト",
+        "arc": "第3部"
+      },
+      {
+        "id": "2vw5k6fv",
+        "title": "トゥー・レイト・フォー・インガオホー",
+        "arc": "第3部"
+      },
+      {
+        "id": "ryr9czzl",
+        "title": "フォロウ・ザ・コールド・ヒート・シマーズ",
+        "arc": "第3部"
+      },
+      {
+        "id": "cgyfezlr",
+        "title": "メニイ・オア・ワン",
+        "arc": "第3部"
+      },
+      {
+        "id": "s4mh83b0",
+        "title": "デッド！　デダー・ザン・デッド！",
+        "arc": "第4部",
+        "season": 1
+      }
+    ],
+    "skills": [],
+    "description": "武装霊柩車ネズミハヤイDIIIを駆る運び屋。\n死体だけでなく、ニンジャスレイヤー達も乗せる。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%83%83%E3%83%89%E3%83%A0%E3%83%BC%E3%83%B3",
+    "appearance": "銀髪の逆モヒカン。左眼、片腕のサイバネ。\n背中にデッドムーン・オン・ザ・レッドスカイのイレズミ。"
   },
   {
     "id": "eba103",
@@ -13497,8 +13859,7 @@
     ],
     "description": "コトダマ空間上に出現する謎めいた存在。\nフジキドに数々の啓示を与える。ナンシーと関係があるようだ。",
     "status": "unknown",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%83%BC%E3%83%90%E3%83%A4%E3%82%AC",
-    "appearance": "身長10フィートを超す巨大な老婆。\nまたは透き通るような裸体を曝け出した黒髪の美女。\nまたは白髪混じりの長い黒髪を持つ中年女性。"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%83%BC%E3%83%90%E3%83%A4%E3%82%AC"
   },
   {
     "id": "ea666b",
@@ -14548,38 +14909,162 @@
   {
     "id": "51fbba",
     "name": "ウィルオーウィスプ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "gecudlh6",
+      "name": "オバケ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "イモータル・ニンジャ・ワークショップ",
         "name": "イモータル・ニンジャ・ワークショップ"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%82%A3%E3%83%AB%E3%82%AA%E3%83%BC%E3%82%A6%E3%82%A3%E3%82%B9%E3%83%97"
+    "appearances": [
+      {
+        "id": "6fvx75hi",
+        "title": "ネクロマンティック・フィードバック",
+        "arc": "第1部"
+      }
+    ],
+    "skills": [
+      "ヒトダマ・ジツ"
+    ],
+    "description": "リー先生が生みだしたゾンビーニンジャの一体。\n知性はかなり減衰しているが、\n強大なアーチ級ニンジャソウルを宿すため実際キケン。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%82%A3%E3%83%AB%E3%82%AA%E3%83%BC%E3%82%A6%E3%82%A3%E3%82%B9%E3%83%97",
+    "appearance": "パラシュート布素材の特殊布を巻いたニンジャ装束。\n焼き魚めいて白濁した目。9フィート超の巨体。"
   },
   {
     "id": "54d5e7",
     "name": "レベナント",
+    "realName": "スガワラノ・トミヒデ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "u03ajyyu",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "イモータル・ニンジャ・ワークショップ",
         "name": "イモータル・ニンジャ・ワークショップ"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%83%99%E3%83%8A%E3%83%B3%E3%83%88"
+    "appearances": [
+      {
+        "id": "jlfziaue",
+        "title": "デッドムーン・オン・ザ・レッドスカイ",
+        "arc": ""
+      }
+    ],
+    "skills": [
+      "ネクロカラテ",
+      "麻痺毒クナイ・ダート"
+    ],
+    "description": "リー先生が作り出したゾンビーニンジャ第1号。\nネクロカラテで戦う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%83%99%E3%83%8A%E3%83%B3%E3%83%88",
+    "appearance": "灰色のニンジャ装束。長身の老人。\n体色は鉛色に変じ、眼は紫色に輝く。両手首にクナイ・ダート。"
   },
   {
     "id": "b0a575",
     "name": "ジェノサイド",
+    "realName": "サクヤ・フェイダ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "f4msc9dy",
+      "name": "ゼツメツ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "シ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "イモータル・ニンジャ・ワークショップ",
         "name": "イモータル・ニンジャ・ワークショップ"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B8%E3%82%A7%E3%83%8E%E3%82%B5%E3%82%A4%E3%83%89"
+    "appearances": [
+      {
+        "id": "c1e89inz",
+        "title": "ネクロマンティック・フィードバック",
+        "arc": "第1部"
+      },
+      {
+        "id": "wf5bed8y",
+        "title": "トレジャー・エヴリー・ミーティング",
+        "arc": "第1部"
+      },
+      {
+        "id": "9dc7g6t8",
+        "title": "ネオサイタマ・イン・フレイム",
+        "arc": "第1部"
+      },
+      {
+        "id": "swi7emyn",
+        "title": "ウェルカム・トゥ・ネオサイタマ",
+        "arc": "第2部"
+      },
+      {
+        "id": "w1fu608s",
+        "title": "ゲイシャ・カラテ・シンカンセン・アンド・ヘル",
+        "arc": "第2部"
+      },
+      {
+        "id": "wyzu3nvc",
+        "title": "スリー・ダーティー・ニンジャボンド",
+        "arc": "第2部"
+      },
+      {
+        "id": "bwc9p5jh",
+        "title": "リターン・ザ・ギフト",
+        "arc": "第2部"
+      },
+      {
+        "id": "2pl20n72",
+        "title": "アナザー・ユーレイ・バイ・ザ・ウィーピング・ウィロウ",
+        "arc": "第3部"
+      },
+      {
+        "id": "m7ldwmab",
+        "title": "ウィアード・ワンダラー・アンド・ワイアード・ウィッチ",
+        "arc": "第3部"
+      },
+      {
+        "id": "v0n9obte",
+        "title": "アンダーワールド・レフュージ",
+        "arc": "第3部"
+      },
+      {
+        "id": "lakrwssb",
+        "title": "ニンジャスレイヤー：ネヴァーダイズ",
+        "arc": "第3部"
+      },
+      {
+        "id": "awdmg7d8",
+        "title": "デッド！　デダー・ザン・デッド！",
+        "arc": "第4部",
+        "season": 1
+      }
+    ],
+    "skills": [
+      "ネクロカラテ",
+      "鎖付きバズソー",
+      "ニンジャ・カニバリズム"
+    ],
+    "description": "リー先生の元から脱走したゾンビ―ニンジャ。\n伝説的ニンジャソウルを宿す。平穏を望んでいる。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B8%E3%82%A7%E3%83%8E%E3%82%B5%E3%82%A4%E3%83%89",
+    "appearance": "カソックコート、ウェスタンハット、\n死体じみた灰色の髪。緑色の目。ソウルが昂ると発光する。"
   },
   {
     "id": "d6fa9c",
@@ -15370,8 +15855,7 @@
     ],
     "description": "自我を持ったクローンヤクザがニンジャ化した存在。\n己のルーツを求めてヨロシサン関係者をケジメさせる。",
     "status": "unknown",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B1%E3%82%B8%E3%83%A1%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
-    "appearance": "クローンヤクザY-13型そのものの肉体。\n濃紺のニンジャ装束。キツネ・オメーン。\nニンジャスレイヤーとの決戦時はスーツ姿。"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B1%E3%82%B8%E3%83%A1%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
   },
   {
     "id": "a18762",
@@ -16321,8 +16805,7 @@
     "skills": [],
     "description": "ネオサイタマ市警49課に所属するフォールン・デッカー。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8E%E3%83%AA%E3%83%99",
-    "appearance": "ダイヤモンドチタン製の戦闘義手。サイバーサングラス。恐らく警官姿。"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8E%E3%83%AA%E3%83%99"
   },
   {
     "id": "fcd664",
