@@ -32,6 +32,18 @@ function Empty({ label }: { label: string }) {
   );
 }
 
+/** <br /> タグを React の改行要素に変換して表示 */
+function WithLineBreaks({ text }: { text: string }) {
+  const parts = text.split(/<br\s*\/?>/gi);
+  return (
+    <>
+      {parts.map((part, i) => (
+        <span key={i}>{part}{i < parts.length - 1 && <br />}</span>
+      ))}
+    </>
+  );
+}
+
 export function NinjaDetailPage() {
   const { id = '' } = useParams<{ id: string }>();
   const navigate = useNavigate();
@@ -129,7 +141,7 @@ export function NinjaDetailPage() {
         {hasValue(ninja.appearance) && (
           <section className={styles.section}>
             <h2 className={styles.sectionTitle}>外見</h2>
-            <p className={styles.appearanceText}>{ninja.appearance}</p>
+            <p className={styles.appearanceText}><WithLineBreaks text={ninja.appearance!} /></p>
           </section>
         )}
 
@@ -210,7 +222,7 @@ export function NinjaDetailPage() {
         <section className={styles.section}>
           <h2 className={styles.sectionTitle}>説明</h2>
           {hasValue(ninja.description)
-            ? <p className={styles.description}>{ninja.description}</p>
+            ? <p className={styles.description}><WithLineBreaks text={ninja.description!} /></p>
             : <Empty label="説明" />}
         </section>
 
