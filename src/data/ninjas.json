@@ -4689,8 +4689,7 @@
     "skills": [],
     "description": "アンタイブディズムバンド「カナガワ」のドラマー。\nメンバーが脱退した事件の後もカナガワを立て直すべく尽力。\nそのためか第4部ではコンポーザーの地位を築いている。",
     "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%AB%E3%82%B2%E3%83%BC%E3%83%88",
-    "appearance": "黒いハカマ。上半身裸。ブラックメタルメイク。極細サイバーサングラス。"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%AB%E3%82%B2%E3%83%BC%E3%83%88"
   },
   {
     "id": "17754559233",
@@ -4873,9 +4872,7 @@
     ],
     "description": "ソウカイ・シックスゲイツの創設者。ラオモトの側近。\n一線を退いていたがカラテは健在。ダークニンジャやドミナントを鍛え上げた。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B2%E3%82%A4%E3%83%88%E3%82%AD%E3%83%BC%E3%83%91%E3%83%BC",
-    "role": "ソウカイ・シックスゲイツ",
-    "appearance": "ミラーめいたニンジャ装束。一対の鋼鉄トンファー。\n普段は紺色のスーツ。"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B2%E3%82%A4%E3%83%88%E3%82%AD%E3%83%BC%E3%83%91%E3%83%BC"
   },
   {
     "id": "ea711ecf",
@@ -5338,9 +5335,7 @@
     ],
     "description": "ソウカイ・シックスゲイツの一人。末期シックスゲイツ。\n元スモトリの体格を活かし、攻防一体のローリングを得意とする。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%AB%E3%83%9E%E3%82%B8%E3%83%AD",
-    "appearance": "装甲ニンジャ装束。巨漢。",
-    "role": "ソウカイ・シックスゲイツ"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%AB%E3%83%9E%E3%82%B8%E3%83%AD"
   },
   {
     "id": "5dab8174",
@@ -5378,9 +5373,7 @@
     ],
     "description": "ソウカイ・シックスゲイツの一人。末期シックスゲイツ。\n水中戦に特化している。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89",
-    "role": "ソウカイ・シックスゲイツ",
-    "appearance": "ウェットニンジャ装束。シュノーケルめいたメンポ。\n両腕部にハープーン射出装置。"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89"
   },
   {
     "id": "7676ea0f",
@@ -5412,9 +5405,7 @@
     ],
     "description": "ソウカイ・シックスゲイツの一人。末期シックスゲイツ。\nメカアームを使いこなし、同時に12本のスリケンを投擲する。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%83%93%E3%83%AB%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5",
-    "role": "ソウカイ・シックスゲイツ",
-    "appearance": "黒い斑点入りの白ニンジャ装束。\n背中のインプラントから10本のサイバネアーム。"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%83%93%E3%83%AB%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5"
   },
   {
     "id": "f8997794",
@@ -5451,8 +5442,7 @@
     "description": "ソウカイ・シックスゲイツの一人。末期シックスゲイツ。\nかつてムーホンを試みた罰として侵入者撃退用に調整されたアンデッドニンジャと化した。",
     "status": "dead",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%83%93%E3%83%83%E3%83%89",
-    "appearance": "ミイラめいた全身。鎖で吊るされている。周囲に魔法陣。",
-    "role": "ソウカイ・シックスゲイツ"
+    "appearance": "ミイラめいた全身。ニンジャ装束。\n鎖で吊るされている。周囲に魔法陣が敷かれている。"
   },
   {
     "id": "74bdf31c",
@@ -5484,9 +5474,7 @@
     ],
     "description": "ソウカイ・シックスゲイツの一人。末期シックスゲイツ。\n計数百本のカタナで奇襲する。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%82%A4%E3%82%B6%E3%83%BC%E3%82%A8%E3%83%83%E3%82%B8",
-    "appearance": "スリムフィット黒ニンジャ装束。\n全身にセラミックカタナ・カタナを展開する機構がある。",
-    "role": "ソウカイ・シックスゲイツ"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%82%A4%E3%82%B6%E3%83%BC%E3%82%A8%E3%83%83%E3%82%B8"
   },
   {
     "id": "f1140ec0",
@@ -5886,8 +5874,7 @@
     ],
     "description": "ソウカイヤのムーホン者の一人。\n跳躍後上空からヤリで突く戦法を得意とする。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%AB%E3%83%90%E3%83%88%E3%83%AD%E3%82%B9",
-    "appearance": "特殊なスプリングを装着したゲタ。空力を重視した鋭角的ニンジャ頭巾。"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%AB%E3%83%90%E3%83%88%E3%83%AD%E3%82%B9"
   },
   {
     "id": "18172fc4",
@@ -5951,8 +5938,7 @@
     ],
     "description": "ソウカイヤのニンジャ。スカウト部門所属。\nデン・ジツの使い手。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%83%B3%E3%83%91%E3%83%AB%E3%82%B9#:hl:word=%E3%82%A4%E3%83%B3%E3%83%91",
-    "appearance": "白いヤクザスーツ装束。トゲトゲした金髪。若いニンジャ。元ホスト。"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%83%B3%E3%83%91%E3%83%AB%E3%82%B9#:hl:word=%E3%82%A4%E3%83%B3%E3%83%91"
   },
   {
     "id": "25ffc0c6",
@@ -6641,8 +6627,7 @@
     ],
     "description": "ソウカイヤのムーホン者の一人。\nニンジャ装束を石化させ防御能力を高める。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3%E3%82%B4%E3%83%BC%E3%83%AC%E3%83%A0",
-    "appearance": "身長200cm。ニンジャ装束。"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3%E3%82%B4%E3%83%BC%E3%83%AC%E3%83%A0"
   },
   {
     "id": "4da6fef3",
@@ -6957,8 +6942,7 @@
     ],
     "description": "ソウカイヤのムーホン者の一人。\n英国で禁止されたボックス・カラテの使い手。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%86%E3%83%B3%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88",
-    "appearance": "痩身。両腕に鋲打ちのボクシンググローブ。ヘッドギア。"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%86%E3%83%B3%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88"
   },
   {
     "id": "a23e9265",
@@ -7238,8 +7222,7 @@
     ],
     "description": "ソウカイヤのムーホン者の一人。\nアイサツ中にガトリング攻撃するシツレイ者。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%93%E3%83%BC%E3%83%8F%E3%82%A4%E3%83%B4",
-    "appearance": "格子柄のニンジャ装束。背中にガトリング・ガン。"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%93%E3%83%BC%E3%83%8F%E3%82%A4%E3%83%B4"
   },
   {
     "id": "6020515b",
@@ -7728,8 +7711,7 @@
     ],
     "description": "ソウカイヤのムーホン者の一人。\nマグネ・ジツでスリケンを吸い取って無力化してしまう。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AF%E3%82%A4%E3%82%A2%E3%83%BC%E3%83%89",
-    "appearance": "8フィート超の巨体。身体の三分の一をサイバネ改造。\n特殊オーダーメイドのマグネット装束。暗視機能付きのサイバネ・スコープ。"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AF%E3%82%A4%E3%82%A2%E3%83%BC%E3%83%89"
   },
   {
     "id": "68bd50e1",
@@ -14044,8 +14026,7 @@
     "skills": [],
     "description": "フリーランスのウキヨエ絵師。女性。\n一時フジキドの隠れ家の隣に住んでいた。",
     "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%AC%E3%82%BF%E3%83%BB%E3%83%9E%E3%83%AA%E3%82%A2",
-    "appearance": "黒髪の女性。第1部時点で37歳。"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%AC%E3%82%BF%E3%83%BB%E3%83%9E%E3%83%AA%E3%82%A2"
   },
   {
     "id": "ddc03b",
@@ -16631,8 +16612,7 @@
     ],
     "description": "中国地方で水牛を襲っていた謎のニンジャ。\nヨロシサン工場の爆破事故で脱走したとされるが……。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%81%E3%83%A5%E3%83%91%E3%82%AB%E3%83%96%E3%83%A9",
-    "appearance": "緑色の肌。背中を丸めた姿勢。背中には触手めいた突起。\nぼろ衣かニンジャ装束。胸にバッチ。"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%81%E3%83%A5%E3%83%91%E3%82%AB%E3%83%96%E3%83%A9"
   },
   {
     "id": "57728c",
