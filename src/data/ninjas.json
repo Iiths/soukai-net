@@ -20640,5 +20640,114 @@
     ],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8D%E3%83%B4%E3%82%A7%E3%83%AA%E3%82%AD%E3%83%BC%E3%83%AA%E3%82%B9%EF%BC%8F%E3%83%8A%E3%83%AA%E3%83%BC%E3%83%81%E3%83%86%E3%82%A3"
+  },
+  {
+    "id": "0d03dfd5",
+    "name": "クラウドバスター",
+    "organizations": [
+      {
+        "id": "オムラ_インダストリ",
+        "name": "オムラ・インダストリ"
+      }
+    ],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC"
+  },
+  {
+    "id": "1f89c0ca",
+    "name": "エクスプロシブ",
+    "organizations": [
+      {
+        "id": "オムラ_インダストリ",
+        "name": "オムラ・インダストリ"
+      }
+    ],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%97%E3%83%AD%E3%82%B7%E3%83%96"
+  },
+  {
+    "id": "eeb4b94d",
+    "name": "モーターヤブ",
+    "organizations": [
+      {
+        "id": "オムラ_インダストリ",
+        "name": "オムラ・インダストリ"
+      }
+    ],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%A4%E3%83%96"
+  },
+  {
+    "id": "d32f31e4",
+    "name": "モータードクロ",
+    "organizations": [
+      {
+        "id": "オムラ_インダストリ",
+        "name": "オムラ・インダストリ"
+      }
+    ],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%89%E3%82%AF%E3%83%AD"
+  },
+  {
+    "id": "952cc1d4",
+    "name": "グリーンエレファント",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%A8%E3%83%AC%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88"
+  },
+  {
+    "id": "5048ea4f",
+    "name": "ガスバーナ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AC%E3%82%B9%E3%83%90%E3%83%BC%E3%83%8A"
+  },
+  {
+    "id": "e6902595",
+    "name": "インクィジター",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%83%B3%E3%82%AF%E3%82%A3%E3%82%B8%E3%82%BF%E3%83%BC"
+  },
+  {
+    "id": "76e6fbe9",
+    "name": "ソードダンサー",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BD%E3%83%BC%E3%83%89%E3%83%80%E3%83%B3%E3%82%B5%E3%83%BC"
+  },
+  {
+    "id": "3d6dbcfb",
+    "name": "マンティコア",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%83%B3%E3%83%86%E3%82%A3%E3%82%B3%E3%82%A2"
+  },
+  {
+    "id": "92143d55",
+    "name": "バジリスク",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%82%B8%E3%83%AA%E3%82%B9%E3%82%AF"
+  },
+  {
+    "id": "fe8855e9",
+    "name": "ブラックバード",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%90%E3%83%BC%E3%83%89"
+  },
+  {
+    "id": "31cbdb23",
+    "name": "ヒュージシュリケン",
+    "organizations": [],
+    "appearances": []
+  },
+  {
+    "id": "6469eb16",
+    "name": "ミニットマン（第4部）",
+    "organizations": [],
+    "appearances": []
   }
 ]

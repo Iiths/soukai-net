@@ -263,26 +263,38 @@ def parse_list_page(soup: BeautifulSoup, section_label: str) -> list[dict]:
 
 
 def _extract_chars_from_ul(ul_el, out_list: list):
-    """ul.list1 / ul.list2 からキャラクターリンクを抽出して out_list に追加"""
+    """ul.list1 / ul.list2 / クラスなし ul からキャラクターリンクを抽出して out_list に追加
+
+    【修正履歴】
+    wikiwiki.jp の一部ページ（オムラ・インダストリ, その他のニンジャ等）では
+    <ul class="list2"> ではなくクラスなし <ul> にキャラクターリンクが格納されている。
+    → ① list2 ネストリスト ② クラスなし直接リストの両方を処理するよう拡張。
+    """
     seen_in_block = set()
-    # ul.list2 の中の <a> を全取得
+
+    def _try(a):
+        href = a.get("href", "")
+        if not is_char_link(href):
+            return
+        base_href = href.split("#")[0]
+        name = a.get("title", "").strip() or a.get_text(strip=True)
+        if not name or len(name) < 2:
+            return
+        key = name + base_href
+        if key in seen_in_block:
+            return
+        seen_in_block.add(key)
+        out_list.append({"name": name, "wiki_url": BASE_URL + base_href})
+
+    # ① list2（ネストリスト）パターン
     for list2 in ul_el.find_all("ul", class_="list2"):
         for a in list2.find_all("a", href=True):
-            href = a.get("href", "")
-            if not is_char_link(href):
-                continue
-            base_href = href.split("#")[0]
-            name = a.get("title", "").strip() or a.get_text(strip=True)
-            if not name or len(name) < 2:
-                continue
-            key = name + base_href
-            if key in seen_in_block:
-                continue
-            seen_in_block.add(key)
-            out_list.append({
-                "name":     name,
-                "wiki_url": BASE_URL + base_href,
-            })
+            _try(a)
+
+    # ② クラスなし直接リストパターン（list2 の外にある <a>）
+    for a in ul_el.find_all("a", href=True):
+        if not a.find_parent("ul", class_="list2"):
+            _try(a)
 
 
 # ============================================================
@@ -291,7 +303,12 @@ def _extract_chars_from_ul(ul_el, out_list: list):
 
 def parse_org_page(soup: BeautifulSoup, org_name: str) -> list[dict]:
     """
-    組織個別ページから全構成員を抽出（ul.list2 パターン）。
+    組織個別ページから全構成員を抽出。
+    ul.list2（ネストリスト）とクラスなし直接リストの両方に対応。
+
+    【修正履歴】
+    オムラ・インダストリ等のページはクラスなし <ul> にキャラクターリンクが格納されており
+    ul.list2 のみを検索する旧実装では取り込まれなかった。両パターンを処理するよう拡張。
     """
     content = soup.find(id="content")
     if not content:
@@ -300,24 +317,32 @@ def parse_org_page(soup: BeautifulSoup, org_name: str) -> list[dict]:
     chars = []
     seen = set()
 
+    def _try(a):
+        href = a.get("href", "")
+        if not is_char_link(href):
+            return
+        base_href = href.split("#")[0]
+        name = a.get("title", "").strip() or a.get_text(strip=True)
+        if not name or len(name) < 2:
+            return
+        if name in seen:
+            return
+        seen.add(name)
+        chars.append({"name": name, "wiki_url": BASE_URL + base_href, "org_name": org_name})
+
+    # ① list2（ネストリスト）パターン
     for ul in content.find_all("ul", class_="list2"):
         for a in ul.find_all("a", href=True):
-            href = a.get("href", "")
-            if not is_char_link(href):
-                continue
-            base_href = href.split("#")[0]
-            name = a.get("title", "").strip() or a.get_text(strip=True)
-            if not name or len(name) < 2:
-                continue
-            key = name
-            if key in seen:
-                continue
-            seen.add(key)
-            chars.append({
-                "name":     name,
-                "wiki_url": BASE_URL + base_href,
-                "org_name": org_name,
-            })
+            _try(a)
+
+    # ② クラスなし直接リストパターン（list2 の外にある ul）
+    for ul in content.find_all("ul"):
+        if ul.get("class"):
+            continue  # list1 など class ありは ① で処理 or 除外
+        for a in ul.find_all("a", href=True):
+            if a.find_parent("ul", class_="list2"):
+                continue  # ① で処理済み
+            _try(a)
 
     return chars
 
@@ -519,16 +544,31 @@ def run_phase1(limit: "int | None" = None) -> list[dict]:
                     })
 
     # ── 重複除去（名前ベース）・複数所属は _orgs にまとめる ──
+    # 同名でも wiki_url が異なる場合は別人物として別エントリに保持する
     deduped: dict[str, dict] = {}
     for e in all_entries:
         key = normalize(e["name"])
-        if key not in deduped:
+        wiki_url = e.get("wiki_url", "")
+        existing = deduped.get(key)
+
+        if existing is None:
             deduped[key] = {**e, "_orgs": [e["org_name"]]}
         else:
-            if e["org_name"] not in deduped[key]["_orgs"]:
-                deduped[key]["_orgs"].append(e["org_name"])
-            if not deduped[key].get("wiki_url") and e.get("wiki_url"):
-                deduped[key]["wiki_url"] = e["wiki_url"]
+            existing_url = existing.get("wiki_url", "")
+            # wiki_url が異なる → 同名別人物: URL サフィックスキーで別エントリ
+            if wiki_url and existing_url and wiki_url != existing_url:
+                alt_key = f"{key}\x00{wiki_url}"
+                if alt_key not in deduped:
+                    deduped[alt_key] = {**e, "_orgs": [e["org_name"]]}
+                else:
+                    if e["org_name"] not in deduped[alt_key]["_orgs"]:
+                        deduped[alt_key]["_orgs"].append(e["org_name"])
+            else:
+                # 同名同人物: org 追記
+                if e["org_name"] not in existing["_orgs"]:
+                    existing["_orgs"].append(e["org_name"])
+                if not existing.get("wiki_url") and wiki_url:
+                    existing["wiki_url"] = wiki_url
 
     result = list(deduped.values())
     print(f"\n[Phase1] 完了: {len(all_entries)}件（重複除去後: {len(result)}件）")
@@ -598,8 +638,18 @@ def run_merge(entries: list[dict], dry_run: bool = False) -> dict:
         orgs = entry.get("_orgs") or [entry.get("org_name", "不明")]
 
         if name in index:
-            for org in orgs:
-                merge_entry(index[name], org, wiki_url, detail, stats)
+            existing = index[name]
+            existing_url = existing.get("wikiUrl", "")
+            # 同名でも異なる wiki ページ → 別人物: 新規追加
+            if wiki_url and existing_url and wiki_url != existing_url:
+                new = create_new_entry(name, orgs[0], wiki_url, detail)
+                for org in orgs[1:]:
+                    add_org(new, org)
+                new_ninjas.append(new)
+                stats["new_added"] += 1
+            else:
+                for org in orgs:
+                    merge_entry(existing, org, wiki_url, detail, stats)
         else:
             new = create_new_entry(name, orgs[0], wiki_url, detail)
             # 複数所属がある場合は追加
