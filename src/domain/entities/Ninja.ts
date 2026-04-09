@@ -1,6 +1,6 @@
 import { NinjaSoul } from './NinjaSoul';
 import { Organization } from './Organization';
-import { Episode } from './Episode';
+import { EpisodeRef } from './Episode';
 
 export type NinjaType =
   | 'ニンジャソウル憑依者'
@@ -28,7 +28,8 @@ export type Ninja = {
   ninjaType?: NinjaType;
   ninjaSoul?: NinjaSoul;
   organizations?: Organization[];
-  appearances: Episode[];
+  /** 登場エピソード参照（IDのみ。詳細は episodes.json を参照） */
+  appearances: EpisodeRef[];
   skills?: string[];
   /** 役職・肩書き（例: ドン、幹部、アンダーボス） */
   role?: string;

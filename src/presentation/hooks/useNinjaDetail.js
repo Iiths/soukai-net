@@ -1,9 +1,11 @@
 import { useState, useEffect } from 'react';
 import { GetNinjaDetailUseCase } from '../../usecases/GetNinjaDetailUseCase';
 import { JsonNinjaRepository } from '../../infrastructure/repositories/JsonNinjaRepository';
+import { JsonEpisodeRepository } from '../../infrastructure/repositories/JsonEpisodeRepository';
 import { useNinjaEditContext } from '../context/NinjaEditContext';
 export function useNinjaDetail(id) {
     const [ninja, setNinja] = useState(null);
+    const [episodes, setEpisodes] = useState([]);
     const [isLoading, setIsLoading] = useState(true);
     const { getOverride } = useNinjaEditContext();
     useEffect(() => {
@@ -12,14 +14,21 @@ export function useNinjaDetail(id) {
             try {
                 // in-memory 編集データを優先して使用
                 const override = getOverride(id);
-                if (override) {
-                    setNinja(override);
-                    return;
+                const ninjaData = override ?? await (async () => {
+                    const repo = new JsonNinjaRepository();
+                    const useCase = new GetNinjaDetailUseCase(repo);
+                    return await useCase.execute(id);
+                })();
+                setNinja(ninjaData);
+                if (ninjaData && ninjaData.appearances.length > 0) {
+                    const episodeRepo = new JsonEpisodeRepository();
+                    const epIds = ninjaData.appearances.map((ref) => ref.id);
+                    const epDetails = await episodeRepo.findByIds(epIds);
+                    setEpisodes(epDetails);
                 }
-                const repo = new JsonNinjaRepository();
-                const useCase = new GetNinjaDetailUseCase(repo);
-                const detail = await useCase.execute(id);
-                setNinja(detail);
+                else {
+                    setEpisodes([]);
+                }
             }
             finally {
                 setIsLoading(false);
@@ -27,5 +36,5 @@ export function useNinjaDetail(id) {
         };
         fetchDetail();
     }, [id, getOverride]);
-    return { ninja, isLoading };
+    return { ninja, episodes, isLoading };
 }

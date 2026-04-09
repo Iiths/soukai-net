@@ -29,10 +29,7 @@
     ],
     "appearances": [
       {
-        "id": "nubhusa7",
-        "title": "トーメント・イーブン・アフター・デス",
-        "arc": "第4部",
-        "season": 1
+        "id": "nubhusa7"
       }
     ],
     "skills": [
@@ -64,9 +61,7 @@
     ],
     "appearances": [
       {
-        "id": "wkq7s6ie",
-        "title": "ボーン・イン・レッド・ブラック",
-        "arc": "第1部"
+        "id": "wkq7s6ie"
       }
     ],
     "skills": [
@@ -122,19 +117,13 @@
     ],
     "appearances": [
       {
-        "id": "i91tdhp6",
-        "title": "ボーン・イン・レッド・ブラック",
-        "arc": "第1部"
+        "id": "wkq7s6ie"
       },
       {
-        "id": "kqp68e75",
-        "title": "バック・イン・ブラック",
-        "arc": "第1部"
+        "id": "kqp68e75"
       },
       {
-        "id": "fmmj8ad1",
-        "title": "ラスト・ガール・スタンディング",
-        "arc": "第1部"
+        "id": "fmmj8ad1"
       }
     ],
     "skills": [
@@ -162,10 +151,7 @@
     ],
     "appearances": [
       {
-        "id": "jf6jozwe",
-        "title": "トーメント・イーブン・アフター・デス",
-        "arc": "第4部",
-        "season": 1
+        "id": "nubhusa7"
       }
     ],
     "skills": [
@@ -196,10 +182,7 @@
     ],
     "appearances": [
       {
-        "id": "80qupnd7",
-        "title": "サンズ・オブ・ケオス",
-        "arc": "第4部",
-        "season": 1
+        "id": "80qupnd7"
       }
     ],
     "skills": [],
@@ -255,9 +238,7 @@
     ],
     "appearances": [
       {
-        "id": "gx89trl9",
-        "title": "ベイン・オブ・サーペント",
-        "arc": "第1部"
+        "id": "gx89trl9"
       }
     ],
     "skills": [
@@ -415,136 +396,76 @@
     ],
     "appearances": [
       {
-        "id": "nqhpydnc",
-        "title": "ラスト・ガール・スタンディング",
-        "arc": "第1部"
+        "id": "fmmj8ad1"
       },
       {
-        "id": "8x6pt5fy",
-        "title": "ニュー・メッセンジャー・オブ・ホワット",
-        "arc": "第1部"
+        "id": "8x6pt5fy"
       },
       {
-        "id": "nsdl0ytg",
-        "title": "ニュー・メッセンジャー・オブ・パスト・アンド・フューチャー",
-        "arc": "第3部"
+        "id": "nsdl0ytg"
       },
       {
-        "id": "st6b9q7x",
-        "title": "サツバツ・ナイト・バイ・ナイト",
-        "arc": "第3部"
+        "id": "st6b9q7x"
       },
       {
-        "id": "gba0awyv",
-        "title": "ヘイル・トゥ・ザ・シェード・オブ・ブッダスピード",
-        "arc": "第3部"
+        "id": "gba0awyv"
       },
       {
-        "id": "x9g18jha",
-        "title": "ゼア・イズ・ア・ライト",
-        "arc": "第3部"
+        "id": "x9g18jha"
       },
       {
-        "id": "z7rgd0bm",
-        "title": "ステイ・アライヴ・フォー・ユア・カラテ",
-        "arc": "第3部"
+        "id": "z7rgd0bm"
       },
       {
-        "id": "qeenefau",
-        "title": "デス・トラップ、スーサイド・ラップ",
-        "arc": "第3部"
+        "id": "qeenefau"
       },
       {
-        "id": "yg4p8qly",
-        "title": "ニチョーム・ウォー……ビギニング",
-        "arc": "第3部"
+        "id": "yg4p8qly"
       },
       {
-        "id": "yrr4132n",
-        "title": "フェアウェル・マイ・シャドウ",
-        "arc": "第3部"
+        "id": "yrr4132n"
       },
       {
-        "id": "2v6e48gz",
-        "title": "ニチョーム・ウォー",
-        "arc": "第3部"
+        "id": "2v6e48gz"
       },
       {
-        "id": "8r8ibb8m",
-        "title": "ニンジャスレイヤー：ネヴァーダイズ",
-        "arc": "第3部"
+        "id": "8r8ibb8m"
       },
       {
-        "id": "na7t80qm",
-        "title": "フラワーズ・フロム・フロスト",
-        "arc": "第4部",
-        "season": 1
+        "id": "na7t80qm"
       },
       {
-        "id": "0pg8ano6",
-        "title": "エリミネイト・アナイアレイター",
-        "arc": "第4部",
-        "season": 2
+        "id": "0pg8ano6"
       },
       {
-        "id": "v6sqo9jc",
-        "title": "ライフ・アフター・デス",
-        "arc": "第4部",
-        "season": 2
+        "id": "v6sqo9jc"
       },
       {
-        "id": "0ssoqq7s",
-        "title": "ベイン・オブ・カトー",
-        "arc": "第4部",
-        "season": 2
+        "id": "0ssoqq7s"
       },
       {
-        "id": "kehqgsdx",
-        "title": "ポッシブル・ドミネイション",
-        "arc": "第4部",
-        "season": 2
+        "id": "kehqgsdx"
       },
       {
-        "id": "wjryt0u9",
-        "title": "ハート・オブ・ダウントロッデン・ソウルズ",
-        "arc": "第4部",
-        "season": 2
+        "id": "wjryt0u9"
       },
       {
-        "id": "vrvaz1y4",
-        "title": "カウンシル・フジミ",
-        "arc": "第4部",
-        "season": 2
+        "id": "vrvaz1y4"
       },
       {
-        "id": "typqvzha",
-        "title": "ベリアル・アンダーカバー",
-        "arc": "第4部",
-        "season": 2
+        "id": "typqvzha"
       },
       {
-        "id": "0nci6tph",
-        "title": "ドラゴン・インストラクション",
-        "arc": "第4部",
-        "season": 2
+        "id": "0nci6tph"
       },
       {
-        "id": "i9di1e9q",
-        "title": "フリージング・フジサン",
-        "arc": "第4部",
-        "season": 2
+        "id": "i9di1e9q"
       },
       {
-        "id": "his9gvkp",
-        "title": "アルター・オブ・マッポーカリプス",
-        "arc": "第4部",
-        "season": 2
+        "id": "his9gvkp"
       },
       {
-        "id": "gzrph4m3",
-        "title": "ベルリン・デンノ・ティーンエイジ・ライオット",
-        "arc": "第4部",
-        "season": 4
+        "id": "gzrph4m3"
       }
     ],
     "skills": [
@@ -740,61 +661,37 @@
     ],
     "appearances": [
       {
-        "id": "48pg2qdu",
-        "title": "ユーレイ・ダンシング・オン・コンクリート・ハカバ",
-        "arc": "第1部"
+        "id": "48pg2qdu"
       },
       {
-        "id": "t4llx7ft",
-        "title": "デッドムーン・オン・ザ・レッドスカイ",
-        "arc": "第1部"
+        "id": "t4llx7ft"
       },
       {
-        "id": "xl6ufucq",
-        "title": "ネクロマンティック・フィードバック",
-        "arc": "第1部"
+        "id": "xl6ufucq"
       },
       {
-        "id": "orlfnv3l",
-        "title": "トレジャー・エヴリー・ミーティング",
-        "arc": "第1部"
+        "id": "orlfnv3l"
       },
       {
-        "id": "w0ir764o",
-        "title": "リターン・ザ・ギフト",
-        "arc": "第2部"
+        "id": "w0ir764o"
       },
       {
-        "id": "zt9pvzah",
-        "title": "ホワット・ア・ホリブル・ナイト・トゥ・ハヴ・ア・カラテ",
-        "arc": "第3部"
+        "id": "zt9pvzah"
       },
       {
-        "id": "5jvbtmyb",
-        "title": "レイズ・ザ・フラッグ・オブ・ヘイトレッド",
-        "arc": "第3部"
+        "id": "5jvbtmyb"
       },
       {
-        "id": "f0q6hbvy",
-        "title": "アンダーワールド・レフュージ",
-        "arc": "第3部"
+        "id": "f0q6hbvy"
       },
       {
-        "id": "pihhhdov",
-        "title": "ニンジャスレイヤー：ネヴァーダイズ",
-        "arc": "第3部"
+        "id": "8r8ibb8m"
       },
       {
-        "id": "1rdmzslz",
-        "title": "デッド！　デダー・ザン・デッド！",
-        "arc": "第4部",
-        "season": 1
+        "id": "1rdmzslz"
       },
       {
-        "id": "fb6lf4me",
-        "title": "プラグ・ザ・デモンズ・ハート",
-        "arc": "第4部",
-        "season": 3
+        "id": "fb6lf4me"
       }
     ],
     "skills": [],
@@ -824,50 +721,31 @@
     ],
     "appearances": [
       {
-        "id": "myajr7ej",
-        "title": "ユーレイ・ダンシング・オン・コンクリート・ハカバ",
-        "arc": "第1部"
+        "id": "48pg2qdu"
       },
       {
-        "id": "oh25qm7g",
-        "title": "デッドムーン・オン・ザ・レッドスカイ",
-        "arc": "第1部"
+        "id": "t4llx7ft"
       },
       {
-        "id": "pw5wzdnb",
-        "title": "ネクロマンティック・フィードバック",
-        "arc": "第1部"
+        "id": "xl6ufucq"
       },
       {
-        "id": "c5rgjkm3",
-        "title": "トレジャー・エヴリー・ミーティング",
-        "arc": "第1部"
+        "id": "orlfnv3l"
       },
       {
-        "id": "q3zfdmh7",
-        "title": "リターン・ザ・ギフト",
-        "arc": "第2部"
+        "id": "w0ir764o"
       },
       {
-        "id": "ph9thbny",
-        "title": "ホワット・ア・ホリブル・ナイト・トゥ・ハヴ・ア・カラテ",
-        "arc": "第3部"
+        "id": "zt9pvzah"
       },
       {
-        "id": "7ju6z3i4",
-        "title": "アンダーワールド・レフュージ",
-        "arc": "第3部"
+        "id": "f0q6hbvy"
       },
       {
-        "id": "zmzvkm2s",
-        "title": "ニンジャスレイヤー：ネヴァーダイズ",
-        "arc": "第3部"
+        "id": "8r8ibb8m"
       },
       {
-        "id": "w6pknvp1",
-        "title": "デッド！　デダー・ザン・デッド！",
-        "arc": "第4部",
-        "season": 1
+        "id": "1rdmzslz"
       }
     ],
     "skills": [
@@ -901,73 +779,43 @@
     ],
     "appearances": [
       {
-        "id": "y7rx02e9",
-        "title": "デッドムーン・オン・ザ・レッドスカイ",
-        "arc": "第1部"
+        "id": "t4llx7ft"
       },
       {
-        "id": "3vxmhtdx",
-        "title": "ネクロマンティック・フィードバック",
-        "arc": "第1部"
+        "id": "xl6ufucq"
       },
       {
-        "id": "4pl2tq7t",
-        "title": "トレジャー・エヴリー・ミーティング",
-        "arc": "第1部"
+        "id": "orlfnv3l"
       },
       {
-        "id": "9j0jnn2l",
-        "title": "ウェルカム・トゥ・ネオサイタマ",
-        "arc": "第2部"
+        "id": "9j0jnn2l"
       },
       {
-        "id": "fwq12d1u",
-        "title": "フィジシャン、ヒール・ユアセルフ",
-        "arc": "第2部"
+        "id": "fwq12d1u"
       },
       {
-        "id": "7ex3ew6v",
-        "title": "ホワット・ア・ホリブル・ナイト・トゥ・ハヴ・ア・カラテ",
-        "arc": "第3部"
+        "id": "zt9pvzah"
       },
       {
-        "id": "uawmchzy",
-        "title": "デス・トラップ、スーサイド・ラップ",
-        "arc": "第3部"
+        "id": "qeenefau"
       },
       {
-        "id": "0ntk1rs3",
-        "title": "アンダーワールド・レフュージ",
-        "arc": "第3部"
+        "id": "f0q6hbvy"
       },
       {
-        "id": "juhlgzww",
-        "title": "ニンジャスレイヤー：ネヴァーダイズ",
-        "arc": "第3部"
+        "id": "8r8ibb8m"
       },
       {
-        "id": "sqrznax3",
-        "title": "デッド！　デダー・ザン・デッド！",
-        "arc": "第4部",
-        "season": 1
+        "id": "1rdmzslz"
       },
       {
-        "id": "s8svrkeo",
-        "title": "プラグ・ザ・デモンズ・ハート",
-        "arc": "第4部",
-        "season": 3
+        "id": "fb6lf4me"
       },
       {
-        "id": "2ro7dlra",
-        "title": "タイラント・オブ・マッポーカリプス",
-        "arc": "第4部",
-        "season": 3
+        "id": "2ro7dlra"
       },
       {
-        "id": "emcygtsj",
-        "title": "クエスト・フォー・ヨモガハマ",
-        "arc": "第4部",
-        "season": 4
+        "id": "emcygtsj"
       }
     ],
     "skills": [
@@ -1483,16 +1331,10 @@
     ],
     "appearances": [
       {
-        "id": "futllzdo",
-        "title": "アセイルド・ドージョー",
-        "arc": "第4部",
-        "season": 1
+        "id": "futllzdo"
       },
       {
-        "id": "dk9icyo7",
-        "title": "クルセイド・ワラキア",
-        "arc": "第4部",
-        "season": 2
+        "id": "dk9icyo7"
       }
     ],
     "skills": [
@@ -1619,9 +1461,7 @@
     ],
     "appearances": [
       {
-        "id": "e4pwggow",
-        "title": "アジェンダ・ディセント",
-        "arc": "第1部"
+        "id": "e4pwggow"
       }
     ],
     "skills": [
@@ -1726,24 +1566,16 @@
     ],
     "appearances": [
       {
-        "id": "dwo39bnh",
-        "title": "アジェンダ・ディセント",
-        "arc": "第1部"
+        "id": "e4pwggow"
       },
       {
-        "id": "kmbkxi9j",
-        "title": "ウェルカム・トゥ・ネオサイタマ",
-        "arc": "第2部"
+        "id": "9j0jnn2l"
       },
       {
-        "id": "ot4lpixl",
-        "title": "スリー・ダーティー・ニンジャボンド",
-        "arc": "第2部"
+        "id": "ot4lpixl"
       },
       {
-        "id": "gb8b6euf",
-        "title": "オペレイション・レスキュー",
-        "arc": "第2部"
+        "id": "gb8b6euf"
       }
     ],
     "skills": [
@@ -2537,10 +2369,7 @@
     ],
     "appearances": [
       {
-        "id": "ztgiz3kg",
-        "title": "アシッド・シグナル・トランザクション",
-        "arc": "第4部",
-        "season": 4
+        "id": "ztgiz3kg"
       }
     ],
     "skills": [
@@ -2681,55 +2510,34 @@
     ],
     "appearances": [
       {
-        "id": "zpm2lvo5",
-        "title": "メリークリスマス・ネオサイタマ",
-        "arc": "第1部"
+        "id": "zpm2lvo5"
       },
       {
-        "id": "m1uefv3f",
-        "title": "バイオテック・イズ・チュパカブラ",
-        "arc": "第1部"
+        "id": "m1uefv3f"
       },
       {
-        "id": "9lclsu2q",
-        "title": "ネオサイタマ・イン・フレイム",
-        "arc": "第1部"
+        "id": "9lclsu2q"
       },
       {
-        "id": "qj8jg9yb",
-        "title": "ウェルカム・トゥ・ネオサイタマ",
-        "arc": "第2部"
+        "id": "9j0jnn2l"
       },
       {
-        "id": "bymfyzzg",
-        "title": "ネオサイタマ・シティ・コップス",
-        "arc": "第3部"
+        "id": "bymfyzzg"
       },
       {
-        "id": "2kk56muq",
-        "title": "アーバン・レジェンド・アブナイ",
-        "arc": "第3部"
+        "id": "2kk56muq"
       },
       {
-        "id": "rwd4t44a",
-        "title": "メニイ・オア・ワン",
-        "arc": "第3部"
+        "id": "rwd4t44a"
       },
       {
-        "id": "ztv7aco3",
-        "title": "アンエクスペクテッド・ゲスト",
-        "arc": "第3部"
+        "id": "ztv7aco3"
       },
       {
-        "id": "oxb5xol0",
-        "title": "ニンジャスレイヤー：ネヴァーダイズ",
-        "arc": "第3部"
+        "id": "8r8ibb8m"
       },
       {
-        "id": "i1ad8xb2",
-        "title": "ア・デッカーガン・イズ・マイ・パスポート",
-        "arc": "第4部",
-        "season": 3
+        "id": "i1ad8xb2"
       }
     ],
     "skills": [
@@ -2947,15 +2755,10 @@
     ],
     "appearances": [
       {
-        "id": "0hamcejv",
-        "title": "アイアン・アトラス・バトルロイヤル！",
-        "arc": "第4部"
+        "id": "0hamcejv"
       },
       {
-        "id": "r4yepeot",
-        "title": "オペレイション・ムーンチャイルド",
-        "arc": "第4部",
-        "season": 5
+        "id": "r4yepeot"
       }
     ],
     "skills": [],
@@ -4676,14 +4479,10 @@
     "organizations": [],
     "appearances": [
       {
-        "id": "rvx6izeb",
-        "title": "コロス・オブリヴィオン",
-        "arc": "第1部"
+        "id": "rvx6izeb"
       },
       {
-        "id": "u1ijwi0c",
-        "title": "ネオサイタマ・イン・フレイム",
-        "arc": "第1部"
+        "id": "9lclsu2q"
       }
     ],
     "skills": [],
@@ -4747,69 +4546,43 @@
     ],
     "appearances": [
       {
-        "id": "gik2qiar",
-        "title": "ボーン・イン・レッド・ブラック",
-        "arc": "第1部"
+        "id": "wkq7s6ie"
       },
       {
-        "id": "c1vzsh27",
-        "title": "バック・イン・ブラック",
-        "arc": "第1部"
+        "id": "kqp68e75"
       },
       {
-        "id": "acb9wyjb",
-        "title": "マシン・オブ・ヴェンジェンス",
-        "arc": "第1部"
+        "id": "acb9wyjb"
       },
       {
-        "id": "uduraffr",
-        "title": "レイジ・アゲンスト・トーフ",
-        "arc": "第1部"
+        "id": "uduraffr"
       },
       {
-        "id": "0bkkf92q",
-        "title": "メリークリスマス・ネオサイタマ",
-        "arc": "第1部"
+        "id": "zpm2lvo5"
       },
       {
-        "id": "t3b3cjoh",
-        "title": "オウガ・ザ・コールドスティール",
-        "arc": "第1部"
+        "id": "t3b3cjoh"
       },
       {
-        "id": "zi9w4m1z",
-        "title": "フジ・サン・ライジング",
-        "arc": "第1部"
+        "id": "zi9w4m1z"
       },
       {
-        "id": "3cxcdqaf",
-        "title": "ガイデッド・バイ・マサシ",
-        "arc": "第1部"
+        "id": "3cxcdqaf"
       },
       {
-        "id": "xe8f5esn",
-        "title": "デッドムーン・オン・ザ・レッドスカイ",
-        "arc": "第1部"
+        "id": "t4llx7ft"
       },
       {
-        "id": "2acv4ovx",
-        "title": "コロス・オブリヴィオン",
-        "arc": "第1部"
+        "id": "rvx6izeb"
       },
       {
-        "id": "v3fc0ycx",
-        "title": "ストレンジャー・ストレンジャー・ザン・フィクション",
-        "arc": "第1部"
+        "id": "v3fc0ycx"
       },
       {
-        "id": "qvd0mt55",
-        "title": "ネオサイタマ・イン・フレイム",
-        "arc": "第1部"
+        "id": "9lclsu2q"
       },
       {
-        "id": "q0zjg8rk",
-        "title": "カース・オブ・エンシェント・カンジ、オア・ザ・シークレット・オブ・ダークニンジャ・ソウル",
-        "arc": "第2部"
+        "id": "q0zjg8rk"
       }
     ],
     "skills": [
@@ -4846,24 +4619,16 @@
     ],
     "appearances": [
       {
-        "id": "k5zapoeo",
-        "title": "バック・イン・ブラック",
-        "arc": "第1部"
+        "id": "kqp68e75"
       },
       {
-        "id": "sytg0fzd",
-        "title": "ストレンジャー・ストレンジャー・ザン・フィクション",
-        "arc": "第1部"
+        "id": "v3fc0ycx"
       },
       {
-        "id": "kly904vr",
-        "title": "ネオサイタマ・イン・フレイム",
-        "arc": "第1部"
+        "id": "9lclsu2q"
       },
       {
-        "id": "h5kn5rih",
-        "title": "カース・オブ・エンシェント・カンジ、オア・ザ・シークレット・オブ・ダークニンジャ・ソウル",
-        "arc": "第2部"
+        "id": "q0zjg8rk"
       }
     ],
     "skills": [
@@ -4907,106 +4672,61 @@
     ],
     "appearances": [
       {
-        "id": "w6ccm5qg",
-        "title": "メナス・オブ・ダークニンジャ",
-        "arc": "第1部"
+        "id": "w6ccm5qg"
       },
       {
-        "id": "tlibhtjh",
-        "title": "コンスピーラシィ・アポン・ザ・ブロークン・ブレイド",
-        "arc": "第1部"
+        "id": "tlibhtjh"
       },
       {
-        "id": "7m0ncnab",
-        "title": "ネオサイタマ・イン・フレイム",
-        "arc": "第1部"
+        "id": "9lclsu2q"
       },
       {
-        "id": "6skk9fi6",
-        "title": "ソード・オブ・ザ・ビトレイヤー",
-        "arc": "第2部"
+        "id": "6skk9fi6"
       },
       {
-        "id": "hfcqzrkh",
-        "title": "クライ・ハヴォック・ベンド・ジ・エンド",
-        "arc": "第2部"
+        "id": "hfcqzrkh"
       },
       {
-        "id": "gs1jtah6",
-        "title": "カース・オブ・エンシェント・カンジ、オア・ザ・シークレット・オブ・ダークニンジャ・ソウル",
-        "arc": "第2部"
+        "id": "q0zjg8rk"
       },
       {
-        "id": "5pugu0tr",
-        "title": "アット・ザ・レルム・オブ・ブラックウィッチ",
-        "arc": "第2部"
+        "id": "5pugu0tr"
       },
       {
-        "id": "rujnq8bg",
-        "title": "ドゥームズデイ・ディヴァイス",
-        "arc": "第2部"
+        "id": "rujnq8bg"
       },
       {
-        "id": "12ml6hmz",
-        "title": "キョート・ヘル・オン・アース",
-        "arc": "第2部"
+        "id": "12ml6hmz"
       },
       {
-        "id": "vrg4755o",
-        "title": "ザイバツ・ヤング・チーム",
-        "arc": "第3部"
+        "id": "vrg4755o"
       },
       {
-        "id": "vyhgnuh0",
-        "title": "ア・クルエル・ナイト・ウィズ・レイジング・フォース・フロム・ソー・サイレント・フィアフル・レルム",
-        "arc": "第3部"
+        "id": "vyhgnuh0"
       },
       {
-        "id": "m3uzxvni",
-        "title": "ニンジャスレイヤー：ネヴァーダイズ",
-        "arc": "第3部"
+        "id": "8r8ibb8m"
       },
       {
-        "id": "3cygxhpv",
-        "title": "ザイバツ・シャドーギルド",
-        "arc": "第4部",
-        "season": 1
+        "id": "3cygxhpv"
       },
       {
-        "id": "7n5yygr8",
-        "title": "コールド・ワールド",
-        "arc": "第4部",
-        "season": 2
+        "id": "7n5yygr8"
       },
       {
-        "id": "8btrond5",
-        "title": "アルター・オブ・マッポーカリプス",
-        "arc": "第4部",
-        "season": 2
+        "id": "his9gvkp"
       },
       {
-        "id": "2jvhv6np",
-        "title": "シャドウズ・アゲインスト・ヴァイン",
-        "arc": "第4部",
-        "season": 4
+        "id": "2jvhv6np"
       },
       {
-        "id": "rnyclxp8",
-        "title": "ジ・インターナショナル・ハンザイ・コンスピラシー",
-        "arc": "第4部",
-        "season": 5
+        "id": "rnyclxp8"
       },
       {
-        "id": "rqe3snbe",
-        "title": "ゼロ・トレラント・サンスイ",
-        "arc": "第4部",
-        "season": 5
+        "id": "rqe3snbe"
       },
       {
-        "id": "6dcsfo7u",
-        "title": "トレイス・オブ・ダークニンジャ",
-        "arc": "第4部",
-        "season": 5
+        "id": "6dcsfo7u"
       }
     ],
     "skills": [
@@ -5040,9 +4760,7 @@
     ],
     "appearances": [
       {
-        "id": "qad20i3w",
-        "title": "サプライズド・ドージョー",
-        "arc": "第1部"
+        "id": "qad20i3w"
       }
     ],
     "skills": [
@@ -5074,9 +4792,7 @@
     ],
     "appearances": [
       {
-        "id": "qvshvm0c",
-        "title": "フィスト・フィルド・ウィズ・リグレット・アンド・オハギ",
-        "arc": "第1部"
+        "id": "qvshvm0c"
       }
     ],
     "skills": [
@@ -5108,14 +4824,10 @@
     ],
     "appearances": [
       {
-        "id": "9rk5hoiz",
-        "title": "ベイン・オブ・サーペント",
-        "arc": "第1部"
+        "id": "gx89trl9"
       },
       {
-        "id": "vr3fq73p",
-        "title": "バトルグラウンド・サツ・バツ",
-        "arc": "外伝"
+        "id": "vr3fq73p"
       }
     ],
     "skills": [
@@ -5149,14 +4861,10 @@
     ],
     "appearances": [
       {
-        "id": "n5zbx62l",
-        "title": "レイジ・アゲンスト・トーフ",
-        "arc": "第1部"
+        "id": "uduraffr"
       },
       {
-        "id": "kgwlkkns",
-        "title": "バトルグラウンド・サツ・バツ",
-        "arc": "外伝"
+        "id": "vr3fq73p"
       }
     ],
     "skills": [
@@ -5188,9 +4896,7 @@
     ],
     "appearances": [
       {
-        "id": "zpx1ki1p",
-        "title": "レイジ・アゲンスト・トーフ",
-        "arc": "第1部"
+        "id": "uduraffr"
       }
     ],
     "skills": [
@@ -5220,14 +4926,10 @@
     ],
     "appearances": [
       {
-        "id": "60p5g4zq",
-        "title": "ユーレイ・ダンシング・オン・コンクリート・ハカバ",
-        "arc": "第1部"
+        "id": "48pg2qdu"
       },
       {
-        "id": "r3d5m4sz",
-        "title": "ワン・ミニット・ビフォア・ザ・タヌキ",
-        "arc": "第1部"
+        "id": "r3d5m4sz"
       }
     ],
     "skills": [
@@ -5258,34 +4960,22 @@
     ],
     "appearances": [
       {
-        "id": "bzmuc2m8",
-        "title": "バック・イン・ブラック",
-        "arc": "第1部"
+        "id": "kqp68e75"
       },
       {
-        "id": "g8cjaep2",
-        "title": "レイジ・アゲンスト・トーフ",
-        "arc": "第1部"
+        "id": "uduraffr"
       },
       {
-        "id": "60lvikkv",
-        "title": "サプライズド・ドージョー",
-        "arc": "第1部"
+        "id": "qad20i3w"
       },
       {
-        "id": "qhat4thc",
-        "title": "デッドムーン・オン・ザ・レッドスカイ",
-        "arc": "第1部"
+        "id": "t4llx7ft"
       },
       {
-        "id": "naqths7k",
-        "title": "ストレンジャー・ストレンジャー・ザン・フィクション",
-        "arc": "第1部"
+        "id": "v3fc0ycx"
       },
       {
-        "id": "w2yqllq6",
-        "title": "ネオサイタマ・イン・フレイム",
-        "arc": "第1部"
+        "id": "9lclsu2q"
       }
     ],
     "skills": [
@@ -5319,14 +5009,10 @@
     ],
     "appearances": [
       {
-        "id": "p0oo1nyt",
-        "title": "ネオサイタマ・イン・フレイム",
-        "arc": "第1部"
+        "id": "9lclsu2q"
       },
       {
-        "id": "1jlkovix",
-        "title": "バトルグラウンド・サツ・バツ",
-        "arc": "外伝"
+        "id": "vr3fq73p"
       }
     ],
     "skills": [
@@ -5357,14 +5043,10 @@
     ],
     "appearances": [
       {
-        "id": "yv1yfon9",
-        "title": "ネオサイタマ・イン・フレイム",
-        "arc": "第1部"
+        "id": "9lclsu2q"
       },
       {
-        "id": "p59bnq5q",
-        "title": "バトルグラウンド・サツ・バツ",
-        "arc": "外伝"
+        "id": "vr3fq73p"
       }
     ],
     "skills": [
@@ -5395,9 +5077,7 @@
     ],
     "appearances": [
       {
-        "id": "6nx9clsj",
-        "title": "ネオサイタマ・イン・フレイム",
-        "arc": "第1部"
+        "id": "9lclsu2q"
       }
     ],
     "skills": [
@@ -5431,9 +5111,7 @@
     ],
     "appearances": [
       {
-        "id": "7bf10zos",
-        "title": "ネオサイタマ・イン・フレイム",
-        "arc": "第1部"
+        "id": "9lclsu2q"
       }
     ],
     "skills": [
@@ -5464,9 +5142,7 @@
     ],
     "appearances": [
       {
-        "id": "6yhkp9o5",
-        "title": "ネオサイタマ・イン・フレイム",
-        "arc": "第1部"
+        "id": "9lclsu2q"
       }
     ],
     "skills": [
@@ -5496,19 +5172,13 @@
     ],
     "appearances": [
       {
-        "id": "emldpooo",
-        "title": "フィスト・フィルド・ウィズ・リグレット・アンド・オハギ",
-        "arc": "第1部"
+        "id": "qvshvm0c"
       },
       {
-        "id": "ers9iur3",
-        "title": "コンスピーラシィ・アポン・ザ・ブロークン・ブレイド",
-        "arc": "第1部"
+        "id": "tlibhtjh"
       },
       {
-        "id": "dc3dhr0q",
-        "title": "ストレンジャー・ストレンジャー・ザン・フィクション",
-        "arc": "第1部"
+        "id": "v3fc0ycx"
       }
     ],
     "skills": [
@@ -5538,24 +5208,16 @@
     ],
     "appearances": [
       {
-        "id": "cpmbwnte",
-        "title": "ニード・フォー・アナザー・クルセイド",
-        "arc": "第1部"
+        "id": "cpmbwnte"
       },
       {
-        "id": "0l2qmunn",
-        "title": "サプライズド・ドージョー",
-        "arc": "第1部"
+        "id": "qad20i3w"
       },
       {
-        "id": "6kjoaxq8",
-        "title": "ネオサイタマ・イン・フレイム",
-        "arc": "第1部"
+        "id": "9lclsu2q"
       },
       {
-        "id": "gogrsj04",
-        "title": "ハウンド・オブ・ニンジャ",
-        "arc": "第1部"
+        "id": "gogrsj04"
       }
     ],
     "skills": [
@@ -5585,9 +5247,7 @@
     ],
     "appearances": [
       {
-        "id": "zqxhdh7e",
-        "title": "ガイデッド・バイ・マサシ",
-        "arc": "第1部"
+        "id": "3cxcdqaf"
       }
     ],
     "skills": [
@@ -5620,9 +5280,7 @@
     ],
     "appearances": [
       {
-        "id": "vq6ytsoz",
-        "title": "ラスト・ガール・スタンディング",
-        "arc": "第1部"
+        "id": "fmmj8ad1"
       }
     ],
     "skills": [
@@ -5654,9 +5312,7 @@
     ],
     "appearances": [
       {
-        "id": "jx5eajyo",
-        "title": "デス・オブ・バタフライ",
-        "arc": "第1部"
+        "id": "jx5eajyo"
       }
     ],
     "skills": [
@@ -5686,9 +5342,7 @@
     ],
     "appearances": [
       {
-        "id": "rmsyxsd5",
-        "title": "メリークリスマス・ネオサイタマ",
-        "arc": "第1部"
+        "id": "zpm2lvo5"
       }
     ],
     "skills": [
@@ -5720,9 +5374,7 @@
     ],
     "appearances": [
       {
-        "id": "xltxlo86",
-        "title": "マシン・オブ・ヴェンジェンス",
-        "arc": "第1部"
+        "id": "acb9wyjb"
       }
     ],
     "skills": [
@@ -5751,9 +5403,7 @@
     ],
     "appearances": [
       {
-        "id": "tde9kneb",
-        "title": "キルゾーン・スモトリ",
-        "arc": "第1部"
+        "id": "tde9kneb"
       }
     ],
     "skills": [
@@ -5796,9 +5446,7 @@
     ],
     "appearances": [
       {
-        "id": "k99nm6ll",
-        "title": "アイス・クラッシュ",
-        "arc": "第1部"
+        "id": "k99nm6ll"
       }
     ],
     "skills": [
@@ -5829,14 +5477,10 @@
     ],
     "appearances": [
       {
-        "id": "w9uepaj5",
-        "title": "バック・イン・ブラック",
-        "arc": "第1部"
+        "id": "kqp68e75"
       },
       {
-        "id": "qs1ghuk5",
-        "title": "キックアウト・ザ・ニンジャ・マザーファッカー",
-        "arc": "第1部"
+        "id": "qs1ghuk5"
       }
     ],
     "skills": [
@@ -5864,9 +5508,7 @@
     ],
     "appearances": [
       {
-        "id": "e2bkomcy",
-        "title": "ストレンジャー・ストレンジャー・ザン・フィクション",
-        "arc": "第1話"
+        "id": "e2bkomcy"
       }
     ],
     "skills": [
@@ -5896,9 +5538,7 @@
     ],
     "appearances": [
       {
-        "id": "x6t1b1fr",
-        "title": "ゼロ・トレラント・サンスイ",
-        "arc": "第1部"
+        "id": "x6t1b1fr"
       }
     ],
     "skills": [
@@ -5928,9 +5568,7 @@
     ],
     "appearances": [
       {
-        "id": "f0psa406",
-        "title": "アトロシティ・イン・ネオサイタマシティ",
-        "arc": "第1部"
+        "id": "f0psa406"
       }
     ],
     "skills": [
@@ -5962,9 +5600,7 @@
     ],
     "appearances": [
       {
-        "id": "lnp1mmrk",
-        "title": "チャブドメイン・カーネイジ",
-        "arc": "第1部"
+        "id": "lnp1mmrk"
       }
     ],
     "skills": [
@@ -5994,9 +5630,7 @@
     ],
     "appearances": [
       {
-        "id": "625c0zgy",
-        "title": "バック・イン・ブラック",
-        "arc": "第1部"
+        "id": "kqp68e75"
       }
     ],
     "skills": [],
@@ -6049,9 +5683,7 @@
     ],
     "appearances": [
       {
-        "id": "a44ha73j",
-        "title": "ボーン・イン・レッド・ブラック",
-        "arc": "第1部"
+        "id": "wkq7s6ie"
       }
     ],
     "skills": [
@@ -6080,9 +5712,7 @@
     ],
     "appearances": [
       {
-        "id": "eu8lvdbd",
-        "title": "コンスピーラシィ・アポン・ザ・ブロークン・ブレイド",
-        "arc": "第1部"
+        "id": "tlibhtjh"
       }
     ],
     "skills": [
@@ -6116,14 +5746,10 @@
     ],
     "appearances": [
       {
-        "id": "op22vpoh",
-        "title": "ジ・アフターマス",
-        "arc": "第1部"
+        "id": "op22vpoh"
       },
       {
-        "id": "0ij95wkj",
-        "title": "トゥー・ファー・トゥー・ヒア・ユア・ハイク",
-        "arc": "第3部"
+        "id": "0ij95wkj"
       }
     ],
     "skills": [
@@ -6152,9 +5778,7 @@
     ],
     "appearances": [
       {
-        "id": "k3vo8c02",
-        "title": "ストレンジャー・ストレンジャー・ザン・フィクション",
-        "arc": "第1部"
+        "id": "v3fc0ycx"
       }
     ],
     "skills": [
@@ -6196,9 +5820,7 @@
     ],
     "appearances": [
       {
-        "id": "puvu8a4v",
-        "title": "モパイ・マスト・ダイ",
-        "arc": "第1部"
+        "id": "puvu8a4v"
       }
     ],
     "skills": [
@@ -6241,9 +5863,7 @@
     ],
     "appearances": [
       {
-        "id": "dvja1tul",
-        "title": "トレジャー・エヴリー・ミーティング",
-        "arc": "第1部"
+        "id": "orlfnv3l"
       }
     ],
     "skills": [
@@ -6273,9 +5893,7 @@
     ],
     "appearances": [
       {
-        "id": "21qoefb5",
-        "title": "バック・イン・ブラック",
-        "arc": "第1部"
+        "id": "kqp68e75"
       }
     ],
     "skills": [],
@@ -6326,9 +5944,7 @@
     ],
     "appearances": [
       {
-        "id": "uc0djqkh",
-        "title": "スワン・ソング・サング・バイ・ア・フェイデッド・クロウ",
-        "arc": "第1部"
+        "id": "uc0djqkh"
       }
     ],
     "skills": [
@@ -6359,14 +5975,10 @@
     ],
     "appearances": [
       {
-        "id": "g22njv54",
-        "title": "バック・イン・ブラック",
-        "arc": "第1部"
+        "id": "kqp68e75"
       },
       {
-        "id": "qxnycbye",
-        "title": "バトルグラウンド・サツ・バツ",
-        "arc": "外伝"
+        "id": "vr3fq73p"
       }
     ],
     "skills": [
@@ -6395,14 +6007,10 @@
     ],
     "appearances": [
       {
-        "id": "pa38fbc8",
-        "title": "バック・イン・ブラック",
-        "arc": "第1部"
+        "id": "kqp68e75"
       },
       {
-        "id": "qx91tgh2",
-        "title": "バトルグラウンド・サツ・バツ",
-        "arc": "外伝"
+        "id": "vr3fq73p"
       }
     ],
     "skills": [
@@ -6430,9 +6038,7 @@
     ],
     "appearances": [
       {
-        "id": "vckfggkw",
-        "title": "フジ・サン・ライジング",
-        "arc": "第1部"
+        "id": "zi9w4m1z"
       }
     ],
     "skills": [
@@ -6475,9 +6081,7 @@
     ],
     "appearances": [
       {
-        "id": "00e29gpz",
-        "title": "バック・イン・ブラック",
-        "arc": ""
+        "id": "00e29gpz"
       }
     ],
     "skills": [
@@ -6518,9 +6122,7 @@
     ],
     "appearances": [
       {
-        "id": "e6zr20iz",
-        "title": "ボーン・イン・レッド・ブラック",
-        "arc": "第1部"
+        "id": "wkq7s6ie"
       }
     ],
     "skills": [
@@ -6549,9 +6151,7 @@
     ],
     "appearances": [
       {
-        "id": "oj4bjtkn",
-        "title": "バック・イン・ブラック",
-        "arc": "第1部"
+        "id": "kqp68e75"
       }
     ],
     "skills": [
@@ -6580,9 +6180,7 @@
     ],
     "appearances": [
       {
-        "id": "2phn7min",
-        "title": "ユーレイ・ダンシング・オン・コンクリート・ハカバ",
-        "arc": "第1部"
+        "id": "48pg2qdu"
       }
     ],
     "skills": [
@@ -6612,14 +6210,10 @@
     ],
     "appearances": [
       {
-        "id": "36r3f52a",
-        "title": "ストレンジャー・ストレンジャー・ザン・フィクション",
-        "arc": "第1部"
+        "id": "v3fc0ycx"
       },
       {
-        "id": "tol8u4by",
-        "title": "バトルグラウンド・サツ・バツ",
-        "arc": "外伝"
+        "id": "vr3fq73p"
       }
     ],
     "skills": [
@@ -6673,9 +6267,7 @@
     ],
     "appearances": [
       {
-        "id": "rlx4hcpo",
-        "title": "ストレンジャー・ストレンジャー・ザン・フィクション",
-        "arc": "第1部"
+        "id": "v3fc0ycx"
       }
     ],
     "skills": [],
@@ -6727,9 +6319,7 @@
     ],
     "appearances": [
       {
-        "id": "sbw427wb",
-        "title": "デッドムーン・オン・ザ・レッドスカイ",
-        "arc": ""
+        "id": "sbw427wb"
       }
     ],
     "skills": [
@@ -6789,9 +6379,7 @@
     ],
     "appearances": [
       {
-        "id": "pmiianwi",
-        "title": "バック・イン・ブラック",
-        "arc": "第1部"
+        "id": "kqp68e75"
       }
     ],
     "skills": [
@@ -6820,9 +6408,7 @@
     ],
     "appearances": [
       {
-        "id": "fltn1imu",
-        "title": "バック・イン・ブラック",
-        "arc": "第1部"
+        "id": "kqp68e75"
       }
     ],
     "skills": [],
@@ -6848,9 +6434,7 @@
     ],
     "appearances": [
       {
-        "id": "wamwhszv",
-        "title": "ニード・フォー・アナザー・クルセイド",
-        "arc": "第1部"
+        "id": "cpmbwnte"
       }
     ],
     "skills": [
@@ -6903,9 +6487,7 @@
     ],
     "appearances": [
       {
-        "id": "0jifyeit",
-        "title": "バック・イン・ブラック",
-        "arc": "第1部"
+        "id": "kqp68e75"
       }
     ],
     "skills": [],
@@ -6932,9 +6514,7 @@
     ],
     "appearances": [
       {
-        "id": "cvjw4jl3",
-        "title": "ストレンジャー・ストレンジャー・ザン・フィクション",
-        "arc": "第1部"
+        "id": "v3fc0ycx"
       }
     ],
     "skills": [
@@ -6964,9 +6544,7 @@
     ],
     "appearances": [
       {
-        "id": "qd33dq1y",
-        "title": "バック・イン・ブラック",
-        "arc": ""
+        "id": "00e29gpz"
       }
     ],
     "skills": [
@@ -6996,19 +6574,13 @@
     ],
     "appearances": [
       {
-        "id": "3rbo5xaf",
-        "title": "ア・カインド・オブ・サツバツ・ナイト",
-        "arc": "第1部"
+        "id": "3rbo5xaf"
       },
       {
-        "id": "ls8y5smz",
-        "title": "ストレンジャー・ストレンジャー・ザン・フィクション",
-        "arc": "第1部"
+        "id": "v3fc0ycx"
       },
       {
-        "id": "mzc6v87c",
-        "title": "バトルグラウンド・サツ・バツ",
-        "arc": "外伝"
+        "id": "vr3fq73p"
       }
     ],
     "skills": [
@@ -7050,9 +6622,7 @@
     ],
     "appearances": [
       {
-        "id": "z6b3oc7v",
-        "title": "コンスピーラシィ・アポン・ザ・ブロークン・ブレイド",
-        "arc": "第1部"
+        "id": "tlibhtjh"
       }
     ],
     "skills": [
@@ -7081,9 +6651,7 @@
     ],
     "appearances": [
       {
-        "id": "gm7nxfzt",
-        "title": "スワン・ソング・サング・バイ・ア・フェイデッド・クロウ",
-        "arc": "第1部"
+        "id": "uc0djqkh"
       }
     ],
     "skills": [
@@ -7151,9 +6719,7 @@
     ],
     "appearances": [
       {
-        "id": "68uymlsl",
-        "title": "ストレンジャー・ストレンジャー・ザン・フィクション",
-        "arc": "第1部"
+        "id": "v3fc0ycx"
       }
     ],
     "skills": [],
@@ -7181,9 +6747,7 @@
     ],
     "appearances": [
       {
-        "id": "9afec573",
-        "title": "バック・イン・ブラック",
-        "arc": "第1部"
+        "id": "kqp68e75"
       }
     ],
     "skills": [
@@ -7212,9 +6776,7 @@
     ],
     "appearances": [
       {
-        "id": "2g0ptgz5",
-        "title": "ストレンジャー・ストレンジャー・ザン・フィクション",
-        "arc": "第1部"
+        "id": "v3fc0ycx"
       }
     ],
     "skills": [
@@ -7268,9 +6830,7 @@
     ],
     "appearances": [
       {
-        "id": "ka6kath5",
-        "title": "ブラック・ストライプス",
-        "arc": "第1部"
+        "id": "ka6kath5"
       }
     ],
     "skills": [
@@ -7314,9 +6874,7 @@
     ],
     "appearances": [
       {
-        "id": "b66fd6y7",
-        "title": "アット・ザ・トリーズナーズヴィル",
-        "arc": "第1部"
+        "id": "b66fd6y7"
       }
     ],
     "skills": [
@@ -7346,9 +6904,7 @@
     ],
     "appearances": [
       {
-        "id": "3nfe8975",
-        "title": "バック・イン・ブラック",
-        "arc": "第1部"
+        "id": "kqp68e75"
       }
     ],
     "skills": [
@@ -7377,9 +6933,7 @@
     ],
     "appearances": [
       {
-        "id": "hfun4jkl",
-        "title": "コンスピーラシィ・アポン・ザ・ブロークン・ブレイド」",
-        "arc": "第1部"
+        "id": "hfun4jkl"
       }
     ],
     "skills": [
@@ -7410,9 +6964,7 @@
     ],
     "appearances": [
       {
-        "id": "9y33gynx",
-        "title": "バック・イン・ブラック",
-        "arc": "第1部"
+        "id": "kqp68e75"
       }
     ],
     "skills": [],
@@ -7456,9 +7008,7 @@
     ],
     "appearances": [
       {
-        "id": "37xaoefv",
-        "title": "ザ・フォーチュン・テラー",
-        "arc": "第1部"
+        "id": "37xaoefv"
       }
     ],
     "skills": [
@@ -7488,9 +7038,7 @@
     ],
     "appearances": [
       {
-        "id": "xebveoef",
-        "title": "デストロイ・ザ・ショーギ・バスタード",
-        "arc": "第1部"
+        "id": "xebveoef"
       }
     ],
     "skills": [
@@ -7519,9 +7067,7 @@
     ],
     "appearances": [
       {
-        "id": "slo3ghfu",
-        "title": "ゼロ・トレラント・サンスイ",
-        "arc": "第1部"
+        "id": "x6t1b1fr"
       }
     ],
     "skills": [
@@ -7551,9 +7097,7 @@
     ],
     "appearances": [
       {
-        "id": "wda75pmi",
-        "title": "ボーン・イン・レッド・ブラック",
-        "arc": ""
+        "id": "wda75pmi"
       }
     ],
     "skills": [
@@ -7599,9 +7143,7 @@
     ],
     "appearances": [
       {
-        "id": "1rx3976q",
-        "title": "バック・イン・ブラック",
-        "arc": "第1部"
+        "id": "kqp68e75"
       }
     ],
     "skills": [
@@ -7630,9 +7172,7 @@
     ],
     "appearances": [
       {
-        "id": "1keocgtx",
-        "title": "バック・イン・ブラック",
-        "arc": "第1部"
+        "id": "kqp68e75"
       }
     ],
     "skills": [
@@ -7663,9 +7203,7 @@
     ],
     "appearances": [
       {
-        "id": "4jkfmcn1",
-        "title": "ア・カインド・オブ・サツバツ・ナイト",
-        "arc": "第1部"
+        "id": "3rbo5xaf"
       }
     ],
     "skills": [
@@ -12129,9 +11667,7 @@
     ],
     "appearances": [
       {
-        "id": "9udapkti",
-        "title": "ニチョーム・ウォー",
-        "arc": "第3部"
+        "id": "2v6e48gz"
       }
     ],
     "skills": [
@@ -14013,14 +13549,10 @@
     "organizations": [],
     "appearances": [
       {
-        "id": "4heg67na",
-        "title": "ストレンジャー・ストレンジャー・ザン・フィクション",
-        "arc": "第1部"
+        "id": "v3fc0ycx"
       },
       {
-        "id": "hjuspj1u",
-        "title": "ネオサイタマ・イン・フレイム",
-        "arc": "第1部"
+        "id": "9lclsu2q"
       }
     ],
     "skills": [],
@@ -14078,70 +13610,43 @@
     ],
     "appearances": [
       {
-        "id": "2o8xbo3c",
-        "title": "デッドムーン・オン・ザ・レッドスカイ",
-        "arc": "第1部"
+        "id": "t4llx7ft"
       },
       {
-        "id": "n18b20ae",
-        "title": "キックスタート・ア・ニュー・デイ",
-        "arc": "第2部"
+        "id": "n18b20ae"
       },
       {
-        "id": "quhs4c2s",
-        "title": "ウェルカム・トゥ・ネオサイタマ",
-        "arc": "第2部"
+        "id": "9j0jnn2l"
       },
       {
-        "id": "cc57v76p",
-        "title": "オン・ジ・エッジ・オブ・ザ・ホイール・オブ・ブルータル・フェイト",
-        "arc": "第2部"
+        "id": "cc57v76p"
       },
       {
-        "id": "68q536wv",
-        "title": "シルバー・シュライン・ライク・ア・バレット",
-        "arc": "第2部"
+        "id": "68q536wv"
       },
       {
-        "id": "tqlc7ayk",
-        "title": "シージ・トゥ・ザ・スリーピング・ビューティー",
-        "arc": "第2部"
+        "id": "tqlc7ayk"
       },
       {
-        "id": "oer10ykn",
-        "title": "リブート、レイヴン",
-        "arc": "第2部"
+        "id": "oer10ykn"
       },
       {
-        "id": "5yxs7jbc",
-        "title": "ファスト・アズ・ライトニング、コールド・アズ・ウインター",
-        "arc": "第3部"
+        "id": "5yxs7jbc"
       },
       {
-        "id": "zqv40ass",
-        "title": "マグロ・サンダーボルト",
-        "arc": "第3部"
+        "id": "zqv40ass"
       },
       {
-        "id": "2vw5k6fv",
-        "title": "トゥー・レイト・フォー・インガオホー",
-        "arc": "第3部"
+        "id": "2vw5k6fv"
       },
       {
-        "id": "ryr9czzl",
-        "title": "フォロウ・ザ・コールド・ヒート・シマーズ",
-        "arc": "第3部"
+        "id": "ryr9czzl"
       },
       {
-        "id": "cgyfezlr",
-        "title": "メニイ・オア・ワン",
-        "arc": "第3部"
+        "id": "rwd4t44a"
       },
       {
-        "id": "s4mh83b0",
-        "title": "デッド！　デダー・ザン・デッド！",
-        "arc": "第4部",
-        "season": 1
+        "id": "1rdmzslz"
       }
     ],
     "skills": [],
@@ -14177,141 +13682,82 @@
     ],
     "appearances": [
       {
-        "id": "muf7g4wb",
-        "title": "ラスト・ガール・スタンディング",
-        "arc": "第1部"
+        "id": "fmmj8ad1"
       },
       {
-        "id": "9783k1pu",
-        "title": "スワン・ソング・サング・バイ・ア・フェイデッド・クロウ",
-        "arc": "第1部"
+        "id": "uc0djqkh"
       },
       {
-        "id": "vmkrxmbu",
-        "title": "トレジャー・エヴリー・ミーティング",
-        "arc": "第1部"
+        "id": "orlfnv3l"
       },
       {
-        "id": "5dwtcedl",
-        "title": "キックスタート・ア・ニュー・デイ",
-        "arc": "第2部"
+        "id": "n18b20ae"
       },
       {
-        "id": "29kjj569",
-        "title": "ウェルカム・トゥ・ネオサイタマ",
-        "arc": "第2部"
+        "id": "9j0jnn2l"
       },
       {
-        "id": "8hejs1x6",
-        "title": "ウェイティング・フォー・マイ・ニンジャ",
-        "arc": "第2部"
+        "id": "8hejs1x6"
       },
       {
-        "id": "idr06hqf",
-        "title": "シルバー・シュライン・ライク・ア・バレット",
-        "arc": "第2部"
+        "id": "68q536wv"
       },
       {
-        "id": "yuqyqixd",
-        "title": "フィジシャン、ヒール・ユアセルフ",
-        "arc": "第2部"
+        "id": "fwq12d1u"
       },
       {
-        "id": "yvei9keq",
-        "title": "シージ・トゥ・ザ・スリーピング・ビューティー",
-        "arc": "第2部"
+        "id": "tqlc7ayk"
       },
       {
-        "id": "wqkmx1ik",
-        "title": "リブート、レイヴン",
-        "arc": "第2部"
+        "id": "oer10ykn"
       },
       {
-        "id": "fr2m6cis",
-        "title": "サツバツ・ナイト・バイ・ナイト",
-        "arc": "第3部"
+        "id": "st6b9q7x"
       },
       {
-        "id": "sk8osmmk",
-        "title": "デス・トラップ、スーサイド・ラップ",
-        "arc": "第3部"
+        "id": "qeenefau"
       },
       {
-        "id": "ntsgihe9",
-        "title": "ニチョーム・ウォー……ビギニング",
-        "arc": "第3部"
+        "id": "yg4p8qly"
       },
       {
-        "id": "a5aiu21s",
-        "title": "ショック・トゥ・ザ・システム",
-        "arc": "第3部"
+        "id": "a5aiu21s"
       },
       {
-        "id": "gd4fxxsf",
-        "title": "フェアウェル・マイ・シャドウ",
-        "arc": "第3部"
+        "id": "yrr4132n"
       },
       {
-        "id": "8tcuv6yp",
-        "title": "ニチョーム・ウォー",
-        "arc": "第3部"
+        "id": "2v6e48gz"
       },
       {
-        "id": "nzwyb1xq",
-        "title": "ニチョーム・オヒガン・ロックアウト",
-        "arc": "第3部"
+        "id": "nzwyb1xq"
       },
       {
-        "id": "vztxdir4",
-        "title": "アンヴェイル・ザ・トレイル",
-        "arc": "第3部"
+        "id": "vztxdir4"
       },
       {
-        "id": "aufw5w39",
-        "title": "ニンジャスレイヤー：ネヴァーダイズ",
-        "arc": "第3部"
+        "id": "8r8ibb8m"
       },
       {
-        "id": "60ccznjz",
-        "title": "デッド！　デダー・ザン・デッド！",
-        "arc": "第4部",
-        "season": 1
+        "id": "1rdmzslz"
       },
       {
-        "id": "njhe6wz9",
-        "title": "フォ・フーム・ザ・ベル・トールズ",
-        "arc": "第4部",
-        "season": 1
+        "id": "njhe6wz9"
       },
       {
-        "id": "2ng3zl8s",
-        "title": "ヨロシサン・エクスプレス",
-        "arc": "第4部",
-        "season": 3
+        "id": "2ng3zl8s"
       },
       {
-        "id": "umufyew6",
-        "title": "ビフォア・ジ・エンド・オブ・ザ・ライン",
-        "arc": "第4部",
-        "season": 3
+        "id": "umufyew6"
       },
       {
-        "id": "8m0jzogt",
-        "title": "カレイドスコープ・オブ・ケオス",
-        "arc": "第4部",
-        "season": 3
+        "id": "8m0jzogt"
       },
       {
-        "id": "1zhd7uhd",
-        "title": "タイラント・オブ・マッポーカリプス",
-        "arc": "第4部",
-        "season": 3
+        "id": "2ro7dlra"
       },
       {
-        "id": "v11nwxpk",
-        "title": "クエスト・フォー・ヨモガハマ",
-        "arc": "第4部",
-        "season": 4
+        "id": "emcygtsj"
       }
     ],
     "skills": [
@@ -14361,29 +13807,19 @@
     ],
     "appearances": [
       {
-        "id": "z7uztu9e",
-        "title": "バック・イン・ブラック",
-        "arc": "第1部"
+        "id": "kqp68e75"
       },
       {
-        "id": "44101bhf",
-        "title": "キックアウト・ザ・ニンジャ・マザーファッカー",
-        "arc": "第1部"
+        "id": "qs1ghuk5"
       },
       {
-        "id": "12ygsrzo",
-        "title": "サプライズド・ドージョー",
-        "arc": "第1部"
+        "id": "qad20i3w"
       },
       {
-        "id": "kyoxsvhv",
-        "title": "ジ・アフターマス",
-        "arc": "第1部"
+        "id": "op22vpoh"
       },
       {
-        "id": "6j3u6srn",
-        "title": "メナス・オブ・ダークニンジャ",
-        "arc": "第1部"
+        "id": "w6ccm5qg"
       }
     ],
     "skills": [
@@ -14458,60 +13894,37 @@
     ],
     "appearances": [
       {
-        "id": "9a7q6o48",
-        "title": "グランス・オブ・マザーカース",
-        "arc": "第1部"
+        "id": "9a7q6o48"
       },
       {
-        "id": "feqikocu",
-        "title": "ストレンジャー・ストレンジャー・ザン・フィクション",
-        "arc": "第1部"
+        "id": "v3fc0ycx"
       },
       {
-        "id": "js9ejlo6",
-        "title": "ブレードヤクザ・ヴェイカント・ヴェンジェンス",
-        "arc": "第2部"
+        "id": "js9ejlo6"
       },
       {
-        "id": "3zn1rjr5",
-        "title": "アウェイクニング・イン・ジ・アビス",
-        "arc": "第2部"
+        "id": "3zn1rjr5"
       },
       {
-        "id": "6o0erlqp",
-        "title": "ディフュージョン・アキュミュレイション・リボーン・ディストラクション",
-        "arc": "第2部"
+        "id": "6o0erlqp"
       },
       {
-        "id": "quygr0n2",
-        "title": "シージ・トゥ・ザ・スリーピング・ビューティー",
-        "arc": "第2部"
+        "id": "tqlc7ayk"
       },
       {
-        "id": "g01g2lf0",
-        "title": "ザ・マン・フー・カムズ・トゥ・スラム・ザ・リジグネイション",
-        "arc": "第2部"
+        "id": "g01g2lf0"
       },
       {
-        "id": "54yw7ru2",
-        "title": "キョート・ヘル・オン・アース",
-        "arc": "第2部"
+        "id": "12ml6hmz"
       },
       {
-        "id": "7ngj3zv7",
-        "title": "ダークサイド・オブ・ザ・ムーン",
-        "arc": "第3部"
+        "id": "7ngj3zv7"
       },
       {
-        "id": "zuvwg5gm",
-        "title": "ニンジャスレイヤー：ネヴァーダイズ",
-        "arc": "第3部"
+        "id": "8r8ibb8m"
       },
       {
-        "id": "0u9lh1lc",
-        "title": "ウィア・スラッツ、チープ・プロダクツ、イン・サム・ニンジャズ・ノートブック",
-        "arc": "第4部",
-        "season": 1
+        "id": "0u9lh1lc"
       }
     ],
     "skills": [
@@ -15126,29 +14539,19 @@
     ],
     "appearances": [
       {
-        "id": "tzqlwaj9",
-        "title": "アジェンダ・ディセント",
-        "arc": "第1部"
+        "id": "e4pwggow"
       },
       {
-        "id": "dawsncb4",
-        "title": "アポカリプス・インサイド・テインティッド・ソイル",
-        "arc": "第1部"
+        "id": "dawsncb4"
       },
       {
-        "id": "i2m2d6p4",
-        "title": "ウェルカム・トゥ・ネオサイタマ",
-        "arc": "第2部"
+        "id": "9j0jnn2l"
       },
       {
-        "id": "ylo3xc43",
-        "title": "スリー・ダーティー・ニンジャボンド",
-        "arc": "第2部"
+        "id": "ot4lpixl"
       },
       {
-        "id": "055lccdl",
-        "title": "オペレイション・レスキュー",
-        "arc": "第2部"
+        "id": "gb8b6euf"
       }
     ],
     "skills": [
@@ -15180,19 +14583,13 @@
     ],
     "appearances": [
       {
-        "id": "lpmnktd6",
-        "title": "アジェンダ・ディセント",
-        "arc": "第1部"
+        "id": "e4pwggow"
       },
       {
-        "id": "tqo0vcng",
-        "title": "アポカリプス・インサイド・テインティッド・ソイル",
-        "arc": "第1部"
+        "id": "dawsncb4"
       },
       {
-        "id": "rufd0za5",
-        "title": "ワン・ミニット・ビフォア・ザ・タヌキ",
-        "arc": "第1部"
+        "id": "r3d5m4sz"
       }
     ],
     "skills": [
@@ -15241,9 +14638,7 @@
     ],
     "appearances": [
       {
-        "id": "wtpd3xrt",
-        "title": "アジェンダ・ディセント",
-        "arc": "第1部"
+        "id": "e4pwggow"
       }
     ],
     "skills": [
@@ -15282,44 +14677,28 @@
     ],
     "appearances": [
       {
-        "id": "6cuzd8gw",
-        "title": "アット・ザ・トリーズナーズヴィル",
-        "arc": "第1部"
+        "id": "b66fd6y7"
       },
       {
-        "id": "gfdpfq4k",
-        "title": "エヴァー・フェルト・チーティド",
-        "arc": "第1部"
+        "id": "gfdpfq4k"
       },
       {
-        "id": "nghu0pwd",
-        "title": "ビガー・ケージズ、ロンガー・チェインズ",
-        "arc": "第2部"
+        "id": "nghu0pwd"
       },
       {
-        "id": "scuwo3lg",
-        "title": "キョート・ヘル・オン・アース",
-        "arc": "第2部"
+        "id": "12ml6hmz"
       },
       {
-        "id": "mwyj5pg2",
-        "title": "デス・トラップ、スーサイド・ラップ",
-        "arc": "第3部"
+        "id": "qeenefau"
       },
       {
-        "id": "k3b94l01",
-        "title": "ショック・トゥ・ザ・システム",
-        "arc": "第3部"
+        "id": "a5aiu21s"
       },
       {
-        "id": "0ehwfher",
-        "title": "アンヴェイル・ザ・トレイル",
-        "arc": "第3部"
+        "id": "vztxdir4"
       },
       {
-        "id": "81a40cxs",
-        "title": "ニンジャスレイヤー：ネヴァーダイズ",
-        "arc": "第3部"
+        "id": "8r8ibb8m"
       }
     ],
     "skills": [],
@@ -15347,29 +14726,19 @@
     ],
     "appearances": [
       {
-        "id": "y9j264iq",
-        "title": "スシ・ナイト・アット・ザ・バリケード",
-        "arc": "第1部"
+        "id": "y9j264iq"
       },
       {
-        "id": "xgpslq48",
-        "title": "アット・ザ・トリーズナーズヴィル",
-        "arc": "第1部"
+        "id": "b66fd6y7"
       },
       {
-        "id": "g5gux45j",
-        "title": "エヴァー・フェルト・チーティド",
-        "arc": "第1部"
+        "id": "gfdpfq4k"
       },
       {
-        "id": "9qrem9p0",
-        "title": "ビガー・ケージズ、ロンガー・チェインズ",
-        "arc": "第2部"
+        "id": "nghu0pwd"
       },
       {
-        "id": "wbfhbzoh",
-        "title": "シャドー・コン",
-        "arc": "第2部"
+        "id": "wbfhbzoh"
       }
     ],
     "skills": [
@@ -15399,19 +14768,13 @@
     ],
     "appearances": [
       {
-        "id": "8e5sucr4",
-        "title": "アット・ザ・トリーズナーズヴィル",
-        "arc": "第1部"
+        "id": "b66fd6y7"
       },
       {
-        "id": "ixlymv7m",
-        "title": "ビガー・ケージズ、ロンガー・チェインズ",
-        "arc": "第2部"
+        "id": "nghu0pwd"
       },
       {
-        "id": "0rdbo5t6",
-        "title": "オイランドロイド・アンド・アンドロイド",
-        "arc": "第3部"
+        "id": "0rdbo5t6"
       }
     ],
     "skills": [
@@ -15476,9 +14839,7 @@
     ],
     "appearances": [
       {
-        "id": "s5abrw4o",
-        "title": "アット・ザ・トリーズナーズヴィル",
-        "arc": "第1部"
+        "id": "b66fd6y7"
       }
     ],
     "skills": [
@@ -15520,9 +14881,7 @@
     ],
     "appearances": [
       {
-        "id": "lmyr4gpu",
-        "title": "エヴァー・フェルト・チーティド",
-        "arc": "第1部"
+        "id": "gfdpfq4k"
       }
     ],
     "skills": [
@@ -15553,9 +14912,7 @@
     ],
     "appearances": [
       {
-        "id": "p7qyq1g2",
-        "title": "スシ・ナイト・アット・ザ・バリケード",
-        "arc": "第1部"
+        "id": "y9j264iq"
       }
     ],
     "skills": [
@@ -15586,9 +14943,7 @@
     ],
     "appearances": [
       {
-        "id": "6fvx75hi",
-        "title": "ネクロマンティック・フィードバック",
-        "arc": "第1部"
+        "id": "xl6ufucq"
       }
     ],
     "skills": [
@@ -15619,9 +14974,7 @@
     ],
     "appearances": [
       {
-        "id": "jlfziaue",
-        "title": "デッドムーン・オン・ザ・レッドスカイ",
-        "arc": ""
+        "id": "sbw427wb"
       }
     ],
     "skills": [
@@ -15653,65 +15006,40 @@
     ],
     "appearances": [
       {
-        "id": "c1e89inz",
-        "title": "ネクロマンティック・フィードバック",
-        "arc": "第1部"
+        "id": "xl6ufucq"
       },
       {
-        "id": "wf5bed8y",
-        "title": "トレジャー・エヴリー・ミーティング",
-        "arc": "第1部"
+        "id": "orlfnv3l"
       },
       {
-        "id": "9dc7g6t8",
-        "title": "ネオサイタマ・イン・フレイム",
-        "arc": "第1部"
+        "id": "9lclsu2q"
       },
       {
-        "id": "swi7emyn",
-        "title": "ウェルカム・トゥ・ネオサイタマ",
-        "arc": "第2部"
+        "id": "9j0jnn2l"
       },
       {
-        "id": "w1fu608s",
-        "title": "ゲイシャ・カラテ・シンカンセン・アンド・ヘル",
-        "arc": "第2部"
+        "id": "w1fu608s"
       },
       {
-        "id": "wyzu3nvc",
-        "title": "スリー・ダーティー・ニンジャボンド",
-        "arc": "第2部"
+        "id": "ot4lpixl"
       },
       {
-        "id": "bwc9p5jh",
-        "title": "リターン・ザ・ギフト",
-        "arc": "第2部"
+        "id": "w0ir764o"
       },
       {
-        "id": "2pl20n72",
-        "title": "アナザー・ユーレイ・バイ・ザ・ウィーピング・ウィロウ",
-        "arc": "第3部"
+        "id": "2pl20n72"
       },
       {
-        "id": "m7ldwmab",
-        "title": "ウィアード・ワンダラー・アンド・ワイアード・ウィッチ",
-        "arc": "第3部"
+        "id": "m7ldwmab"
       },
       {
-        "id": "v0n9obte",
-        "title": "アンダーワールド・レフュージ",
-        "arc": "第3部"
+        "id": "f0q6hbvy"
       },
       {
-        "id": "lakrwssb",
-        "title": "ニンジャスレイヤー：ネヴァーダイズ",
-        "arc": "第3部"
+        "id": "8r8ibb8m"
       },
       {
-        "id": "awdmg7d8",
-        "title": "デッド！　デダー・ザン・デッド！",
-        "arc": "第4部",
-        "season": 1
+        "id": "1rdmzslz"
       }
     ],
     "skills": [
@@ -16503,19 +15831,13 @@
     ],
     "appearances": [
       {
-        "id": "9f861bk0",
-        "title": "ブレードヤクザ・ヴェイカント・ヴェンジェンス",
-        "arc": "第2部"
+        "id": "js9ejlo6"
       },
       {
-        "id": "0pifwo7m",
-        "title": "グランス・オブ・マザーカース",
-        "arc": "第1部"
+        "id": "9a7q6o48"
       },
       {
-        "id": "chlihup4",
-        "title": "キョート・ヘル・オン・アース",
-        "arc": "第2部"
+        "id": "12ml6hmz"
       }
     ],
     "skills": [
@@ -16602,9 +15924,7 @@
     ],
     "appearances": [
       {
-        "id": "qviwrcmq",
-        "title": "バイオテック・イズ・チュパカブラ",
-        "arc": "第1部"
+        "id": "m1uefv3f"
       }
     ],
     "skills": [
@@ -16634,19 +15954,13 @@
     ],
     "appearances": [
       {
-        "id": "vnhzwml6",
-        "title": "デイ・オブ・ザ・ロブスター",
-        "arc": "第1部"
+        "id": "vnhzwml6"
       },
       {
-        "id": "631a6gfp",
-        "title": "デイ・オブ・ザ・ロブスター2",
-        "arc": "第1部"
+        "id": "631a6gfp"
       },
       {
-        "id": "w1iu2r5k",
-        "title": "デイ・オブ・ザ・ロブスター3",
-        "arc": "第2部"
+        "id": "w1iu2r5k"
       }
     ],
     "skills": [
@@ -16701,9 +16015,7 @@
     "organizations": [],
     "appearances": [
       {
-        "id": "qg4pc9zo",
-        "title": "スワン・ソング・サング・バイ・ア・フェイデッド・クロウ",
-        "arc": "第1部"
+        "id": "uc0djqkh"
       }
     ],
     "skills": [
@@ -16942,44 +16254,28 @@
     ],
     "appearances": [
       {
-        "id": "rmydzece",
-        "title": "メリークリスマス・ネオサイタマ",
-        "arc": "第1部"
+        "id": "zpm2lvo5"
       },
       {
-        "id": "qhp0ncjm",
-        "title": "カタナ・ソード・アンド・オイラン・ソーサリー",
-        "arc": "第1部"
+        "id": "qhp0ncjm"
       },
       {
-        "id": "fu1oie9v",
-        "title": "ネオサイタマ・イン・フレイム",
-        "arc": "第1部"
+        "id": "9lclsu2q"
       },
       {
-        "id": "n8s7q4yb",
-        "title": "リブート、レイヴン",
-        "arc": "第2部"
+        "id": "oer10ykn"
       },
       {
-        "id": "nfestgyz",
-        "title": "オイランドロイド・アンド・アンドロイド",
-        "arc": "第3部"
+        "id": "0rdbo5t6"
       },
       {
-        "id": "xyi4nw8g",
-        "title": "レガシーズ・オブ・メガトリイ",
-        "arc": "第3部"
+        "id": "xyi4nw8g"
       },
       {
-        "id": "kwxxg45l",
-        "title": "ショック・トゥ・ザ・システム",
-        "arc": "第3部"
+        "id": "a5aiu21s"
       },
       {
-        "id": "5luxn4sc",
-        "title": "ニンジャスレイヤー：ネヴァーダイズ",
-        "arc": "第3部"
+        "id": "8r8ibb8m"
       }
     ],
     "skills": [],
@@ -17127,9 +16423,7 @@
     ],
     "appearances": [
       {
-        "id": "r6mvy66h",
-        "title": "スワン・ソング・サング・バイ・ア・フェイデッド・クロウ",
-        "arc": "第1部"
+        "id": "uc0djqkh"
       }
     ],
     "skills": [
@@ -17159,9 +16453,7 @@
     ],
     "appearances": [
       {
-        "id": "tyxb4i2k",
-        "title": "スワン・ソング・サング・バイ・ア・フェイデッド・クロウ",
-        "arc": "第1部"
+        "id": "uc0djqkh"
       }
     ],
     "skills": [
@@ -17544,9 +16836,7 @@
     ],
     "appearances": [
       {
-        "id": "voa5unux",
-        "title": "ア・カインド・オブ・サツバツ・ナイト",
-        "arc": "第1部"
+        "id": "3rbo5xaf"
       }
     ],
     "skills": [],
@@ -18371,34 +17661,22 @@
     ],
     "appearances": [
       {
-        "id": "q0opqpd8",
-        "title": "マシン・オブ・ヴェンジェンス",
-        "arc": "第1部"
+        "id": "acb9wyjb"
       },
       {
-        "id": "7orkjubb",
-        "title": "モータル・ニンジャ・レジスター",
-        "arc": "第2部"
+        "id": "7orkjubb"
       },
       {
-        "id": "d6eo1dkg",
-        "title": "ガントレット・ウィズ・フューリー",
-        "arc": "第2部"
+        "id": "d6eo1dkg"
       },
       {
-        "id": "9iwuv5sd",
-        "title": "キョート・ヘル・オン・アース",
-        "arc": "第2部"
+        "id": "12ml6hmz"
       },
       {
-        "id": "t2l0ugzn",
-        "title": "バトルクエスト・クレンチ・ユア・フィスト",
-        "arc": "第3部"
+        "id": "t2l0ugzn"
       },
       {
-        "id": "xh9n74xs",
-        "title": "グラウンド・ゼロ、デス・ヴァレイ・オブ・センジン",
-        "arc": "第3部"
+        "id": "xh9n74xs"
       }
     ],
     "skills": [],
@@ -18843,34 +18121,22 @@
     "organizations": [],
     "appearances": [
       {
-        "id": "0qyay51x",
-        "title": "ネオサイタマ・イン・フレイム",
-        "arc": "第1部"
+        "id": "9lclsu2q"
       },
       {
-        "id": "tkcxvfyt",
-        "title": "カース・オブ・エンシェント・カンジ、オア・ザ・シークレット・オブ・ダークニンジャ・ソウル",
-        "arc": "第2部"
+        "id": "q0zjg8rk"
       },
       {
-        "id": "juqeqg0x",
-        "title": "アウェイクニング・イン・ジ・アビス",
-        "arc": "第2部"
+        "id": "3zn1rjr5"
       },
       {
-        "id": "6tm1bxbb",
-        "title": "ドゥームズデイ・ディヴァイス",
-        "arc": "第2部"
+        "id": "rujnq8bg"
       },
       {
-        "id": "t4m7hei5",
-        "title": "トビゲリ・ヴァーサス・アムニジア",
-        "arc": "第2部"
+        "id": "t4m7hei5"
       },
       {
-        "id": "ailw2idk",
-        "title": "キョート・ヘル・オン・アース",
-        "arc": "第2部"
+        "id": "12ml6hmz"
       }
     ],
     "skills": [
@@ -18898,24 +18164,16 @@
     "organizations": [],
     "appearances": [
       {
-        "id": "emybexa6",
-        "title": "コンスピーラシィ・アポン・ザ・ブロークン・ブレイド",
-        "arc": "第1部"
+        "id": "tlibhtjh"
       },
       {
-        "id": "73aol9c0",
-        "title": "ネオサイタマ・イン・フレイム",
-        "arc": "第1部"
+        "id": "9lclsu2q"
       },
       {
-        "id": "9r474ypv",
-        "title": "カース・オブ・エンシェント・カンジ、オア・ザ・シークレット・オブ・ダークニンジャ・ソウル",
-        "arc": "第2部"
+        "id": "q0zjg8rk"
       },
       {
-        "id": "zo2n9a6t",
-        "title": "アウェイクニング・イン・ジ・アビス",
-        "arc": "第2部"
+        "id": "3zn1rjr5"
       }
     ],
     "skills": [

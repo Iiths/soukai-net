@@ -2,10 +2,11 @@ import { useState, useEffect, useCallback } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { Ninja, NinjaType, NINJA_TYPES } from '../../../domain/entities/Ninja';
 import { NinjaSoul, NinjaSoulGrade, NINJA_SOUL_GRADES } from '../../../domain/entities/NinjaSoul';
-import { Episode } from '../../../domain/entities/Episode';
+import { Episode, EpisodeRef } from '../../../domain/entities/Episode';
 import { Organization } from '../../../domain/entities/Organization';
 import { GetNinjaDetailUseCase } from '../../../usecases/GetNinjaDetailUseCase';
 import { JsonNinjaRepository } from '../../../infrastructure/repositories/JsonNinjaRepository';
+import { JsonEpisodeRepository } from '../../../infrastructure/repositories/JsonEpisodeRepository';
 import { useNinjaEditContext } from '../../context/NinjaEditContext';
 import styles from './NinjaEditPage.module.css';
 
@@ -15,28 +16,30 @@ function genId() {
   return Math.random().toString(36).slice(2, 10);
 }
 
-function emptyEpisode(): Episode {
-  return { id: genId(), title: '', arc: '', season: undefined };
-}
-
 function emptyOrg(): Organization {
   return { id: genId(), name: '' };
 }
 
 // ---- フォームの内部ステート型 ----
-// Ninja型をそのまま使う。ninjaSoulのみ「持っているか」のフラグを別管理
+// appearances はフォーム編集用に完全な Episode[] を使う
+// 保存時に EpisodeRef[] へ変換する
 
-interface FormState extends Ninja {
+interface FormState extends Omit<Ninja, 'appearances'> {
   _hasSoul: boolean;
+  appearances: Episode[]; // 編集中は完全なエピソード情報を保持
 }
 
-function ninjaToForm(ninja: Ninja): FormState {
+function ninjaToForm(ninja: Ninja, episodeMap: Map<string, Episode>): FormState {
+  const episodes = ninja.appearances
+    .map((ref) => episodeMap.get(ref.id))
+    .filter((ep): ep is Episode => ep !== undefined);
+
   return {
     ...ninja,
     aliases: ninja.aliases ?? [],
     skills: ninja.skills ?? [],
     organizations: ninja.organizations ?? [],
-    appearances: ninja.appearances ?? [],
+    appearances: episodes,
     ninjaSoul: ninja.ninjaSoul ?? {
       id: genId(),
       name: '',
@@ -49,11 +52,12 @@ function ninjaToForm(ninja: Ninja): FormState {
 }
 
 function formToNinja(form: FormState): Ninja {
-  const { _hasSoul, ...ninjaFields } = form;
+  const { _hasSoul, appearances, ...ninjaFields } = form;
+  const episodeRefs: EpisodeRef[] = appearances.map((ep) => ({ id: ep.id }));
   return {
     ...ninjaFields,
+    appearances: episodeRefs,
     ninjaSoul: _hasSoul ? form.ninjaSoul : undefined,
-    // 空文字のオプショナルフィールドを undefined に戻す
     realName: form.realName?.trim() || undefined,
     role: form.role?.trim() || undefined,
     appearance: form.appearance?.trim() || undefined,
@@ -63,7 +67,6 @@ function formToNinja(form: FormState): Ninja {
     aliases: form.aliases?.filter(a => a.trim()) ?? [],
     skills: form.skills?.filter(s => s.trim()) ?? [],
     organizations: form.organizations?.filter(o => o.name.trim()) ?? [],
-    appearances: form.appearances?.filter(e => e.title.trim()) ?? [],
   };
 }
 
@@ -75,23 +78,31 @@ export function NinjaEditPage() {
   const { getOverride, saveOverride, overrideCount, downloadNinjas } = useNinjaEditContext();
 
   const [form, setForm] = useState<FormState | null>(null);
+  const [allEpisodes, setAllEpisodes] = useState<Episode[]>([]);
   const [isLoading, setIsLoading] = useState(true);
   const [saved, setSaved] = useState(false);
   const [downloading, setDownloading] = useState(false);
+  const [episodeSearch, setEpisodeSearch] = useState('');
 
   useEffect(() => {
     const load = async () => {
       setIsLoading(true);
       try {
-        const override = getOverride(id);
-        if (override) {
-          setForm(ninjaToForm(override));
-          return;
-        }
-        const repo = new JsonNinjaRepository();
-        const useCase = new GetNinjaDetailUseCase(repo);
-        const ninja = await useCase.execute(id);
-        setForm(ninja ? ninjaToForm(ninja) : null);
+        const episodeRepo = new JsonEpisodeRepository();
+        const [allEps, ninja] = await Promise.all([
+          episodeRepo.findAll(),
+          (async () => {
+            const override = getOverride(id);
+            if (override) return override;
+            const repo = new JsonNinjaRepository();
+            const useCase = new GetNinjaDetailUseCase(repo);
+            return await useCase.execute(id);
+          })(),
+        ]);
+
+        setAllEpisodes(allEps);
+        const epMap = new Map(allEps.map((ep) => [ep.id, ep]));
+        setForm(ninja ? ninjaToForm(ninja, epMap) : null);
       } finally {
         setIsLoading(false);
       }
@@ -128,10 +139,21 @@ export function NinjaEditPage() {
   const updateOrg = (i: number, name: string) =>
     set('organizations', (form?.organizations ?? []).map((o, j) => j === i ? { ...o, name } : o));
 
-  const addEpisode = () => set('appearances', [...(form?.appearances ?? []), emptyEpisode()]);
-  const removeEpisode = (i: number) => set('appearances', (form?.appearances ?? []).filter((_, j) => j !== i));
-  const updateEpisode = (i: number, patch: Partial<Episode>) =>
-    set('appearances', (form?.appearances ?? []).map((e, j) => j === i ? { ...e, ...patch } : e));
+  // エピソード操作（episodes.json から選択）
+  const addEpisode = (ep: Episode) => {
+    if (form?.appearances.some(e => e.id === ep.id)) return; // 重複追加防止
+    set('appearances', [...(form?.appearances ?? []), ep]);
+    setEpisodeSearch('');
+  };
+  const removeEpisode = (i: number) =>
+    set('appearances', (form?.appearances ?? []).filter((_, j) => j !== i));
+
+  const filteredEpisodes = episodeSearch.trim()
+    ? allEpisodes.filter(ep =>
+        ep.title.toLowerCase().includes(episodeSearch.toLowerCase()) ||
+        ep.id.includes(episodeSearch)
+      ).slice(0, 10)
+    : [];
 
   const handleSave = () => {
     if (!form) return;
@@ -343,46 +365,45 @@ export function NinjaEditPage() {
         {/* ── 登場エピソード ── */}
         <fieldset className={styles.fieldset}>
           <legend className={styles.legend}>登場エピソード</legend>
+
+          {/* 登録済みエピソード */}
           <div className={styles.episodeList}>
-            {form.appearances?.map((ep, i) => (
+            {form.appearances.map((ep, i) => (
               <div key={ep.id} className={styles.episodeEntry}>
                 <div className={styles.episodeEntryHeader}>
                   <span className={styles.episodeIndex}>#{i + 1}</span>
+                  <span className={styles.episodeTitle}>{ep.title}</span>
+                  {ep.arc && <span className={styles.episodeArc}>{ep.arc}</span>}
+                  {ep.season !== undefined && <span className={styles.episodeArc}>S{ep.season}</span>}
                   <button className={styles.btnRemove} onClick={() => removeEpisode(i)} title="削除">✕</button>
-                </div>
-                <div className={styles.fieldGrid}>
-                  <Field label="エピソードタイトル *">
-                    <input
-                      className={styles.input}
-                      value={ep.title}
-                      onChange={e => updateEpisode(i, { title: e.target.value })}
-                      placeholder="エピソード名"
-                    />
-                  </Field>
-                  <Field label="登場部">
-                    <input
-                      className={styles.input}
-                      value={ep.arc ?? ''}
-                      onChange={e => updateEpisode(i, { arc: e.target.value || undefined })}
-                      placeholder="例: 第4部"
-                    />
-                  </Field>
-                  <Field label="シーズン">
-                    <input
-                      className={styles.input}
-                      type="number"
-                      min={1}
-                      value={ep.season ?? ''}
-                      onChange={e => updateEpisode(i, {
-                        season: e.target.value ? Number(e.target.value) : undefined
-                      })}
-                      placeholder="シーズン番号（第4部以降）"
-                    />
-                  </Field>
                 </div>
               </div>
             ))}
-            <button className={styles.btnAdd} onClick={addEpisode}>＋ エピソードを追加</button>
+          </div>
+
+          {/* エピソード検索・追加 */}
+          <div className={styles.episodeSearchWrapper}>
+            <input
+              className={styles.input}
+              value={episodeSearch}
+              onChange={e => setEpisodeSearch(e.target.value)}
+              placeholder="エピソード名で検索して追加..."
+            />
+            {filteredEpisodes.length > 0 && (
+              <div className={styles.episodeSuggestions}>
+                {filteredEpisodes.map(ep => (
+                  <button
+                    key={ep.id}
+                    className={styles.episodeSuggestionItem}
+                    onClick={() => addEpisode(ep)}
+                  >
+                    <span className={styles.epSugTitle}>{ep.title}</span>
+                    {ep.arc && <span className={styles.epSugArc}>{ep.arc}</span>}
+                    {ep.season !== undefined && <span className={styles.epSugArc}>S{ep.season}</span>}
+                  </button>
+                ))}
+              </div>
+            )}
           </div>
         </fieldset>
 

@@ -1,6 +1,8 @@
 import { Ninja, NinjaType } from '../domain/entities/Ninja';
+import { Episode } from '../domain/entities/Episode';
 import { NinjaSoulGrade } from '../domain/entities/NinjaSoul';
 import { NinjaRepository } from '../domain/repositories/NinjaRepository';
+import { EpisodeRepository } from '../domain/repositories/EpisodeRepository';
 
 export type FilterCriteria = {
   arc?: string;
@@ -20,33 +22,51 @@ export type FilterCriteria = {
 };
 
 export class FilterNinjaUseCase {
-  constructor(private repo: NinjaRepository) {}
+  constructor(
+    private ninjaRepo: NinjaRepository,
+    private episodeRepo: EpisodeRepository,
+  ) {}
 
   async execute(criteria: FilterCriteria): Promise<Ninja[]> {
-    const ninjas = await this.repo.findAll();
+    const ninjas = await this.ninjaRepo.findAll();
+
+    // エピソードフィルターが必要な場合のみ episodes.json を読み込む
+    const needsEpisodeFilter =
+      criteria.arc !== undefined ||
+      criteria.season !== undefined ||
+      criteria.episodeTitle !== undefined;
+
+    let episodeMap: Map<string, Episode> = new Map();
+    if (needsEpisodeFilter) {
+      const allEpisodes = await this.episodeRepo.findAll();
+      episodeMap = new Map(allEpisodes.map((ep) => [ep.id, ep]));
+    }
 
     return ninjas.filter((ninja) => {
       // 登場部フィルター
       if (criteria.arc) {
-        const arcMatch = ninja.appearances.some((app) =>
-          app.arc?.includes(criteria.arc!)
-        );
+        const arcMatch = ninja.appearances.some((ref) => {
+          const ep = episodeMap.get(ref.id);
+          return ep?.arc?.includes(criteria.arc!);
+        });
         if (!arcMatch) return false;
       }
 
       // 登場シーズンフィルター
       if (criteria.season !== undefined) {
-        const seasonMatch = ninja.appearances.some(
-          (app) => app.season === criteria.season
-        );
+        const seasonMatch = ninja.appearances.some((ref) => {
+          const ep = episodeMap.get(ref.id);
+          return ep?.season === criteria.season;
+        });
         if (!seasonMatch) return false;
       }
 
       // エピソードタイトルフィルター（部分一致）
       if (criteria.episodeTitle) {
-        const epMatch = ninja.appearances.some((app) =>
-          app.title.toLowerCase().includes(criteria.episodeTitle!.toLowerCase())
-        );
+        const epMatch = ninja.appearances.some((ref) => {
+          const ep = episodeMap.get(ref.id);
+          return ep?.title.toLowerCase().includes(criteria.episodeTitle!.toLowerCase());
+        });
         if (!epMatch) return false;
       }
 

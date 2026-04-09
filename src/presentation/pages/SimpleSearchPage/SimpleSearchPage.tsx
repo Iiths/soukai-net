@@ -1,9 +1,11 @@
 import { useState, useEffect, useMemo, useCallback } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Ninja } from '../../../domain/entities/Ninja';
+import { Episode } from '../../../domain/entities/Episode';
 import { FilterCriteria, FilterNinjaUseCase } from '../../../usecases/FilterNinjaUseCase';
 import { SearchNinjaUseCase } from '../../../usecases/SearchNinjaUseCase';
 import { JsonNinjaRepository } from '../../../infrastructure/repositories/JsonNinjaRepository';
+import { JsonEpisodeRepository } from '../../../infrastructure/repositories/JsonEpisodeRepository';
 import { SearchBar } from '../../components/SearchBar/SearchBar';
 import { NinjaCard } from '../../components/NinjaCard/NinjaCard';
 import { FilterPanel } from '../../components/FilterPanel/FilterPanel';
@@ -15,27 +17,33 @@ export function SimpleSearchPage() {
   const [criteria, setCriteria] = useState<FilterCriteria>({});
   const [results, setResults] = useState<Ninja[]>([]);
   const [allNinjas, setAllNinjas] = useState<Ninja[]>([]);
+  const [allEpisodes, setAllEpisodes] = useState<Episode[]>([]);
   const [isLoading, setIsLoading] = useState<boolean>(false);
   const [filterOpen, setFilterOpen] = useState<boolean>(false);
 
-  // 全ニンジャ一覧を初回ロード
+  // 全ニンジャ・全エピソードを初回ロード
   useEffect(() => {
-    const repo = new JsonNinjaRepository();
-    repo.findAll().then(setAllNinjas);
+    Promise.all([
+      new JsonNinjaRepository().findAll(),
+      new JsonEpisodeRepository().findAll(),
+    ]).then(([ninjas, episodes]) => {
+      setAllNinjas(ninjas);
+      setAllEpisodes(episodes);
+    });
   }, []);
 
-  // フィルターパネル用の選択肢を動的に生成
+  // フィルターパネル用の選択肢を episodes.json から生成
   const arcs = useMemo(() => {
     const s = new Set<string>();
-    allNinjas.forEach((n) => n.appearances.forEach((a) => { if (a.arc) s.add(a.arc); }));
+    allEpisodes.forEach((ep) => { if (ep.arc) s.add(ep.arc); });
     return Array.from(s).sort();
-  }, [allNinjas]);
+  }, [allEpisodes]);
 
   const seasons = useMemo(() => {
     const s = new Set<number>();
-    allNinjas.forEach((n) => n.appearances.forEach((a) => { if (a.season !== undefined) s.add(a.season); }));
+    allEpisodes.forEach((ep) => { if (ep.season !== undefined) s.add(ep.season); });
     return Array.from(s).sort((a, b) => a - b);
-  }, [allNinjas]);
+  }, [allEpisodes]);
 
   const ninjaSouls = useMemo(() => {
     const s = new Set<string>();
@@ -59,21 +67,24 @@ export function SimpleSearchPage() {
   const performSearch = useCallback(async (q: string, c: FilterCriteria) => {
     setIsLoading(true);
     try {
-      const repo = new JsonNinjaRepository();
+      const ninjaRepo = new JsonNinjaRepository();
+      const episodeRepo = new JsonEpisodeRepository();
       let base: Ninja[];
 
       if (q.trim()) {
-        // 名前・別名で絞り込み
-        const searchUseCase = new SearchNinjaUseCase(repo);
+        const searchUseCase = new SearchNinjaUseCase(ninjaRepo);
         base = await searchUseCase.execute(q);
       } else {
-        base = await repo.findAll();
+        base = await ninjaRepo.findAll();
       }
 
       // さらに詳細フィルターを適用（criteria が空なら全件通過）
       const hasFilter = Object.values(c).some((v) => v !== undefined && v !== '');
       if (hasFilter) {
-        const filterUseCase = new FilterNinjaUseCase({ findAll: async () => base, findById: async (id) => base.find((n) => n.id === id) ?? null });
+        const filterUseCase = new FilterNinjaUseCase(
+          { findAll: async () => base, findById: async (id) => base.find((n) => n.id === id) ?? null },
+          episodeRepo
+        );
         base = await filterUseCase.execute(c);
       }
 

@@ -47,7 +47,7 @@ function WithLineBreaks({ text }: { text: string }) {
 export function NinjaDetailPage() {
   const { id = '' } = useParams<{ id: string }>();
   const navigate = useNavigate();
-  const { ninja, isLoading } = useNinjaDetail(id);
+  const { ninja, episodes, isLoading } = useNinjaDetail(id);
 
   if (isLoading) {
     return (
@@ -201,9 +201,9 @@ export function NinjaDetailPage() {
         {/* 登場エピソード */}
         <section className={styles.section}>
           <h2 className={styles.sectionTitle}>登場エピソード</h2>
-          {hasValue(ninja.appearances) ? (
+          {episodes.length > 0 ? (
             <div className={styles.episodeGrid}>
-              {ninja.appearances.map((ep) => (
+              {episodes.map((ep) => (
                 <div key={ep.id} className={styles.episodeCard}>
                   <div className={styles.epTitle}>{ep.title}</div>
                   <div className={styles.epMeta}>

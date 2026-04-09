@@ -38,7 +38,7 @@ soukai-net/
 │   │   └── hooks/           # カスタムフック
 │   │
 │   ├── styles/              # 共有スタイル（デザイントークン）
-│   └── data/                # 静的データ（ninjas.json）
+│   └── data/                # 静的データ（ninjas.json / episodes.json）
 │
 ├── index.html
 ├── package.json
@@ -63,7 +63,7 @@ soukai-net/
 
 3. **Infrastructure Layer**
    - Domain層のリポジトリインターフェースを実装
-   - JSONファイルからのデータ取得
+   - JSONファイルからのデータ取得（JsonNinjaRepository / JsonEpisodeRepository）
 
 4. **Presentation Layer**（最外層）
    - React コンポーネント
@@ -137,15 +137,15 @@ npm run preview
 - 登場エピソード一覧
 - Wiki リンク
 
-## サンプルデータ
+## データファイル
 
-`src/data/ninjas.json` に最小限のサンプルデータを含みます。
+### ninjas.json（`src/data/ninjas.json`）
 
-- フジキド・ケンジ（ニンジャスレイヤー）— 確認済み最低限データ
+ニンジャキャラクターのマスターデータ。
 
-**データの追加方法**: [ニンジャスレイヤーWiki](https://wikiwiki.jp/njslyr/) のキャラクターページを参照し、スキーマ（`src/domain/entities/Ninja.ts`）に従ってJSONを追記してください。Claude に「このWikiのテキストをninjas.jsonのスキーマに変換して」と依頼することも可能です。
+**データの追加方法**: [ニンジャスレイヤーWiki](https://wikiwiki.jp/njslyr/) のキャラクターページを参照し、スキーマ（`src/domain/entities/Ninja.ts`）に従ってJSONを追記してください。
 
-### データスキーマ（主要フィールド）
+#### ninjas.json スキーマ（主要フィールド）
 
 | フィールド | 型 | 内容 | 収集方法 |
 |---|---|---|---|
@@ -156,14 +156,29 @@ npm run preview
 | `ninjaType` | NinjaType? | ニンジャ種別 | Wiki自動 |
 | `ninjaSoul` | NinjaSoul? | ニンジャソウル情報 | Wiki自動 |
 | `organizations` | Organization[]? | 所属組織 | Wiki自動 |
-| `appearances` | Episode[] | 登場エピソード | 手動 |
+| `appearances` | `{ id: string }[]` | 登場エピソードID参照（episodes.json と紐づく） | 手動 |
 | `skills` | string[]? | ジツ・カラテ等 | 手動 |
 | `role` | string? | 役職・肩書き（例: ドン、幹部） | **手動のみ** |
-| `appearance` | string? | 外見の描写（髪色・体格・服装等） | **手動のみ** |
-| `description` | string? | キャラクター説明・メモ | 手動 |
+| `appearance` | string? | 外見の描写（髪色・体格・服装等）`<br />` で改行 | **手動のみ** |
+| `description` | string? | キャラクター説明・メモ `<br />` で改行 | 手動 |
 | `status` | alive/dead/unknown? | 生死ステータス | Wiki自動（一部） |
 | `imageUrl` | string? | 画像URL | 手動 |
 | `wikiUrl` | string? | WikiページURL | Wiki自動 |
+
+### episodes.json（`src/data/episodes.json`）
+
+登場エピソードのマスターデータ。同じエピソードが複数のニンジャに参照されても ID は統一される。
+
+#### episodes.json スキーマ
+
+| フィールド | 型 | 内容 |
+|---|---|---|
+| `id` | string | 一意ID（正準ID） |
+| `title` | string | エピソードタイトル |
+| `arc` | string? | 登場部（例: 第1部 / 第4部 / 外伝） |
+| `season` | number? | シーズン番号（第4部以降のみ） |
+
+> **注意**: ninjas.json の `appearances` には `id` のみを記録する。エピソード詳細（タイトル・部・シーズン）は episodes.json から参照される。
 
 ## デザイン
 

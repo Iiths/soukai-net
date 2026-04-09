@@ -3,6 +3,7 @@ import { useState, useMemo, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { FilterNinjaUseCase } from '../../../usecases/FilterNinjaUseCase';
 import { JsonNinjaRepository } from '../../../infrastructure/repositories/JsonNinjaRepository';
+import { JsonEpisodeRepository } from '../../../infrastructure/repositories/JsonEpisodeRepository';
 import { FilterPanel } from '../../components/FilterPanel/FilterPanel';
 import { NinjaCard } from '../../components/NinjaCard/NinjaCard';
 import styles from './AdvancedSearchPage.module.css';
@@ -12,16 +13,15 @@ export function AdvancedSearchPage() {
     const [results, setResults] = useState([]);
     const [isLoading, setIsLoading] = useState(false);
     const [allNinjas, setAllNinjas] = useState([]);
+    const [allEpisodes, setAllEpisodes] = useState([]);
     const arcs = useMemo(() => {
         const arcSet = new Set();
-        allNinjas.forEach((ninja) => {
-            ninja.appearances.forEach((app) => {
-                if (app.arc)
-                    arcSet.add(app.arc);
-            });
+        allEpisodes.forEach((ep) => {
+            if (ep.arc)
+                arcSet.add(ep.arc);
         });
         return Array.from(arcSet).sort();
-    }, [allNinjas]);
+    }, [allEpisodes]);
     const ninjaSouls = useMemo(() => {
         const soulSet = new Set();
         allNinjas.forEach((ninja) => {
@@ -40,19 +40,23 @@ export function AdvancedSearchPage() {
         return Array.from(orgSet).sort();
     }, [allNinjas]);
     useEffect(() => {
-        const loadAllNinjas = async () => {
-            const repo = new JsonNinjaRepository();
-            const ninjas = await repo.findAll();
+        const loadAll = async () => {
+            const [ninjas, episodes] = await Promise.all([
+                new JsonNinjaRepository().findAll(),
+                new JsonEpisodeRepository().findAll(),
+            ]);
             setAllNinjas(ninjas);
+            setAllEpisodes(episodes);
         };
-        loadAllNinjas();
+        loadAll();
     }, []);
     useEffect(() => {
         const performFilter = async () => {
             setIsLoading(true);
             try {
-                const repo = new JsonNinjaRepository();
-                const useCase = new FilterNinjaUseCase(repo);
+                const ninjaRepo = new JsonNinjaRepository();
+                const episodeRepo = new JsonEpisodeRepository();
+                const useCase = new FilterNinjaUseCase(ninjaRepo, episodeRepo);
                 const filterResults = await useCase.execute(criteria);
                 setResults(filterResults);
             }
