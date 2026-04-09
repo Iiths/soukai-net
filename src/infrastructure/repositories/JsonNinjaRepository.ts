@@ -17,6 +17,8 @@ function normalizeNinja(raw: unknown): Ninja {
     organizations: nullable(r.organizations) as Ninja['organizations'],
     appearances: (r.appearances as Ninja['appearances']) ?? [],
     skills: nullable(r.skills) as string[] | undefined,
+    role: nullable(r.role) as string | undefined,
+    appearance: nullable(r.appearance) as string | undefined,
     description: nullable(r.description) as string | undefined,
     status: nullable(r.status) as Ninja['status'],
     imageUrl: nullable(r.imageUrl) as string | undefined,

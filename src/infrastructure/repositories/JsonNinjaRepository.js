@@ -13,6 +13,8 @@ function normalizeNinja(raw) {
         organizations: nullable(r.organizations),
         appearances: r.appearances ?? [],
         skills: nullable(r.skills),
+        role: nullable(r.role),
+        appearance: nullable(r.appearance),
         description: nullable(r.description),
         status: nullable(r.status),
         imageUrl: nullable(r.imageUrl),
