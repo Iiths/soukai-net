@@ -394,6 +394,13 @@
         "name": "ニンジャスレイヤーと協力者達"
       }
     ],
+    "skills": [
+      "ソウル・アブソープション・ジツ"
+    ],
+    "appearance": "アフロヘアー。上半身裸。\n第4部以降は顎鬚を生やす。\n身長は第1部時点で身長173cm。第4部以降は180㎝。",
+    "description": "アフロ頭の元高校生ニンジャ。\n1部ではソウカイヤを抜けシマナガシに属していた。\n4部以降はアラスカでアニキと慕われている。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%89",
     "appearances": [
       {
         "id": "fmmj8ad1"
@@ -467,13 +474,7 @@
       {
         "id": "gzrph4m3"
       }
-    ],
-    "skills": [
-      "ソウル・アブソープション・ジツ"
-    ],
-    "description": "アフロ頭の元高校生ニンジャ。\n1部ではソウカイヤを抜けシマナガシに属していた。\n4部以降はアラスカでアニキと慕われている。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%89"
+    ]
   },
   {
     "id": "1775455915",
@@ -4758,18 +4759,20 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": [
-      {
-        "id": "qad20i3w"
-      }
-    ],
     "skills": [
       "ビッグカラテ",
       "大型ハーレー"
     ],
+    "role": "ソウカイ・シックスゲイツ",
+    "appearance": "8フィート超の巨体。\nアニメイシヨンでは更に巨大。",
     "description": "ソウカイ・シックスゲイツの一人。\n怪力、耐久力に加えて冷徹な指揮能力をも備える。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%BC%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A4%E3%82%AF"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%BC%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A4%E3%82%AF",
+    "appearances": [
+      {
+        "id": "qad20i3w"
+      }
+    ]
   },
   {
     "id": "c2128d31",
@@ -4859,6 +4862,16 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
+    "skills": [
+      "常人の三倍の脚力",
+      "ステルス・ジツ",
+      "ブラインドシャドウ"
+    ],
+    "role": "ソウカイ・シックスゲイツ",
+    "appearance": "茶色、または紫と青のステルスニンジャ装束。\n片眼がサイバネアイ。",
+    "description": "ソウカイ・シックスゲイツの一人。隠密行動が得意。\n本編での情けない出番に反し、外伝「バトルグラウンド・サツ・バツ」では主役を張っている。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%83%B3%E3%83%87%E3%82%A3%E3%83%83%E3%83%88",
     "appearances": [
       {
         "id": "uduraffr"
@@ -4866,15 +4879,7 @@
       {
         "id": "vr3fq73p"
       }
-    ],
-    "skills": [
-      "常人の三倍の脚力",
-      "ステルス・ジツ",
-      "ブラインドシャドウ"
-    ],
-    "description": "ソウカイ・シックスゲイツの一人。隠密行動が得意。\n本編での情けない出番に反し、外伝「バトルグラウンド・サツ・バツ」では主役を張っている。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%83%B3%E3%83%87%E3%82%A3%E3%83%83%E3%83%88"
+    ]
   },
   {
     "id": "ba75adb0",
@@ -5117,10 +5122,10 @@
     "skills": [
       "精神幻覚攻撃"
     ],
+    "appearance": "ミイラめいた全身。ニンジャ装束。\n鎖で吊るされている。周囲に魔法陣が敷かれている。",
     "description": "ソウカイ・シックスゲイツの一人。末期シックスゲイツ。\nかつてムーホンを試みた罰として侵入者撃退用に調整されたアンデッドニンジャと化した。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%83%93%E3%83%83%E3%83%89",
-    "appearance": "ミイラめいた全身。ニンジャ装束。\n鎖で吊るされている。周囲に魔法陣が敷かれている。"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%83%93%E3%83%83%E3%83%89"
   },
   {
     "id": "74bdf31c",
@@ -5278,18 +5283,20 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": [
-      {
-        "id": "fmmj8ad1"
-      }
-    ],
     "skills": [
       "ソニックカラテ",
       "ジェット・ツキ"
     ],
+    "role": "ソウカイ・シックスゲイツ",
+    "appearance": "金糸のニンジャ装束、悪趣味な。\nリーゼントヘア。柄シャツに白いズボンを着用。スタッズ付きブレーサー。",
     "description": "ソウカイ・シックスゲイツの一人。スカウト部門筆頭。\n元ヤクザ・バウンサーでソニックカラテの使い手。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF%E3%83%96%E3%83%BC%E3%83%A0"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF%E3%83%96%E3%83%BC%E3%83%A0",
+    "appearances": [
+      {
+        "id": "fmmj8ad1"
+      }
+    ]
   },
   {
     "id": "35d8a63d",
@@ -7065,17 +7072,18 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
+    "skills": [
+      "シニフリ・ジツ"
+    ],
+    "appearance": "キャタピラ的な装束。網膜にレーダー。",
+    "description": "ソウカイヤのニンジャ。\n脅威の匍匐前進速度と秘密のジツを持つ。\n電子戦争経験者。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9F%E3%83%8B%E3%83%83%E3%83%88%E3%83%9E%E3%83%B3",
     "appearances": [
       {
         "id": "x6t1b1fr"
       }
-    ],
-    "skills": [
-      "シニフリ・ジツ"
-    ],
-    "description": "ソウカイヤのニンジャ。\n脅威の匍匐前進速度と秘密のジツを持つ。\n電子戦争経験者。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9F%E3%83%8B%E3%83%83%E3%83%88%E3%83%9E%E3%83%B3"
+    ]
   },
   {
     "id": "48e3dd08",
@@ -20741,13 +20749,66 @@
   {
     "id": "31cbdb23",
     "name": "ヒュージシュリケン",
-    "organizations": [],
-    "appearances": []
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "q6rx7ihq",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "フマー・ニンジャクラン",
+      "origin": ""
+    },
+    "organizations": [
+      {
+        "id": "jkc3zdna",
+        "name": "ソウカイヤ(第1部)"
+      }
+    ],
+    "skills": [
+      "ダイシュリケン",
+      "吹き矢（タケウチ）"
+    ],
+    "role": "ソウカイ・シックスゲイツ",
+    "appearance": "チタン製の胴当て。紐で背負ったダイシュリケン。",
+    "description": "ソウカイ・シックスゲイツの一人。\nアースクエイクの相棒。ダイシュリケンで敵を纏めて薙ぎ払う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%92%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%B7%E3%83%A5%E3%83%AA%E3%82%B1%E3%83%B3",
+    "appearances": [
+      {
+        "id": "qad20i3w"
+      }
+    ]
   },
   {
     "id": "6469eb16",
     "name": "ミニットマン（第4部）",
-    "organizations": [],
-    "appearances": []
+    "aliases": [
+      "サイレントフォックス"
+    ],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "ffgjafrv",
+      "name": "ミニットマン",
+      "grade": "等級不明",
+      "clan": "キツネ・ニンジャクラン"
+    },
+    "organizations": [
+      {
+        "id": "zrxd1den",
+        "name": "アマクダリ"
+      }
+    ],
+    "skills": [
+      "シニフリ・ジツ"
+    ],
+    "appearance": "網膜にレーダー。",
+    "description": "元アマクダリのネオサイタマニンジャ。\n相棒の仇を討つためニンジャスレイヤーを狙う。\nアマクダリ時代は別のニンジャネームを名乗っていた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9F%E3%83%8B%E3%83%83%E3%83%88%E3%83%9E%E3%83%B3#:hl:word=%E3%83%9F%E3%83%8B%E3%83%83%E3%83%88%E3%83%9E%E3%83%B3",
+    "appearances": [
+      {
+        "id": "rqe3snbe"
+      }
+    ]
   }
 ]
