@@ -5552,6 +5552,12 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
+    "skills": [
+      "イタミ・ジツ"
+    ],
+    "appearance": "全身レザースーツにタタミ針。",
+    "description": "ソウカイヤの末端ニンジャ。\n打撃吸収の特性とマゾヒズムが一体化した厄介なニンジャ。",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%B4%E3%83%8B%E3%82%A3",
     "appearances": [
       {
         "id": "kqp68e75"
@@ -5559,11 +5565,7 @@
       {
         "id": "qs1ghuk5"
       }
-    ],
-    "skills": [
-      "イタミ・ジツ"
-    ],
-    "description": "ソウカイヤの末端ニンジャ。\n打撃吸収の特性とマゾヒズムが一体化した厄介なニンジャ。"
+    ]
   },
   {
     "id": "74dc507d",
@@ -5758,16 +5760,18 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
+    "skills": [
+      "ダガーナイフ"
+    ],
+    "appearance": "小柄な体格。黄土色のニンジャ装束。猿めいたメンポ。ハイエナのような残忍な目。",
+    "description": "ソウカイヤの末端ニンジャ。カラテが弱い。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AA%E3%83%95%E3%82%A7%E3%83%B3%E3%83%80%E3%83%BC",
     "appearances": [
       {
         "id": "wkq7s6ie"
       }
-    ],
-    "skills": [
-      "ダガーナイフ"
-    ],
-    "description": "ソウカイヤの末端ニンジャ。カラテが弱い。",
-    "status": "dead"
+    ]
   },
   {
     "id": "3257bc28",
@@ -5968,14 +5972,15 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
+    "skills": [],
+    "description": "ソウカイヤの末端ニンジャ。\nドラゴン・ドージョーの捜索に赴いていた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B3%E3%83%BC%E3%82%B7%E3%83%A3%E3%82%B9",
     "appearances": [
       {
         "id": "kqp68e75"
       }
-    ],
-    "skills": [],
-    "description": "ソウカイヤの末端ニンジャ。\nドラゴン・ドージョーの捜索に赴いていた。",
-    "status": "dead"
+    ]
   },
   {
     "id": "c4926ef7",
@@ -6050,6 +6055,12 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
+    "skills": [
+      "ステルス・ジツ"
+    ],
+    "description": "ソウカイヤの末端ニンジャ。\n糸杉の枝葉にカモフラージュしてステルス潜伏できる。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%82%A4%E3%83%97%E3%83%AC%E3%82%B9",
     "appearances": [
       {
         "id": "kqp68e75"
@@ -6057,12 +6068,7 @@
       {
         "id": "vr3fq73p"
       }
-    ],
-    "skills": [
-      "ステルス・ジツ"
-    ],
-    "description": "ソウカイヤの末端ニンジャ。\n糸杉の枝葉にカモフラージュしてステルス潜伏できる。",
-    "status": "dead"
+    ]
   },
   {
     "id": "59310e1a",
@@ -6082,6 +6088,12 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
+    "skills": [
+      "スリケン"
+    ],
+    "appearance": "中肉中背。紺のニンジャ装束。足袋。無地のフード付きPVCレインコート。",
+    "description": "ソウカイヤの末端ニンジャ。\n典型的サンシタ。",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%96%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9",
     "appearances": [
       {
         "id": "kqp68e75"
@@ -6089,11 +6101,7 @@
       {
         "id": "vr3fq73p"
       }
-    ],
-    "skills": [
-      "スリケン"
-    ],
-    "description": "ソウカイヤの末端ニンジャ。\n典型的サンシタ。"
+    ]
   },
   {
     "id": "f499ec50",
@@ -6156,16 +6164,17 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": [
-      {
-        "id": "00e29gpz"
-      }
-    ],
     "skills": [
       "サイバネ牙"
     ],
     "description": "ソウカイヤのニンジャ。\n刺突攻撃に加えメイアルーア・ジ・コンパッソも放つ。",
-    "status": "dead"
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%97%E3%83%88%E3%82%A5%E3%83%BC%E3%82%B9",
+    "appearances": [
+      {
+        "id": "00e29gpz"
+      }
+    ]
   },
   {
     "id": "cbb49181",
@@ -6197,16 +6206,18 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
+    "skills": [
+      "探知能力"
+    ],
+    "appearance": "円柱形の奇妙なフルフェイス・ニンジャヘルム。ハンディカメラ。",
+    "description": "ソウカイヤの末端ニンジャ。索敵能力を持つ分カラテは弱い。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%83%E3%82%BF%E3%83%BC",
     "appearances": [
       {
         "id": "wkq7s6ie"
       }
-    ],
-    "skills": [
-      "探知能力"
-    ],
-    "description": "ソウカイヤの末端ニンジャ。索敵能力を持つ分カラテは弱い。",
-    "status": "dead"
+    ]
   },
   {
     "id": "0d9cfd0d",
@@ -6226,16 +6237,18 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
+    "skills": [
+      "ニンジャアーマー"
+    ],
+    "appearance": "鉛色のニンジャアーマー.\n殺（キルズ）では「潰し者」とショドーされたアーマーとクロスカタナのエンブレムを模したフルフェイスメンポ。",
+    "description": "ソウカイヤの末端ニンジャ。\n強固なアーマーでスリケン攻撃を弾く。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%AF%E3%83%AF%E3%83%83%E3%82%B7%E3%83%A3%E3%83%BC",
     "appearances": [
       {
         "id": "kqp68e75"
       }
-    ],
-    "skills": [
-      "ニンジャアーマー"
-    ],
-    "description": "ソウカイヤの末端ニンジャ。\n強固なアーマーでスリケン攻撃を弾く。",
-    "status": "dead"
+    ]
   },
   {
     "id": "1113f31c",
@@ -6454,16 +6467,18 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
+    "skills": [
+      "ドトン・ジツ"
+    ],
+    "appearance": "土色のニンジャ装束。",
+    "description": "ソウカイヤの末端ニンジャ。\nドラゴン・ドージョーの捜索に赴いていた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%83%AB%E3%83%94%E3%83%80%E3%82%A4",
     "appearances": [
       {
         "id": "kqp68e75"
       }
-    ],
-    "skills": [
-      "ドトン・ジツ"
-    ],
-    "description": "ソウカイヤの末端ニンジャ。\nドラゴン・ドージョーの捜索に赴いていた。",
-    "status": "dead"
+    ]
   },
   {
     "id": "f12c6a2d",
@@ -6562,14 +6577,16 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
+    "skills": [],
+    "appearance": "枯れ葉迷彩装束。",
+    "description": "ソウカイヤの末端ニンジャ。\nドラゴン・ドージョー探索に赴いていた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%83%83%E3%83%89%E3%83%AA%E3%83%BC%E3%83%95",
     "appearances": [
       {
         "id": "kqp68e75"
       }
-    ],
-    "skills": [],
-    "description": "ソウカイヤの末端ニンジャ。\nドラゴン・ドージョー探索に赴いていた。",
-    "status": "dead"
+    ]
   },
   {
     "id": "e73a49a4",
@@ -6619,17 +6636,19 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": [
-      {
-        "id": "00e29gpz"
-      }
-    ],
     "skills": [
       "エメイシ",
       "エンハンス・ジツ"
     ],
+    "appearance": "黒玉色のニンジャ装束。青い眼光。",
     "description": "ソウカイヤのニンジャ。ゲイトキーパーの直弟子。\nダークニンジャに対抗意識を抱く。",
-    "status": "dead"
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%89%E3%83%9F%E3%83%8A%E3%83%B3%E3%83%88",
+    "appearances": [
+      {
+        "id": "00e29gpz"
+      }
+    ]
   },
   {
     "id": "09a16fca",
@@ -6822,16 +6841,18 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
+    "skills": [
+      "ドク・カミツキ"
+    ],
+    "appearance": "マッドグリーン色の装束。スズメバチの顎めいて開くメンポ。",
+    "description": "ソウカイヤの末端ニンジャ。\n毒液滴るメンポの噛みつきで攻撃する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%91%E3%83%A9%E3%83%9D%E3%83%8D%E3%83%A9",
     "appearances": [
       {
         "id": "kqp68e75"
       }
-    ],
-    "skills": [
-      "ドク・カミツキ"
-    ],
-    "description": "ソウカイヤの末端ニンジャ。\n毒液滴るメンポの噛みつきで攻撃する。",
-    "status": "dead"
+    ]
   },
   {
     "id": "723e0b42",
@@ -6979,16 +7000,17 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": [
-      {
-        "id": "kqp68e75"
-      }
-    ],
     "skills": [
       "ドク矢"
     ],
     "description": "ソウカイヤのニンジャ。\nマスタードガスを散布するニンジャ矢を射る。",
-    "status": "dead"
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9A%E3%82%A4%E3%83%B4%E3%83%A1%E3%83%B3%E3%83%88",
+    "appearances": [
+      {
+        "id": "kqp68e75"
+      }
+    ]
   },
   {
     "id": "92c03667",
@@ -7039,14 +7061,15 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
+    "skills": [],
+    "description": "ソウカイヤの末端ニンジャ。\n違法薬物の取引をしていた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%AB%E3%83%87%E3%82%A3%E3%83%BC%E3%83%A9%E3%83%BC",
     "appearances": [
       {
         "id": "kqp68e75"
       }
-    ],
-    "skills": [],
-    "description": "ソウカイヤの末端ニンジャ。\n違法薬物の取引をしていた。",
-    "status": "dead"
+    ]
   },
   {
     "id": "a595f816",
@@ -7173,17 +7196,19 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": [
-      {
-        "id": "wda75pmi"
-      }
-    ],
     "skills": [
       "ニンジャアーマー「シロイ」",
       "高機動装甲バイク「シロイ」"
     ],
+    "appearance": "流体力学に則った装甲型ニンジャ装束。媒体によって装束色が異なる。\n原作では白。アニメイシヨンではオレンジ。",
     "description": "ソウカイヤの強襲ニンジャ。\nゲイトキーパー直々に鍛えられた精鋭。\nモーターサイクルにまたがり、人車一体の攻撃を繰り出す。",
-    "status": "dead"
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9F%E3%83%A5%E3%83%AB%E3%83%9F%E3%83%89%E3%83%B3",
+    "appearances": [
+      {
+        "id": "wda75pmi"
+      }
+    ]
   },
   {
     "id": "8104446b",
@@ -7219,16 +7244,18 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
+    "skills": [
+      "トテキ・ジツ"
+    ],
+    "appearance": "殺（キルズ）：アミアミ装束。左胸に一輪のバラ。サスペンダー状に沿ったクナイ。",
+    "description": "ソウカイヤの末端ニンジャ。\nマルチプル・クナイなど投擲に特化している。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%80%E3%83%BC%E3%82%BA",
     "appearances": [
       {
         "id": "kqp68e75"
       }
-    ],
-    "skills": [
-      "トテキ・ジツ"
-    ],
-    "description": "ソウカイヤの末端ニンジャ。\nマルチプル・クナイなど投擲に特化している。",
-    "status": "dead"
+    ]
   },
   {
     "id": "245b4dee",
@@ -7248,17 +7275,19 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": [
-      {
-        "id": "kqp68e75"
-      }
-    ],
     "skills": [
       "火炎瓶",
       "ホバーホイール"
     ],
+    "appearance": "足にホバーホイール。殺（キルズ）ではラバーカップ装束にドナルドダッグめいたメンポ。",
     "description": "ソウカイヤの末端ニンジャ。\n水上をホバー移動し、火炎瓶で炎の壁を作る。",
-    "status": "dead"
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%83%90%E3%83%BC%E3%83%80%E3%83%83%E3%82%AF",
+    "appearances": [
+      {
+        "id": "kqp68e75"
+      }
+    ]
   },
   {
     "id": "015f713f",
