@@ -13143,7 +13143,15 @@
   {
     "id": "2d0ef9d5",
     "name": "キングピン",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "87wubez5",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "amakudari-p3",
@@ -13154,8 +13162,26 @@
         "name": "ネオサイタマ市警"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%94%E3%83%B3"
+    "skills": [
+      "電気ジュッテ",
+      "電磁メリケンサック",
+      "チョウチン"
+    ],
+    "appearance": "肥満体の巨漢。毛むくじゃらの二の腕。\nトゲつきの改造制帽。スパイク革靴。\n分厚い唇。逆Uの字型の濃いヒゲ。どろりと濁った悪意の塊めいた瞳。",
+    "description": "悪徳マッポニンジャ。アマクダリの悪行をもみ消していた。\n第4部まで生存し、ストリートチルドレンを仕切っている。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%94%E3%83%B3",
+    "appearances": [
+      {
+        "id": "20d3a4ce"
+      },
+      {
+        "id": "12216e23"
+      },
+      {
+        "id": "1rdmzslz"
+      }
+    ]
   },
   {
     "id": "dfdb0bb3",
