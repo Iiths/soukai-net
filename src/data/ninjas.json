@@ -100,13 +100,6 @@
         "name": "ニンジャスレイヤーと協力者達"
       }
     ],
-    "skills": [
-      "チャドー",
-      "ジュー・ジツ"
-    ],
-    "description": "第三部までの主人公、ニンジャスレイヤー。\n第四部以降はサツバツナイトを名乗り、国際探偵として全国各地で活躍中。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%84%E3%83%90%E3%83%84%E3%83%8A%E3%82%A4%E3%83%88",
     "appearances": [
       {
         "id": "wkq7s6ie"
@@ -117,7 +110,14 @@
       {
         "id": "fmmj8ad1"
       }
-    ]
+    ],
+    "skills": [
+      "チャドー",
+      "ジュー・ジツ"
+    ],
+    "description": "第三部までの主人公、ニンジャスレイヤー。\n第四部以降はサツバツナイトを名乗り、国際探偵として全国各地で活躍中。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%84%E3%83%90%E3%83%84%E3%83%8A%E3%82%A4%E3%83%88"
   },
   {
     "id": "177545593",
@@ -649,12 +649,6 @@
         "name": "ヨロシサン製薬"
       }
     ],
-    "skills": [],
-    "role": "アマクダリ12人",
-    "appearance": "長身痩躯。返り血に染まった汚い白衣。\n顔には眼鏡を掛け、斜めにかかった前髪から片目だけが覗いている。身長176cm。",
-    "description": "イモータル・ニンジャ・ワークショップの所長。\nモータルならざる異常知性の持ち主。\n助手と共に危険なゾンビーニンジャを生み出す。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%A2%E3%83%A9%E3%82%AD",
     "appearances": [
       {
         "id": "48pg2qdu"
@@ -689,7 +683,13 @@
       {
         "id": "fb6lf4me"
       }
-    ]
+    ],
+    "skills": [],
+    "role": "アマクダリ12人",
+    "appearance": "長身痩躯。返り血に染まった汚い白衣。\n顔には眼鏡を掛け、斜めにかかった前髪から片目だけが覗いている。身長176cm。",
+    "description": "イモータル・ニンジャ・ワークショップの所長。\nモータルならざる異常知性の持ち主。\n助手と共に危険なゾンビーニンジャを生み出す。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%A2%E3%83%A9%E3%82%AD"
   },
   {
     "id": "1775455927",
@@ -1455,20 +1455,82 @@
         "name": "ヨロシサン製薬"
       }
     ],
-    "appearances": [
-      {
-        "id": "e4pwggow"
-      }
-    ],
     "skills": [
       "編笠",
       "マチューテ",
       "タケヤリ",
       "数々のニンジャ・トラップ"
     ],
+    "role": "サワタリ・カンパニーCEO",
+    "appearance": "迷彩柄のニンジャ装束。ベトコン風の衣笠。\n4部では通常時はモスグリーンの開襟シャツや白衣。戦闘時は軍コートを羽織る。",
     "description": "危険なナム妄想に囚われた狂気のニンジャ。\n仲間を守るため奔走している。",
     "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A9%E3%83%AC%E3%82%B9%E3%83%88%E3%83%BB%E3%82%B5%E3%83%AF%E3%82%BF%E3%83%AA"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A9%E3%83%AC%E3%82%B9%E3%83%88%E3%83%BB%E3%82%B5%E3%83%AF%E3%82%BF%E3%83%AA",
+    "appearances": [
+      {
+        "id": "e4pwggow"
+      },
+      {
+        "id": "dawsncb4"
+      },
+      {
+        "id": "r3d5m4sz"
+      },
+      {
+        "id": "9lclsu2q"
+      },
+      {
+        "id": "9j0jnn2l"
+      },
+      {
+        "id": "hfcqzrkh"
+      },
+      {
+        "id": "ot4lpixl"
+      },
+      {
+        "id": "gb8b6euf"
+      },
+      {
+        "id": "2a31b6d9"
+      },
+      {
+        "id": "12ml6hmz"
+      },
+      {
+        "id": "8bf115a4"
+      },
+      {
+        "id": "180a24b4"
+      },
+      {
+        "id": "qeenefau"
+      },
+      {
+        "id": "yrr4132n"
+      },
+      {
+        "id": "2v6e48gz"
+      },
+      {
+        "id": "nzwyb1xq"
+      },
+      {
+        "id": "8r8ibb8m"
+      },
+      {
+        "id": "914a622e"
+      },
+      {
+        "id": "a6a4d687"
+      },
+      {
+        "id": "08f2e3c4"
+      },
+      {
+        "id": "66ac3aba"
+      }
+    ]
   },
   {
     "id": "1775455965",
@@ -4477,6 +4539,11 @@
     "aliases": [],
     "ninjaType": "非ニンジャ",
     "organizations": [],
+    "skills": [],
+    "appearance": "黒いハカマに上半身裸。ブラックメタルメイクに極細サイバーサングラス。",
+    "description": "アンタイブディズムバンド「カナガワ」のドラマー。\nメンバーが脱退した事件の後もカナガワを立て直すべく尽力。\nそのためか第4部ではコンポーザーの地位を築いている。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%AB%E3%82%B2%E3%83%BC%E3%83%88",
     "appearances": [
       {
         "id": "rvx6izeb"
@@ -4484,11 +4551,7 @@
       {
         "id": "9lclsu2q"
       }
-    ],
-    "skills": [],
-    "description": "アンタイブディズムバンド「カナガワ」のドラマー。\nメンバーが脱退した事件の後もカナガワを立て直すべく尽力。\nそのためか第4部ではコンポーザーの地位を築いている。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%AB%E3%82%B2%E3%83%BC%E3%83%88"
+    ]
   },
   {
     "id": "17754559233",
@@ -4544,21 +4607,6 @@
         "name": "ヨロシサン製薬"
       }
     ],
-    "skills": [
-      "イアイドー",
-      "ビッグカラテ",
-      "打撃吸収の構え",
-      "サソリ・ファイティング・スタイル",
-      "モズ・ダイブキック",
-      "フドウカナシバリ・ジツ",
-      "テレキネシス・ジツ",
-      "カラテミサイル"
-    ],
-    "role": "ソウカイヤの首魁",
-    "appearance": "アルマーニのスーツ。黄金メンポ。\nスーツの下に四聖獣が描かれたニンジャ装束。\nイクサ時は武田信玄めいた金縁の黒い鋼の甲冑を着用。",
-    "description": "ソウカイ・シンジケートのドン。\n七つのニンジャソウルを身に宿す。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%82%AA%E3%83%A2%E3%83%88%E3%83%BB%E3%82%AB%E3%83%B3",
     "appearances": [
       {
         "id": "wkq7s6ie"
@@ -4599,7 +4647,22 @@
       {
         "id": "q0zjg8rk"
       }
-    ]
+    ],
+    "skills": [
+      "イアイドー",
+      "ビッグカラテ",
+      "打撃吸収の構え",
+      "サソリ・ファイティング・スタイル",
+      "モズ・ダイブキック",
+      "フドウカナシバリ・ジツ",
+      "テレキネシス・ジツ",
+      "カラテミサイル"
+    ],
+    "role": "ソウカイヤの首魁",
+    "appearance": "アルマーニのスーツ。黄金メンポ。\nスーツの下に四聖獣が描かれたニンジャ装束。\nイクサ時は武田信玄めいた金縁の黒い鋼の甲冑を着用。",
+    "description": "ソウカイ・シンジケートのドン。\n七つのニンジャソウルを身に宿す。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%82%AA%E3%83%A2%E3%83%88%E3%83%BB%E3%82%AB%E3%83%B3"
   },
   {
     "id": "d4831bd0",
@@ -4619,15 +4682,6 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "skills": [
-      "トンファー・ジツ",
-      "エンハンスメント・ジツ"
-    ],
-    "role": "ソウカイ・シックスゲイツ",
-    "appearance": "ミラーめいたニンジャ装束。腰のホルスターに一対の鋼鉄トンファー。\n普段着は紺色のスーツ。",
-    "description": "ソウカイ・シックスゲイツの創設者。ラオモトの側近。\n一線を退いていたがカラテは健在。ダークニンジャやドミナントを鍛え上げた。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B2%E3%82%A4%E3%83%88%E3%82%AD%E3%83%BC%E3%83%91%E3%83%BC",
     "appearances": [
       {
         "id": "kqp68e75"
@@ -4641,7 +4695,16 @@
       {
         "id": "q0zjg8rk"
       }
-    ]
+    ],
+    "skills": [
+      "トンファー・ジツ",
+      "エンハンスメント・ジツ"
+    ],
+    "role": "ソウカイ・シックスゲイツ",
+    "appearance": "ミラーめいたニンジャ装束。腰のホルスターに一対の鋼鉄トンファー。\n普段着は紺色のスーツ。",
+    "description": "ソウカイ・シックスゲイツの創設者。ラオモトの側近。\n一線を退いていたがカラテは健在。ダークニンジャやドミナントを鍛え上げた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B2%E3%82%A4%E3%83%88%E3%82%AD%E3%83%BC%E3%83%91%E3%83%BC"
   },
   {
     "id": "ea711ecf",
@@ -4674,18 +4737,6 @@
         "name": "ザイバツ（第3部以降）"
       }
     ],
-    "skills": [
-      "デス・キリ",
-      "ヤミ・ウチ",
-      "カンジ・キル",
-      "ソード・オブ・オヒガン",
-      "イアイドー"
-    ],
-    "role": "ザイバツ・グランドロード",
-    "appearance": "灰色の髪。オブシディアン色の装束。\n全身鎧、またはローブ。妖刀ベッピンを持つ。",
-    "description": "妖刀ベッピンを操るニンジャ。\nラオモト・カンの懐刀として、またはザイバツのニンジャとして、\nニンジャスレイヤー（フジキド・ケンジ）と幾度となく渡り合った。\n現在は打倒カツ・ワンソーを掲げ、新生したザイバツを率いている。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%80%E3%83%BC%E3%82%AF%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
     "appearances": [
       {
         "id": "w6ccm5qg"
@@ -4744,7 +4795,19 @@
       {
         "id": "6dcsfo7u"
       }
-    ]
+    ],
+    "skills": [
+      "デス・キリ",
+      "ヤミ・ウチ",
+      "カンジ・キル",
+      "ソード・オブ・オヒガン",
+      "イアイドー"
+    ],
+    "role": "ザイバツ・グランドロード",
+    "appearance": "灰色の髪。オブシディアン色の装束。\n全身鎧、またはローブ。妖刀ベッピンを持つ。",
+    "description": "妖刀ベッピンを操るニンジャ。\nラオモト・カンの懐刀として、またはザイバツのニンジャとして、\nニンジャスレイヤー（フジキド・ケンジ）と幾度となく渡り合った。\n現在は打倒カツ・ワンソーを掲げ、新生したザイバツを率いている。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%80%E3%83%BC%E3%82%AF%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
   },
   {
     "id": "d1f3d115",
@@ -4934,6 +4997,14 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
+    "appearances": [
+      {
+        "id": "48pg2qdu"
+      },
+      {
+        "id": "r3d5m4sz"
+      }
+    ],
     "skills": [
       "ハッカー",
       "多重ログイン"
@@ -4942,15 +5013,7 @@
     "appearance": "黒いサイバーニンジャ装束。円環型サイバーサングラス。\nニンジャ頭巾から伸びるゴーゴンめいたLANケーブルの束。",
     "description": "ソウカイ・シックスゲイツの一人。\nヤバイ級ハッカーをも上回る電子戦のスペシャリスト。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%80%E3%82%A4%E3%83%80%E3%83%AD%E3%82%B9",
-    "appearances": [
-      {
-        "id": "48pg2qdu"
-      },
-      {
-        "id": "r3d5m4sz"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%80%E3%82%A4%E3%83%80%E3%83%AD%E3%82%B9"
   },
   {
     "id": "d21b2cf5",
@@ -14447,14 +14510,56 @@
   {
     "id": "b86487",
     "name": "タダオ",
+    "aliases": [
+      "ブラックロータス"
+    ],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "hyhgaulh",
+      "name": "キリク・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": "INWに移植させた"
+    },
     "organizations": [
       {
         "id": "アマクダリ",
         "name": "アマクダリ"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%83%80%E3%82%AA"
+    "skills": [
+      "ディバイン・カラテ",
+      "ディバイン・カラテミサイル",
+      "ディバイン・エンハンス・ジツ"
+    ],
+    "role": "アマクダリ12人",
+    "appearance": "紫の法衣。紫のニンジャ装束。でっぷりとした肥満体。細い目をサイバーサングラスで覆う。",
+    "description": "カスミガセキ教区を預かる大僧正。\n後にアマクダリ・セクトの幹部として登場。\nカネの力で強大なニンジャの力を手に入れた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%83%80%E3%82%AA",
+    "appearances": [
+      {
+        "id": "rvx6izeb"
+      },
+      {
+        "id": "9lclsu2q"
+      },
+      {
+        "id": "x9g18jha"
+      },
+      {
+        "id": "aaa70fe2"
+      },
+      {
+        "id": "1a4f68eb"
+      },
+      {
+        "id": "5jvbtmyb"
+      },
+      {
+        "id": "7c7a172e"
+      }
+    ]
   },
   {
     "id": "69864b4e",
@@ -17346,6 +17451,9 @@
   {
     "id": "f09278",
     "name": "コッカトリス（サムライニンジャスレイヤー）",
+    "aliases": [
+      "コッカトリス"
+    ],
     "organizations": [
       {
         "id": "サムライニンジャスレイヤー",
@@ -17353,10 +17461,7 @@
       }
     ],
     "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B3%E3%83%83%E3%82%AB%E3%83%88%E3%83%AA%E3%82%B9%EF%BC%88%E3%82%B5%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3%E3%82%B9%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%EF%BC%89",
-    "aliases": [
-      "コッカトリス"
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B3%E3%83%83%E3%82%AB%E3%83%88%E3%83%AA%E3%82%B9%EF%BC%88%E3%82%B5%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3%E3%82%B9%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%EF%BC%89"
   },
   {
     "id": "ed6397",
@@ -17385,6 +17490,9 @@
   {
     "id": "a7c453",
     "name": "ヘルカイト（サムライニンジャスレイヤー）",
+    "aliases": [
+      "ヘルカイト"
+    ],
     "organizations": [
       {
         "id": "サムライニンジャスレイヤー",
@@ -17392,10 +17500,7 @@
       }
     ],
     "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%AB%E3%82%AB%E3%82%A4%E3%83%88%EF%BC%88%E3%82%B5%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3%E3%82%B9%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%EF%BC%89",
-    "aliases": [
-      "ヘルカイト"
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%AB%E3%82%AB%E3%82%A4%E3%83%88%EF%BC%88%E3%82%B5%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3%E3%82%B9%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%EF%BC%89"
   },
   {
     "id": "8156a2",
@@ -19153,6 +19258,9 @@
   {
     "id": "5d25ad",
     "name": "シンウインター",
+    "aliases": [
+      "シトカ・ニンジャ"
+    ],
     "organizations": [
       {
         "id": "過冬",
@@ -19160,10 +19268,7 @@
       }
     ],
     "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%B3%E3%82%A6%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC",
-    "aliases": [
-      "シトカ・ニンジャ"
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%B3%E3%82%A6%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC"
   },
   {
     "id": "9652c033",
@@ -20200,6 +20305,9 @@
   {
     "id": "836550",
     "name": "ガルガンチュア",
+    "aliases": [
+      "イタカ・ニンジャ"
+    ],
     "organizations": [
       {
         "id": "オムラ・エンパイア",
@@ -20207,10 +20315,7 @@
       }
     ],
     "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AC%E3%83%AB%E3%82%AC%E3%83%B3%E3%83%81%E3%83%A5%E3%82%A2",
-    "aliases": [
-      "イタカ・ニンジャ"
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AC%E3%83%AB%E3%82%AC%E3%83%B3%E3%83%81%E3%83%A5%E3%82%A2"
   },
   {
     "id": "ff07c4",
@@ -20811,6 +20916,11 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
+    "appearances": [
+      {
+        "id": "qad20i3w"
+      }
+    ],
     "skills": [
       "ダイシュリケン",
       "吹き矢（タケウチ）"
@@ -20819,12 +20929,7 @@
     "appearance": "チタン製の胴当て。紐で背負ったダイシュリケン。",
     "description": "ソウカイ・シックスゲイツの一人。\nアースクエイクの相棒。ダイシュリケンで敵を纏めて薙ぎ払う。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%92%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%B7%E3%83%A5%E3%83%AA%E3%82%B1%E3%83%B3",
-    "appearances": [
-      {
-        "id": "qad20i3w"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%92%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%B7%E3%83%A5%E3%83%AA%E3%82%B1%E3%83%B3"
   },
   {
     "id": "6469eb16",
@@ -20874,16 +20979,16 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "skills": [],
-    "appearance": "長身。鼻から上を覆い口元を露出させるタイプのオニめいたメンポ。\nアニメイシヨンではアーソンと同タイプのスーツ。",
-    "description": "ソウカイヤのニンジャ。ラオモトのメッセンジャー。\n戦う術を持たない。元は堕落したベンチャー企業の若きCEOだった。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%80%8E%E3%83%A9%E3%82%AA%E3%83%A2%E3%83%88%E3%81%AE%E5%A3%B0%E3%80%8F",
     "appearances": [
       {
         "id": "9lclsu2q"
       }
-    ]
+    ],
+    "skills": [],
+    "appearance": "長身。鼻から上を覆い口元を露出させるタイプのオニめいたメンポ。\nアニメイシヨンではアーソンと同タイプのスーツ。",
+    "description": "ソウカイヤのニンジャ。ラオモトのメッセンジャー。\n戦う術を持たない。元は堕落したベンチャー企業の若きCEOだった。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%80%8E%E3%83%A9%E3%82%AA%E3%83%A2%E3%83%88%E3%81%AE%E5%A3%B0%E3%80%8F"
   },
   {
     "id": "b99d0507",
@@ -21816,13 +21921,13 @@
   {
     "id": "b2ba4792",
     "name": "イミノ",
+    "aliases": [
+      "イミノ・ニンジャ"
+    ],
     "ninjaType": "リアルニンジャ",
     "organizations": [],
     "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%83%9F%E3%83%8E",
-    "aliases": [
-      "イミノ・ニンジャ"
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%83%9F%E3%83%8E"
   },
   {
     "id": "9ac7f36d",
@@ -21859,13 +21964,13 @@
   {
     "id": "1ad9361f",
     "name": "サンダーフォージ",
+    "aliases": [
+      "カジヤ・ニンジャ"
+    ],
     "ninjaType": "リアルニンジャ",
     "organizations": [],
     "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B8",
-    "aliases": [
-      "カジヤ・ニンジャ"
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B8"
   },
   {
     "id": "380ae00f",
@@ -21918,13 +22023,13 @@
   {
     "id": "f9c110ac",
     "name": "ウィッカーマン",
+    "aliases": [
+      "ゴグウ・ニンジャ"
+    ],
     "ninjaType": "リアルニンジャ",
     "organizations": [],
     "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%82%A3%E3%83%83%E3%82%AB%E3%83%BC%E3%83%9E%E3%83%B3",
-    "aliases": [
-      "ゴグウ・ニンジャ"
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%82%A3%E3%83%83%E3%82%AB%E3%83%BC%E3%83%9E%E3%83%B3"
   },
   {
     "id": "7580053a",
@@ -22017,13 +22122,13 @@
   {
     "id": "6702d694",
     "name": "タマテ",
+    "aliases": [
+      "タマテ・ニンジャ"
+    ],
     "ninjaType": "リアルニンジャ",
     "organizations": [],
     "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%83%9E%E3%83%86",
-    "aliases": [
-      "タマテ・ニンジャ"
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%83%9E%E3%83%86"
   },
   {
     "id": "8d69a2ab",
@@ -22044,13 +22149,13 @@
   {
     "id": "ff608e51",
     "name": "アイアンコブラ",
+    "aliases": [
+      "ドクガ・ニンジャ"
+    ],
     "ninjaType": "リアルニンジャ",
     "organizations": [],
     "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%96%E3%83%A9",
-    "aliases": [
-      "ドクガ・ニンジャ"
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%96%E3%83%A9"
   },
   {
     "id": "738f54c8",
@@ -22087,13 +22192,13 @@
   {
     "id": "41d57c95",
     "name": "マスターヴォーパル",
+    "aliases": [
+      "ハブ・ニンジャ"
+    ],
     "ninjaType": "リアルニンジャ",
     "organizations": [],
     "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%B4%E3%82%A9%E3%83%BC%E3%83%91%E3%83%AB",
-    "aliases": [
-      "ハブ・ニンジャ"
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%B4%E3%82%A9%E3%83%BC%E3%83%91%E3%83%AB"
   },
   {
     "id": "4497ee71",
@@ -22170,13 +22275,13 @@
   {
     "id": "e6a56649",
     "name": "ファフニール",
+    "aliases": [
+      "マガツ・ニンジャ"
+    ],
     "ninjaType": "リアルニンジャ",
     "organizations": [],
     "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A1%E3%83%95%E3%83%8B%E3%83%BC%E3%83%AB",
-    "aliases": [
-      "マガツ・ニンジャ"
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A1%E3%83%95%E3%83%8B%E3%83%BC%E3%83%AB"
   },
   {
     "id": "1f0cce54",
@@ -22229,13 +22334,13 @@
   {
     "id": "26772de3",
     "name": "クセツ",
+    "aliases": [
+      "ランマル・ニンジャ"
+    ],
     "ninjaType": "リアルニンジャ",
     "organizations": [],
     "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%82%BB%E3%83%84",
-    "aliases": [
-      "ランマル・ニンジャ"
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%82%BB%E3%83%84"
   },
   {
     "id": "c955e5f1",
@@ -22388,5 +22493,31 @@
     "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%AD%E3%83%BC%E3%82%B6%E3%83%BC"
+  },
+  {
+    "id": "1dpwy75s",
+    "name": "アーマゲドン",
+    "realName": "ミダレ・セウイチ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "iv29j7vr",
+      "name": "",
+      "grade": "等級不明",
+      "origin": "恐らくアーチ級ソウル"
+    },
+    "organizations": [],
+    "skills": [
+      "超自然の蒼い炎"
+    ],
+    "appearance": "華奢な体格。病的に白い肌。\n裸の上半身。黒いハカマ・スカート。\n金属棘だらけの黒革ニンジャ装束。黒漆塗りのメンポ。",
+    "description": "アンタイブディズムバンド「カナガワ」のメインヴォーカル。\nコンセプトの反ブッダにいつしかのめり込み、危険なニンジャとなった。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%BC%E3%83%9E%E3%82%B2%E3%83%89%E3%83%B3",
+    "appearances": [
+      {
+        "id": "rvx6izeb"
+      }
+    ]
   }
 ]
