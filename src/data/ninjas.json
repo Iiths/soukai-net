@@ -79,7 +79,8 @@
     "aliases": [
       "サツバツナイト",
       "ニンジャスレイヤー",
-      "アイアンリング"
+      "アイアンリング",
+      "ダイ・ニンジャ"
     ],
     "ninjaType": "リアルニンジャ",
     "ninjaSoul": {
@@ -1096,7 +1097,8 @@
     "id": "1775455944",
     "name": "ユカノ",
     "aliases": [
-      "ドラゴン・ユカノ"
+      "ドラゴン・ユカノ",
+      "ドラゴン・ニンジャ"
     ],
     "organizations": [
       {
@@ -1147,7 +1149,9 @@
   {
     "id": "1775455947",
     "name": "シャン・ロア",
-    "aliases": [],
+    "aliases": [
+      "ムカデ・ニンジャ"
+    ],
     "ninjaType": "非ニンジャ",
     "organizations": [
       {
@@ -1304,7 +1308,8 @@
     "name": "レッドドラゴン",
     "realName": "ブラド・ツェペシュ",
     "aliases": [
-      "ブラド3世"
+      "ブラド3世",
+      "ブラド・ニンジャ"
     ],
     "ninjaType": "リアルニンジャ",
     "ninjaSoul": {
@@ -1904,7 +1909,9 @@
   {
     "id": "1775455988",
     "name": "セト",
-    "aliases": [],
+    "aliases": [
+      "セト・ニンジャ"
+    ],
     "ninjaType": "非ニンジャ",
     "organizations": [
       {
@@ -2989,7 +2996,9 @@
   {
     "id": "17754559140",
     "name": "ケイムショ",
-    "aliases": [],
+    "aliases": [
+      "ドゥルジ・ニンジャ"
+    ],
     "ninjaType": "非ニンジャ",
     "organizations": [
       {
@@ -7534,7 +7543,11 @@
         "name": "ソウカイヤ（第4部）"
       }
     ],
-    "appearances": []
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
   },
   {
     "id": "ff682599",
@@ -7570,7 +7583,11 @@
         "name": "ソウカイヤ（第4部）"
       }
     ],
-    "appearances": []
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
   },
   {
     "id": "6b3803c2",
@@ -7655,7 +7672,11 @@
         "name": "ソウカイヤ（第4部）"
       }
     ],
-    "appearances": []
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
   },
   {
     "id": "ae842727",
@@ -10334,7 +10355,11 @@
         "name": "ザイバツ（第3部以降）"
       }
     ],
-    "appearances": []
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
   },
   {
     "id": "29dfd871",
@@ -10346,7 +10371,11 @@
         "name": "ザイバツ（第3部以降）"
       }
     ],
-    "appearances": []
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
   },
   {
     "id": "02dc0a38",
@@ -10496,7 +10525,11 @@
         "name": "ザイバツ（第3部以降）"
       }
     ],
-    "appearances": []
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
   },
   {
     "id": "ecce07ab",
@@ -10559,7 +10592,11 @@
         "name": "ザイバツ（第3部以降）"
       }
     ],
-    "appearances": []
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
   },
   {
     "id": "0f097b8d",
@@ -17316,7 +17353,10 @@
       }
     ],
     "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B3%E3%83%83%E3%82%AB%E3%83%88%E3%83%AA%E3%82%B9%EF%BC%88%E3%82%B5%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3%E3%82%B9%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%EF%BC%89"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B3%E3%83%83%E3%82%AB%E3%83%88%E3%83%AA%E3%82%B9%EF%BC%88%E3%82%B5%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3%E3%82%B9%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%EF%BC%89",
+    "aliases": [
+      "コッカトリス"
+    ]
   },
   {
     "id": "ed6397",
@@ -17352,7 +17392,10 @@
       }
     ],
     "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%AB%E3%82%AB%E3%82%A4%E3%83%88%EF%BC%88%E3%82%B5%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3%E3%82%B9%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%EF%BC%89"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%AB%E3%82%AB%E3%82%A4%E3%83%88%EF%BC%88%E3%82%B5%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3%E3%82%B9%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%EF%BC%89",
+    "aliases": [
+      "ヘルカイト"
+    ]
   },
   {
     "id": "8156a2",
@@ -19117,7 +19160,10 @@
       }
     ],
     "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%B3%E3%82%A6%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%B3%E3%82%A6%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC",
+    "aliases": [
+      "シトカ・ニンジャ"
+    ]
   },
   {
     "id": "9652c033",
@@ -20161,7 +20207,10 @@
       }
     ],
     "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AC%E3%83%AB%E3%82%AC%E3%83%B3%E3%83%81%E3%83%A5%E3%82%A2"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AC%E3%83%AB%E3%82%AC%E3%83%B3%E3%83%81%E3%83%A5%E3%82%A2",
+    "aliases": [
+      "イタカ・ニンジャ"
+    ]
   },
   {
     "id": "ff07c4",
@@ -20835,5 +20884,1509 @@
         "id": "9lclsu2q"
       }
     ]
+  },
+  {
+    "id": "b99d0507",
+    "name": "アイスダンス",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "097c4098",
+    "name": "アオイ",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "b91873e0",
+    "name": "アラーネア",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "67ff956a",
+    "name": "アロウルート",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "9ddb4971",
+    "name": "アンブレイカブル",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "0d86710e",
+    "name": "イナンナ",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "219f20b1",
+    "name": "ヴィクトリアス",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "9db87e95",
+    "name": "ウィステファー",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "96f9e13b",
+    "name": "ウインターヘロン",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "ae02a6f3",
+    "name": "エクスペリエンス",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "644b0791",
+    "name": "エピセンター",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "5ac63f56",
+    "name": "オゼロット",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "fa7dd279",
+    "name": "オムラアラシ",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "657fe7a9",
+    "name": "ガイセリック",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "c79661af",
+    "name": "カイロポッドウィップ",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "50dfe409",
+    "name": "カニス",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "976481d1",
+    "name": "ガルドル",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "1486fc2b",
+    "name": "キキンキング",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "773dbf0e",
+    "name": "クエスター・メニイ",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "4e0c35b0",
+    "name": "クエンルン",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "5c2e157a",
+    "name": "グスタフ",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "274389b8",
+    "name": "グランドマスター・ゼツボウ",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "17020f5f",
+    "name": "クロウシャープナー",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "fe3a0386",
+    "name": "クロムウェル（クロームウェル）",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "7d86ae97",
+    "name": "コールドホロウ",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "8b6842d2",
+    "name": "ゴールドラッシュ",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "89ccc9ab",
+    "name": "ゴブリントード",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "16c627ed",
+    "name": "サーベルマンモス",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "dfcca55c",
+    "name": "サヴァイヴァンパイア",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "fd8de55b",
+    "name": "シャドウテイル",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "54350234",
+    "name": "ジンクス",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "b7603675",
+    "name": "ジンⅡ",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "05acaffa",
+    "name": "スアラ",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "b9aed595",
+    "name": "スノードゥーム",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "f21a95e4",
+    "name": "スパークル",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "b998298b",
+    "name": "スモノイド",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "7a488ed3",
+    "name": "スレンダー",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "82b3fd9f",
+    "name": "スワイト",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "30236d24",
+    "name": "セイレーン",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "f0fede5c",
+    "name": "セクルード",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "77f29d0a",
+    "name": "ダートウォーク",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "38e4e50b",
+    "name": "ダイダイ・スターフィンガー",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "54e719dd",
+    "name": "タッツェベルム",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "1198bb46",
+    "name": "ダルネイル",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "2f4c4a56",
+    "name": "ディープサイト",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "f5e06f97",
+    "name": "ディープリング",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "7588ef78",
+    "name": "ディジーチェイン",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "939b1a8e",
+    "name": "デスシャドウ",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "728c79f0",
+    "name": "デミホムンクルスニンジャ",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "a0208dde",
+    "name": "ハイドロゾーア",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "6a545802",
+    "name": "ハイプレッシャー",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "d1de328d",
+    "name": "ハウンドボーイ",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "aa6501ac",
+    "name": "バレットシープ",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "3b3540e2",
+    "name": "バンクロール",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "16699a23",
+    "name": "ファージャルグ",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "ce0b6a75",
+    "name": "ファビウス",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "552d35d7",
+    "name": "フェイス",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "5b8dbc35",
+    "name": "フミヲ",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "7512bd35",
+    "name": "ブラックカイマン",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "8ceebc0a",
+    "name": "ブラックゼブラ",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "71d51e2b",
+    "name": "ブラッドウィッチ",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "55b30116",
+    "name": "ブラッドストリングス",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "90075c1b",
+    "name": "ブラッドソード",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "333da472",
+    "name": "ブルーグリーンスネーク",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "14a173ce",
+    "name": "ヘヴィノーズ",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "44eaebae",
+    "name": "ボスコノート",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "acda743a",
+    "name": "ボ・リキ",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "8180eb7b",
+    "name": "ホワイトスナウト",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "8f3e43c4",
+    "name": "マスクドホウオウ",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "72e10e0f",
+    "name": "ミストアイル",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "03c0b2d2",
+    "name": "ミューティレイト",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "22ec209d",
+    "name": "モンストレイロ",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "e16386c7",
+    "name": "ヤグヤグ",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "1e2e52e7",
+    "name": "ラケダイモン",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "f4cccdb9",
+    "name": "ラスコー",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "4633b10f",
+    "name": "ラッドヴェックス",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "1b4e25f6",
+    "name": "ラットロー",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "361e39dd",
+    "name": "ラピッドラッシュ",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "2b638056",
+    "name": "ラマンチャ",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "9a36c3a8",
+    "name": "リヴァイアサン",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "18acae1d",
+    "name": "ロクソ・ニンジャ",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "3340ff60",
+    "name": "アサト・オムラ",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "461b9860",
+    "name": "アラン・ヤゼ",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "120ad70a",
+    "name": "ウグイス",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "db55f838",
+    "name": "カナタ",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "f7f680c1",
+    "name": "ドクターギルガ",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "a9416fc0",
+    "name": "バート",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "2372c9bc",
+    "name": "ヨウジ",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ]
+  },
+  {
+    "id": "38bf11bf",
+    "name": "ゴダ・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B4%E3%83%80%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "d03a9f90",
+    "name": "フマー・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%83%9E%E3%83%BC%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "3f34d6f3",
+    "name": "ヤマト・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A4%E3%83%9E%E3%83%88%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "8c25a629",
+    "name": "ハガネ・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%82%AC%E3%83%8D%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "f4fd5cd1",
+    "name": "アズマ・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%BA%E3%83%9E%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "e8d489e3",
+    "name": "アタダ・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%BF%E3%83%80%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "b2ba4792",
+    "name": "イミノ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%83%9F%E3%83%8E",
+    "aliases": [
+      "イミノ・ニンジャ"
+    ]
+  },
+  {
+    "id": "9ac7f36d",
+    "name": "ヴァハ・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%B4%E3%82%A1%E3%83%8F%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "025983c5",
+    "name": "ウラシマ・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%83%A9%E3%82%B7%E3%83%9E%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "19a2abb2",
+    "name": "エンマ・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%83%B3%E3%83%9E%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "894072eb",
+    "name": "オダ・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AA%E3%83%80%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "1ad9361f",
+    "name": "サンダーフォージ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B8",
+    "aliases": [
+      "カジヤ・ニンジャ"
+    ]
+  },
+  {
+    "id": "380ae00f",
+    "name": "カネコ・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%83%8D%E3%82%B3%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "5a930396",
+    "name": "グエン・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B0%E3%82%A8%E3%83%B3%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "853a3b3d",
+    "name": "グレンデル・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B0%E3%83%AC%E3%83%B3%E3%83%87%E3%83%AB%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "30be5405",
+    "name": "クロヤギ・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%AD%E3%83%A4%E3%82%AE%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "29226512",
+    "name": "ケイトー・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B1%E3%82%A4%E3%83%88%E3%83%BC%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "96afb87a",
+    "name": "ゲド・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B2%E3%83%89%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "f9c110ac",
+    "name": "ウィッカーマン",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%82%A3%E3%83%83%E3%82%AB%E3%83%BC%E3%83%9E%E3%83%B3",
+    "aliases": [
+      "ゴグウ・ニンジャ"
+    ]
+  },
+  {
+    "id": "7580053a",
+    "name": "ココバ・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B3%E3%82%B3%E3%83%90%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "95b9abb1",
+    "name": "ゴルジ・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B4%E3%83%AB%E3%82%B8%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "1c8e133c",
+    "name": "サカラギ・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%82%AB%E3%83%A9%E3%82%AE%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "d9601ba8",
+    "name": "サザナミ・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%82%B6%E3%83%8A%E3%83%9F%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "4a89c486",
+    "name": "サナダ・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%8A%E3%83%80%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "da6a656b",
+    "name": "ザンコク・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B6%E3%83%B3%E3%82%B3%E3%82%AF%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "eab94a3e",
+    "name": "ザンマ・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B6%E3%83%B3%E3%83%9E%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "d088c9de",
+    "name": "ゼツメツ・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BC%E3%83%84%E3%83%A1%E3%83%84%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "63f4c0a1",
+    "name": "センド・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BB%E3%83%B3%E3%83%89%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "3e7d152f",
+    "name": "ゾウ・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BE%E3%82%A6%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "49365b6c",
+    "name": "ダイコク・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%80%E3%82%A4%E3%82%B3%E3%82%AF%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "6702d694",
+    "name": "タマテ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%83%9E%E3%83%86",
+    "aliases": [
+      "タマテ・ニンジャ"
+    ]
+  },
+  {
+    "id": "8d69a2ab",
+    "name": "ダンア・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%80%E3%83%B3%E3%82%A2%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "f3c1fae3",
+    "name": "テスラ・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%86%E3%82%B9%E3%83%A9%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "ff608e51",
+    "name": "アイアンコブラ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%96%E3%83%A9",
+    "aliases": [
+      "ドクガ・ニンジャ"
+    ]
+  },
+  {
+    "id": "738f54c8",
+    "name": "ドクロ・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%89%E3%82%AF%E3%83%AD%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "7a9631b5",
+    "name": "ナガリ・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8A%E3%82%AC%E3%83%AA%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "404bb6e6",
+    "name": "バズヴ・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%82%BA%E3%83%B4%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "c6e37fb3",
+    "name": "パズズ・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%91%E3%82%BA%E3%82%BA%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "41d57c95",
+    "name": "マスターヴォーパル",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%B4%E3%82%A9%E3%83%BC%E3%83%91%E3%83%AB",
+    "aliases": [
+      "ハブ・ニンジャ"
+    ]
+  },
+  {
+    "id": "4497ee71",
+    "name": "パンク・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%91%E3%83%B3%E3%82%AF%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "75a71bcc",
+    "name": "ヒカリ・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%92%E3%82%AB%E3%83%AA%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "54b02ac6",
+    "name": "ヒグマ・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%92%E3%82%B0%E3%83%9E%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "790d44ac",
+    "name": "ヒスイ・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%92%E3%82%B9%E3%82%A4%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "4123b09e",
+    "name": "ピット・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%94%E3%83%83%E3%83%88%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "82aeec63",
+    "name": "ヒャッポ・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%92%E3%83%A3%E3%83%83%E3%83%9D%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "c3b95de3",
+    "name": "ヘラジカ・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%A9%E3%82%B8%E3%82%AB%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "b70edca3",
+    "name": "ベンケ・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%99%E3%83%B3%E3%82%B1%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "c1521500",
+    "name": "ホンダ・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9B%E3%83%B3%E3%83%80%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "e6a56649",
+    "name": "ファフニール",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A1%E3%83%95%E3%83%8B%E3%83%BC%E3%83%AB",
+    "aliases": [
+      "マガツ・ニンジャ"
+    ]
+  },
+  {
+    "id": "1f0cce54",
+    "name": "モモジ・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%A2%E3%82%B8%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "d3b19134",
+    "name": "モリアン・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "b5711329",
+    "name": "ヤイバ・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A4%E3%82%A4%E3%83%90%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "f7b717a5",
+    "name": "ヤマイヌ・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A4%E3%83%9E%E3%82%A4%E3%83%8C%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "b1bf84c9",
+    "name": "ヨシザネ・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A8%E3%82%B7%E3%82%B6%E3%83%8D%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "5c943e8e",
+    "name": "ライチョウ・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%82%A4%E3%83%81%E3%83%A7%E3%82%A6%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "26772de3",
+    "name": "クセツ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%82%BB%E3%83%84",
+    "aliases": [
+      "ランマル・ニンジャ"
+    ]
+  },
+  {
+    "id": "c955e5f1",
+    "name": "レイケン・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%82%A4%E3%82%B1%E3%83%B3%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "6163cf5f",
+    "name": "ワンバ・ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AF%E3%83%B3%E3%83%90%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "4ac809ad",
+    "name": "アラクネ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%A9%E3%82%AF%E3%83%8D"
+  },
+  {
+    "id": "15df4d23",
+    "name": "オード",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AA%E3%83%BC%E3%83%89"
+  },
+  {
+    "id": "467f68d0",
+    "name": "オールドストーン",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%89%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3"
+  },
+  {
+    "id": "7ada5919",
+    "name": "オベロン",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AA%E3%83%99%E3%83%AD%E3%83%B3"
+  },
+  {
+    "id": "f56229c2",
+    "name": "キツネ・ウエスギ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AD%E3%83%84%E3%83%8D%E3%83%BB%E3%82%A6%E3%82%A8%E3%82%B9%E3%82%AE"
+  },
+  {
+    "id": "3893e584",
+    "name": "〈残忍なる氷の刃の〉シロ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%80%88%E6%AE%8B%E5%BF%8D%E3%81%AA%E3%82%8B%E6%B0%B7%E3%81%AE%E5%88%83%E3%81%AE%E3%80%89%E3%82%B7%E3%83%AD"
+  },
+  {
+    "id": "a73791d5",
+    "name": "シナリイ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%8A%E3%83%AA%E3%82%A4"
+  },
+  {
+    "id": "e0cbea05",
+    "name": "ティアマト",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%86%E3%82%A3%E3%82%A2%E3%83%9E%E3%83%88"
+  },
+  {
+    "id": "25f8ddeb",
+    "name": "デスフロムアバブ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B9%E3%83%95%E3%83%AD%E3%83%A0%E3%82%A2%E3%83%90%E3%83%96"
+  },
+  {
+    "id": "949c706c",
+    "name": "ドーンブレイド",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%89%E3%83%BC%E3%83%B3%E3%83%96%E3%83%AC%E3%82%A4%E3%83%89"
+  },
+  {
+    "id": "b1edc027",
+    "name": "〈卑劣なる炎の〉ナカジマ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%80%88%E5%8D%91%E5%8A%A3%E3%81%AA%E3%82%8B%E7%82%8E%E3%81%AE%E3%80%89%E3%83%8A%E3%82%AB%E3%82%B8%E3%83%9E"
+  },
+  {
+    "id": "5d8530f8",
+    "name": "ブル・ヘイケ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%AB%E3%83%BB%E3%83%98%E3%82%A4%E3%82%B1"
+  },
+  {
+    "id": "0670e84c",
+    "name": "ホロウシンガー",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9B%E3%83%AD%E3%82%A6%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%BC"
+  },
+  {
+    "id": "f8883187",
+    "name": "マイトイカラス",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%A4%E3%83%88%E3%82%A4%E3%82%AB%E3%83%A9%E3%82%B9"
+  },
+  {
+    "id": "680b6539",
+    "name": "インヴェイン",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%83%B3%E3%83%B4%E3%82%A7%E3%82%A4%E3%83%B3"
+  },
+  {
+    "id": "d644bc43",
+    "name": "ディミトリ",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%A3%E3%83%9F%E3%83%88%E3%83%AA"
+  },
+  {
+    "id": "09da4e47",
+    "name": "クローザー",
+    "ninjaType": "リアルニンジャ",
+    "organizations": [],
+    "appearances": [],
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%AD%E3%83%BC%E3%82%B6%E3%83%BC"
   }
 ]
