@@ -4893,6 +4893,15 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
+    "skills": [
+      "ダイジャ・バイト",
+      "ドク・ジツ"
+    ],
+    "role": "ソウカイ・シックスゲイツ",
+    "appearance": "黄緑色のニンジャ装束。首に巻かれた蛇。\n両腕を汚い包帯で巻かれている。その中には巨大な生きた大蛇が生えている。\n右腕はアナコンダ、左腕はコブラ。",
+    "description": "ソウカイ・シックスゲイツの一人。\n抗争で失った両腕を危険なバイオ手術で補った。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B3%E3%83%83%E3%82%AB%E3%83%88%E3%83%AA%E3%82%B9",
     "appearances": [
       {
         "id": "gx89trl9"
@@ -4900,14 +4909,7 @@
       {
         "id": "vr3fq73p"
       }
-    ],
-    "skills": [
-      "ダイジャ・バイト",
-      "ドク・ジツ"
-    ],
-    "description": "ソウカイ・シックスゲイツの一人。\n抗争で失った両腕を危険なバイオ手術で補った。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B3%E3%83%83%E3%82%AB%E3%83%88%E3%83%AA%E3%82%B9"
+    ]
   },
   {
     "id": "e93dc3e2",
@@ -4967,17 +4969,20 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": [
-      {
-        "id": "uduraffr"
-      }
-    ],
     "skills": [
       "フドウカナシバリ・ジツ",
       "ゼゲン・ゲイズ"
     ],
+    "role": "ソウカイ・シックスゲイツ",
+    "appearance": "車椅子。サイバーサングラス。青色の瞳。身長183cm。",
     "description": "ソウカイ・シックスゲイツの一人。\nジツと話術によって巧みに人心を操る。\n負傷を負う前は強力なカラテ戦士でもあった。",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%93%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC"
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%93%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC",
+    "appearances": [
+      {
+        "id": "uduraffr"
+      }
+    ]
   },
   {
     "id": "4fb59b2a",
@@ -5033,6 +5038,18 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
+    "skills": [
+      "ステルス凧",
+      "サーチライト",
+      "マキビシ",
+      "ヤリ",
+      "サイバーサングラス・レーザー"
+    ],
+    "role": "ソウカイ・シックスゲイツ",
+    "appearance": "オフホワイトのニンジャ装束。様々な威圧的ショドーが書かれた凧。",
+    "description": "ソウカイ・シックスゲイツの一人。\n凧に乗って空を舞い、斥侯からサポートまで幅広くこなす。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%AB%E3%82%AB%E3%82%A4%E3%83%88",
     "appearances": [
       {
         "id": "kqp68e75"
@@ -5052,17 +5069,7 @@
       {
         "id": "9lclsu2q"
       }
-    ],
-    "skills": [
-      "ステルス凧",
-      "サーチライト",
-      "マキビシ",
-      "ヤリ",
-      "サイバーサングラス・レーザー"
-    ],
-    "description": "ソウカイ・シックスゲイツの一人。\n凧に乗って空を舞い、斥侯からサポートまで幅広くこなす。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%AB%E3%82%AB%E3%82%A4%E3%83%88"
+    ]
   },
   {
     "id": "49a3fe5b",
@@ -5387,17 +5394,18 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
+    "skills": [
+      "シュギ・ジキ"
+    ],
+    "role": "ソウカイ・シックスゲイツ",
+    "description": "ソウカイ・シックスゲイツの一人。\n料亭「ダルマ」の４階を棲家とし、\n数々の罠でニンジャスレイヤーを苦しめた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8A%E3%82%A4%E3%83%88%E3%82%B7%E3%82%A7%E3%82%A4%E3%83%89",
     "appearances": [
       {
         "id": "jx5eajyo"
       }
-    ],
-    "skills": [
-      "シュギ・ジキ"
-    ],
-    "description": "ソウカイ・シックスゲイツの一人。\n料亭「ダルマ」の４階を棲家とし、\n数々の罠でニンジャスレイヤーを苦しめた。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8A%E3%82%A4%E3%83%88%E3%82%B7%E3%82%A7%E3%82%A4%E3%83%89"
+    ]
   },
   {
     "id": "0781b55f",
@@ -5449,16 +5457,18 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
+    "skills": [
+      "カトン・パンチ"
+    ],
+    "appearance": "痩身。灰色のスーツ姿。ダークオレンジ色のニンジャ装束。金属製メンポ。\nウキヨエ版では「火」のカンジを模したメンポ。\nアニメイシヨンでは緑のスーツに赤いメンポ。",
+    "description": "ソウカイヤのニンジャ。\n殴った相手を発火させるカトン・ジツの使い手。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%BC%E3%82%BD%E3%83%B3",
     "appearances": [
       {
         "id": "acb9wyjb"
       }
-    ],
-    "skills": [
-      "カトン・パンチ"
-    ],
-    "description": "ソウカイヤのニンジャ。\n殴った相手を発火させるカトン・ジツの使い手。",
-    "status": "dead"
+    ]
   },
   {
     "id": "a7d9c8bc",
@@ -5645,17 +5655,18 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
+    "skills": [
+      "デン・ジツ"
+    ],
+    "appearance": "白いスーツ。若いニンジャ。トゲトゲした金髪。",
+    "description": "ソウカイヤのニンジャ。スカウト部門所属。\nデン・ジツの使い手。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%83%B3%E3%83%91%E3%83%AB%E3%82%B9#:hl:word=%E3%82%A4%E3%83%B3%E3%83%91",
     "appearances": [
       {
         "id": "f0psa406"
       }
-    ],
-    "skills": [
-      "デン・ジツ"
-    ],
-    "description": "ソウカイヤのニンジャ。スカウト部門所属。\nデン・ジツの使い手。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%83%B3%E3%83%91%E3%83%AB%E3%82%B9#:hl:word=%E3%82%A4%E3%83%B3%E3%83%91"
+    ]
   },
   {
     "id": "25ffc0c6",
@@ -5825,6 +5836,13 @@
         "name": "シャーテック"
       }
     ],
+    "skills": [
+      "スナイパー・スリケン"
+    ],
+    "appearance": "ギリー・ニンジャ装束。ガスマスク状の特殊メンポ。狙撃用スコープ。\nスナイパー・スリケン射出用ガントレット。",
+    "description": "ソウカイヤの狙撃ニンジャ。\n彼が創出した組織が母体となり、シャーテックに引き継がれた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AC%E3%83%B3%E3%83%88%E3%83%AC%E3%83%83%E3%83%88",
     "appearances": [
       {
         "id": "op22vpoh"
@@ -5832,12 +5850,7 @@
       {
         "id": "0ij95wkj"
       }
-    ],
-    "skills": [
-      "スナイパー・スリケン"
-    ],
-    "description": "ソウカイヤの狙撃ニンジャ。\n彼が創出した組織が母体となり、シャーテックに引き継がれた。",
-    "status": "dead"
+    ]
   },
   {
     "id": "a388da3f",
@@ -6382,12 +6395,15 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": [],
     "skills": [
       "ドトン・ジツ",
       "サイバネティック・ムカデ化"
     ],
-    "description": "ソウカイヤのニンジャ。\nムカデ化で三倍の長さまで伸びる。"
+    "appearance": "小柄な体格。枯れ草色。両手に鍵爪。",
+    "description": "ソウカイヤのニンジャ。\nムカデ化で三倍の長さまで伸びる。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BB%E3%83%B3%E3%83%81%E3%83%94%E3%83%BC%E3%83%89",
+    "appearances": []
   },
   {
     "id": "007db8b7",
@@ -6760,14 +6776,34 @@
   {
     "id": "38e153e1",
     "name": "バーグラー",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "9cxnxjzu",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": []
+    "skills": [],
+    "appearance": "下卑た目つき。",
+    "description": "ソウカイヤの末端ニンジャ。\nヤクザクランの上納金をピンハネしようとする。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%83%BC%E3%82%B0%E3%83%A9%E3%83%BC",
+    "appearances": [
+      {
+        "id": "f0psa406"
+      },
+      {
+        "id": "916339c2"
+      }
+    ]
   },
   {
     "id": "67829036",
@@ -7106,17 +7142,19 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": [
-      {
-        "id": "37xaoefv"
-      }
-    ],
     "skills": [
       "十二星座動物の強化",
       "シュギ・ジキ"
     ],
+    "appearance": "青いニンジャ装束。殺（キルズ）では奇術師めいたマントとスーツ。水晶玉めいたメンポ。カイゼル髭。",
     "description": "ソウカイヤのニンジャ。\n巨大バイオズワイガニをはじめとする星座動物を使役し、\n 数々の罠でニンジャスレイヤーを苦しめた。",
-    "status": "dead"
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9B%E3%83%AD%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%97",
+    "appearances": [
+      {
+        "id": "37xaoefv"
+      }
+    ]
   },
   {
     "id": "22a607e6",
@@ -17698,18 +17736,31 @@
   {
     "id": "c291cf",
     "name": "ヤマヒロ",
-    "organizations": [
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "organizations": [],
+    "skills": [],
+    "appearance": "鋭い目付き。顎には短い鬚。右手の指を一本ケジメしており、上半身には象イレズミ。",
+    "description": "キルエレファント・ヤクザクランのオヤブン。\nヤクザクランが壊滅し、ニンジャ、そしてヤクザ天狗との奇縁に苛まれる。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A4%E3%83%9E%E3%83%92%E3%83%AD",
+    "appearances": [
       {
-        "id": "ヤクザ",
-        "name": "ヤクザ"
+        "id": "f0psa406"
       },
       {
-        "id": "スガモ重犯罪刑務所",
-        "name": "スガモ重犯罪刑務所"
+        "id": "2kk56muq"
+      },
+      {
+        "id": "ztv7aco3"
+      },
+      {
+        "id": "d28fd41c"
+      },
+      {
+        "id": "916339c2"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A4%E3%83%9E%E3%83%92%E3%83%AD"
+    ]
   },
   {
     "id": "1a99a2",
@@ -18090,14 +18141,21 @@
   {
     "id": "4e8401",
     "name": "マズダ・タロ",
-    "organizations": [
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "organizations": [],
+    "skills": [],
+    "description": "ケチなマケグミ兄弟、マズダ兄弟の長男。\n偽ニンジャ強盗団を結成し悪さを働いていた。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%BA%E3%83%80%E3%83%BB%E3%82%BF%E3%83%AD",
+    "appearances": [
       {
-        "id": "スガモ重犯罪刑務所",
-        "name": "スガモ重犯罪刑務所"
+        "id": "f0psa406"
+      },
+      {
+        "id": "ztv7aco3"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%BA%E3%83%80%E3%83%BB%E3%82%BF%E3%83%AD"
+    ]
   },
   {
     "id": "cbca72",
@@ -20833,14 +20891,34 @@
   {
     "id": "0d03dfd5",
     "name": "クラウドバスター",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "csgmqy82",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "ハチ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "オムラ_インダストリ",
         "name": "オムラ・インダストリ"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC"
+    "skills": [
+      "ジェットパック",
+      "電磁ブレード"
+    ],
+    "appearance": "酸素マスクめいたメンポ。背中にジェットパック。額にオムラ雷神紋。",
+    "description": "オムラ・インダストリの企業ニンジャ。\n自在に空を舞い電磁攻撃する。昂ると「インダストリ！」と叫ぶ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC",
+    "appearances": [
+      {
+        "id": "acb9wyjb"
+      }
+    ]
   },
   {
     "id": "1f89c0ca",
@@ -20881,16 +20959,52 @@
   {
     "id": "952cc1d4",
     "name": "グリーンエレファント",
+    "realName": "マズダ・ジロ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "orwzde2v",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%A8%E3%83%AC%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88"
+    "skills": [],
+    "appearance": "緑色の装束。ノズルのついたガスマスク的メンポ。違法生体LAN端子。",
+    "description": "ケチなマケグミ兄弟、マズダ兄弟の次男に邪悪なニンジャソウルが憑依。\nアフリカゾウに例えられるパワフルなカラテを見せる。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%A8%E3%83%AC%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88",
+    "appearances": [
+      {
+        "id": "f0psa406"
+      }
+    ]
   },
   {
     "id": "5048ea4f",
     "name": "ガスバーナ",
+    "realName": "マズダ・サブロ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "j9c4w2b7",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": "カトン系"
+    },
     "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AC%E3%82%B9%E3%83%90%E3%83%BC%E3%83%8A"
+    "skills": [],
+    "appearance": "黒いニンジャ装束。両掌にインプラントサイバネ。",
+    "description": "ケチなマケグミ兄弟、マズダ兄弟の三男に邪悪なニンジャソウルが憑依。\n両掌のサイバネからカトン・ジツを放つ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AC%E3%82%B9%E3%83%90%E3%83%BC%E3%83%8A",
+    "appearances": [
+      {
+        "id": "f0psa406"
+      }
+    ]
   },
   {
     "id": "e6902595",
@@ -20945,11 +21059,6 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": [
-      {
-        "id": "qad20i3w"
-      }
-    ],
     "skills": [
       "ダイシュリケン",
       "吹き矢（タケウチ）"
@@ -20958,7 +21067,15 @@
     "appearance": "チタン製の胴当て。紐で背負ったダイシュリケン。",
     "description": "ソウカイ・シックスゲイツの一人。\nアースクエイクの相棒。ダイシュリケンで敵を纏めて薙ぎ払う。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%92%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%B7%E3%83%A5%E3%83%AA%E3%82%B1%E3%83%B3"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%92%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%B7%E3%83%A5%E3%83%AA%E3%82%B1%E3%83%B3",
+    "appearances": [
+      {
+        "id": "c582c4a9"
+      },
+      {
+        "id": "qad20i3w"
+      }
+    ]
   },
   {
     "id": "6469eb16",
@@ -22546,6 +22663,49 @@
     "appearances": [
       {
         "id": "rvx6izeb"
+      }
+    ]
+  },
+  {
+    "id": "icxpucio",
+    "name": "ヤクザ天狗",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "organizations": [],
+    "skills": [
+      "オートマチック・ヤクザガン",
+      "ドス・ダガー",
+      "ヤクザモービル",
+      "仕込み銃"
+    ],
+    "appearance": "ヤクザスーツ。テング・オメーン。銀色の背負式ジェットエンジン。\n二丁のヤクザガン、リデンプション&アブソリューション。",
+    "description": "神出鬼没のニンジャハンター。非ニンジャ。\n贖罪のため聖戦を続けていると嘯く。\n彼は狂っている。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A4%E3%82%AF%E3%82%B6%E5%A4%A9%E7%8B%97",
+    "appearances": [
+      {
+        "id": "cpmbwnte"
+      },
+      {
+        "id": "c7673819"
+      },
+      {
+        "id": "f0psa406"
+      },
+      {
+        "id": "xebveoef"
+      },
+      {
+        "id": "db1b5ac6"
+      },
+      {
+        "id": "ztv7aco3"
+      },
+      {
+        "id": "d28fd41c"
+      },
+      {
+        "id": "916339c2"
       }
     ]
   }
