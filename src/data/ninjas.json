@@ -5751,6 +5751,11 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
+    "appearances": [
+      {
+        "id": "dd6cebbd"
+      }
+    ],
     "skills": [
       "鋼鉄メリケンサック",
       "ボックス・カラテ"
@@ -5758,12 +5763,7 @@
     "appearance": "ソウカイヤの紋が入ったニンジャ装束。ニンジャ頭。\n凶悪な鋼鉄メリケンサック。",
     "description": "ソウカイヤの末端ニンジャ。\n卑劣なナックルダスターを使う。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%95%E3%82%A3%E3%82%B9%E3%83%88",
-    "appearances": [
-      {
-        "id": "dd6cebbd"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%95%E3%82%A3%E3%82%B9%E3%83%88"
   },
   {
     "id": "ba14486c",
@@ -6973,18 +6973,18 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
+    "appearances": [
+      {
+        "id": "dd6cebbd"
+      }
+    ],
     "skills": [
       "イアイドー"
     ],
     "appearance": "ソウカイヤの紋が入った装束。メンポ。\n「死」と書かれた黒いハチマキ。",
     "description": "ソウカイヤの末端ニンジャ。\nイアイドーの使い手。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%83%83%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3",
-    "appearances": [
-      {
-        "id": "dd6cebbd"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%83%83%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3"
   },
   {
     "id": "81ea7223",
@@ -7894,41 +7894,94 @@
   {
     "id": "68bd50e1",
     "name": "ダストスパイダー",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "y5epbwhz",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%80%E3%82%B9%E3%83%88%E3%82%B9%E3%83%91%E3%82%A4%E3%83%80%E3%83%BC"
+    "skills": [
+      "クモノス・ジツ"
+    ],
+    "appearance": "古狸めいたシルエットを描く小太りの体格。ニンジャ頭巾。メンポ。\n鋼鉄製のブレーサー。",
+    "description": "ソウカイヤの古参ニンジャ。キョート駐屯組。\n相手を拘束するクモノス・ジツの使い手。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%80%E3%82%B9%E3%83%88%E3%82%B9%E3%83%91%E3%82%A4%E3%83%80%E3%83%BC",
+    "appearances": [
+      {
+        "id": "6skk9fi6"
+      }
+    ]
   },
   {
     "id": "efe82734",
     "name": "ヴァンガード",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "6jwsf110",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%AC%E3%83%BC%E3%83%89"
+    "skills": [
+      "イアイドー",
+      "ムーンシャドウ"
+    ],
+    "appearance": "ニンジャソード。",
+    "description": "ソウカイヤのニンジャ。キョート駐屯組。\n高度なイアイドーの使い手。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%AC%E3%83%BC%E3%83%89",
+    "appearances": [
+      {
+        "id": "6skk9fi6"
+      }
+    ]
   },
   {
     "id": "bfd82ffa",
     "name": "テラーマシーン",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "7agjkxsq",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%86%E3%83%A9%E3%83%BC%E3%83%9E%E3%82%B7%E3%83%BC%E3%83%B3"
+    "skills": [],
+    "appearance": "黒いフルメンポ。白黒が逆転した目。",
+    "description": "ソウカイヤのニンジャ。キョート駐屯組。\n拷問、脅迫を得意とする。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%86%E3%83%A9%E3%83%BC%E3%83%9E%E3%82%B7%E3%83%BC%E3%83%B3",
+    "appearances": [
+      {
+        "id": "6skk9fi6"
+      }
+    ]
   },
   {
     "id": "d4f1bdf1",
@@ -7979,15 +8032,6 @@
         "name": "アマクダリ"
       }
     ],
-    "skills": [
-      "イアイドー",
-      "ソンケイ"
-    ],
-    "role": "オヤブン",
-    "appearance": "第3部：上等なアルマーニのスーツ。群青色の目。コケシ・カット。\n第4部：三つ揃えのスーツ。後方に撫で付けた銀髪。身長170㎝。",
-    "description": "ラオモト・カンの嫡子。後のソウカイヤのオヤブン。\n非ニンジャの身で当然のようにニンジャを従える。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%82%AA%E3%83%A2%E3%83%88%E3%83%BB%E3%83%81%E3%83%90",
     "appearances": [
       {
         "id": "9lclsu2q"
@@ -8091,7 +8135,16 @@
       {
         "id": "92d5732c"
       }
-    ]
+    ],
+    "skills": [
+      "イアイドー",
+      "ソンケイ"
+    ],
+    "role": "オヤブン",
+    "appearance": "第3部：上等なアルマーニのスーツ。群青色の目。コケシ・カット。\n第4部：三つ揃えのスーツ。後方に撫で付けた銀髪。身長170㎝。",
+    "description": "ラオモト・カンの嫡子。後のソウカイヤのオヤブン。\n非ニンジャの身で当然のようにニンジャを従える。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%82%AA%E3%83%A2%E3%83%88%E3%83%BB%E3%83%81%E3%83%90"
   },
   {
     "id": "f7fbccb0",
@@ -8112,15 +8165,6 @@
         "name": "ソウカイヤ（第4部）"
       }
     ],
-    "skills": [
-      "カンザシ・ニードル",
-      "ステルス・ジツ（軽度）"
-    ],
-    "role": "側近",
-    "appearance": "オシロイを塗った魅惑的なオイラン姿、もしくは化粧を落としたレトロメイドオイラン姿。\nキモノ姿。髪にカンザシ。",
-    "description": "ラオモト・チバの側近兼秘書。\n諜報能力に長け、隠密行動もこなす。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%86%E3%83%B3%E3%83%97%E3%83%86%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3",
     "appearances": [
       {
         "id": "dd6cebbd"
@@ -8134,7 +8178,16 @@
       {
         "id": "typqvzha"
       }
-    ]
+    ],
+    "skills": [
+      "カンザシ・ニードル",
+      "ステルス・ジツ（軽度）"
+    ],
+    "role": "側近",
+    "appearance": "オシロイを塗った魅惑的なオイラン姿、もしくは化粧を落としたレトロメイドオイラン姿。\nキモノ姿。髪にカンザシ。",
+    "description": "ラオモト・チバの側近兼秘書。\n諜報能力に長け、隠密行動もこなす。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%86%E3%83%B3%E3%83%97%E3%83%86%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3"
   },
   {
     "id": "0787ba18",
@@ -8159,13 +8212,6 @@
         "name": "アマクダリ（第3部）"
       }
     ],
-    "skills": [
-      "凶暴化"
-    ],
-    "role": "側近",
-    "appearance": "傷だらけの身体。ジュー・ウェア型ニンジャ装束。ブレーサー。黒金メンポ。\nフォーマルな場では黒スーツ。",
-    "description": "ラオモト・チバの忠実なる側近兼ボディーガード。身長188cm。\n愚直に敵を殴り続ける。",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8D%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%A2%E3%82%A2",
     "appearances": [
       {
         "id": "dd6cebbd"
@@ -8227,7 +8273,14 @@
       {
         "id": "rnyclxp8"
       }
-    ]
+    ],
+    "skills": [
+      "凶暴化"
+    ],
+    "role": "側近",
+    "appearance": "傷だらけの身体。ジュー・ウェア型ニンジャ装束。ブレーサー。黒金メンポ。\nフォーマルな場では黒スーツ。",
+    "description": "ラオモト・チバの忠実なる側近兼ボディーガード。身長188cm。\n愚直に敵を殴り続ける。",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8D%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%A2%E3%82%A2"
   },
   {
     "id": "6c38dda0",
@@ -9119,7 +9172,15 @@
   {
     "id": "de3d325f",
     "name": "ミラーシェード",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "j7002cgj",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "シノビ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "zaibatsu-p2",
@@ -9130,8 +9191,34 @@
         "name": "ザイバツ（第3部以降）"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9F%E3%83%A9%E3%83%BC%E3%82%B7%E3%82%A7%E3%83%BC%E3%83%89"
+    "skills": [
+      "ステルス・ジツ"
+    ],
+    "role": "グランドマスター位階",
+    "appearance": "ステルス素材で作られた黒いニンジャ装束。",
+    "description": "ザイバツのニンジャ。\nサラマンダー派閥に属し、シャドー・コンにも参戦していた。\n第三部ではグランドマスター位階。超自然のステルスを使う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9F%E3%83%A9%E3%83%BC%E3%82%B7%E3%82%A7%E3%83%BC%E3%83%89",
+    "appearances": [
+      {
+        "id": "6skk9fi6"
+      },
+      {
+        "id": "wbfhbzoh"
+      },
+      {
+        "id": "12ml6hmz"
+      },
+      {
+        "id": "vrg4755o"
+      },
+      {
+        "id": "vyhgnuh0"
+      },
+      {
+        "id": "8r8ibb8m"
+      }
+    ]
   },
   {
     "id": "c2a4720e",
@@ -9176,16 +9263,6 @@
         "name": "ザイバツ（第2部）"
       }
     ],
-    "skills": [
-      "ムチ・ドー",
-      "テレキネシス",
-      "コマ・ジツ"
-    ],
-    "role": "マスター位階",
-    "appearance": "頭巾。メンポ。手足と腰に装備された複数のコマ。",
-    "description": "ザイバツのマスター位階ニンジャ。ソウカイヤ駐屯組の指揮官。\n大小様々なコマを操り攻撃する。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AF%E3%82%A4%E3%83%AB%E3%83%89%E3%83%8F%E3%83%B3%E3%83%88",
     "appearances": [
       {
         "id": "9j0jnn2l"
@@ -9199,7 +9276,17 @@
       {
         "id": "tqlc7ayk"
       }
-    ]
+    ],
+    "skills": [
+      "ムチ・ドー",
+      "テレキネシス",
+      "コマ・ジツ"
+    ],
+    "role": "マスター位階",
+    "appearance": "頭巾。メンポ。手足と腰に装備された複数のコマ。",
+    "description": "ザイバツのマスター位階ニンジャ。ソウカイヤ駐屯組の指揮官。\n大小様々なコマを操り攻撃する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AF%E3%82%A4%E3%83%AB%E3%83%89%E3%83%8F%E3%83%B3%E3%83%88"
   },
   {
     "id": "e1b92c55",
@@ -9414,14 +9501,6 @@
         "name": "ザイバツ（第2部）"
       }
     ],
-    "skills": [
-      "ザオ・ケン"
-    ],
-    "role": "アデプト位階",
-    "appearance": "白いスプリントアーマー装束。鉄仮面メンポ。目と口を縫い合わされている。身長210cm。\n10フィート長のカタナ「ザオ・ケン」。",
-    "description": "ザイバツのニンジャ。ネオサイタマ駐屯組。\nアデプト位階だがその実力はマスター位階にも匹敵。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%83%B3%E3%83%9A%E3%82%A4%E3%83%AB%E3%83%A1%E3%83%B3%E3%83%88",
     "appearances": [
       {
         "id": "n18b20ae"
@@ -9435,7 +9514,15 @@
       {
         "id": "tqlc7ayk"
       }
-    ]
+    ],
+    "skills": [
+      "ザオ・ケン"
+    ],
+    "role": "アデプト位階",
+    "appearance": "白いスプリントアーマー装束。鉄仮面メンポ。目と口を縫い合わされている。身長210cm。\n10フィート長のカタナ「ザオ・ケン」。",
+    "description": "ザイバツのニンジャ。ネオサイタマ駐屯組。\nアデプト位階だがその実力はマスター位階にも匹敵。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%83%B3%E3%83%9A%E3%82%A4%E3%83%AB%E3%83%A1%E3%83%B3%E3%83%88"
   },
   {
     "id": "bf868421",
@@ -10175,14 +10262,42 @@
   {
     "id": "80193564",
     "name": "バンダースナッチ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "16qnr8oe",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "シノビ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "zaibatsu-p2",
         "name": "ザイバツ（第2部）"
       }
     ],
-    "appearances": []
+    "skills": [
+      "常人の三倍の脚力",
+      "ケムリ・ダマ",
+      "ステルス・ジツ"
+    ],
+    "role": "アデプト位階",
+    "appearance": "夜のしじまのごとき漆黒のニンジャ装束。\n醜い顔をメンポで隠している。",
+    "description": "ザイバツのアデプト斥侯ニンジャ。\n特定の派閥を持たない。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%83%B3%E3%83%80%E3%83%BC%E3%82%B9%E3%83%8A%E3%83%83%E3%83%81",
+    "appearances": [
+      {
+        "id": "6skk9fi6"
+      },
+      {
+        "id": "9a9c26f3"
+      },
+      {
+        "id": "t4m7hei5"
+      }
+    ]
   },
   {
     "id": "8c989377",
