@@ -5934,14 +5934,33 @@
   {
     "id": "6cae5ece",
     "name": "クエスチョナー",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "75xj2wia",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "ダマシ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": []
+    "skills": [
+      "スフィンクス・カラテ"
+    ],
+    "appearance": "細身のスーツ、またはジュー・ウェア。",
+    "description": "ソウカイヤの末端ニンジャ。\n謎かけが得意。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%81%E3%83%A7%E3%83%8A%E3%83%BC",
+    "appearances": [
+      {
+        "id": "2aa88754"
+      }
+    ]
   },
   {
     "id": "28ed9612",
@@ -5977,14 +5996,31 @@
   {
     "id": "087959e3",
     "name": "グレイハウンド",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "uu968j45",
+      "name": "",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": []
+    "skills": [
+      "アンタイニンジャ・クロスボウ"
+    ],
+    "appearance": "深い群青色のニンジャ装束。頭巾の額にソウカイヤ紋。\n青白く発光した瞳。",
+    "description": "ソウカイヤのニンジャ。フェルピットの兄貴分。\nカタキウチのためヤクザ天狗を狙う。",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B0%E3%83%AC%E3%82%A4%E3%83%8F%E3%82%A6%E3%83%B3%E3%83%89",
+    "appearances": [
+      {
+        "id": "c7673819"
+      }
+    ]
   },
   {
     "id": "dac55c07",
@@ -6644,14 +6680,33 @@
   {
     "id": "2a0cbb2b",
     "name": "デスソーサー",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "0gdtoj1o",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": []
+    "skills": [
+      "大型鋼鉄円盤"
+    ],
+    "appearance": "身長2m超。鬼めいたメンポ。",
+    "description": "ソウカイヤのニンジャ。\nピザカッターめいた円盤を投擲する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B9%E3%82%BD%E3%83%BC%E3%82%B5%E3%83%BC",
+    "appearances": [
+      {
+        "id": "d812e17e"
+      }
+    ]
   },
   {
     "id": "891a35c4",
@@ -7030,14 +7085,30 @@
   {
     "id": "1d1f966c",
     "name": "フェルピット",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "uh7e16ia",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": []
+    "skills": [],
+    "description": "ソウカイヤのニンジャ。\nグレイハウンドの弟分。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%94%E3%83%83%E3%83%88",
+    "appearances": [
+      {
+        "id": "c7673819"
+      }
+    ]
   },
   {
     "id": "e2fc870b",
@@ -7075,14 +7146,32 @@
   {
     "id": "1b63e008",
     "name": "ブルースクイッド",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "rut3tom4",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": []
+    "skills": [
+      "ポイズンインク・スリケン"
+    ],
+    "appearance": "強化ハチマキ。サイバネアイ。",
+    "description": "ソウカイヤの末端ニンジャ。\n黒い毒性のスリケンを投擲する。",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%AB%E3%83%BC%E3%82%B9%E3%82%AF%E3%82%A4%E3%83%83%E3%83%89",
+    "appearances": [
+      {
+        "id": "a1475ecf"
+      }
+    ]
   },
   {
     "id": "db86f700",
@@ -12248,14 +12337,45 @@
   {
     "id": "e1e55d45",
     "name": "ヘヴィレイン",
+    "realName": "イノウ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "u23vax33",
+      "name": "",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "amakudari-p3",
         "name": "アマクダリ（第3部）"
       }
     ],
-    "appearances": []
+    "skills": [
+      "湾岸警備隊の装備"
+    ],
+    "appearance": "ハチガネ状のフルフェイスメンポ装甲。最新式のハイ・テック・ミリタリー・ニンジャ装束。\n背中に「トクシュブタイ」の文字。",
+    "description": "湾岸警備隊上がりの元スラッシャーにニンジャソウルが憑依。\nハーヴェスター配下ニンジャとして活躍。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%83%8E%E3%82%A6",
+    "appearances": [
+      {
+        "id": "42ba7812"
+      },
+      {
+        "id": "xh9n74xs"
+      },
+      {
+        "id": "8140b365"
+      },
+      {
+        "id": "996b5766"
+      },
+      {
+        "id": "8r8ibb8m"
+      }
+    ]
   },
   {
     "id": "866e14e0",
