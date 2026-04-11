@@ -5736,14 +5736,34 @@
   {
     "id": "35de511a",
     "name": "アイアンフィスト",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "bgb4b55m",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": []
+    "skills": [
+      "鋼鉄メリケンサック",
+      "ボックス・カラテ"
+    ],
+    "appearance": "ソウカイヤの紋が入ったニンジャ装束。ニンジャ頭。\n凶悪な鋼鉄メリケンサック。",
+    "description": "ソウカイヤの末端ニンジャ。\n卑劣なナックルダスターを使う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%95%E3%82%A3%E3%82%B9%E3%83%88",
+    "appearances": [
+      {
+        "id": "dd6cebbd"
+      }
+    ]
   },
   {
     "id": "ba14486c",
@@ -6939,14 +6959,32 @@
   {
     "id": "891a35c4",
     "name": "デッドライン",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "c9kwdwwm",
+      "name": "",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": []
+    "skills": [
+      "イアイドー"
+    ],
+    "appearance": "ソウカイヤの紋が入った装束。メンポ。\n「死」と書かれた黒いハチマキ。",
+    "description": "ソウカイヤの末端ニンジャ。\nイアイドーの使い手。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%83%83%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3",
+    "appearances": [
+      {
+        "id": "dd6cebbd"
+      }
+    ]
   },
   {
     "id": "81ea7223",
@@ -7929,6 +7967,7 @@
   {
     "id": "8d45a205",
     "name": "ラオモト・チバ",
+    "aliases": [],
     "ninjaType": "非ニンジャ",
     "organizations": [
       {
@@ -7940,26 +7979,176 @@
         "name": "アマクダリ"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%82%AA%E3%83%A2%E3%83%88%E3%83%BB%E3%83%81%E3%83%90"
+    "skills": [
+      "イアイドー",
+      "ソンケイ"
+    ],
+    "role": "オヤブン",
+    "appearance": "第3部：上等なアルマーニのスーツ。群青色の目。コケシ・カット。\n第4部：三つ揃えのスーツ。後方に撫で付けた銀髪。身長170㎝。",
+    "description": "ラオモト・カンの嫡子。後のソウカイヤのオヤブン。\n非ニンジャの身で当然のようにニンジャを従える。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%82%AA%E3%83%A2%E3%83%88%E3%83%BB%E3%83%81%E3%83%90",
+    "appearances": [
+      {
+        "id": "9lclsu2q"
+      },
+      {
+        "id": "dd6cebbd"
+      },
+      {
+        "id": "q0zjg8rk"
+      },
+      {
+        "id": "tqlc7ayk"
+      },
+      {
+        "id": "5b7a2175"
+      },
+      {
+        "id": "bc4c96e8"
+      },
+      {
+        "id": "st6b9q7x"
+      },
+      {
+        "id": "222c43b6"
+      },
+      {
+        "id": "a72113c1"
+      },
+      {
+        "id": "99d1ba29"
+      },
+      {
+        "id": "12216e23"
+      },
+      {
+        "id": "180a24b4"
+      },
+      {
+        "id": "zqv40ass"
+      },
+      {
+        "id": "x9g18jha"
+      },
+      {
+        "id": "aaa70fe2"
+      },
+      {
+        "id": "z7rgd0bm"
+      },
+      {
+        "id": "5jvbtmyb"
+      },
+      {
+        "id": "7c7a172e"
+      },
+      {
+        "id": "rwd4t44a"
+      },
+      {
+        "id": "a5aiu21s"
+      },
+      {
+        "id": "yrr4132n"
+      },
+      {
+        "id": "2v6e48gz"
+      },
+      {
+        "id": "e9c2b6e2"
+      },
+      {
+        "id": "996b5766"
+      },
+      {
+        "id": "8r8ibb8m"
+      },
+      {
+        "id": "c026d959"
+      },
+      {
+        "id": "80qupnd7"
+      },
+      {
+        "id": "1a2c92e1"
+      },
+      {
+        "id": "wjryt0u9"
+      },
+      {
+        "id": "typqvzha"
+      },
+      {
+        "id": "his9gvkp"
+      },
+      {
+        "id": "i1ad8xb2"
+      },
+      {
+        "id": "rnyclxp8"
+      },
+      {
+        "id": "92d5732c"
+      }
+    ]
   },
   {
     "id": "f7fbccb0",
     "name": "テンプテイション",
+    "realName": "シノミユリ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "nw19br1f",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p4",
         "name": "ソウカイヤ（第4部）"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%86%E3%83%B3%E3%83%97%E3%83%86%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3"
+    "skills": [
+      "カンザシ・ニードル",
+      "ステルス・ジツ（軽度）"
+    ],
+    "role": "側近",
+    "appearance": "オシロイを塗った魅惑的なオイラン姿、もしくは化粧を落としたレトロメイドオイラン姿。\nキモノ姿。髪にカンザシ。",
+    "description": "ラオモト・チバの側近兼秘書。\n諜報能力に長け、隠密行動もこなす。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%86%E3%83%B3%E3%83%97%E3%83%86%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3",
+    "appearances": [
+      {
+        "id": "dd6cebbd"
+      },
+      {
+        "id": "996b5766"
+      },
+      {
+        "id": "1a2c92e1"
+      },
+      {
+        "id": "typqvzha"
+      }
+    ]
   },
   {
     "id": "0787ba18",
     "name": "ネヴァーモア",
+    "realName": "オニヤス・カネコ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "uam9ip8n",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p4",
@@ -7970,8 +8159,75 @@
         "name": "アマクダリ（第3部）"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8D%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%A2%E3%82%A2"
+    "skills": [
+      "凶暴化"
+    ],
+    "role": "側近",
+    "appearance": "傷だらけの身体。ジュー・ウェア型ニンジャ装束。ブレーサー。黒金メンポ。\nフォーマルな場では黒スーツ。",
+    "description": "ラオモト・チバの忠実なる側近兼ボディーガード。身長188cm。\n愚直に敵を殴り続ける。",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8D%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%A2%E3%82%A2",
+    "appearances": [
+      {
+        "id": "dd6cebbd"
+      },
+      {
+        "id": "5b7a2175"
+      },
+      {
+        "id": "st6b9q7x"
+      },
+      {
+        "id": "a72113c1"
+      },
+      {
+        "id": "12216e23"
+      },
+      {
+        "id": "180a24b4"
+      },
+      {
+        "id": "zqv40ass"
+      },
+      {
+        "id": "x9g18jha"
+      },
+      {
+        "id": "aaa70fe2"
+      },
+      {
+        "id": "5jvbtmyb"
+      },
+      {
+        "id": "rwd4t44a"
+      },
+      {
+        "id": "yrr4132n"
+      },
+      {
+        "id": "2v6e48gz"
+      },
+      {
+        "id": "996b5766"
+      },
+      {
+        "id": "8r8ibb8m"
+      },
+      {
+        "id": "80qupnd7"
+      },
+      {
+        "id": "1a2c92e1"
+      },
+      {
+        "id": "his9gvkp"
+      },
+      {
+        "id": "i1ad8xb2"
+      },
+      {
+        "id": "rnyclxp8"
+      }
+    ]
   },
   {
     "id": "6c38dda0",
