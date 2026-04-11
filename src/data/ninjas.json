@@ -711,6 +711,15 @@
         "name": "イモータル・ニンジャ・ワークショップ"
       }
     ],
+    "skills": [
+      "触手",
+      "カラテドレイン",
+      "ゾンビー生成"
+    ],
+    "appearance": "長身。胸元が強調されたPVC白衣。PVCナース帽。\nオレンジ色のボブカットが印象的。オレンジ色のハイヒール。シリコン製の豊満。\nニンジャ化後は上記のような霊体姿。本体は巨大な触手の怪物。",
+    "description": "リー先生の愛人兼助手。\n日本有数の頭脳を持つ。現在の本体はカイジュウサイズ。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%83%96%E3%82%AD%E3%83%BB%E3%83%8A%E3%83%8F%E3%82%BF",
     "appearances": [
       {
         "id": "48pg2qdu"
@@ -739,15 +748,7 @@
       {
         "id": "1rdmzslz"
       }
-    ],
-    "skills": [
-      "触手",
-      "カラテドレイン",
-      "ゾンビー生成"
-    ],
-    "description": "リー先生の愛人兼助手。\n日本有数の頭脳を持つ。現在の本体はカイジュウサイズ。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%83%96%E3%82%AD%E3%83%BB%E3%83%8A%E3%83%8F%E3%82%BF"
+    ]
   },
   {
     "id": "1775455928",
@@ -769,6 +770,15 @@
         "name": "イモータル・ニンジャ・ワークショップ"
       }
     ],
+    "skills": [
+      "爪",
+      "超再生能力",
+      "ゲン・ジツ"
+    ],
+    "appearance": "病的な細面、長身痩躯。\nPVC白衣。分厚いセル眼鏡。\nニンジャ化後は暗青のニンジャ装束の上から白衣。",
+    "description": "リー先生の助手兼護衛。\n強大なニンジャソウルを得た代償に日光アレルギーになった。\nよく首だけになる。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%AB%E3%83%BC%E3%83%96%E3%83%A9%E3%83%83%E3%83%89",
     "appearances": [
       {
         "id": "t4llx7ft"
@@ -809,15 +819,7 @@
       {
         "id": "emcygtsj"
       }
-    ],
-    "skills": [
-      "爪",
-      "超再生能力",
-      "ゲン・ジツ"
-    ],
-    "description": "リー先生の助手兼護衛。\n強大なニンジャソウルを得た代償に日光アレルギーになった。\nよく首だけになる。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%AB%E3%83%BC%E3%83%96%E3%83%A9%E3%83%83%E3%83%89"
+    ]
   },
   {
     "id": "1775455929",
@@ -3693,19 +3695,41 @@
     "aliases": [
       "ネゴシエイター"
     ],
-    "ninjaType": "非ニンジャ",
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "hj146jjv",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
-      {
-        "id": "カワザ・セイジツ・インコーポレイティッド",
-        "name": "カワザ・セイジツ・インコーポレイティッド"
-      },
       {
         "id": "アマクダリ",
         "name": "アマクダリ"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%AB%E3%83%83%E3%83%88"
+    "skills": [
+      "ショック・ヌンチャク"
+    ],
+    "appearance": "クルーカット（角刈り、スポーツ刈り）。サングラス。バイオ植毛したブロンド髪。\n白装束。または邪悪な赤いニンジャ装束。メンポ。",
+    "description": "哀れなネコソギ・ファンド社員が邪悪なニンジャ化。\nアマクダリ時代を過ごし、第4部でも暗躍していた。\n二刀流のショック・ヌンチャクを使う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%AB%E3%83%83%E3%83%88",
+    "appearances": [
+      {
+        "id": "t4llx7ft"
+      },
+      {
+        "id": "9lclsu2q"
+      },
+      {
+        "id": "9j0jnn2l"
+      },
+      {
+        "id": "05274175"
+      }
+    ]
   },
   {
     "id": "17754559180",
@@ -4861,6 +4885,11 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
+    "appearances": [
+      {
+        "id": "qvshvm0c"
+      }
+    ],
     "skills": [
       "ザムラ・カラテ",
       "カラダチ",
@@ -4870,12 +4899,7 @@
     "appearance": "四角いシルエットが特徴の大男。無骨な顔立ち。身長210cm。\n焦げ茶色のニンジャ装束。",
     "description": "元ソウカイ・シックスゲイツの男。\nシックスゲイツ最強を自認。オハギ中毒。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%A9%E3%83%97%E3%82%BF%E3%83%BC",
-    "appearances": [
-      {
-        "id": "qvshvm0c"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%A9%E3%83%97%E3%82%BF%E3%83%BC"
   },
   {
     "id": "f21d20dd",
@@ -5254,15 +5278,6 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "skills": [
-      "フドウノリウツリ・ジツ",
-      "ネンリキ・ジツ"
-    ],
-    "role": "ソウカイ・シックスゲイツ",
-    "appearance": "紐のように痩せて小柄。角度によって様々な色彩に変わるニンジャ装束。身長168cm。",
-    "description": "ソウカイ・シックスゲイツの一人。\nダイダロスの後釜で、レッサーとは思えぬサイコニンジャ。\nラオモトへのムーホンを企てた。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AD%E3%83%83%E3%82%AF",
     "appearances": [
       {
         "id": "qvshvm0c"
@@ -5273,7 +5288,16 @@
       {
         "id": "v3fc0ycx"
       }
-    ]
+    ],
+    "skills": [
+      "フドウノリウツリ・ジツ",
+      "ネンリキ・ジツ"
+    ],
+    "role": "ソウカイ・シックスゲイツ",
+    "appearance": "紐のように痩せて小柄。角度によって様々な色彩に変わるニンジャ装束。身長168cm。",
+    "description": "ソウカイ・シックスゲイツの一人。\nダイダロスの後釜で、レッサーとは思えぬサイコニンジャ。\nラオモトへのムーホンを企てた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AD%E3%83%83%E3%82%AF"
   },
   {
     "id": "0c3d0461",
@@ -5331,18 +5355,19 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": [
-      {
-        "id": "3cxcdqaf"
-      }
-    ],
     "skills": [
       "高速しゃがみ前進",
       "サマーソルトキック"
     ],
+    "role": "ソウカイ・シックスゲイツ",
     "description": "ソウカイ・シックスゲイツの一人。\nジツの力でしゃがみながら高速移動する。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%82%A4%E3%83%83%E3%82%AF%E3%82%B7%E3%83%AB%E3%83%B4%E3%82%A1%E3%83%BC"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%82%A4%E3%83%83%E3%82%AF%E3%82%B7%E3%83%AB%E3%83%B4%E3%82%A1%E3%83%BC",
+    "appearances": [
+      {
+        "id": "3cxcdqaf"
+      }
+    ]
   },
   {
     "id": "562b94f4",
@@ -5364,11 +5389,6 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": [
-      {
-        "id": "fmmj8ad1"
-      }
-    ],
     "skills": [
       "ソニックカラテ",
       "ジェット・ツキ"
@@ -5377,7 +5397,12 @@
     "appearance": "金糸のニンジャ装束、悪趣味な。\nリーゼントヘア。柄シャツに白いズボンを着用。スタッズ付きブレーサー。",
     "description": "ソウカイ・シックスゲイツの一人。スカウト部門筆頭。\n元ヤクザ・バウンサーでソニックカラテの使い手。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF%E3%83%96%E3%83%BC%E3%83%A0"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF%E3%83%96%E3%83%BC%E3%83%A0",
+    "appearances": [
+      {
+        "id": "fmmj8ad1"
+      }
+    ]
   },
   {
     "id": "35d8a63d",
@@ -5429,6 +5454,11 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
+    "appearances": [
+      {
+        "id": "zpm2lvo5"
+      }
+    ],
     "skills": [
       "コリ・スリケン",
       "コリ・クナイ",
@@ -5438,12 +5468,7 @@
     "appearance": "灰色のニンジャ装束。オムラ製の小型急速冷凍装置。",
     "description": "ソウカイ・シックスゲイツの一人。冬季限定。\nコリ・スリケンによる暗殺を得意とする。夏はドサンコで任務にあたっている。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%83%AD%E3%82%B9%E3%83%88%E3%83%90%E3%82%A4%E3%83%88",
-    "appearances": [
-      {
-        "id": "zpm2lvo5"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%83%AD%E3%82%B9%E3%83%88%E3%83%90%E3%82%A4%E3%83%88"
   },
   {
     "id": "a04759d6",
@@ -5494,6 +5519,11 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
+    "appearances": [
+      {
+        "id": "tde9kneb"
+      }
+    ],
     "skills": [
       "ムテキ・アティチュード",
       "スリケン"
@@ -5501,12 +5531,7 @@
     "appearance": "黒いニンジャ装束。馬のような黒目。",
     "description": "ソウカイヤのニンジャ。\nスリケンや銃弾を弾くムテキ・アティチュードと、\n万力のような握力が武器。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%B4%E3%82%A1%E3%82%A4%E3%82%B9",
-    "appearances": [
-      {
-        "id": "tde9kneb"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%B4%E3%82%A1%E3%82%A4%E3%82%B9"
   },
   {
     "id": "35de511a",
@@ -5538,18 +5563,19 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": [
-      {
-        "id": "k99nm6ll"
-      }
-    ],
     "skills": [
       "コリ・タテ・ジツ",
       "緊急脱出用カイト"
     ],
+    "appearance": "黒いヤクザストライプスーツ姿。ヤクザシューズ。蛍光ブルー色のメンポ。",
     "description": "ソウカイヤのニンジャ。\n超自然の氷のシールドを展開する。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%A4%E3%82%B9%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%A4%E3%82%B9%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89",
+    "appearances": [
+      {
+        "id": "k99nm6ll"
+      }
+    ]
   },
   {
     "id": "c4643b2a",
@@ -5695,18 +5721,18 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
+    "appearances": [
+      {
+        "id": "lnp1mmrk"
+      }
+    ],
     "skills": [
       "コントロール・パラサイト・ムシ"
     ],
     "appearance": "薄紫色のニンジャ装束。ニンジャ小手。",
     "description": "ソウカイヤのニンジャ。\n最大で百八匹の虫型ドロイドを放ち、人々を操る。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A7%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3",
-    "appearances": [
-      {
-        "id": "lnp1mmrk"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A7%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3"
   },
   {
     "id": "f5166bc1",
@@ -5753,18 +5779,18 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
+    "appearances": [
+      {
+        "id": "lnp1mmrk"
+      }
+    ],
     "skills": [
       "リキッド・ソード"
     ],
     "appearance": "ステルス装束。頑丈な小手。",
     "description": "ソウカイヤのニンジャ。\n硫酸を固めて剣にするリキッド・ソードの使い手。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%B4%E3%82%A3%E3%83%88%E3%83%AA%E3%82%AA%E3%83%BC%E3%83%AB",
-    "appearances": [
-      {
-        "id": "lnp1mmrk"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%B4%E3%82%A3%E3%83%88%E3%83%AA%E3%82%AA%E3%83%BC%E3%83%AB"
   },
   {
     "id": "03f5c336",
@@ -6977,19 +7003,20 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": [
-      {
-        "id": "ka6kath5"
-      }
-    ],
     "skills": [
       "ドトン・ジツ",
       "ヤマビコ・ジツ",
       "催涙ガスクナイ・ダート"
     ],
+    "appearance": "黒い縦縞模様テキスタイルが施された深緑のニンジャ装束。",
     "description": "ソウカイヤのニンジャ。\n砂地などをフーリンカザンとし、身を隠しながら敵を甚振る。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A4%E3%83%97%E3%82%B9"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A4%E3%83%97%E3%82%B9",
+    "appearances": [
+      {
+        "id": "ka6kath5"
+      }
+    ]
   },
   {
     "id": "1b63e008",
@@ -7189,18 +7216,18 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
+    "appearances": [
+      {
+        "id": "xebveoef"
+      }
+    ],
     "skills": [
       "闘牛カラテ"
     ],
     "appearance": "黒いニンジャ装束。真っ赤なフロシキ。",
     "description": "ソウカイヤのニンジャ。\n地下賭博場の胴元で、あらゆるバクチに精通する。\nイクサではバイオ猛牛「マツザカ」とともに戦う。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB",
-    "appearances": [
-      {
-        "id": "xebveoef"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB"
   },
   {
     "id": "42f13bc7",
@@ -13162,15 +13189,6 @@
         "name": "ネオサイタマ市警"
       }
     ],
-    "skills": [
-      "電気ジュッテ",
-      "電磁メリケンサック",
-      "チョウチン"
-    ],
-    "appearance": "肥満体の巨漢。毛むくじゃらの二の腕。\nトゲつきの改造制帽。スパイク革靴。\n分厚い唇。逆Uの字型の濃いヒゲ。どろりと濁った悪意の塊めいた瞳。",
-    "description": "悪徳マッポニンジャ。アマクダリの悪行をもみ消していた。\n第4部まで生存し、ストリートチルドレンを仕切っている。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%94%E3%83%B3",
     "appearances": [
       {
         "id": "20d3a4ce"
@@ -13181,7 +13199,16 @@
       {
         "id": "1rdmzslz"
       }
-    ]
+    ],
+    "skills": [
+      "電気ジュッテ",
+      "電磁メリケンサック",
+      "チョウチン"
+    ],
+    "appearance": "肥満体の巨漢。毛むくじゃらの二の腕。\nトゲつきの改造制帽。スパイク革靴。\n分厚い唇。逆Uの字型の濃いヒゲ。どろりと濁った悪意の塊めいた瞳。",
+    "description": "悪徳マッポニンジャ。アマクダリの悪行をもみ消していた。\n第4部まで生存し、ストリートチルドレンを仕切っている。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%94%E3%83%B3"
   },
   {
     "id": "dfdb0bb3",
@@ -14797,13 +14824,6 @@
         "name": "ヨロシサン製薬"
       }
     ],
-    "skills": [
-      "液体金属バイオボディ"
-    ],
-    "appearance": "液体金属で形成された肉体。身体を変形させて両腕を鎌にしたりする。",
-    "description": "サヴァイヴァー・ドージョーの一員。\n水銀のように自由自在に液状化し、刃物化した腕などで奇襲する。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%A3%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%96%E3%83%89",
     "appearances": [
       {
         "id": "e4pwggow"
@@ -14820,7 +14840,14 @@
       {
         "id": "gb8b6euf"
       }
-    ]
+    ],
+    "skills": [
+      "液体金属バイオボディ"
+    ],
+    "appearance": "液体金属で形成された肉体。身体を変形させて両腕を鎌にしたりする。",
+    "description": "サヴァイヴァー・ドージョーの一員。\n水銀のように自由自在に液状化し、刃物化した腕などで奇襲する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%A3%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%96%E3%83%89"
   },
   {
     "id": "47a7ac",
@@ -14843,13 +14870,6 @@
         "name": "ヨロシサン製薬"
       }
     ],
-    "skills": [
-      "バイオ・イアイド"
-    ],
-    "appearance": "身長200cm超。薄緑色のニンジャ装束。\n四本の腕。二本のセラミックカタナ。",
-    "description": "サヴァイヴァー・ドージョー所属。\n四本の腕に二本の刀、バイオ・イアイドで戦う。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8E%E3%83%88%E3%83%BC%E3%83%AA%E3%82%A2%E3%82%B9",
     "appearances": [
       {
         "id": "e4pwggow"
@@ -14860,7 +14880,14 @@
       {
         "id": "r3d5m4sz"
       }
-    ]
+    ],
+    "skills": [
+      "バイオ・イアイド"
+    ],
+    "appearance": "身長200cm超。薄緑色のニンジャ装束。\n四本の腕。二本のセラミックカタナ。",
+    "description": "サヴァイヴァー・ドージョー所属。\n四本の腕に二本の刀、バイオ・イアイドで戦う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8E%E3%83%88%E3%83%BC%E3%83%AA%E3%82%A2%E3%82%B9"
   },
   {
     "id": "a69131",
@@ -14899,6 +14926,11 @@
         "name": "ヨロシサン製薬"
       }
     ],
+    "appearances": [
+      {
+        "id": "e4pwggow"
+      }
+    ],
     "skills": [
       "バイオカエル",
       "マキモノ・ジツ"
@@ -14906,12 +14938,7 @@
     "appearance": "小柄な体型。開口式メンポ。臍から生えたバイオ管が巨大バイオカエルに繋がっている。",
     "description": "サヴァイヴァー・ドージョーの副官的ニンジャ。\nカエルにまたがりマキモノで攻撃する、忍者らしいニンジャ。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%83%AD%E3%83%83%E3%82%B0%E3%83%9E%E3%83%B3",
-    "appearances": [
-      {
-        "id": "e4pwggow"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%83%AD%E3%83%83%E3%82%B0%E3%83%9E%E3%83%B3"
   },
   {
     "id": "4ee5b2",
@@ -14940,11 +14967,6 @@
         "name": "イッキ・ウチコワシ"
       }
     ],
-    "skills": [],
-    "appearance": "赤いレンズのスコープゴーグル。真紅のスカーフ。赤いマント。二本の旗。",
-    "description": "イッキ・ウチコワシの謎めいたリーダー。\n高いカリスマ性に反しその素性は不明。\n3部後半ではウチコワシから放逐され、\nその後の行方は定かではない。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%86%E3%83%84%E3%82%AA",
     "appearances": [
       {
         "id": "b66fd6y7"
@@ -14970,7 +14992,12 @@
       {
         "id": "8r8ibb8m"
       }
-    ]
+    ],
+    "skills": [],
+    "appearance": "赤いレンズのスコープゴーグル。真紅のスカーフ。赤いマント。二本の旗。",
+    "description": "イッキ・ウチコワシの謎めいたリーダー。\n高いカリスマ性に反しその素性は不明。\n3部後半ではウチコワシから放逐され、\nその後の行方は定かではない。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%86%E3%83%84%E3%82%AA"
   },
   {
     "id": "061cbb",
@@ -14990,13 +15017,6 @@
         "name": "イッキ・ウチコワシ"
       }
     ],
-    "skills": [
-      "弓",
-      "ダガーナイフ"
-    ],
-    "appearance": "紅い装束。背中に大弓。\n後ろで結んだ黒いストレート髪。赤いマフラー。無感情な瞳。豊満。",
-    "description": "イッキ・ウチコワシの戦闘エージェント。\nしかしその正体はゲンドーソーの忘れ形見ユカノであった。\nニンジャスレイヤーTRPGによると、\nウチコワシ闘士以外のアムニジアの可能性が示唆されている。",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%A0%E3%83%8B%E3%82%B8%E3%82%A2",
     "appearances": [
       {
         "id": "y9j264iq"
@@ -15013,7 +15033,14 @@
       {
         "id": "wbfhbzoh"
       }
-    ]
+    ],
+    "skills": [
+      "弓",
+      "ダガーナイフ"
+    ],
+    "appearance": "紅い装束。背中に大弓。\n後ろで結んだ黒いストレート髪。赤いマフラー。無感情な瞳。豊満。",
+    "description": "イッキ・ウチコワシの戦闘エージェント。\nしかしその正体はゲンドーソーの忘れ形見ユカノであった。\nニンジャスレイヤーTRPGによると、\nウチコワシ闘士以外のアムニジアの可能性が示唆されている。",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%A0%E3%83%8B%E3%82%B8%E3%82%A2"
   },
   {
     "id": "38eab3",
@@ -15033,12 +15060,6 @@
         "name": "イッキ・ウチコワシ"
       }
     ],
-    "skills": [
-      "バーニングハンド "
-    ],
-    "appearance": "鮮烈な赤い装束。カマとハンマーの意匠がレリーフされたレッドスティール製メンポ。",
-    "description": "イッキ・ウチコワシの重鎮エージェント。\n高い扇動力とカラテを併せ持つ。ヒサツ・ワザのチョップは左手を使用。",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%B3%E3%82%B5%E3%83%A9%E3%83%BC",
     "appearances": [
       {
         "id": "b66fd6y7"
@@ -15049,7 +15070,13 @@
       {
         "id": "0rdbo5t6"
       }
-    ]
+    ],
+    "skills": [
+      "バーニングハンド "
+    ],
+    "appearance": "鮮烈な赤い装束。カマとハンマーの意匠がレリーフされたレッドスティール製メンポ。",
+    "description": "イッキ・ウチコワシの重鎮エージェント。\n高い扇動力とカラテを併せ持つ。ヒサツ・ワザのチョップは左手を使用。",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%B3%E3%82%B5%E3%83%A9%E3%83%BC"
   },
   {
     "id": "5e9b6b",
@@ -15105,18 +15132,18 @@
         "name": "イッキ・ウチコワシ"
       }
     ],
+    "appearances": [
+      {
+        "id": "b66fd6y7"
+      }
+    ],
     "skills": [
       "パチンコ・ジツ"
     ],
     "appearance": "銀色、または赤いニンジャ装束。拡声器つきメンポ。",
     "description": "イッキ・ウチコワシの戦闘エージェント。\nベアリングボールを指ではじき、\n同志に金属板を持たせて反射させる。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88",
-    "appearances": [
-      {
-        "id": "b66fd6y7"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88"
   },
   {
     "id": "6f4b7a",
@@ -15148,6 +15175,11 @@
         "name": "イッキ・ウチコワシ"
       }
     ],
+    "appearances": [
+      {
+        "id": "gfdpfq4k"
+      }
+    ],
     "skills": [
       "ビッグカラテ",
       "オボロ・ジツ"
@@ -15155,12 +15187,7 @@
     "appearance": "ビッグニンジャらしい巨躯。両脇腹にエラめいた孔が開いたサイバネ機構。",
     "description": "イッキ・ウチコワシの戦闘エージェント。\n巨体を活かした怪力に加え、\nサイバネ排気口から霧を吹きだす。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A8%E3%83%88%E3%82%A5%E3%83%B3",
-    "appearances": [
-      {
-        "id": "gfdpfq4k"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A8%E3%83%88%E3%82%A5%E3%83%B3"
   },
   {
     "id": "e6aaf9",
@@ -15180,6 +15207,11 @@
         "name": "イッキ・ウチコワシ"
       }
     ],
+    "appearances": [
+      {
+        "id": "y9j264iq"
+      }
+    ],
     "skills": [
       "ネンリキ・ジツ",
       "ゼゲン・ジツ"
@@ -15187,12 +15219,7 @@
     "appearance": "青紫色または黒いニンジャ装束。",
     "description": "イッキ・ウチコワシの戦闘エージェント。\n人心を魅了するゼゲン・ジツを持つが、\n記憶喪失のユカノに使っていたかは定かではない。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%83%97%E3%83%81%E3%83%A3%E3%83%BC",
-    "appearances": [
-      {
-        "id": "y9j264iq"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%83%97%E3%83%81%E3%83%A3%E3%83%BC"
   },
   {
     "id": "51fbba",
@@ -15243,18 +15270,19 @@
         "name": "イモータル・ニンジャ・ワークショップ"
       }
     ],
-    "appearances": [
-      {
-        "id": "sbw427wb"
-      }
-    ],
     "skills": [
       "ネクロカラテ",
       "麻痺毒クナイ・ダート"
     ],
+    "appearance": "灰色のニンジャ装束。長身の老人。\n体色は鉛色に変じ、眼は紫色に輝く。\n両手首に結ばれたクナイ・ダート。",
     "description": "リー先生が作り出したゾンビーニンジャ第1号。\nネクロカラテで戦う。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%83%99%E3%83%8A%E3%83%B3%E3%83%88"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%83%99%E3%83%8A%E3%83%B3%E3%83%88",
+    "appearances": [
+      {
+        "id": "sbw427wb"
+      }
+    ]
   },
   {
     "id": "b0a575",
@@ -16223,13 +16251,6 @@
         "name": "ヨロシサン製薬"
       }
     ],
-    "skills": [
-      "ハサミ"
-    ],
-    "appearance": "上半身、または全身がロブスター。",
-    "description": "両腕のハサミで戦うヨロシサンのバイオニンジャ。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AD%E3%83%96%E3%82%B9%E3%82%BF%E3%83%BC",
     "appearances": [
       {
         "id": "vnhzwml6"
@@ -16240,7 +16261,14 @@
       {
         "id": "w1iu2r5k"
       }
-    ]
+    ],
+    "skills": [
+      "ハサミ"
+    ],
+    "appearance": "上半身、または全身がロブスター。",
+    "description": "両腕のハサミで戦うヨロシサンのバイオニンジャ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AD%E3%83%96%E3%82%B9%E3%82%BF%E3%83%BC"
   },
   {
     "id": "503523",
@@ -20995,18 +21023,18 @@
         "name": "オムラ・インダストリ"
       }
     ],
+    "appearances": [
+      {
+        "id": "y9j264iq"
+      }
+    ],
     "skills": [
       "高分子バクチク"
     ],
     "appearance": "カーキ色の装束。ボムディフェンス機能を備えた肥満体めいた装甲。中身は細身。",
     "description": "オムラ・インダストリの企業ニンジャ。\nバクチクを利用して戦う。近接戦は不得手。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%97%E3%83%AD%E3%82%B7%E3%83%96",
-    "appearances": [
-      {
-        "id": "y9j264iq"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%97%E3%83%AD%E3%82%B7%E3%83%96"
   },
   {
     "id": "eeb4b94d",
@@ -21019,15 +21047,6 @@
         "name": "オムラ・インダストリ"
       }
     ],
-    "skills": [
-      "サスマタ",
-      "ガトリングガン",
-      "機銃",
-      "グレネードランチャー"
-    ],
-    "appearance": "逆関節の二脚ロボット。様々な武装。",
-    "description": "オムラ・インダストリが開発した量産型ロボニンジャ。\n堅牢な装甲、強力な武装に加え貧弱なAIを搭載している。\nオムラ内外から様々な亜種が生産された。",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%A4%E3%83%96",
     "appearances": [
       {
         "id": "y9j264iq"
@@ -21062,7 +21081,16 @@
       {
         "id": "ztv7aco3"
       }
-    ]
+    ],
+    "skills": [
+      "サスマタ",
+      "ガトリングガン",
+      "機銃",
+      "グレネードランチャー"
+    ],
+    "appearance": "逆関節の二脚ロボット。様々な武装。",
+    "description": "オムラ・インダストリが開発した量産型ロボニンジャ。\n堅牢な装甲、強力な武装に加え貧弱なAIを搭載している。\nオムラ内外から様々な亜種が生産された。",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%A4%E3%83%96"
   },
   {
     "id": "d32f31e4",
