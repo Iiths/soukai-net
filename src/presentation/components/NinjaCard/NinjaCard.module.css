@@ -83,6 +83,36 @@
   gap: 0.4rem;
 }
 
+/* ---- Status badge ---- */
+.statusBadge {
+  padding: 0.2rem 0.6rem;
+  border-radius: var(--radius-sm);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.statusAlive {
+  background: rgba(0, 217, 146, 0.1);
+  color: var(--color-arc);
+  border: 1px solid rgba(0, 217, 146, 0.3);
+}
+
+.statusDead {
+  background: rgba(251, 86, 91, 0.1);
+  color: var(--color-danger);
+  border: 1px solid rgba(251, 86, 91, 0.3);
+}
+
+.statusUnknown {
+  background: rgba(139, 148, 158, 0.1);
+  color: var(--color-text-muted);
+  border: 1px solid rgba(139, 148, 158, 0.25);
+}
+
 /* ---- Description ---- */
 .description {
   margin: 0.25rem 0 0;

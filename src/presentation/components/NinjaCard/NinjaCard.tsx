@@ -7,13 +7,27 @@ interface NinjaCardProps {
   onClick?: () => void;
 }
 
+const STATUS_LABEL: Record<string, string> = {
+  alive: '生存',
+  dead: '死亡',
+  unknown: '不明',
+};
+
+const STATUS_CLASS: Record<string, string> = {
+  alive: styles.statusAlive,
+  dead: styles.statusDead,
+  unknown: styles.statusUnknown,
+};
+
 export function NinjaCard({ ninja, onClick }: NinjaCardProps) {
   return (
     <div className={styles.card} onClick={onClick} role="button" tabIndex={0}>
       <div className={styles.header}>
         <h2 className={styles.name}>{ninja.name}</h2>
         {ninja.status && (
-          <Badge variant="status" text={ninja.status} />
+          <span className={`${styles.statusBadge} ${STATUS_CLASS[ninja.status] ?? ''}`}>
+            {STATUS_LABEL[ninja.status] ?? ninja.status}
+          </span>
         )}
       </div>
 
@@ -32,7 +46,7 @@ export function NinjaCard({ ninja, onClick }: NinjaCardProps) {
         </div>
       )}
 
-      {ninja.ninjaSoul && (
+      {ninja.ninjaSoul && ninja.ninjaSoul.name && (
         <div className={styles.soul}>
           <Badge variant="soul" text={ninja.ninjaSoul.name} />
         </div>

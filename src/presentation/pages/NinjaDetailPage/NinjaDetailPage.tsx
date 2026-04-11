@@ -33,9 +33,11 @@ function Empty({ label }: { label: string }) {
   );
 }
 
-/** <br /> タグを React の改行要素に変換して表示 */
+/** <br /> タグまたは \n を React の改行要素に変換して表示 */
 function WithLineBreaks({ text }: { text: string }) {
-  const parts = text.split(/<br\s*\/?>/gi);
+  // <br /> タグを \n に正規化してから分割
+  const normalized = text.replace(/<br\s*\/?>/gi, '\n');
+  const parts = normalized.split('\n');
   return (
     <>
       {parts.map((part, i) => (
@@ -150,7 +152,7 @@ export function NinjaDetailPage() {
         )}
 
         {/* ニンジャソウル */}
-        {ninja.ninjaSoul && (
+        {ninja.ninjaSoul && hasValue(ninja.ninjaSoul.name) && (
           <section className={styles.section}>
             <h2 className={styles.sectionTitle}>ニンジャソウル</h2>
             <div className={styles.soulCard}>
