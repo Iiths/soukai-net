@@ -9160,14 +9160,37 @@
   {
     "id": "2c8cb5bf",
     "name": "ボーツカイ",
+    "realName": "サル・トウエイ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "sup2won1",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "zaibatsu-p2",
         "name": "ザイバツ（第2部）"
       }
     ],
-    "appearances": []
+    "skills": [
+      "三節棍",
+      "ボー・ドー",
+      "仕込み銃"
+    ],
+    "role": "マスター位階",
+    "appearance": "柿色のニンジャ装束。ザイバツ紋メンポ。ボー。",
+    "description": "ザイバツのマスター位階ニンジャ。ネオサイタマ駐屯組。\n三つのパーツに別れた棒で戦う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9C%E3%83%BC%E3%83%84%E3%82%AB%E3%82%A4",
+    "appearances": [
+      {
+        "id": "cc57v76p"
+      }
+    ]
   },
   {
     "id": "de3d325f",
@@ -15449,9 +15472,33 @@
   {
     "id": "0d28c3",
     "name": "アーセナル",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%BC%E3%82%BB%E3%83%8A%E3%83%AB"
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "81g6xw0y",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "organizations": [
+      {
+        "id": "bria1s5e",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "skills": [
+      "サイバネ機関砲"
+    ],
+    "appearance": "焦茶色のニンジャ装束。\n両腕に計四つの機関銃。",
+    "description": "ソウカイヤのニンジャ。\n両腕の機関銃で攻撃する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%BC%E3%82%BB%E3%83%8A%E3%83%AB",
+    "appearances": [
+      {
+        "id": "64543510"
+      }
+    ]
   },
   {
     "id": "a723a6",
@@ -16442,14 +16489,34 @@
   {
     "id": "d6fa9c",
     "name": "キャバリアー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "ui9v8xf4",
+      "name": "ウーサー・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": "ウーサー・ペンドラゴンその人。"
+    },
     "organizations": [
       {
         "id": "イモータル・ニンジャ・ワークショップ",
         "name": "イモータル・ニンジャ・ワークショップ"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AD%E3%83%A3%E3%83%90%E3%83%AA%E3%82%A2%E3%83%BC"
+    "skills": [
+      "ツーハンデッド・カタナブレードツルギ",
+      "バイク・チャリオット"
+    ],
+    "appearance": "9フィート近い巨体。和風の大鎧、または西洋式のプレートアーマー。\nブッダデーモンめいた意匠のフルフェイスメンポ。",
+    "description": "リー先生の作ったゾンビ―ニンジャ。\nニンジャソウルの影響で騎士道精神を重視する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AD%E3%83%A3%E3%83%90%E3%83%AA%E3%82%A2%E3%83%BC",
+    "appearances": [
+      {
+        "id": "cc57v76p"
+      }
+    ]
   },
   {
     "id": "f503a0",
