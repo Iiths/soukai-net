@@ -6777,14 +6777,30 @@
   {
     "id": "d6ca39db",
     "name": "ソーンヴァイン",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "tjrigzyf",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": []
+    "skills": [],
+    "description": "ソウカイヤのニュービーニンジャ。\n物理書籍版では代わりにロングドゥアが登場した。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BD%E3%83%BC%E3%83%B3%E3%83%B4%E3%82%A1%E3%82%A4%E3%83%B3",
+    "appearances": [
+      {
+        "id": "9j0jnn2l"
+      }
+    ]
   },
   {
     "id": "6b7e269f",
@@ -7650,7 +7666,15 @@
   {
     "id": "8104446b",
     "name": "ユコバック",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "kqb8yrvi",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
@@ -7661,7 +7685,19 @@
         "name": "アマクダリ（第3部）"
       }
     ],
-    "appearances": []
+    "skills": [],
+    "role": "アマクダリ・アクシス",
+    "description": "アマクダリ・アクシスのニンジャ。\nソウカイヤからの移入組で、ロングドゥアのメンターをしていた。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A6%E3%82%B3%E3%83%90%E3%83%83%E3%82%AF",
+    "appearances": [
+      {
+        "id": "9j0jnn2l"
+      },
+      {
+        "id": "2v6e48gz"
+      }
+    ]
   },
   {
     "id": "16bc9621",
@@ -7760,14 +7796,31 @@
   {
     "id": "8b7ea790",
     "name": "ロングドゥア",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "inbrscpc",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": []
+    "skills": [],
+    "appearance": "両手にリベットを打ち込んだ威圧的グローブ。",
+    "description": "ソウカイヤの末端ニンジャ。\n物理書籍版でソーンヴァインの代わりに登場した。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%89%E3%82%A5%E3%82%A2",
+    "appearances": [
+      {
+        "id": "9j0jnn2l"
+      }
+    ]
   },
   {
     "id": "cecf7292",
@@ -8389,7 +8442,15 @@
   {
     "id": "c9216d23",
     "name": "アンバサダー",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "plzav1i6",
+      "name": "",
+      "grade": "アーチ級",
+      "clan": "タナバタ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "zaibatsu-p2",
@@ -8400,8 +8461,49 @@
         "name": "ニンジャスレイヤーと協力者達"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%B3%E3%83%90%E3%82%B5%E3%83%80%E3%83%BC"
+    "skills": [
+      "ポータル・ジツ",
+      "テレパス・ジツ"
+    ],
+    "appearance": "白緑色のニンジャ装束。吸気浄化機能付きメンポ。\nディプロマットと瓜二つの容姿。身長175㎝。",
+    "description": "元ザイバツのマスター位階ニンジャ。\n兄ディプロマットとは強い繋がりを持つ。\n第4部では兄共々古美術商を営んでいる。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%B3%E3%83%90%E3%82%B5%E3%83%80%E3%83%BC",
+    "appearances": [
+      {
+        "id": "n18b20ae"
+      },
+      {
+        "id": "9j0jnn2l"
+      },
+      {
+        "id": "dd6cebbd"
+      },
+      {
+        "id": "tqlc7ayk"
+      },
+      {
+        "id": "nghu0pwd"
+      },
+      {
+        "id": "g01g2lf0"
+      },
+      {
+        "id": "12ml6hmz"
+      },
+      {
+        "id": "635624e9"
+      },
+      {
+        "id": "6e95e58d"
+      },
+      {
+        "id": "8r8ibb8m"
+      },
+      {
+        "id": "3972e76a"
+      }
+    ]
   },
   {
     "id": "e85217f9",
@@ -8589,14 +8691,42 @@
   {
     "id": "10c8747c",
     "name": "デスナイト",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "d59fko7x",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "タカジョウ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "zaibatsu-p2",
         "name": "ザイバツ（第2部）"
       }
     ],
-    "appearances": []
+    "skills": [
+      "ダブル・ポン・パンチ",
+      "スリケン・ボウガン",
+      "バイオイーグル『アヤミ』"
+    ],
+    "role": "マスター位階",
+    "appearance": "関節部が装甲めいた甲冑ニンジャ装束。\nスリケン・ボウガン。",
+    "description": "ザイバツのマスターニンジャ。ネオサイタマ駐屯組。\n亡き恋人を重ねたバイオイーグルとの連携は凶悪。\nマルノウチ抗争参加者。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B9%E3%83%8A%E3%82%A4%E3%83%88",
+    "appearances": [
+      {
+        "id": "n18b20ae"
+      },
+      {
+        "id": "9j0jnn2l"
+      },
+      {
+        "id": "64543510"
+      }
+    ]
   },
   {
     "id": "03208477",
@@ -9004,14 +9134,37 @@
   {
     "id": "c62eaa30",
     "name": "ウェンディゴ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "mejs527y",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "zaibatsu-p2",
         "name": "ザイバツ（第2部）"
       }
     ],
-    "appearances": []
+    "skills": [
+      "ヌキテ"
+    ],
+    "role": "アデプト位階",
+    "appearance": "毛皮製の青いニンジャ装束。",
+    "description": "ザイバツのアデプトニンジャ。\n強力な握力でスリケンも人体も握りつぶしてしまう。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%82%A7%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B4",
+    "appearances": [
+      {
+        "id": "n18b20ae"
+      },
+      {
+        "id": "9j0jnn2l"
+      }
+    ]
   },
   {
     "id": "ec3ef1bc",
@@ -10072,14 +10225,44 @@
   {
     "id": "b981d5ac",
     "name": "モスキート",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "mgq1d134",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "ドク・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "zaibatsu-p2",
         "name": "ザイバツ（第2部）"
       }
     ],
-    "appearances": []
+    "skills": [
+      "ドク・ジツ",
+      "アンタイ・ニンジャ・ウィルス"
+    ],
+    "role": "アデプト位階",
+    "appearance": "口部分先端に長い針が生えたガスマスクメンポ。\n右手首に針状武器。背中に汚染液シリンダー。",
+    "description": "ザイバツのアデプト位階ニンジャ。\n危険な嗜好と野伏力を併せ持つ。マルノウチ抗争参加者。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%82%B9%E3%82%AD%E3%83%BC%E3%83%88",
+    "appearances": [
+      {
+        "id": "n18b20ae"
+      },
+      {
+        "id": "9j0jnn2l"
+      },
+      {
+        "id": "tqlc7ayk"
+      },
+      {
+        "id": "vr3fq73p"
+      }
+    ]
   },
   {
     "id": "a6b43489",
