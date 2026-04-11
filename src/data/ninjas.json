@@ -8904,14 +8904,46 @@
   {
     "id": "2f62cd50",
     "name": "ワイルドハント",
+    "realName": "オノマル・シンギ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "7lw8yfcn",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "タナカ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "zaibatsu-p2",
         "name": "ザイバツ（第2部）"
       }
     ],
-    "appearances": []
+    "skills": [
+      "ムチ・ドー",
+      "テレキネシス",
+      "コマ・ジツ"
+    ],
+    "role": "マスター位階",
+    "appearance": "頭巾。メンポ。手足と腰に装備された複数のコマ。",
+    "description": "ザイバツのマスター位階ニンジャ。ソウカイヤ駐屯組の指揮官。\n大小様々なコマを操り攻撃する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AF%E3%82%A4%E3%83%AB%E3%83%89%E3%83%8F%E3%83%B3%E3%83%88",
+    "appearances": [
+      {
+        "id": "9j0jnn2l"
+      },
+      {
+        "id": "dd6cebbd"
+      },
+      {
+        "id": "6o0erlqp"
+      },
+      {
+        "id": "tqlc7ayk"
+      }
+    ]
   },
   {
     "id": "e1b92c55",
@@ -9110,14 +9142,44 @@
   {
     "id": "4d58ab27",
     "name": "インペイルメント",
+    "realName": "ザシャ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "l6ikygjy",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "ヒャッポ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "zaibatsu-p2",
         "name": "ザイバツ（第2部）"
       }
     ],
-    "appearances": []
+    "skills": [
+      "ザオ・ケン"
+    ],
+    "role": "アデプト位階",
+    "appearance": "白いスプリントアーマー装束。鉄仮面メンポ。目と口を縫い合わされている。身長210cm。\n10フィート長のカタナ「ザオ・ケン」。",
+    "description": "ザイバツのニンジャ。ネオサイタマ駐屯組。\nアデプト位階だがその実力はマスター位階にも匹敵。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%83%B3%E3%83%9A%E3%82%A4%E3%83%AB%E3%83%A1%E3%83%B3%E3%83%88",
+    "appearances": [
+      {
+        "id": "n18b20ae"
+      },
+      {
+        "id": "9j0jnn2l"
+      },
+      {
+        "id": "6o0erlqp"
+      },
+      {
+        "id": "tqlc7ayk"
+      }
+    ]
   },
   {
     "id": "bf868421",
@@ -9415,18 +9477,18 @@
         "name": "ザイバツ（第2部）"
       }
     ],
+    "appearances": [
+      {
+        "id": "9j0jnn2l"
+      }
+    ],
     "skills": [
       "カトン・ジツ"
     ],
     "appearance": "朱色のニンジャ装束。バーナー機構を持つガスマスク、ないしコマイヌ型メンポ。",
     "description": "ザイバツのアデプト位階ニンジャ。\n可燃性液体を口部発射するタイプのカトン使い。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%BC%E3%83%99%E3%83%A9%E3%82%B9",
-    "appearances": [
-      {
-        "id": "9j0jnn2l"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%BC%E3%83%99%E3%83%A9%E3%82%B9"
   },
   {
     "id": "2b0f551f",
