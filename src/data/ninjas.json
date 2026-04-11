@@ -711,15 +711,6 @@
         "name": "イモータル・ニンジャ・ワークショップ"
       }
     ],
-    "skills": [
-      "触手",
-      "カラテドレイン",
-      "ゾンビー生成"
-    ],
-    "appearance": "長身。胸元が強調されたPVC白衣。PVCナース帽。\nオレンジ色のボブカットが印象的。オレンジ色のハイヒール。シリコン製の豊満。\nニンジャ化後は上記のような霊体姿。本体は巨大な触手の怪物。",
-    "description": "リー先生の愛人兼助手。\n日本有数の頭脳を持つ。現在の本体はカイジュウサイズ。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%83%96%E3%82%AD%E3%83%BB%E3%83%8A%E3%83%8F%E3%82%BF",
     "appearances": [
       {
         "id": "48pg2qdu"
@@ -748,7 +739,16 @@
       {
         "id": "1rdmzslz"
       }
-    ]
+    ],
+    "skills": [
+      "触手",
+      "カラテドレイン",
+      "ゾンビー生成"
+    ],
+    "appearance": "長身。胸元が強調されたPVC白衣。PVCナース帽。\nオレンジ色のボブカットが印象的。オレンジ色のハイヒール。シリコン製の豊満。\nニンジャ化後は上記のような霊体姿。本体は巨大な触手の怪物。",
+    "description": "リー先生の愛人兼助手。\n日本有数の頭脳を持つ。現在の本体はカイジュウサイズ。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%83%96%E3%82%AD%E3%83%BB%E3%83%8A%E3%83%8F%E3%82%BF"
   },
   {
     "id": "1775455928",
@@ -770,15 +770,6 @@
         "name": "イモータル・ニンジャ・ワークショップ"
       }
     ],
-    "skills": [
-      "爪",
-      "超再生能力",
-      "ゲン・ジツ"
-    ],
-    "appearance": "病的な細面、長身痩躯。\nPVC白衣。分厚いセル眼鏡。\nニンジャ化後は暗青のニンジャ装束の上から白衣。",
-    "description": "リー先生の助手兼護衛。\n強大なニンジャソウルを得た代償に日光アレルギーになった。\nよく首だけになる。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%AB%E3%83%BC%E3%83%96%E3%83%A9%E3%83%83%E3%83%89",
     "appearances": [
       {
         "id": "t4llx7ft"
@@ -819,7 +810,16 @@
       {
         "id": "emcygtsj"
       }
-    ]
+    ],
+    "skills": [
+      "爪",
+      "超再生能力",
+      "ゲン・ジツ"
+    ],
+    "appearance": "病的な細面、長身痩躯。\nPVC白衣。分厚いセル眼鏡。\nニンジャ化後は暗青のニンジャ装束の上から白衣。",
+    "description": "リー先生の助手兼護衛。\n強大なニンジャソウルを得た代償に日光アレルギーになった。\nよく首だけになる。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%AB%E3%83%BC%E3%83%96%E3%83%A9%E3%83%83%E3%83%89"
   },
   {
     "id": "1775455929",
@@ -3709,13 +3709,6 @@
         "name": "アマクダリ"
       }
     ],
-    "skills": [
-      "ショック・ヌンチャク"
-    ],
-    "appearance": "クルーカット（角刈り、スポーツ刈り）。サングラス。バイオ植毛したブロンド髪。\n白装束。または邪悪な赤いニンジャ装束。メンポ。",
-    "description": "哀れなネコソギ・ファンド社員が邪悪なニンジャ化。\nアマクダリ時代を過ごし、第4部でも暗躍していた。\n二刀流のショック・ヌンチャクを使う。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%AB%E3%83%83%E3%83%88",
     "appearances": [
       {
         "id": "t4llx7ft"
@@ -3729,7 +3722,14 @@
       {
         "id": "05274175"
       }
-    ]
+    ],
+    "skills": [
+      "ショック・ヌンチャク"
+    ],
+    "appearance": "クルーカット（角刈り、スポーツ刈り）。サングラス。バイオ植毛したブロンド髪。\n白装束。または邪悪な赤いニンジャ装束。メンポ。",
+    "description": "哀れなネコソギ・ファンド社員が邪悪なニンジャ化。\nアマクダリ時代を過ごし、第4部でも暗躍していた。\n二刀流のショック・ヌンチャクを使う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%AB%E3%83%83%E3%83%88"
   },
   {
     "id": "17754559180",
@@ -5355,6 +5355,11 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
+    "appearances": [
+      {
+        "id": "3cxcdqaf"
+      }
+    ],
     "skills": [
       "高速しゃがみ前進",
       "サマーソルトキック"
@@ -5362,12 +5367,7 @@
     "role": "ソウカイ・シックスゲイツ",
     "description": "ソウカイ・シックスゲイツの一人。\nジツの力でしゃがみながら高速移動する。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%82%A4%E3%83%83%E3%82%AF%E3%82%B7%E3%83%AB%E3%83%B4%E3%82%A1%E3%83%BC",
-    "appearances": [
-      {
-        "id": "3cxcdqaf"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%82%A4%E3%83%83%E3%82%AF%E3%82%B7%E3%83%AB%E3%83%B4%E3%82%A1%E3%83%BC"
   },
   {
     "id": "562b94f4",
@@ -5389,6 +5389,11 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
+    "appearances": [
+      {
+        "id": "fmmj8ad1"
+      }
+    ],
     "skills": [
       "ソニックカラテ",
       "ジェット・ツキ"
@@ -5397,12 +5402,7 @@
     "appearance": "金糸のニンジャ装束、悪趣味な。\nリーゼントヘア。柄シャツに白いズボンを着用。スタッズ付きブレーサー。",
     "description": "ソウカイ・シックスゲイツの一人。スカウト部門筆頭。\n元ヤクザ・バウンサーでソニックカラテの使い手。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF%E3%83%96%E3%83%BC%E3%83%A0",
-    "appearances": [
-      {
-        "id": "fmmj8ad1"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF%E3%83%96%E3%83%BC%E3%83%A0"
   },
   {
     "id": "35d8a63d",
@@ -5563,6 +5563,11 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
+    "appearances": [
+      {
+        "id": "k99nm6ll"
+      }
+    ],
     "skills": [
       "コリ・タテ・ジツ",
       "緊急脱出用カイト"
@@ -5570,12 +5575,7 @@
     "appearance": "黒いヤクザストライプスーツ姿。ヤクザシューズ。蛍光ブルー色のメンポ。",
     "description": "ソウカイヤのニンジャ。\n超自然の氷のシールドを展開する。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%A4%E3%82%B9%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89",
-    "appearances": [
-      {
-        "id": "k99nm6ll"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%A4%E3%82%B9%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%89"
   },
   {
     "id": "c4643b2a",
@@ -6076,18 +6076,19 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": [
-      {
-        "id": "uc0djqkh"
-      }
-    ],
     "skills": [
       "テレパス・ジツ",
       "サイコキネシス"
     ],
+    "appearance": "暗緑色の装束とメンポ。。装束の合わせ目にクロスカタナのエンブレム。\n両肩には試作サイバネ機構。背にニンジャソード。",
     "description": "ソウカイヤのニンジャ。\nサイコキネシス干渉波とテレパスを組み合わせカラテミサイルを防ぐ。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%BC%E3%83%89%E3%82%A2%E3%82%A4"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%BC%E3%83%89%E3%82%A2%E3%82%A4",
+    "appearances": [
+      {
+        "id": "uc0djqkh"
+      }
+    ]
   },
   {
     "id": "bd8bcdd5",
@@ -6802,17 +6803,18 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
+    "skills": [
+      "サイバネ顎"
+    ],
+    "appearance": "開閉機構付きメンポ。",
+    "description": "ソウカイヤの末端ニンジャ。\nサイバネ改造した顎で敵に喰らいつく。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8A%E3%83%83%E3%83%84%E3%82%AF%E3%83%A9%E3%83%83%E3%82%AB%E3%83%BC",
     "appearances": [
       {
         "id": "uc0djqkh"
       }
-    ],
-    "skills": [
-      "サイバネ顎"
-    ],
-    "description": "ソウカイヤの末端ニンジャ。\nサイバネ改造した顎で敵に喰らいつく。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8A%E3%83%83%E3%83%84%E3%82%AF%E3%83%A9%E3%83%83%E3%82%AB%E3%83%BC"
+    ]
   },
   {
     "id": "38e153e1",
@@ -6864,13 +6866,14 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": [],
     "skills": [
       "二本角"
     ],
+    "appearance": "二本角のニンジャフルヘルム。",
     "description": "ソウカイヤのニンジャ。\n垂直に生えた二本角が特徴。電流攻撃に注意。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%82%A4%E3%82%B3%E3%83%BC%E3%83%B3"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%82%A4%E3%82%B3%E3%83%BC%E3%83%B3",
+    "appearances": []
   },
   {
     "id": "c76d3e7c",
@@ -7003,6 +7006,11 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
+    "appearances": [
+      {
+        "id": "ka6kath5"
+      }
+    ],
     "skills": [
       "ドトン・ジツ",
       "ヤマビコ・ジツ",
@@ -7011,12 +7019,7 @@
     "appearance": "黒い縦縞模様テキスタイルが施された深緑のニンジャ装束。",
     "description": "ソウカイヤのニンジャ。\n砂地などをフーリンカザンとし、身を隠しながら敵を甚振る。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A4%E3%83%97%E3%82%B9",
-    "appearances": [
-      {
-        "id": "ka6kath5"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A4%E3%83%97%E3%82%B9"
   },
   {
     "id": "1b63e008",
@@ -15270,6 +15273,11 @@
         "name": "イモータル・ニンジャ・ワークショップ"
       }
     ],
+    "appearances": [
+      {
+        "id": "sbw427wb"
+      }
+    ],
     "skills": [
       "ネクロカラテ",
       "麻痺毒クナイ・ダート"
@@ -15277,12 +15285,7 @@
     "appearance": "灰色のニンジャ装束。長身の老人。\n体色は鉛色に変じ、眼は紫色に輝く。\n両手首に結ばれたクナイ・ダート。",
     "description": "リー先生が作り出したゾンビーニンジャ第1号。\nネクロカラテで戦う。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%83%99%E3%83%8A%E3%83%B3%E3%83%88",
-    "appearances": [
-      {
-        "id": "sbw427wb"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%83%99%E3%83%8A%E3%83%B3%E3%83%88"
   },
   {
     "id": "b0a575",
@@ -16721,17 +16724,18 @@
         "name": "タケダチック・アガキ社"
       }
     ],
+    "skills": [
+      "ショックアーム"
+    ],
+    "appearance": "右腕の手首から先がサイバネアーム。または手首から金属ロープ。",
+    "description": "タケダ社の企業ニンジャ。\n自社製品であるショックアームを使って戦う。",
+    "status": "dead",
+    "wikiUrl": "%E3%83%83%E3%82%AF%E3%82%A4%E3%83%BC%E3%83%AB",
     "appearances": [
       {
         "id": "uc0djqkh"
       }
-    ],
-    "skills": [
-      "ショックアーム"
-    ],
-    "description": "タケダ社の企業ニンジャ。\n自社製品であるショックアームを使って戦う。",
-    "status": "dead",
-    "wikiUrl": "%E3%83%83%E3%82%AF%E3%82%A4%E3%83%BC%E3%83%AB"
+    ]
   },
   {
     "id": "f3dfad",
@@ -21164,9 +21168,28 @@
   {
     "id": "76e6fbe9",
     "name": "ソードダンサー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "nqq7ldyq",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BD%E3%83%BC%E3%83%89%E3%83%80%E3%83%B3%E3%82%B5%E3%83%BC"
+    "skills": [
+      "二刀流"
+    ],
+    "appearance": "銅色のニンジャ装束。オセアニアの呪術仮面めいたメンポ。\nメンポの下にはオレンジと黒の染料で極彩色にフェイスペイント。",
+    "description": "フリーランスの賞金稼ぎニンジャ。\n不気味なメンポの意匠と恐るべき二刀流の使い手。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BD%E3%83%BC%E3%83%89%E3%83%80%E3%83%B3%E3%82%B5%E3%83%BC",
+    "appearances": [
+      {
+        "id": "uc0djqkh"
+      }
+    ]
   },
   {
     "id": "3d6dbcfb",
