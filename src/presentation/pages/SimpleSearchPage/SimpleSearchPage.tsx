@@ -1,8 +1,10 @@
 import { useState, useEffect, useMemo, useCallback } from 'react';
-import { useNavigate } from 'react-router-dom';
+import { useNavigate, useSearchParams } from 'react-router-dom';
 import { Ninja } from '../../../domain/entities/Ninja';
+import { NinjaType } from '../../../domain/entities/Ninja';
 import { Episode } from '../../../domain/entities/Episode';
 import { FilterCriteria, FilterNinjaUseCase } from '../../../usecases/FilterNinjaUseCase';
+import { NinjaSoulGrade } from '../../../domain/entities/NinjaSoul';
 import { SearchNinjaUseCase } from '../../../usecases/SearchNinjaUseCase';
 import { JsonNinjaRepository } from '../../../infrastructure/repositories/JsonNinjaRepository';
 import { JsonEpisodeRepository } from '../../../infrastructure/repositories/JsonEpisodeRepository';
@@ -11,15 +13,72 @@ import { NinjaCard } from '../../components/NinjaCard/NinjaCard';
 import { FilterPanel } from '../../components/FilterPanel/FilterPanel';
 import styles from './SimpleSearchPage.module.css';
 
+// ----- URL パラメータキー定数 -----
+const P = {
+  QUERY:         'q',
+  FILTER_OPEN:   'filter',
+  ARC:           'arc',
+  SEASON:        'season',
+  EPISODE_TITLE: 'ep',
+  SOUL_NAME:     'soul',
+  SOUL_GRADE:    'grade',
+  SOUL_CLAN:     'clan',
+  NINJA_TYPE:    'type',
+  ORG:           'org',
+  STATUS:        'status',
+} as const;
+
+const FILTER_PARAM_KEYS = [
+  P.ARC, P.SEASON, P.EPISODE_TITLE,
+  P.SOUL_NAME, P.SOUL_GRADE, P.SOUL_CLAN,
+  P.NINJA_TYPE, P.ORG, P.STATUS,
+] as const;
+
+// ----- URL ↔ FilterCriteria 変換 -----
+
+function paramsToFilterCriteria(sp: URLSearchParams): FilterCriteria {
+  const c: FilterCriteria = {};
+  const arc    = sp.get(P.ARC);           if (arc)    c.arc           = arc;
+  const season = sp.get(P.SEASON);        if (season) c.season        = Number(season);
+  const ep     = sp.get(P.EPISODE_TITLE); if (ep)     c.episodeTitle  = ep;
+  const soul   = sp.get(P.SOUL_NAME);     if (soul)   c.ninjaSoulName = soul;
+  const grade  = sp.get(P.SOUL_GRADE);    if (grade)  c.ninjaSoulGrade = grade as NinjaSoulGrade;
+  const clan   = sp.get(P.SOUL_CLAN);     if (clan)   c.ninjaSoulClan = clan;
+  const type   = sp.get(P.NINJA_TYPE);    if (type)   c.ninjaType     = type as NinjaType;
+  const org    = sp.get(P.ORG);           if (org)    c.organizationName = org;
+  const status = sp.get(P.STATUS);        if (status) c.status        = status as 'alive' | 'dead' | 'unknown';
+  return c;
+}
+
+function filterCriteriaToEntries(c: FilterCriteria): [string, string][] {
+  const entries: [string, string][] = [];
+  if (c.arc)                  entries.push([P.ARC,           c.arc]);
+  if (c.season !== undefined) entries.push([P.SEASON,        String(c.season)]);
+  if (c.episodeTitle)         entries.push([P.EPISODE_TITLE, c.episodeTitle]);
+  if (c.ninjaSoulName)        entries.push([P.SOUL_NAME,     c.ninjaSoulName]);
+  if (c.ninjaSoulGrade)       entries.push([P.SOUL_GRADE,    c.ninjaSoulGrade]);
+  if (c.ninjaSoulClan)        entries.push([P.SOUL_CLAN,     c.ninjaSoulClan]);
+  if (c.ninjaType)            entries.push([P.NINJA_TYPE,    c.ninjaType]);
+  if (c.organizationName)     entries.push([P.ORG,           c.organizationName]);
+  if (c.status)               entries.push([P.STATUS,        c.status]);
+  return entries;
+}
+
+// ----- コンポーネント -----
+
 export function SimpleSearchPage() {
   const navigate = useNavigate();
-  const [query, setQuery] = useState<string>('');
-  const [criteria, setCriteria] = useState<FilterCriteria>({});
-  const [results, setResults] = useState<Ninja[]>([]);
-  const [allNinjas, setAllNinjas] = useState<Ninja[]>([]);
+  const [searchParams, setSearchParams] = useSearchParams();
+
+  // URL が Single Source of Truth — ローカル state は持たない
+  const query      = searchParams.get(P.QUERY) ?? '';
+  const filterOpen = searchParams.get(P.FILTER_OPEN) === '1';
+  const criteria   = useMemo(() => paramsToFilterCriteria(searchParams), [searchParams]);
+
+  const [results,     setResults]     = useState<Ninja[]>([]);
+  const [allNinjas,   setAllNinjas]   = useState<Ninja[]>([]);
   const [allEpisodes, setAllEpisodes] = useState<Episode[]>([]);
-  const [isLoading, setIsLoading] = useState<boolean>(false);
-  const [filterOpen, setFilterOpen] = useState<boolean>(false);
+  const [isLoading,   setIsLoading]   = useState<boolean>(false);
 
   // 全ニンジャ・全エピソードを初回ロード
   useEffect(() => {
@@ -32,7 +91,7 @@ export function SimpleSearchPage() {
     });
   }, []);
 
-  // フィルターパネル用の選択肢を episodes.json から生成
+  // フィルターパネル用の選択肢を生成
   const arcs = useMemo(() => {
     const s = new Set<string>();
     allEpisodes.forEach((ep) => { if (ep.arc) s.add(ep.arc); });
@@ -47,7 +106,7 @@ export function SimpleSearchPage() {
 
   const ninjaSouls = useMemo(() => {
     const s = new Set<string>();
-    allNinjas.forEach((n) => { if (n.ninjaSoul) s.add(n.ninjaSoul.name); });
+    allNinjas.forEach((n) => { if (n.ninjaSoul?.name) s.add(n.ninjaSoul.name); });
     return Array.from(s).sort();
   }, [allNinjas]);
 
@@ -63,11 +122,11 @@ export function SimpleSearchPage() {
     return Array.from(s).sort();
   }, [allNinjas]);
 
-  // 名前検索 + 詳細フィルターを組み合わせた検索
+  // 検索実行
   const performSearch = useCallback(async (q: string, c: FilterCriteria) => {
     setIsLoading(true);
     try {
-      const ninjaRepo = new JsonNinjaRepository();
+      const ninjaRepo   = new JsonNinjaRepository();
       const episodeRepo = new JsonEpisodeRepository();
       let base: Ninja[];
 
@@ -78,12 +137,11 @@ export function SimpleSearchPage() {
         base = await ninjaRepo.findAll();
       }
 
-      // さらに詳細フィルターを適用（criteria が空なら全件通過）
       const hasFilter = Object.values(c).some((v) => v !== undefined && v !== '');
       if (hasFilter) {
         const filterUseCase = new FilterNinjaUseCase(
           { findAll: async () => base, findById: async (id) => base.find((n) => n.id === id) ?? null },
-          episodeRepo
+          episodeRepo,
         );
         base = await filterUseCase.execute(c);
       }
@@ -94,14 +152,45 @@ export function SimpleSearchPage() {
     }
   }, []);
 
+  // URL パラメータが変わるたびに検索を実行（詳細ページから戻った時も含む）
+  useEffect(() => {
+    const q = searchParams.get(P.QUERY) ?? '';
+    const c = paramsToFilterCriteria(searchParams);
+    const hasFilter = Object.values(c).some((v) => v !== undefined && v !== '');
+    if (q.trim() || hasFilter) {
+      performSearch(q, c);
+    } else {
+      setResults([]);
+    }
+  // searchParams の参照が変わった時だけ実行すれば良いため、他の依存は意図的に省略
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [searchParams]);
+
+  // ----- ハンドラー（URL を replace で更新するだけ → 検索履歴をブラウザに積まない） -----
+
   const handleSearch = (q: string) => {
-    setQuery(q);
-    performSearch(q, criteria);
+    setSearchParams((prev) => {
+      const next = new URLSearchParams(prev);
+      if (q) next.set(P.QUERY, q); else next.delete(P.QUERY);
+      return next;
+    }, { replace: true });
   };
 
   const handleCriteriaChange = (c: FilterCriteria) => {
-    setCriteria(c);
-    performSearch(query, c);
+    setSearchParams((prev) => {
+      const next = new URLSearchParams(prev);
+      FILTER_PARAM_KEYS.forEach((k) => next.delete(k));
+      filterCriteriaToEntries(c).forEach(([k, v]) => next.set(k, v));
+      return next;
+    }, { replace: true });
+  };
+
+  const handleFilterToggle = () => {
+    setSearchParams((prev) => {
+      const next = new URLSearchParams(prev);
+      if (filterOpen) next.delete(P.FILTER_OPEN); else next.set(P.FILTER_OPEN, '1');
+      return next;
+    }, { replace: true });
   };
 
   const handleCardClick = (id: string) => {
@@ -109,7 +198,7 @@ export function SimpleSearchPage() {
   };
 
   const hasActiveFilter = Object.values(criteria).some((v) => v !== undefined && v !== '');
-  const isSearching = query.trim() || hasActiveFilter;
+  const isSearching     = query.trim() || hasActiveFilter;
 
   return (
     <div className={styles.page}>
@@ -123,7 +212,7 @@ export function SimpleSearchPage() {
         <SearchBar value={query} onChange={handleSearch} />
         <button
           className={`${styles.filterToggle} ${filterOpen ? styles.filterToggleActive : ''} ${hasActiveFilter ? styles.filterToggleHasFilter : ''}`}
-          onClick={() => setFilterOpen((v) => !v)}
+          onClick={handleFilterToggle}
           aria-expanded={filterOpen}
         >
           <span className={styles.filterToggleIcon}>{filterOpen ? '▲' : '▼'}</span>
