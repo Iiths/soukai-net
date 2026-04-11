@@ -46,9 +46,13 @@ export function NinjaCard({ ninja, onClick }: NinjaCardProps) {
         </div>
       )}
 
-      {ninja.ninjaSoul && ninja.ninjaSoul.name && (
+      {ninja.ninjaSoul && (ninja.ninjaSoul.name || ninja.ninjaSoul.grade || ninja.ninjaSoul.clan) && (
         <div className={styles.soul}>
-          <Badge variant="soul" text={ninja.ninjaSoul.name} />
+          {/* name があればそれを、なければ grade → clan の順でフォールバック表示 */}
+          <Badge
+            variant="soul"
+            text={ninja.ninjaSoul.name || ninja.ninjaSoul.grade || ninja.ninjaSoul.clan || ''}
+          />
         </div>
       )}
 

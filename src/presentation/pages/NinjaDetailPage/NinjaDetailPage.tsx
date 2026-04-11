@@ -151,13 +151,21 @@ export function NinjaDetailPage() {
           </section>
         )}
 
-        {/* ニンジャソウル */}
-        {ninja.ninjaSoul && hasValue(ninja.ninjaSoul.name) && (
+        {/* ニンジャソウル — name が空でも grade/clan/origin があれば表示 */}
+        {ninja.ninjaSoul && (
+          hasValue(ninja.ninjaSoul.name) ||
+          hasValue(ninja.ninjaSoul.grade) ||
+          hasValue(ninja.ninjaSoul.clan) ||
+          hasValue(ninja.ninjaSoul.origin)
+        ) && (
           <section className={styles.section}>
             <h2 className={styles.sectionTitle}>ニンジャソウル</h2>
             <div className={styles.soulCard}>
               <div className={styles.soulHeader}>
-                <Badge variant="soul" text={ninja.ninjaSoul.name} />
+                {/* 名前が不明な場合は Badge を出さない */}
+                {hasValue(ninja.ninjaSoul.name) && (
+                  <Badge variant="soul" text={ninja.ninjaSoul.name!} />
+                )}
                 {hasValue(ninja.ninjaSoul.grade) && (
                   <span className={styles.soulGrade}>{ninja.ninjaSoul.grade}ニンジャ</span>
                 )}
