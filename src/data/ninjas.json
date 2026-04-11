@@ -2487,17 +2487,14 @@
         "name": "スレイプニル"
       },
       {
-        "id": "soukaiya-p1",
-        "name": "ソウカイヤ（第1部）"
-      },
-      {
         "id": "ヨロシサン製薬",
         "name": "ヨロシサン製薬"
       }
     ],
-    "appearances": [],
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%92%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%B7%E3%83%A5%E3%83%AA%E3%82%B1%E3%83%B3%EF%BC%88%E7%AC%AC4%E9%83%A8%E4%BB%A5%E9%99%8D%EF%BC%89"
+    "skills": [],
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%92%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%B7%E3%83%A5%E3%83%AA%E3%82%B1%E3%83%B3%EF%BC%88%E7%AC%AC4%E9%83%A8%E4%BB%A5%E9%99%8D%EF%BC%89",
+    "appearances": []
   },
   {
     "id": "17754559109",
@@ -6436,14 +6433,34 @@
   {
     "id": "4da6fef3",
     "name": "スパイダー",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "ouqv2pu2",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "クモ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": []
+    "skills": [
+      "フドウカナシバリ・ジツ",
+      "腕を伸ばす"
+    ],
+    "appearance": "黄色と黒の縞模様ニンジャ装束。",
+    "description": "ソウカイヤの隠れニンジャ。トコロザワ・ピラーの守り人。\n自らは天井に身を隠し、オイランを操って攻撃する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%91%E3%82%A4%E3%83%80%E3%83%BC#:hl:word=%E3%82%B9%E3%83%91%E3%82%A4%E3%83%80%E3%83%BC",
+    "appearances": [
+      {
+        "id": "9lclsu2q"
+      }
+    ]
   },
   {
     "id": "24e4e634",
@@ -6494,14 +6511,15 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
+    "skills": [],
+    "description": "ソウカイヤのムーホン者の一人。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BC%E3%83%96%E3%83%A9",
     "appearances": [
       {
         "id": "v3fc0ycx"
       }
-    ],
-    "skills": [],
-    "description": "ソウカイヤのムーホン者の一人。",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BC%E3%83%96%E3%83%A9"
+    ]
   },
   {
     "id": "ea044957",
