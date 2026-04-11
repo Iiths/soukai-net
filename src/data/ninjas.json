@@ -5115,6 +5115,15 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
+    "skills": [
+      "オムラ・チタニウム装甲",
+      "転がる"
+    ],
+    "role": "ソウカイ・シックスゲイツ",
+    "appearance": "装甲ニンジャ装束。巨体。",
+    "description": "ソウカイ・シックスゲイツの一人。末期シックスゲイツ。\n元スモトリの体格を活かし、攻防一体のローリングを得意とする。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%AB%E3%83%9E%E3%82%B8%E3%83%AD",
     "appearances": [
       {
         "id": "9lclsu2q"
@@ -5122,14 +5131,7 @@
       {
         "id": "vr3fq73p"
       }
-    ],
-    "skills": [
-      "オムラ・チタニウム装甲",
-      "転がる"
-    ],
-    "description": "ソウカイ・シックスゲイツの一人。末期シックスゲイツ。\n元スモトリの体格を活かし、攻防一体のローリングを得意とする。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%AB%E3%83%9E%E3%82%B8%E3%83%AD"
+    ]
   },
   {
     "id": "5dab8174",
@@ -5149,6 +5151,15 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
+    "skills": [
+      "アクアカラテ",
+      "ハープーン"
+    ],
+    "role": "ソウカイ・シックスゲイツ",
+    "appearance": "ウェットニンジャ装束。シュノーケルめいたメンポ。\n両腕部にハープーン射出機構。",
+    "description": "ソウカイ・シックスゲイツの一人。末期シックスゲイツ。\n水中戦に特化している。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89",
     "appearances": [
       {
         "id": "9lclsu2q"
@@ -5156,14 +5167,7 @@
       {
         "id": "vr3fq73p"
       }
-    ],
-    "skills": [
-      "アクアカラテ",
-      "ハープーン"
-    ],
-    "description": "ソウカイ・シックスゲイツの一人。末期シックスゲイツ。\n水中戦に特化している。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89"
+    ]
   },
   {
     "id": "7676ea0f",
@@ -5183,17 +5187,19 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
+    "skills": [
+      "高性能メカアーム"
+    ],
+    "role": "ソウカイ・シックスゲイツ",
+    "appearance": "黒い斑点入りの白ニンジャ装束。\n背中にインプラントから10本のサイバネアーム。",
+    "description": "ソウカイ・シックスゲイツの一人。末期シックスゲイツ。\nメカアームを使いこなし、同時に12本のスリケンを投擲する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%83%93%E3%83%AB%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5",
     "appearances": [
       {
         "id": "9lclsu2q"
       }
-    ],
-    "skills": [
-      "高性能メカアーム"
-    ],
-    "description": "ソウカイ・シックスゲイツの一人。末期シックスゲイツ。\nメカアームを使いこなし、同時に12本のスリケンを投擲する。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%83%93%E3%83%AB%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5"
+    ]
   },
   {
     "id": "f8997794",
@@ -5217,18 +5223,19 @@
         "name": "イモータル・ニンジャ・ワークショップ"
       }
     ],
+    "skills": [
+      "精神幻覚攻撃"
+    ],
+    "role": "ソウカイ・シックスゲイツ",
+    "appearance": "ミイラめいた全身。ニンジャ装束。\n鎖で吊るされている。周囲に魔法陣が敷かれている。",
+    "description": "ソウカイ・シックスゲイツの一人。末期シックスゲイツ。\nかつてムーホンを試みた罰として侵入者撃退用に調整されたアンデッドニンジャと化した。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%83%93%E3%83%83%E3%83%89",
     "appearances": [
       {
         "id": "9lclsu2q"
       }
-    ],
-    "skills": [
-      "精神幻覚攻撃"
-    ],
-    "appearance": "ミイラめいた全身。ニンジャ装束。\n鎖で吊るされている。周囲に魔法陣が敷かれている。",
-    "description": "ソウカイ・シックスゲイツの一人。末期シックスゲイツ。\nかつてムーホンを試みた罰として侵入者撃退用に調整されたアンデッドニンジャと化した。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%83%93%E3%83%83%E3%83%89"
+    ]
   },
   {
     "id": "74bdf31c",
@@ -5248,17 +5255,19 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
+    "skills": [
+      "カクシ・キリ"
+    ],
+    "role": "ソウカイ・シックスゲイツ",
+    "appearance": "スリムフィット黒ニンジャ装束。\n全身にカタナの展開機構。",
+    "description": "ソウカイ・シックスゲイツの一人。末期シックスゲイツ。\n計数百本のカタナで奇襲する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%82%A4%E3%82%B6%E3%83%BC%E3%82%A8%E3%83%83%E3%82%B8",
     "appearances": [
       {
         "id": "9lclsu2q"
       }
-    ],
-    "skills": [
-      "カクシ・キリ"
-    ],
-    "description": "ソウカイ・シックスゲイツの一人。末期シックスゲイツ。\n計数百本のカタナで奇襲する。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%82%A4%E3%82%B6%E3%83%BC%E3%82%A8%E3%83%83%E3%82%B8"
+    ]
   },
   {
     "id": "f1140ec0",
@@ -6191,14 +6200,33 @@
   {
     "id": "7d44defa",
     "name": "サンセット",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "sleab9it",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": []
+    "skills": [
+      "シュギ・ジキ"
+    ],
+    "appearance": "黒いニンジャ装束。",
+    "description": "ソウカイヤの末端ニンジャ。\n偽装コンテナの仕掛けでニンジャスレイヤーを苦しめた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%B3%E3%82%BB%E3%83%83%E3%83%88",
+    "appearances": [
+      {
+        "id": "42ba7812"
+      }
+    ]
   },
   {
     "id": "c7b9c177",
@@ -6384,14 +6412,33 @@
   {
     "id": "24e4e634",
     "name": "スマッグラー",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "m85tykrx",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
       }
     ],
-    "appearances": []
+    "skills": [
+      "殺人武器カマ"
+    ],
+    "appearance": "黒ずくめのニンジャ。各所にプロテクター。武装のカマ。",
+    "description": "ソウカイヤの末端ニンジャ。\nモータルを使って犯罪行為を働こうとしていた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%9E%E3%83%83%E3%82%B0%E3%83%A9%E3%83%BC",
+    "appearances": [
+      {
+        "id": "c03f3cb4"
+      }
+    ]
   },
   {
     "id": "bde1a79b",
@@ -18459,6 +18506,14 @@
       "origin": ""
     },
     "organizations": [],
+    "skills": [
+      "スリケンバルカン",
+      "カゼのジツ"
+    ],
+    "appearance": "身長8フィート超の巨躯。\n「ツル」と繰り返しショドーされたニンジャ装束。フロシキのようなマント。\nシシマイ・オメーン。",
+    "description": "ダークニンジャを導く謎めいた運命者。 過去を見通すと嘯く。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%AF%E3%83%AC%E3%82%A4%E3%83%B3",
     "appearances": [
       {
         "id": "9lclsu2q"
@@ -18478,14 +18533,7 @@
       {
         "id": "12ml6hmz"
       }
-    ],
-    "skills": [
-      "スリケンバルカン",
-      "カゼのジツ"
-    ],
-    "description": "ダークニンジャを導く謎めいた運命者。 過去を見通すと嘯く。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%AF%E3%83%AC%E3%82%A4%E3%83%B3"
+    ]
   },
   {
     "id": "c3371a",
@@ -18502,6 +18550,15 @@
       "origin": ""
     },
     "organizations": [],
+    "skills": [
+      "スリケンバルカン",
+      "カゼのジツ",
+      "硫酸弾",
+      "レーザー光線"
+    ],
+    "appearance": "身長8フィート超の巨躯。\n「カメ」と繰り返しショドーされたニンジャ装束。フロシキのようなマント。\nシシマイ・オメーン。",
+    "description": "ダークニンジャを導く謎めいた運命者。\n未来を見通すと嘯く。",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%88%E3%83%BC%E3%82%BF%E3%82%B9",
     "appearances": [
       {
         "id": "tlibhtjh"
@@ -18515,15 +18572,7 @@
       {
         "id": "3zn1rjr5"
       }
-    ],
-    "skills": [
-      "スリケンバルカン",
-      "カゼのジツ",
-      "硫酸弾",
-      "レーザー光線"
-    ],
-    "description": "ダークニンジャを導く謎めいた運命者。\n未来を見通すと嘯く。",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%88%E3%83%BC%E3%82%BF%E3%82%B9"
+    ]
   },
   {
     "id": "c15b4e",
