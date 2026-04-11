@@ -645,3 +645,81 @@
   font-size: 0.75rem;
   color: var(--color-arc);
 }
+
+/* ---- エピソード：順序変更ボタン ---- */
+.episodeMoveButtons {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  flex-shrink: 0;
+}
+
+.btnMove {
+  padding: 0.1rem 0.35rem;
+  background: transparent;
+  border: 1px solid var(--color-border);
+  border-radius: 3px;
+  color: var(--color-text-muted);
+  cursor: pointer;
+  font-size: 0.6rem;
+  line-height: 1;
+  transition: all 0.15s ease;
+  font-family: var(--font-family);
+}
+
+.btnMove:hover:not(:disabled) {
+  border-color: var(--color-primary);
+  color: var(--color-primary);
+}
+
+.btnMove:disabled {
+  opacity: 0.2;
+  cursor: not-allowed;
+}
+
+/* ---- エピソード：手動追加バッジ ---- */
+.episodeManualBadge {
+  font-size: 0.68rem;
+  font-weight: 700;
+  padding: 0.1rem 0.4rem;
+  border-radius: 3px;
+  background: rgba(255, 214, 10, 0.12);
+  color: var(--color-accent);
+  border: 1px solid rgba(255, 214, 10, 0.3);
+  flex-shrink: 0;
+}
+
+/* ---- エピソード：ドロップダウン手動追加行 ---- */
+.episodeSuggestionManual {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  width: 100%;
+  padding: 0.5rem 0.75rem;
+  background: rgba(0, 217, 146, 0.04);
+  border: none;
+  border-top: 1px dashed var(--color-border);
+  color: var(--color-primary-mint);
+  cursor: pointer;
+  text-align: left;
+  font-size: 0.875rem;
+  transition: background 0.15s ease;
+}
+
+.episodeSuggestionManual:hover {
+  background: rgba(0, 217, 146, 0.1);
+}
+
+.epSugManualIcon {
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--color-primary);
+  flex-shrink: 0;
+}
+
+.epSugManualNote {
+  font-size: 0.72rem;
+  color: var(--color-text-muted);
+  margin-left: auto;
+  flex-shrink: 0;
+}

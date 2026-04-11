@@ -172,7 +172,7 @@ export function NinjaEditPage() {
   const updateOrg = (i: number, name: string) =>
     set('organizations', (form?.organizations ?? []).map((o, j) => j === i ? { ...o, name } : o));
 
-  // エピソード操作（episodes.json から選択）
+  // エピソード操作（episodes.json から選択 or 手動追加）
   const addEpisode = (ep: Episode) => {
     if (form?.appearances.some(e => e.id === ep.id)) return; // 重複追加防止
     set('appearances', [...(form?.appearances ?? []), ep]);
@@ -180,6 +180,29 @@ export function NinjaEditPage() {
   };
   const removeEpisode = (i: number) =>
     set('appearances', (form?.appearances ?? []).filter((_, j) => j !== i));
+
+  // 順序変更
+  const moveEpisodeUp = (i: number) => {
+    if (i === 0) return;
+    const list = [...(form?.appearances ?? [])];
+    [list[i - 1], list[i]] = [list[i], list[i - 1]];
+    set('appearances', list);
+  };
+  const moveEpisodeDown = (i: number) => {
+    const list = [...(form?.appearances ?? [])];
+    if (i === list.length - 1) return;
+    [list[i], list[i + 1]] = [list[i + 1], list[i]];
+    set('appearances', list);
+  };
+
+  // JSON に存在しないエピソードを手動追加
+  const addEpisodeManual = () => {
+    const title = episodeSearch.trim();
+    if (!title) return;
+    const newEp: Episode = { id: genId(), title };
+    set('appearances', [...(form?.appearances ?? []), newEp]);
+    setEpisodeSearch('');
+  };
 
   const filteredEpisodes = episodeSearch.trim()
     ? allEpisodes.filter(ep =>
@@ -413,10 +436,29 @@ export function NinjaEditPage() {
             {form.appearances.map((ep, i) => (
               <div key={ep.id} className={styles.episodeEntry}>
                 <div className={styles.episodeEntryHeader}>
+                  {/* 順序変更ボタン */}
+                  <div className={styles.episodeMoveButtons}>
+                    <button
+                      className={styles.btnMove}
+                      onClick={() => moveEpisodeUp(i)}
+                      disabled={i === 0}
+                      title="上へ"
+                    >▲</button>
+                    <button
+                      className={styles.btnMove}
+                      onClick={() => moveEpisodeDown(i)}
+                      disabled={i === form.appearances.length - 1}
+                      title="下へ"
+                    >▼</button>
+                  </div>
                   <span className={styles.episodeIndex}>#{i + 1}</span>
                   <span className={styles.episodeTitle}>{ep.title}</span>
                   {ep.arc && <span className={styles.episodeArc}>{ep.arc}</span>}
                   {ep.season !== undefined && <span className={styles.episodeArc}>S{ep.season}</span>}
+                  {/* JSON に存在しないエピソードはバッジで示す */}
+                  {!allEpisodes.some(e => e.id === ep.id) && (
+                    <span className={styles.episodeManualBadge}>手動</span>
+                  )}
                   <button className={styles.btnRemove} onClick={() => removeEpisode(i)} title="削除">✕</button>
                 </div>
               </div>
@@ -431,7 +473,7 @@ export function NinjaEditPage() {
               onChange={e => setEpisodeSearch(e.target.value)}
               placeholder="エピソード名で検索して追加..."
             />
-            {filteredEpisodes.length > 0 && (
+            {episodeSearch.trim() && (
               <div className={styles.episodeSuggestions}>
                 {filteredEpisodes.map(ep => (
                   <button
@@ -444,6 +486,15 @@ export function NinjaEditPage() {
                     {ep.season !== undefined && <span className={styles.epSugArc}>S{ep.season}</span>}
                   </button>
                 ))}
+                {/* JSON にない場合の手動追加ボタン — 常に表示 */}
+                <button
+                  className={styles.episodeSuggestionManual}
+                  onClick={addEpisodeManual}
+                >
+                  <span className={styles.epSugManualIcon}>＋</span>
+                  <span>「{episodeSearch.trim()}」を新規登録</span>
+                  <span className={styles.epSugManualNote}>IDは自動生成</span>
+                </button>
               </div>
             )}
           </div>
