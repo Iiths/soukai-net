@@ -8611,19 +8611,58 @@
   {
     "id": "e1f293e6",
     "name": "ロード・オブ・ザイバツ",
-    "ninjaType": "リアルニンジャ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "qi9qn8x4",
+      "name": "ソガ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "ソガ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "zaibatsu-p2",
         "name": "ザイバツ（第2部）"
-      },
-      {
-        "id": "ヨロシサン製薬",
-        "name": "ヨロシサン製薬"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AD%E3%83%BC%E3%83%89%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%82%B6%E3%82%A4%E3%83%90%E3%83%84"
+    "skills": [
+      "キョジツテンカンホー・ジツ",
+      "タタミ・ジツ",
+      "ドス・ダガー",
+      "高速再生"
+    ],
+    "role": "ザイバツ・ロード",
+    "appearance": "車椅子。老齢。秘的なノーレン。身長184cm。",
+    "description": "ザイバツ・シャドーギルドの謎めいた首領。\nショーグン・オーヴァーロードの末裔を自認。\nキョジツテンカンホーでキョートを支配している。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AD%E3%83%BC%E3%83%89%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%82%B6%E3%82%A4%E3%83%90%E3%83%84",
+    "appearances": [
+      {
+        "id": "9lclsu2q"
+      },
+      {
+        "id": "w1fu608s"
+      },
+      {
+        "id": "7orkjubb"
+      },
+      {
+        "id": "hfcqzrkh"
+      },
+      {
+        "id": "q0zjg8rk"
+      },
+      {
+        "id": "oer10ykn"
+      },
+      {
+        "id": "t4m7hei5"
+      },
+      {
+        "id": "12ml6hmz"
+      }
+    ]
   },
   {
     "id": "d64d2ab2",
@@ -8734,19 +8773,64 @@
   {
     "id": "89073b2d",
     "name": "パラゴン",
+    "realName": "ロク・キヅキ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "rtz1lm91",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "アイキ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "zaibatsu-p2",
         "name": "ザイバツ（第2部）"
-      },
-      {
-        "id": "ヨロシサン製薬",
-        "name": "ヨロシサン製薬"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%91%E3%83%A9%E3%82%B4%E3%83%B3"
+    "skills": [
+      "ニンジャ学",
+      "アイキドー",
+      "インロウ・オブ・パワー"
+    ],
+    "role": "グランドマスター位階",
+    "appearance": "小柄で猫背。猜疑心に満ちた目。LAN直結者。身長165cm。",
+    "description": "ザイバツ・グランドマスター。ロード・オブ・ザイバツの側近。\nニンジャ博学に通じ、実戦レベルで使いこなす。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%91%E3%83%A9%E3%82%B4%E3%83%B3",
+    "appearances": [
+      {
+        "id": "w1fu608s"
+      },
+      {
+        "id": "b2f24cc3"
+      },
+      {
+        "id": "7orkjubb"
+      },
+      {
+        "id": "js9ejlo6"
+      },
+      {
+        "id": "hfcqzrkh"
+      },
+      {
+        "id": "q0zjg8rk"
+      },
+      {
+        "id": "oer10ykn"
+      },
+      {
+        "id": "wbfhbzoh"
+      },
+      {
+        "id": "t4m7hei5"
+      },
+      {
+        "id": "12ml6hmz"
+      }
+    ]
   },
   {
     "id": "c9216d23",
