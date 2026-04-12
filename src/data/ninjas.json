@@ -6825,19 +6825,30 @@
   {
     "id": "6b7e269f",
     "name": "ダブルソード",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "wsle0ew8",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
-      },
-      {
-        "id": "オリジナル・ツイッターアー・アドベンチャー・ゲームブック・シ",
-        "name": "オリジナル・ツイッターアー・アドベンチャー・ゲームブック・シリーズ"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%80%E3%83%96%E3%83%AB%E3%82%BD%E3%83%BC%E3%83%89"
+    "skills": [
+      "二本の剣",
+      "クナイ・ダート"
+    ],
+    "appearance": "二本の剣",
+    "description": "ゲームブックに登場したソウカイニンジャ。\n名前の通り二本のニンジャソードで戦う。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%80%E3%83%96%E3%83%AB%E3%82%BD%E3%83%BC%E3%83%89",
+    "appearances": []
   },
   {
     "id": "fc3a98d6",
@@ -7561,19 +7572,29 @@
   {
     "id": "a595f816",
     "name": "ホーネット",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "s3mg4irj",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p1",
         "name": "ソウカイヤ（第1部）"
-      },
-      {
-        "id": "オリジナル・ツイッターアー・アドベンチャー・ゲームブック・シ",
-        "name": "オリジナル・ツイッターアー・アドベンチャー・ゲームブック・シリーズ"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9B%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88"
+    "skills": [
+      "常人の三倍の脚力"
+    ],
+    "appearance": "バイオLAN端子",
+    "description": "ゲームブックに登場したソウカイニンジャ。\n典型的なサンシタ。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9B%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88",
+    "appearances": []
   },
   {
     "id": "59dd939b",
@@ -8626,17 +8647,6 @@
         "name": "ザイバツ（第2部）"
       }
     ],
-    "skills": [
-      "キョジツテンカンホー・ジツ",
-      "タタミ・ジツ",
-      "ドス・ダガー",
-      "高速再生"
-    ],
-    "role": "ザイバツ・ロード",
-    "appearance": "車椅子。老齢。秘的なノーレン。身長184cm。",
-    "description": "ザイバツ・シャドーギルドの謎めいた首領。\nショーグン・オーヴァーロードの末裔を自認。\nキョジツテンカンホーでキョートを支配している。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AD%E3%83%BC%E3%83%89%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%82%B6%E3%82%A4%E3%83%90%E3%83%84",
     "appearances": [
       {
         "id": "9lclsu2q"
@@ -8662,7 +8672,18 @@
       {
         "id": "12ml6hmz"
       }
-    ]
+    ],
+    "skills": [
+      "キョジツテンカンホー・ジツ",
+      "タタミ・ジツ",
+      "ドス・ダガー",
+      "高速再生"
+    ],
+    "role": "ザイバツ・ロード",
+    "appearance": "車椅子。老齢。秘的なノーレン。身長184cm。",
+    "description": "ザイバツ・シャドーギルドの謎めいた首領。\nショーグン・オーヴァーロードの末裔を自認。\nキョジツテンカンホーでキョートを支配している。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AD%E3%83%BC%E3%83%89%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%82%B6%E3%82%A4%E3%83%90%E3%83%84"
   },
   {
     "id": "d64d2ab2",
@@ -8789,16 +8810,6 @@
         "name": "ザイバツ（第2部）"
       }
     ],
-    "skills": [
-      "ニンジャ学",
-      "アイキドー",
-      "インロウ・オブ・パワー"
-    ],
-    "role": "グランドマスター位階",
-    "appearance": "小柄で猫背。猜疑心に満ちた目。LAN直結者。身長165cm。",
-    "description": "ザイバツ・グランドマスター。ロード・オブ・ザイバツの側近。\nニンジャ博学に通じ、実戦レベルで使いこなす。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%91%E3%83%A9%E3%82%B4%E3%83%B3",
     "appearances": [
       {
         "id": "w1fu608s"
@@ -8830,7 +8841,17 @@
       {
         "id": "12ml6hmz"
       }
-    ]
+    ],
+    "skills": [
+      "ニンジャ学",
+      "アイキドー",
+      "インロウ・オブ・パワー"
+    ],
+    "role": "グランドマスター位階",
+    "appearance": "小柄で猫背。猜疑心に満ちた目。LAN直結者。身長165cm。",
+    "description": "ザイバツ・グランドマスター。ロード・オブ・ザイバツの側近。\nニンジャ博学に通じ、実戦レベルで使いこなす。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%91%E3%83%A9%E3%82%B4%E3%83%B3"
   },
   {
     "id": "c9216d23",
@@ -9831,6 +9852,11 @@
         "name": "ザイバツ（第2部）"
       }
     ],
+    "appearances": [
+      {
+        "id": "w1fu608s"
+      }
+    ],
     "skills": [
       "グラディウス・ドー"
     ],
@@ -9838,12 +9864,7 @@
     "appearance": "白髭の交じった無精髭。左眼に眼帯。\nライオンが描かれたバックラー。",
     "description": "ザイバツの歴戦ニンジャ。マルノウチ抗争参加者。\nアデプト階位だがマスター級。攻防一体のグラディウス・ドーを用いる。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B0%E3%83%A9%E3%83%87%E3%82%A3%E3%82%A8%E3%82%A4%E3%82%BF%E3%83%BC",
-    "appearances": [
-      {
-        "id": "w1fu608s"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B0%E3%83%A9%E3%83%87%E3%82%A3%E3%82%A8%E3%82%A4%E3%82%BF%E3%83%BC"
   },
   {
     "id": "7a1d9914",
@@ -9978,14 +9999,6 @@
         "name": "ザイバツ（第2部）"
       }
     ],
-    "skills": [
-      "ビッグカラテ",
-      "素晴らしい棍棒"
-    ],
-    "appearance": "身長2メートル超。頭頂部に短いダイヤモンドチタン製の一本角。\nザイバツ紋のフルメンポ。",
-    "description": "ザイバツの若手ニンジャ。\n粗暴で身勝手。棍棒と頭突きで戦う。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%97%E3%82%B9",
     "appearances": [
       {
         "id": "w1fu608s"
@@ -9993,7 +10006,15 @@
       {
         "id": "vr3fq73p"
       }
-    ]
+    ],
+    "skills": [
+      "ビッグカラテ",
+      "素晴らしい棍棒"
+    ],
+    "appearance": "身長2メートル超。頭頂部に短いダイヤモンドチタン製の一本角。\nザイバツ紋のフルメンポ。",
+    "description": "ザイバツの若手ニンジャ。\n粗暴で身勝手。棍棒と頭突きで戦う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%97%E3%82%B9"
   },
   {
     "id": "37ac486c",
@@ -10580,15 +10601,6 @@
         "name": "ザイバツ（第2部）"
       }
     ],
-    "skills": [
-      "光学迷彩フロシキ",
-      "クナイ・ダート",
-      "吹き矢"
-    ],
-    "role": "アデプト位階",
-    "appearance": "灰色のニンジャ装束。サイレンサー搭載のサイバーメンポ。",
-    "description": "ザイバツの若手ニンジャ。\nシノビ・ニンジャクランのニンジャで、\n斥侯や偵察、ストーキングを得意とする。",
-    "status": "dead",
     "appearances": [
       {
         "id": "w1fu608s"
@@ -10599,7 +10611,16 @@
       {
         "id": "b2f24cc3"
       }
-    ]
+    ],
+    "skills": [
+      "光学迷彩フロシキ",
+      "クナイ・ダート",
+      "吹き矢"
+    ],
+    "role": "アデプト位階",
+    "appearance": "灰色のニンジャ装束。サイレンサー搭載のサイバーメンポ。",
+    "description": "ザイバツの若手ニンジャ。\nシノビ・ニンジャクランのニンジャで、\n斥侯や偵察、ストーキングを得意とする。",
+    "status": "dead"
   },
   {
     "id": "1ef49a81",
@@ -10750,6 +10771,11 @@
         "name": "ザイバツ（第2部）"
       }
     ],
+    "appearances": [
+      {
+        "id": "w1fu608s"
+      }
+    ],
     "skills": [
       "遠隔ハッキング"
     ],
@@ -10757,12 +10783,7 @@
     "appearance": "身長約1m。黒いニンジャ装束。\n頭部と背中に無数に生えたバイオ無線LANアンテナ群。",
     "description": "ザイバツの若手ニンジャ。\n小柄さを活かした動きとハッキングを得意とする。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%83%E3%82%B8%E3%83%9B%E3%83%83%E3%82%B0",
-    "appearances": [
-      {
-        "id": "w1fu608s"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%83%E3%82%B8%E3%83%9B%E3%83%83%E3%82%B0"
   },
   {
     "id": "1e34d207",
@@ -15707,17 +15728,17 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
+    "appearances": [
+      {
+        "id": "w1fu608s"
+      }
+    ],
     "skills": [
       "バイオ強化投げ縄"
     ],
     "description": "ソウカイヤのニンジャ。辺境駐屯。\n投げ縄で首を狙う。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8C%E3%83%BC%E3%82%BA%E3%83%9E%E3%83%B3",
-    "appearances": [
-      {
-        "id": "w1fu608s"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8C%E3%83%BC%E3%82%BA%E3%83%9E%E3%83%B3"
   },
   {
     "id": "00d0bb",
@@ -15737,18 +15758,18 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
+    "appearances": [
+      {
+        "id": "w1fu608s"
+      }
+    ],
     "skills": [
       "リボルバー拳銃"
     ],
     "appearance": "ウェスタンバンダナ。左腰に愛銃を収めた牛革製のホルスター。ウェスタンめいた風貌。\n下半身にケブラー・グローインガード。",
     "description": "ソウカイヤのニンジャ。辺境駐屯。\nシングルアクション式リボルバーを武器とする。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9B%E3%83%BC%E3%82%B9%E3%83%90%E3%83%83%E3%82%AF",
-    "appearances": [
-      {
-        "id": "w1fu608s"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9B%E3%83%BC%E3%82%B9%E3%83%90%E3%83%83%E3%82%AF"
   },
   {
     "id": "a8b6f56c",
@@ -24326,5 +24347,62 @@
     "description": "神出鬼没のニンジャハンター。非ニンジャ。\n贖罪のため聖戦を続けていると嘯く。\n彼は狂っている。",
     "status": "unknown",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A4%E3%82%AF%E3%82%B6%E5%A4%A9%E7%8B%97"
+  },
+  {
+    "id": "kjdub9df",
+    "name": "キングプラウン",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "4rue6x73",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "organizations": [],
+    "skills": [
+      "常人の三倍の脚力",
+      "パイロ・ジツ",
+      "ゼゲン・ジツ"
+    ],
+    "appearance": "大きなハサミを持つ。",
+    "description": "ゲームブックに登場したニンジャ。オイランを支配していた。\nサツガイ接触者。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%97%E3%83%A9%E3%82%A6%E3%83%B3",
+    "appearances": []
+  },
+  {
+    "id": "frl19s6x",
+    "name": "ブラックタートル",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "kxx43hvo",
+      "name": ""
+    },
+    "organizations": [],
+    "skills": [
+      "カメ・カラテ"
+    ],
+    "description": "ゲームブックに登場したニンジャ。\nキングプラウンの仲間。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%88%E3%83%AB%EF%BC%8F%E3%82%AA%E3%83%BC%E3%83%AA%E3%83%83%E3%82%AF%E3%83%81%E3%82%A7%E3%82%B9%E3%83%8A%E3%83%83%E3%83%88",
+    "appearances": []
+  },
+  {
+    "id": "2r2m5cl8",
+    "name": "オーリックチェスナット",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "ke38ke82",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "organizations": [],
+    "skills": [],
+    "description": "ゲームブックに登場したニンジャ。\nキングプラウンの仲間。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%88%E3%83%AB%EF%BC%8F%E3%82%AA%E3%83%BC%E3%83%AA%E3%83%83%E3%82%AF%E3%83%81%E3%82%A7%E3%82%B9%E3%83%8A%E3%83%83%E3%83%88",
+    "appearances": []
   }
 ]
