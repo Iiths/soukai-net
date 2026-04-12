@@ -22497,14 +22497,51 @@
   {
     "id": "d32f31e4",
     "name": "モータードクロ",
+    "aliases": [],
+    "ninjaType": "ロボ・ニンジャ",
     "organizations": [
       {
         "id": "オムラ_インダストリ",
         "name": "オムラ・インダストリ"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%89%E3%82%AF%E3%83%AD"
+    "skills": [
+      "ゼンメツ・アクション・モード",
+      "スシ・フィード"
+    ],
+    "appearance": "「秩序」と書かれた屈強な鋼の胸板。神話のニンジャ戦士めいたデザイン。\n8本のアームと4本の脚。胴体にガトリングガン、口部にグレネードランチャー。\nサスマタ、ジュッテ、カマ、ツルギ、斧、カタナ、ナギナタ、ハンマーを背中のキャリアカーゴに格納。",
+    "description": "オムラ・インダストリが開発したロボ・ニンジャ。\nラオモト・カン監修。対ニンジャ戦を想定している。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%89%E3%82%AF%E3%83%AD",
+    "appearances": [
+      {
+        "id": "t3b3cjoh"
+      },
+      {
+        "id": "9lclsu2q"
+      },
+      {
+        "id": "nghu0pwd"
+      },
+      {
+        "id": "12ml6hmz"
+      },
+      {
+        "id": "5b7a2175"
+      },
+      {
+        "id": "817f294a"
+      },
+      {
+        "id": "xh9n74xs"
+      },
+      {
+        "id": "his9gvkp"
+      },
+      {
+        "id": "e2bd0490"
+      }
+    ]
   },
   {
     "id": "952cc1d4",
