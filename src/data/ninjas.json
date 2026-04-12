@@ -429,20 +429,135 @@
   {
     "id": "1775455912",
     "name": "タカギ・ガンドー",
-    "aliases": [],
+    "aliases": [
+      "ディテクティヴ"
+    ],
+    "ninjaSoul": {
+      "id": "ib3aflww",
+      "name": "カラス・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "ニンジャスレイヤーと協力者達",
         "name": "ニンジャスレイヤーと協力者達"
-      },
-      {
-        "id": "芸能関係者",
-        "name": "芸能関係者"
       }
     ],
-    "appearances": [],
+    "skills": [
+      "ピストル・カラテ",
+      "49マグナム",
+      "カラス・ガン",
+      "シニフリ・ジツ",
+      "カラス変身"
+    ],
+    "role": "私立探偵",
+    "appearance": "白髪。黒の瞳。眠そうな目蓋が印象的な顔立ち。身長190cm。首の後ろに生体LAN端子。\nカラスめいたロングコート。額に黒い太陽コロナめいた傷痕。負傷後は右目に眼帯。\n第4部後は三本足のカラス。後に人間形態と自由に変えられるようになった。",
+    "description": "キョート共和国の私立探偵。暗黒武道ピストルカラテの使い手。\n人情に厚く、様々な事件に立ち向かう。",
     "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%82%AB%E3%82%AE%E3%83%BB%E3%82%AC%E3%83%B3%E3%83%89%E3%83%BC"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%82%AB%E3%82%AE%E3%83%BB%E3%82%AC%E3%83%B3%E3%83%89%E3%83%BC",
+    "appearances": [
+      {
+        "id": "b2f24cc3"
+      },
+      {
+        "id": "d3b40e37"
+      },
+      {
+        "id": "7orkjubb"
+      },
+      {
+        "id": "js9ejlo6"
+      },
+      {
+        "id": "hfcqzrkh"
+      },
+      {
+        "id": "7a5b8225"
+      },
+      {
+        "id": "ot4lpixl"
+      },
+      {
+        "id": "3zn1rjr5"
+      },
+      {
+        "id": "oer10ykn"
+      },
+      {
+        "id": "g01g2lf0"
+      },
+      {
+        "id": "wbfhbzoh"
+      },
+      {
+        "id": "t4m7hei5"
+      },
+      {
+        "id": "rujnq8bg"
+      },
+      {
+        "id": "d05ef453"
+      },
+      {
+        "id": "gb8b6euf"
+      },
+      {
+        "id": "12ml6hmz"
+      },
+      {
+        "id": "5b7a2175"
+      },
+      {
+        "id": "db1b5ac6"
+      },
+      {
+        "id": "6deadcd6"
+      },
+      {
+        "id": "0aecbc8b"
+      },
+      {
+        "id": "635624e9"
+      },
+      {
+        "id": "xh9n74xs"
+      },
+      {
+        "id": "8r8ibb8m"
+      },
+      {
+        "id": "3972e76a"
+      },
+      {
+        "id": "2a6d9f22"
+      },
+      {
+        "id": "74d02c3a"
+      },
+      {
+        "id": "wjryt0u9"
+      },
+      {
+        "id": "vrvaz1y4"
+      },
+      {
+        "id": "0nci6tph"
+      },
+      {
+        "id": "i9di1e9q"
+      },
+      {
+        "id": "his9gvkp"
+      },
+      {
+        "id": "gzrph4m3"
+      },
+      {
+        "id": "92d5732c"
+      }
+    ]
   },
   {
     "id": "1775455913",
@@ -1752,6 +1867,13 @@
     "name": "セントール",
     "aliases": [],
     "ninjaType": "バイオニンジャ",
+    "ninjaSoul": {
+      "id": "yubydwsi",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "サワタリ・カンパニー",
@@ -1766,9 +1888,45 @@
         "name": "ヨロシサン製薬"
       }
     ],
-    "appearances": [],
+    "skills": [
+      "サスマタ"
+    ],
+    "appearance": "ニンジャ装束の人間上半身と大型バイオ鹿の下半身。\n頭部にインプラントされた雄鹿の角。",
+    "description": "バイオ鹿工場事故によって生み出されたバイオニンジャ。\nサワタリの元に身を寄せた。突撃攻撃は危険。",
     "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BB%E3%83%B3%E3%83%88%E3%83%BC%E3%83%AB"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BB%E3%83%B3%E3%83%88%E3%83%BC%E3%83%AB",
+    "appearances": [
+      {
+        "id": "d3b40e37"
+      },
+      {
+        "id": "gb8b6euf"
+      },
+      {
+        "id": "2a31b6d9"
+      },
+      {
+        "id": "12ml6hmz"
+      },
+      {
+        "id": "8bf115a4"
+      },
+      {
+        "id": "qeenefau"
+      },
+      {
+        "id": "2v6e48gz"
+      },
+      {
+        "id": "8r8ibb8m"
+      },
+      {
+        "id": "914a622e"
+      },
+      {
+        "id": "08f2e3c4"
+      }
+    ]
   },
   {
     "id": "1775455967",
@@ -6840,6 +6998,7 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
+    "appearances": [],
     "skills": [
       "二本の剣",
       "クナイ・ダート"
@@ -6847,8 +7006,7 @@
     "appearance": "二本の剣",
     "description": "ゲームブックに登場したソウカイニンジャ。\n名前の通り二本のニンジャソードで戦う。",
     "status": "unknown",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%80%E3%83%96%E3%83%AB%E3%82%BD%E3%83%BC%E3%83%89",
-    "appearances": []
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%80%E3%83%96%E3%83%AB%E3%82%BD%E3%83%BC%E3%83%89"
   },
   {
     "id": "fc3a98d6",
@@ -7587,14 +7745,14 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
+    "appearances": [],
     "skills": [
       "常人の三倍の脚力"
     ],
     "appearance": "バイオLAN端子",
     "description": "ゲームブックに登場したソウカイニンジャ。\n典型的なサンシタ。",
     "status": "unknown",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9B%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88",
-    "appearances": []
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9B%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88"
   },
   {
     "id": "59dd939b",
@@ -9047,19 +9205,35 @@
   {
     "id": "7d3711f5",
     "name": "スカベンジャー",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "bi07n6gr",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "キノコニンジャ・クラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "zaibatsu-p2",
         "name": "ザイバツ（第2部）"
-      },
-      {
-        "id": "ヨロシサン製薬",
-        "name": "ヨロシサン製薬"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%AB%E3%83%99%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC"
+    "skills": [
+      "ドトン・ジツ",
+      "回復能力（マツタケ）"
+    ],
+    "role": "マスター位階",
+    "appearance": "濃紫色のニンジャ装束。覆面メンポ。",
+    "description": "ザイバツのマスターニンジャ。ヨロシサン製薬と癒着。\n地中でマツタケを食べて回復する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%AB%E3%83%99%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC",
+    "appearances": [
+      {
+        "id": "d3b40e37"
+      }
+    ]
   },
   {
     "id": "a9490c07",
@@ -10031,7 +10205,15 @@
   {
     "id": "3c4adc35",
     "name": "サヴェージ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "99slnpkj",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "ケモノ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "zaibatsu-p2",
@@ -10042,8 +10224,20 @@
         "name": "ヨロシサン製薬"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%B4%E3%82%A7%E3%83%BC%E3%82%B8"
+    "skills": [
+      "爪",
+      "強化薬"
+    ],
+    "role": "アデプト位階",
+    "appearance": "毛皮ボディスーツ状のニンジャ装束。\n獅子の下顎を模したメンポ。サーベルタイガーめいた犬歯。",
+    "description": "ザイバツからヨロシサンに出向していたニンジャ。\nバイオ強化薬で凶暴化して戦う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%B4%E3%82%A7%E3%83%BC%E3%82%B8",
+    "appearances": [
+      {
+        "id": "js9ejlo6"
+      }
+    ]
   },
   {
     "id": "e1c5bd49",
@@ -10931,19 +11125,37 @@
   {
     "id": "a6b43489",
     "name": "モスマン",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "gld4plxv",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "zaibatsu-p2",
         "name": "ザイバツ（第2部）"
-      },
-      {
-        "id": "ヨロシサン製薬",
-        "name": "ヨロシサン製薬"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%82%B9%E3%83%9E%E3%83%B3"
+    "skills": [
+      "バイオ毒鱗粉"
+    ],
+    "role": "アデプト位階",
+    "appearance": "マントとメンポ。複眼。",
+    "description": "ザイバツのアデプト位階ニンジャ。\nマントから毒鱗粉を放つ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%82%B9%E3%83%9E%E3%83%B3",
+    "appearances": [
+      {
+        "id": "js9ejlo6"
+      },
+      {
+        "id": "vr3fq73p"
+      }
+    ]
   },
   {
     "id": "26bd2c83",
@@ -22505,14 +22717,6 @@
         "name": "オムラ・インダストリ"
       }
     ],
-    "skills": [
-      "ゼンメツ・アクション・モード",
-      "スシ・フィード"
-    ],
-    "appearance": "「秩序」と書かれた屈強な鋼の胸板。神話のニンジャ戦士めいたデザイン。\n8本のアームと4本の脚。胴体にガトリングガン、口部にグレネードランチャー。\nサスマタ、ジュッテ、カマ、ツルギ、斧、カタナ、ナギナタ、ハンマーを背中のキャリアカーゴに格納。",
-    "description": "オムラ・インダストリが開発したロボ・ニンジャ。\nラオモト・カン監修。対ニンジャ戦を想定している。",
-    "status": "unknown",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%89%E3%82%AF%E3%83%AD",
     "appearances": [
       {
         "id": "t3b3cjoh"
@@ -22541,7 +22745,15 @@
       {
         "id": "e2bd0490"
       }
-    ]
+    ],
+    "skills": [
+      "ゼンメツ・アクション・モード",
+      "スシ・フィード"
+    ],
+    "appearance": "「秩序」と書かれた屈強な鋼の胸板。神話のニンジャ戦士めいたデザイン。\n8本のアームと4本の脚。胴体にガトリングガン、口部にグレネードランチャー。\nサスマタ、ジュッテ、カマ、ツルギ、斧、カタナ、ナギナタ、ハンマーを背中のキャリアカーゴに格納。",
+    "description": "オムラ・インダストリが開発したロボ・ニンジャ。\nラオモト・カン監修。対ニンジャ戦を想定している。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%89%E3%82%AF%E3%83%AD"
   },
   {
     "id": "952cc1d4",
@@ -24396,6 +24608,7 @@
       "grade": "等級不明"
     },
     "organizations": [],
+    "appearances": [],
     "skills": [
       "常人の三倍の脚力",
       "パイロ・ジツ",
@@ -24404,8 +24617,7 @@
     "appearance": "大きなハサミを持つ。",
     "description": "ゲームブックに登場したニンジャ。オイランを支配していた。\nサツガイ接触者。",
     "status": "unknown",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%97%E3%83%A9%E3%82%A6%E3%83%B3",
-    "appearances": []
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%97%E3%83%A9%E3%82%A6%E3%83%B3"
   },
   {
     "id": "frl19s6x",
@@ -24417,13 +24629,13 @@
       "name": ""
     },
     "organizations": [],
+    "appearances": [],
     "skills": [
       "カメ・カラテ"
     ],
     "description": "ゲームブックに登場したニンジャ。\nキングプラウンの仲間。",
     "status": "unknown",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%88%E3%83%AB%EF%BC%8F%E3%82%AA%E3%83%BC%E3%83%AA%E3%83%83%E3%82%AF%E3%83%81%E3%82%A7%E3%82%B9%E3%83%8A%E3%83%83%E3%83%88",
-    "appearances": []
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%88%E3%83%AB%EF%BC%8F%E3%82%AA%E3%83%BC%E3%83%AA%E3%83%83%E3%82%AF%E3%83%81%E3%82%A7%E3%82%B9%E3%83%8A%E3%83%83%E3%83%88"
   },
   {
     "id": "2r2m5cl8",
@@ -24436,11 +24648,11 @@
       "grade": "等級不明"
     },
     "organizations": [],
+    "appearances": [],
     "skills": [],
     "description": "ゲームブックに登場したニンジャ。\nキングプラウンの仲間。",
     "status": "unknown",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%88%E3%83%AB%EF%BC%8F%E3%82%AA%E3%83%BC%E3%83%AA%E3%83%83%E3%82%AF%E3%83%81%E3%82%A7%E3%82%B9%E3%83%8A%E3%83%83%E3%83%88",
-    "appearances": []
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%88%E3%83%AB%EF%BC%8F%E3%82%AA%E3%83%BC%E3%83%AA%E3%83%83%E3%82%AF%E3%83%81%E3%82%A7%E3%82%B9%E3%83%8A%E3%83%83%E3%83%88"
   },
   {
     "id": "rszhsy75",
@@ -24458,13 +24670,13 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
+    "appearances": [],
     "skills": [
       "カトン・ジツ"
     ],
     "appearance": "外見年齢10代後半。身長170cm。\n帽子。顎マスク。若者的なファッション。キツネ系のアクセサリー。",
     "description": "ニンジャスレイヤーTRPGのプレロールドキャラクターの一人。\n若いニンジャで、天才的カトン使いを自認する。",
-    "status": "unknown",
-    "appearances": []
+    "status": "unknown"
   },
   {
     "id": "77htn1w0",
@@ -24484,14 +24696,14 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
+    "appearances": [],
     "skills": [
       "カタナ",
       "テッコ"
     ],
     "appearance": "外見年齢20代。身長177cm。\nサイバー衣笠。サイバーフルメンポ。片腕もサイバネ。",
     "description": "ニンジャスレイヤーTRPGのプレロールドキャラクターの一人。\n電子音声で喋るサイバネ剣客。万札はサイバネ改造に使う派。",
-    "status": "unknown",
-    "appearances": []
+    "status": "unknown"
   },
   {
     "id": "6229zonz",
@@ -24509,14 +24721,14 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
+    "appearances": [],
     "skills": [
       "サイバネ脚部",
       "遠隔操作ナイフ"
     ],
     "appearance": "外見年齢20代。身長167cm。\n緑髪。ガスマスクメンポ。",
     "description": "ニンジャスレイヤーTRPGのプレロールドキャラクターの一人。\n元々プロの暗殺者で、愛用のナイフを浮かせて飛ばす。",
-    "status": "unknown",
-    "appearances": []
+    "status": "unknown"
   },
   {
     "id": "iwy8129u",
@@ -24534,14 +24746,14 @@
         "name": "ソウカイヤ（第1部）"
       }
     ],
+    "appearances": [],
     "skills": [
       "カナシバリ・ジツ",
       "ハッカー"
     ],
     "appearance": "外見年齢10代後半。身長152cm。\nマニアックな音楽ユニットや電子部品メーカーのロゴが貼られた透明な強化PVCジャケット。\n紫髪。",
     "description": "ニンジャスレイヤーTRPGのプレロールドキャラクターの一人。\n臆病な性格のハッカーニンジャ。性別不詳。",
-    "status": "unknown",
-    "appearances": []
+    "status": "unknown"
   },
   {
     "id": "1air82fr",
@@ -24564,11 +24776,11 @@
         "name": "アマクダリ"
       }
     ],
+    "appearances": [],
     "skills": [],
     "appearance": "外見年齢20代。身長210cm。\n獣じみた外見。白スーツ。キツネ・オメーン。",
     "description": "ニンジャスレイヤーTRPGのプレロールドキャラクターの一人。\nアマクダリからのスパイニンジャ。ソウルの影響で常にケモノ。",
-    "status": "unknown",
-    "appearances": []
+    "status": "unknown"
   },
   {
     "id": "rwj8u6wu",
@@ -24582,6 +24794,7 @@
       "clan": "コブラ・ニンジャクラン"
     },
     "organizations": [],
+    "appearances": [],
     "skills": [
       "コブラ・カラテ",
       "ドク・スリケン",
@@ -24590,7 +24803,6 @@
     "appearance": "黒ずくめのニンジャ装束。",
     "description": "ニンジャスレイヤーTRPGに登場するフリーランス傭兵ニンジャ。\n強力なカナシバリ・ジツの使い手。サンシタでは束にならねば敵わないだろう。",
     "status": "unknown",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%9E%E3%83%B3%E3%83%90",
-    "appearances": []
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%9E%E3%83%B3%E3%83%90"
   }
 ]
