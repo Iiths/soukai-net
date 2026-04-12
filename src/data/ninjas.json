@@ -24404,5 +24404,156 @@
     "status": "unknown",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%88%E3%83%AB%EF%BC%8F%E3%82%AA%E3%83%BC%E3%83%AA%E3%83%83%E3%82%AF%E3%83%81%E3%82%A7%E3%82%B9%E3%83%8A%E3%83%83%E3%83%88",
     "appearances": []
+  },
+  {
+    "id": "rszhsy75",
+    "name": "キツネビ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "y5r8j6wo",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "organizations": [
+      {
+        "id": "9p317622",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "skills": [
+      "カトン・ジツ"
+    ],
+    "appearance": "外見年齢10代後半。身長170cm。\n帽子。顎マスク。若者的なファッション。キツネ系のアクセサリー。",
+    "description": "ニンジャスレイヤーTRPGのプレロールドキャラクターの一人。\n若いニンジャで、天才的カトン使いを自認する。",
+    "status": "unknown",
+    "appearances": []
+  },
+  {
+    "id": "77htn1w0",
+    "name": "デッドローニン",
+    "aliases": [
+      "シマ・スザキ"
+    ],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "jaugzhr9",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "organizations": [
+      {
+        "id": "fcf8tnqc",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "skills": [
+      "カタナ",
+      "テッコ"
+    ],
+    "appearance": "外見年齢20代。身長177cm。\nサイバー衣笠。サイバーフルメンポ。片腕もサイバネ。",
+    "description": "ニンジャスレイヤーTRPGのプレロールドキャラクターの一人。\n電子音声で喋るサイバネ剣客。万札はサイバネ改造に使う派。",
+    "status": "unknown",
+    "appearances": []
+  },
+  {
+    "id": "6229zonz",
+    "name": "サイコダガー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "8wd2u1p3",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "organizations": [
+      {
+        "id": "l0s5bjwk",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "skills": [
+      "サイバネ脚部",
+      "遠隔操作ナイフ"
+    ],
+    "appearance": "外見年齢20代。身長167cm。\n緑髪。ガスマスクメンポ。",
+    "description": "ニンジャスレイヤーTRPGのプレロールドキャラクターの一人。\n元々プロの暗殺者で、愛用のナイフを浮かせて飛ばす。",
+    "status": "unknown",
+    "appearances": []
+  },
+  {
+    "id": "iwy8129u",
+    "name": "マインドシーカー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "0ckwaxyb",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "organizations": [
+      {
+        "id": "0w68mlyz",
+        "name": "ソウカイヤ（第1部）"
+      }
+    ],
+    "skills": [
+      "カナシバリ・ジツ",
+      "ハッカー"
+    ],
+    "appearance": "外見年齢10代後半。身長152cm。\nマニアックな音楽ユニットや電子部品メーカーのロゴが貼られた透明な強化PVCジャケット。\n紫髪。",
+    "description": "ニンジャスレイヤーTRPGのプレロールドキャラクターの一人。\n臆病な性格のハッカーニンジャ。性別不詳。",
+    "status": "unknown",
+    "appearances": []
+  },
+  {
+    "id": "1air82fr",
+    "name": "キルフィスト",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "n5oyndrk",
+      "name": "",
+      "grade": "等級不明",
+      "origin": "ケモノ系"
+    },
+    "organizations": [
+      {
+        "id": "s9u0qkt5",
+        "name": "ソウカイヤ（第1部）"
+      },
+      {
+        "id": "6dgdmmf1",
+        "name": "アマクダリ"
+      }
+    ],
+    "skills": [],
+    "appearance": "外見年齢20代。身長210cm。\n獣じみた外見。白スーツ。キツネ・オメーン。",
+    "description": "ニンジャスレイヤーTRPGのプレロールドキャラクターの一人。\nアマクダリからのスパイニンジャ。ソウルの影響で常にケモノ。",
+    "status": "unknown",
+    "appearances": []
+  },
+  {
+    "id": "rwj8u6wu",
+    "name": "ブラックマンバ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "mivf7a0q",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "コブラ・ニンジャクラン"
+    },
+    "organizations": [],
+    "skills": [
+      "コブラ・カラテ",
+      "ドク・スリケン",
+      "カナシバリ・ジツ"
+    ],
+    "appearance": "黒ずくめのニンジャ装束。",
+    "description": "ニンジャスレイヤーTRPGに登場するフリーランス傭兵ニンジャ。\n強力なカナシバリ・ジツの使い手。サンシタでは束にならねば敵わないだろう。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%9E%E3%83%B3%E3%83%90",
+    "appearances": []
   }
 ]
