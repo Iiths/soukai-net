@@ -10265,14 +10265,35 @@
   {
     "id": "95cc49c0",
     "name": "シーホース",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "hedoq9wa",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "zaibatsu-p2",
         "name": "ザイバツ（第2部）"
       }
     ],
-    "appearances": []
+    "skills": [],
+    "role": "アデプト位階",
+    "appearance": "タツノオトシゴをあしらった頭飾りとメンポ。ザイバツ紋。",
+    "description": "ザイバツのアデプト位階ニンジャ。\n水場の近くで戦うと思われる。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%BC%E3%83%9B%E3%83%BC%E3%82%B9",
+    "appearances": [
+      {
+        "id": "7orkjubb"
+      },
+      {
+        "id": "vr3fq73p"
+      }
+    ]
   },
   {
     "id": "068074bc",
@@ -10361,14 +10382,36 @@
   {
     "id": "7273ceb4",
     "name": "ソーサラー",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "szfqw7xl",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "ローグ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "zaibatsu-p2",
         "name": "ザイバツ（第2部）"
       }
     ],
-    "appearances": []
+    "skills": [
+      "サイバネ・ブンシン・ジツ",
+      "ミニガン",
+      "カゼのジツ"
+    ],
+    "role": "アデプト位階",
+    "appearance": "魔法使いめいた鋭角的な頭巾。顔全体を覆うメンポ。\n赤いマント付きのローブ型ニンジャ装束。下半身はサイボーグ。",
+    "description": "ザイバツのアデプト位階ニンジャ。\n上半身と下半身がサイバネ分離する。マルノウチ抗争参加者。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BD%E3%83%BC%E3%82%B5%E3%83%A9%E3%83%BC",
+    "appearances": [
+      {
+        "id": "7orkjubb"
+      }
+    ]
   },
   {
     "id": "17813da1",
