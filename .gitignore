@@ -12,6 +12,10 @@ dist
 dist-ssr
 *.local
 
+# tsc コンパイル出力（src/ 配下）- Vite を使うので不要
+src/**/*.js
+src_js_tmp/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
