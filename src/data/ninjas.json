@@ -1509,16 +1509,6 @@
         "name": "ザイバツ（第2部）"
       }
     ],
-    "skills": [
-      "シャドウピン・ジツ",
-      "シャドウコピー・ジツ",
-      "シャドウリープ・ジツ",
-      "アイアンオトメ"
-    ],
-    "appearance": "ザイバツ時代：全身にクナイダート・ベルトを仕込んだニンジャ装束。\n第3部：フード付きニンジャ装束。ジツで生み出した影の右腕。\n第4部：灰色のニンジャ装束。煤けた厚手のテックコート。首元にライダーゴーグル。",
-    "description": "暗黒ハイク高校生に強大なニンジャソウルが憑依。\nザイバツに属していたがヌケニンし、第3部ではシャドウドラゴンと化していた。\n第4部ではハデス・ネットを作り、ハデス・ニンジャクランの憑依者を繋いでいる。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%82%A6%E3%82%A3%E3%83%BC%E3%83%B4",
     "appearances": [
       {
         "id": "7a49e08e"
@@ -1577,7 +1567,17 @@
       {
         "id": "66ac3aba"
       }
-    ]
+    ],
+    "skills": [
+      "シャドウピン・ジツ",
+      "シャドウコピー・ジツ",
+      "シャドウリープ・ジツ",
+      "アイアンオトメ"
+    ],
+    "appearance": "ザイバツ時代：全身にクナイダート・ベルトを仕込んだニンジャ装束。\n第3部：フード付きニンジャ装束。ジツで生み出した影の右腕。\n第4部：灰色のニンジャ装束。煤けた厚手のテックコート。首元にライダーゴーグル。",
+    "description": "暗黒ハイク高校生に強大なニンジャソウルが憑依。\nザイバツに属していたがヌケニンし、第3部ではシャドウドラゴンと化していた。\n第4部ではハデス・ネットを作り、ハデス・ニンジャクランの憑依者を繋いでいる。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%82%A6%E3%82%A3%E3%83%BC%E3%83%B4"
   },
   {
     "id": "1775455954",
@@ -9139,14 +9139,35 @@
   {
     "id": "123b2308",
     "name": "コンジャラー",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "520qszbl",
+      "name": "ウツシ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "シノビ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "zaibatsu-p2",
         "name": "ザイバツ（第2部）"
       }
     ],
-    "appearances": []
+    "skills": [
+      "ブンシン・ジツ",
+      "ハガクレ・ジツ"
+    ],
+    "role": "マスター位階",
+    "appearance": "ターコイズ色のニンジャ装束",
+    "description": "ザイバツのマスター位階ニンジャ。マルノウチ抗争参加者。\n無数の分身を作り出し同時攻撃する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B3%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%A9%E3%83%BC",
+    "appearances": [
+      {
+        "id": "7orkjubb"
+      }
+    ]
   },
   {
     "id": "6388e12c",
@@ -10241,14 +10262,37 @@
   {
     "id": "e1c5bd49",
     "name": "サンバーン",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "2kymmlkg",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "サソリ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "zaibatsu-p2",
         "name": "ザイバツ（第2部）"
       }
     ],
-    "appearances": []
+    "skills": [
+      "カトン・ボール"
+    ],
+    "role": "アデプト階位",
+    "appearance": "黒地にファイアーパターン刺繍が施されたニンジャ装束。身長200cm超。\n両掌にはサイバネ手術。",
+    "description": "ザイバツのアデプト位階ニンジャ。マルノウチ抗争参加者。\nカトン・ファイアーボールで敵を焼き尽くす。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%B3%E3%83%90%E3%83%BC%E3%83%B3",
+    "appearances": [
+      {
+        "id": "7orkjubb"
+      },
+      {
+        "id": "6o0erlqp"
+      }
+    ]
   },
   {
     "id": "d7e3a1d5",
@@ -10280,12 +10324,6 @@
         "name": "ザイバツ（第2部）"
       }
     ],
-    "skills": [],
-    "role": "アデプト位階",
-    "appearance": "タツノオトシゴをあしらった頭飾りとメンポ。ザイバツ紋。",
-    "description": "ザイバツのアデプト位階ニンジャ。\n水場の近くで戦うと思われる。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%BC%E3%83%9B%E3%83%BC%E3%82%B9",
     "appearances": [
       {
         "id": "7orkjubb"
@@ -10293,31 +10331,77 @@
       {
         "id": "vr3fq73p"
       }
-    ]
+    ],
+    "skills": [],
+    "role": "アデプト位階",
+    "appearance": "タツノオトシゴをあしらった頭飾りとメンポ。ザイバツ紋。",
+    "description": "ザイバツのアデプト位階ニンジャ。\n水場の近くで戦うと思われる。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%BC%E3%83%9B%E3%83%BC%E3%82%B9"
   },
   {
     "id": "068074bc",
     "name": "ジェイドソード",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "ktzzk2ca",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "ヒスイ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "zaibatsu-p2",
         "name": "ザイバツ（第2部）"
       }
     ],
-    "appearances": []
+    "skills": [
+      "ヒスイ・ケン・ジツ"
+    ],
+    "role": "アプレンティス位階",
+    "appearance": "緑色のニンジャ装束。",
+    "description": "ザイバツのアプレンティスニンジャ。\n翡翠の剣を生成して投擲する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%89%E3%82%BD%E3%83%BC%E3%83%89",
+    "appearances": [
+      {
+        "id": "9910422e"
+      }
+    ]
   },
   {
     "id": "84248a54",
     "name": "ジャイアントマンティス",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "wx19807r",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "カマキリ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "zaibatsu-p2",
         "name": "ザイバツ（第2部）"
       }
     ],
-    "appearances": []
+    "skills": [
+      "マンティス・カマ"
+    ],
+    "role": "アデプト位階",
+    "appearance": "黄緑色のニンジャ装束。手首にカマを装着。",
+    "description": "ザイバツのアデプト位階ニンジャ。\n両手のカマで攻撃する。ジェイドソードのメンター。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B8%E3%83%A3%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88%E3%83%9E%E3%83%B3%E3%83%86%E3%82%A3%E3%82%B9",
+    "appearances": [
+      {
+        "id": "9910422e"
+      }
+    ]
   },
   {
     "id": "5459db39",
@@ -10370,14 +10454,34 @@
   {
     "id": "2db6435d",
     "name": "センチュリオン",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "0l1qwupm",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "zaibatsu-p2",
         "name": "ザイバツ（第2部）"
       }
     ],
-    "appearances": []
+    "skills": [
+      "古代ローマカラテ"
+    ],
+    "role": "アデプト位階",
+    "appearance": "装甲タイルを貼りつけた重装ニンジャ装束。",
+    "description": "ザイバツのニンジャ。マルノウチ抗争参加者。\n恐るべき古代ローマカラテの使い手。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BB%E3%83%B3%E3%83%81%E3%83%A5%E3%83%AA%E3%82%AA%E3%83%B3",
+    "appearances": [
+      {
+        "id": "7orkjubb"
+      }
+    ]
   },
   {
     "id": "7273ceb4",
@@ -10397,6 +10501,11 @@
         "name": "ザイバツ（第2部）"
       }
     ],
+    "appearances": [
+      {
+        "id": "7orkjubb"
+      }
+    ],
     "skills": [
       "サイバネ・ブンシン・ジツ",
       "ミニガン",
@@ -10406,12 +10515,7 @@
     "appearance": "魔法使いめいた鋭角的な頭巾。顔全体を覆うメンポ。\n赤いマント付きのローブ型ニンジャ装束。下半身はサイボーグ。",
     "description": "ザイバツのアデプト位階ニンジャ。\n上半身と下半身がサイバネ分離する。マルノウチ抗争参加者。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BD%E3%83%BC%E3%82%B5%E3%83%A9%E3%83%BC",
-    "appearances": [
-      {
-        "id": "7orkjubb"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BD%E3%83%BC%E3%82%B5%E3%83%A9%E3%83%BC"
   },
   {
     "id": "17813da1",
@@ -10428,14 +10532,34 @@
   {
     "id": "e0b650a8",
     "name": "ディヴァーラー",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "3a9bduml",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "ジャキ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "zaibatsu-p2",
         "name": "ザイバツ（第2部）"
       }
     ],
-    "appearances": []
+    "skills": [
+      "ケズリ・カラテ"
+    ],
+    "role": "アデプト位階",
+    "appearance": "錆色のニンジャ装束。両手両足の格闘用装甲に禍々しい鉤棘。\n首筋にバイオLAN端子。",
+    "description": "ザイバツのニンジャ。マルノウチ抗争参加者。\nガードした相手のエネルギーを奪い取るケスリの使い手。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%A3%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%A9%E3%83%BC",
+    "appearances": [
+      {
+        "id": "7orkjubb"
+      }
+    ]
   },
   {
     "id": "f1fa60dd",
@@ -10464,14 +10588,34 @@
   {
     "id": "9f50499b",
     "name": "デジタルワスプ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "315p4pby",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "ハチ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "zaibatsu-p2",
         "name": "ザイバツ（第2部）"
       }
     ],
-    "appearances": []
+    "skills": [
+      "ハッカー"
+    ],
+    "role": "アデプト位階",
+    "appearance": "サイバー暗視スコープメンポ。",
+    "description": "ザイバツのニンジャ。マルノウチ抗争参加者。\nタイピングがハヤイ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%AF%E3%82%B9%E3%83%97",
+    "appearances": [
+      {
+        "id": "7orkjubb"
+      }
+    ]
   },
   {
     "id": "d77405f3",
@@ -10544,14 +10688,31 @@
   {
     "id": "dcd2349e",
     "name": "トーメンター",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "3o9qin2x",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "イタミ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "zaibatsu-p2",
         "name": "ザイバツ（第2部）"
       }
     ],
-    "appearances": []
+    "skills": [],
+    "role": "アデプト位階",
+    "description": "ザイバツのニンジャ。マルノウチ抗争参加者。\n拷問による情報収集を得意とする。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%88%E3%83%BC%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%BC",
+    "appearances": [
+      {
+        "id": "7orkjubb"
+      }
+    ]
   },
   {
     "id": "94d1190a",
@@ -10704,14 +10865,34 @@
   {
     "id": "8c989377",
     "name": "ビーフイーター",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "46b0exez",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "zaibatsu-p2",
         "name": "ザイバツ（第2部）"
       }
     ],
-    "appearances": []
+    "skills": [
+      "ジェットハルバード"
+    ],
+    "role": "アデプト位階",
+    "appearance": "装束変形機構つきのフードつきツナギ。折り畳み式のハルバード。",
+    "description": "ザイバツのニンジャ。マルノウチ抗争参加者。\n推進機能つきの槍斧ジェットハルバードを使いこなす。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%93%E3%83%BC%E3%83%95%E3%82%A4%E3%83%BC%E3%82%BF%E3%83%BC",
+    "appearances": [
+      {
+        "id": "7orkjubb"
+      }
+    ]
   },
   {
     "id": "6f1fa7e4",
@@ -24869,14 +25050,6 @@
         "name": "ヨロシサン・インターナショナル"
       }
     ],
-    "skills": [
-      "ヨロシ・ジツ"
-    ],
-    "role": "CEO",
-    "appearance": "成人男性。エキゾチックな顔立ち。\n（～第3部）濃緑に金の渦巻き模様。\n（第4部）金の渦巻き模様の細身のスリーピース・スーツ。イクサ時はニンジャ装束に変形。メンポ。",
-    "description": "バイオニンジャの統制者として生み出されたバイオニンジャ。\n第4部はCEOの座に上り詰めた。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%96%E3%82%B8%E3%83%A5%E3%82%B2%E3%82%A4%E3%82%BF%E3%83%BC",
     "appearances": [
       {
         "id": "js9ejlo6"
@@ -24920,6 +25093,14 @@
       {
         "id": "6dcsfo7u"
       }
-    ]
+    ],
+    "skills": [
+      "ヨロシ・ジツ"
+    ],
+    "role": "CEO",
+    "appearance": "成人男性。エキゾチックな顔立ち。\n（～第3部）濃緑に金の渦巻き模様。\n（第4部）金の渦巻き模様の細身のスリーピース・スーツ。イクサ時はニンジャ装束に変形。メンポ。",
+    "description": "バイオニンジャの統制者として生み出されたバイオニンジャ。\n第4部はCEOの座に上り詰めた。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%96%E3%82%B8%E3%83%A5%E3%82%B2%E3%82%A4%E3%82%BF%E3%83%BC"
   }
 ]
