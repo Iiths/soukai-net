@@ -376,18 +376,84 @@
     "id": "177545599",
     "name": "モーターチビ",
     "aliases": [
+      "モーターチイサイ",
       "モーターツクモ"
     ],
-    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaType": "非ニンジャ",
     "organizations": [
       {
         "id": "ニンジャスレイヤーと協力者達",
         "name": "ニンジャスレイヤーと協力者達"
       }
     ],
-    "appearances": [],
+    "skills": [
+      "LEDライト",
+      "IRC通信",
+      "位置測定"
+    ],
+    "appearance": "握り拳大サイズ。正十二面体。",
+    "description": "オムラ・インダストリが開発した小型正十二面体ドロイド。\nその後ガンドーが捕獲して改造され、第4部で自我が芽生えた。",
     "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%81%E3%83%93#k8e62c31"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%81%E3%83%93#k8e62c31",
+    "appearances": [
+      {
+        "id": "q0zjg8rk"
+      },
+      {
+        "id": "5pugu0tr"
+      },
+      {
+        "id": "3zn1rjr5"
+      },
+      {
+        "id": "oer10ykn"
+      },
+      {
+        "id": "g01g2lf0"
+      },
+      {
+        "id": "t4m7hei5"
+      },
+      {
+        "id": "gb8b6euf"
+      },
+      {
+        "id": "12ml6hmz"
+      },
+      {
+        "id": "5b7a2175"
+      },
+      {
+        "id": "222c43b6"
+      },
+      {
+        "id": "2vw5k6fv"
+      },
+      {
+        "id": "rwd4t44a"
+      },
+      {
+        "id": "a5aiu21s"
+      },
+      {
+        "id": "f0q6hbvy"
+      },
+      {
+        "id": "8r8ibb8m"
+      },
+      {
+        "id": "8m0jzogt"
+      },
+      {
+        "id": "9ed406ab"
+      },
+      {
+        "id": "08f154f0"
+      },
+      {
+        "id": "7bd07f98"
+      }
+    ]
   },
   {
     "id": "1775455910",
@@ -8951,7 +9017,16 @@
   {
     "id": "b96afd16",
     "name": "ニーズヘグ",
+    "realName": "ガトウ・ザンゲツ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "clbhoybr",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "ヘビ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "zaibatsu-p2",
@@ -8962,8 +9037,69 @@
         "name": "ザイバツ（第3部以降）"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8B%E3%83%BC%E3%82%BA%E3%83%98%E3%82%B0"
+    "skills": [
+      "ヘビ・ケン",
+      "ムーン・シャドウ",
+      "ケンサイ",
+      "サーペンティン・ムーン・シャドウ",
+      "サーペンティン・オイ・カゼ",
+      "ドク・ジツ",
+      "イビル・アイ",
+      "ミソギ",
+      "オロチ・アラマサ"
+    ],
+    "role": "グランドマスター位階・右将軍",
+    "appearance": "オーカー色のニンジャ装束。40前半の武人の顔。蛇めいた琥珀色の目。身長191cm。\n「ザ・ホーリィ・ブラッド」以降は目が青く光る。",
+    "description": "ザイバツの古株ニンジャ。戦闘狂。\n伸縮自在のヘビ・ケンを操る。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8B%E3%83%BC%E3%82%BA%E3%83%98%E3%82%B0",
+    "appearances": [
+      {
+        "id": "q0zjg8rk"
+      },
+      {
+        "id": "9a9c26f3"
+      },
+      {
+        "id": "3zn1rjr5"
+      },
+      {
+        "id": "wbfhbzoh"
+      },
+      {
+        "id": "rujnq8bg"
+      },
+      {
+        "id": "t4m7hei5"
+      },
+      {
+        "id": "12ml6hmz"
+      },
+      {
+        "id": "vrg4755o"
+      },
+      {
+        "id": "vyhgnuh0"
+      },
+      {
+        "id": "8r8ibb8m"
+      },
+      {
+        "id": "1a2c92e1"
+      },
+      {
+        "id": "87b3bd6d"
+      },
+      {
+        "id": "fee57ebe"
+      },
+      {
+        "id": "1c9a1c54"
+      },
+      {
+        "id": "6dcsfo7u"
+      }
+    ]
   },
   {
     "id": "8c3a2963",
@@ -9686,20 +9822,60 @@
   {
     "id": "95ad2647",
     "name": "アイボリーイーグル",
-    "ninjaType": "バイオニンジャ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "8bkoohxl",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "トブ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "zaibatsu-p2",
         "name": "ザイバツ（第2部）"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%A4%E3%83%9C%E3%83%AA%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB"
+    "skills": [
+      "エアロカラテ",
+      "焼夷弾"
+    ],
+    "role": "マスター位階",
+    "appearance": "象牙色のニンジャ装束。猛禽の嘴めいたメンポ。\n背中に天使めいた巨大なバイオ翼。",
+    "description": "ザイバツ・シテンノの一人。\n上空から一方的に攻撃する。ニンジャソウルの闇に苛まれている。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%A4%E3%83%9C%E3%83%AA%E3%83%BC%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB",
+    "appearances": [
+      {
+        "id": "8b7ceaa4"
+      },
+      {
+        "id": "q0zjg8rk"
+      },
+      {
+        "id": "wbfhbzoh"
+      },
+      {
+        "id": "rujnq8bg"
+      },
+      {
+        "id": "d05ef453"
+      }
+    ]
   },
   {
     "id": "91ab9fbb",
     "name": "パープルタコ",
-    "ninjaType": "バイオニンジャ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "p7aj1be4",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "タコ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "zaibatsu-p2",
@@ -9710,8 +9886,54 @@
         "name": "ザイバツ（第3部以降）"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%91%E3%83%BC%E3%83%97%E3%83%AB%E3%82%BF%E3%82%B3"
+    "skills": [
+      "ヒュプノ・ジツ",
+      "バッカルコーン触手",
+      "ドク・スリケン",
+      "オモズカイ",
+      "タコ・ヒーリング",
+      "ミニオン生成"
+    ],
+    "role": "グランドマスター位階",
+    "appearance": "豊満な肢体。紫色の虹彩を持つ眼。身長172cm。\nメンポの下にバッカルコーンめいた八本の触手。\n（第2部）革のボンデージ装束。\n（第3部～）妖艶なキモノやジュウニヒトエ姿。戦闘時はエナメルレザー装束。",
+    "description": "ザイバツ・シテンノのニンジャ。後にグランドマスター。\nヒュプノ・ジツで人を操り、超自然の力でキョート城を守っている。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%91%E3%83%BC%E3%83%97%E3%83%AB%E3%82%BF%E3%82%B3",
+    "appearances": [
+      {
+        "id": "q0zjg8rk"
+      },
+      {
+        "id": "5pugu0tr"
+      },
+      {
+        "id": "3zn1rjr5"
+      },
+      {
+        "id": "8b7ceaa4"
+      },
+      {
+        "id": "wbfhbzoh"
+      },
+      {
+        "id": "rujnq8bg"
+      },
+      {
+        "id": "d05ef453"
+      },
+      {
+        "id": "t4m7hei5"
+      },
+      {
+        "id": "12ml6hmz"
+      },
+      {
+        "id": "his9gvkp"
+      },
+      {
+        "id": "6dcsfo7u"
+      }
+    ]
   },
   {
     "id": "446f86f6",
@@ -10839,14 +11061,33 @@
   {
     "id": "d9553df4",
     "name": "バグベア",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "aslsos03",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "zaibatsu-p2",
         "name": "ザイバツ（第2部）"
       }
     ],
-    "appearances": []
+    "skills": [
+      "ステルス迷彩布"
+    ],
+    "role": "アデプト位階",
+    "description": "ザイバツのニンジャ。\n迷彩布を用いたステルス・ジツの使い手。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%82%B0%E3%83%99%E3%82%A2",
+    "appearances": [
+      {
+        "id": "037c5cb8"
+      }
+    ]
   },
   {
     "id": "87621525",
@@ -17707,50 +17948,139 @@
   {
     "id": "a887dd",
     "name": "シーワーラット",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "7j0zd06k",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "",
+      "origin": "ネズミ・ニンジャクラン以外"
+    },
     "organizations": [
       {
         "id": "デスドレイン一味",
         "name": "デスドレイン一味"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%BC%E3%83%AF%E3%83%BC%E3%83%A9%E3%83%83%E3%83%88"
+    "skills": [
+      "毒手",
+      "常人の三倍の脚力"
+    ],
+    "appearance": "茶色のニンジャ装束。",
+    "description": "ドブネズミ殺人事件の犯人にニンジャソウルが憑依。\n触れた相手を下水毒に感染させる厄介なジツを使う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%BC%E3%83%AF%E3%83%BC%E3%83%A9%E3%83%83%E3%83%88",
+    "appearances": [
+      {
+        "id": "q0zjg8rk"
+      },
+      {
+        "id": "vr3fq73p"
+      }
+    ]
   },
   {
     "id": "d2fa6c",
     "name": "ストームタロン",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "y2rw010u",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "デスドレイン一味",
         "name": "デスドレイン一味"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%88%E3%83%BC%E3%83%A0%E3%82%BF%E3%83%AD%E3%83%B3"
+    "skills": [
+      "ムテキ・アティチュード"
+    ],
+    "appearance": "灰色のニンジャ装束。",
+    "description": "元死刑囚のニンジャ。\nムテキ化した両腕で戦う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%88%E3%83%BC%E3%83%A0%E3%82%BF%E3%83%AD%E3%83%B3",
+    "appearances": [
+      {
+        "id": "q0zjg8rk"
+      },
+      {
+        "id": "vr3fq73p"
+      }
+    ]
   },
   {
     "id": "577f10",
     "name": "デスネル",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "c3qqxyyy",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "ブツメツ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "デスドレイン一味",
         "name": "デスドレイン一味"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B9%E3%83%8D%E3%83%AB"
+    "skills": [
+      "ブツメツ・ケン"
+    ],
+    "appearance": "青銅のブッダマスク。マスク下に長い白髪。",
+    "description": "反ブッダ猟奇殺人犯にニンジャソウルが憑依。\n殴り続けた相手の心臓の鼓動を高速化、108回目で爆散させる特殊な拳を使う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B9%E3%83%8D%E3%83%AB",
+    "appearances": [
+      {
+        "id": "q0zjg8rk"
+      },
+      {
+        "id": "vr3fq73p"
+      }
+    ]
   },
   {
     "id": "acb3bd",
     "name": "メテオストライク",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "s7gq3f04",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "ライデン・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "デスドレイン一味",
         "name": "デスドレイン一味"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A1%E3%83%86%E3%82%AA%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A4%E3%82%AF"
+    "skills": [
+      "レーザー衛星"
+    ],
+    "appearance": "ぼろぼろの僧衣。無精髭。\n何十本もの薄汚いLANケーブルが垂れたフード。",
+    "description": "ハッカー・カルトの辻説法師にニンジャソウルが憑依。\nハッキングしたレーザー衛星で地上を焼き払う危険ニンジャ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A1%E3%83%86%E3%82%AA%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A4%E3%82%AF",
+    "appearances": [
+      {
+        "id": "q0zjg8rk"
+      },
+      {
+        "id": "vr3fq73p"
+      }
+    ]
   },
   {
     "id": "dcc6c8",
@@ -19267,14 +19597,39 @@
   {
     "id": "002343",
     "name": "イヴォーカー",
+    "realName": "グノーケ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "179s408z",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "コンゴウ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "神聖アンタイブッダ帝国",
         "name": "神聖アンタイブッダ帝国"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%83%B4%E3%82%A9%E3%83%BC%E3%82%AB%E3%83%BC"
+    "skills": [
+      "6フィートボー",
+      "聖なるブレーサー"
+    ],
+    "role": "神聖皇帝",
+    "appearance": "太く長い手脚を持つオニめいた長身。\nスキンヘッド。首に巨大なバイオ真珠のボンズネックレス。\n胸板と首に夜桜を飛行するウイングド・ハニワ戦士のタトゥー。",
+    "description": "反ブッダ組織アンタイブッダ帝国の皇帝を自称。\n堕落バトルボンズのなれの果てである。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%83%B4%E3%82%A9%E3%83%BC%E3%82%AB%E3%83%BC",
+    "appearances": [
+      {
+        "id": "d6eo1dkg"
+      },
+      {
+        "id": "037c5cb8"
+      }
+    ]
   },
   {
     "id": "e72fcb",
@@ -20654,26 +21009,61 @@
   {
     "id": "f25aae",
     "name": "カツ・ワンソー",
-    "organizations": [
-      {
-        "id": "リアルニンジャ",
-        "name": "リアルニンジャ"
-      }
+    "aliases": [
+      "ヌンジャ"
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%83%84%E3%83%BB%E3%83%AF%E3%83%B3%E3%82%BD%E3%83%BC"
+    "organizations": [],
+    "skills": [],
+    "role": "ヌンジャ",
+    "description": "最古のニンジャ。世界の創造と破壊を繰り返していた。\nバトル・オブ・ムーホンで滅ぼされるもそのソウルはキンカクに宿った。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%83%84%E3%83%BB%E3%83%AF%E3%83%B3%E3%82%BD%E3%83%BC",
+    "appearances": [
+      {
+        "id": "q0zjg8rk"
+      }
+    ]
   },
   {
     "id": "88ec1c",
     "name": "ソガ・ニンジャ",
+    "aliases": [
+      "マスタータタミ",
+      "オヤカタサマ"
+    ],
+    "ninjaType": "リアルニンジャ",
+    "ninjaSoul": {
+      "id": "jh7uadrs",
+      "name": "ソガ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "ソガ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "リアルニンジャ",
         "name": "リアルニンジャ"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BD%E3%82%AC%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+    "skills": [
+      "タタミ・ジツ",
+      "キョジツテンカンホー・ジツ"
+    ],
+    "role": "ニンジャ六騎士",
+    "description": "ニンジャ六騎士の一人。タタミ・ジツの使い手。\n長きに渡り平安時代を治めたが、セキバハラで敗れハラキリした。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BD%E3%82%AC%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
+    "appearances": [
+      {
+        "id": "q0zjg8rk"
+      },
+      {
+        "id": "d66fda01"
+      },
+      {
+        "id": "ef8158d4"
+      }
+    ]
   },
   {
     "id": "67ca75",
@@ -20730,14 +21120,36 @@
   {
     "id": "a2262d",
     "name": "ハトリ・ニンジャ",
+    "aliases": [],
+    "ninjaType": "リアルニンジャ",
+    "ninjaSoul": {
+      "id": "fqfy96bg",
+      "name": "ハトリ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "ハトリ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "リアルニンジャ",
         "name": "リアルニンジャ"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%83%88%E3%83%AA%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+    "skills": [
+      "スリケンボール"
+    ],
+    "appearance": "身長179cm。白く輝く甲冑。フルヘルムメンポ。\n謎めいた紫色の瞳。白髪。",
+    "description": "カツ・ワンソーの最後の使徒。\nニンジャ六騎士を率いてバトル・オブ・ムーホンを戦った。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%83%88%E3%83%AA%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
+    "appearances": [
+      {
+        "id": "q0zjg8rk"
+      },
+      {
+        "id": "d66fda01"
+      }
+    ]
   },
   {
     "id": "c53c187a",
@@ -24409,10 +24821,39 @@
   {
     "id": "38bf11bf",
     "name": "ゴダ・ニンジャ",
+    "aliases": [
+      "マスターパワー"
+    ],
     "ninjaType": "リアルニンジャ",
+    "ninjaSoul": {
+      "id": "p3os7zqk",
+      "name": "ゴダ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "ゴダ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B4%E3%83%80%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+    "skills": [
+      "カラテミサイル",
+      "フラワー・オブ・デス",
+      "ムテキ・フィールド"
+    ],
+    "role": "ニンジャ六騎士",
+    "appearance": "包帯装束。ニンジャ大戦時代は身長2m超。第4部では身長185cm。",
+    "description": "ニンジャ六騎士の一人。カラテミサイルの使い手。\n英国博物館でミイラとして展示されていたが、第4部にて覚醒した。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B4%E3%83%80%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
+    "appearances": [
+      {
+        "id": "q0zjg8rk"
+      },
+      {
+        "id": "d66fda01"
+      },
+      {
+        "id": "ff3c9805"
+      }
+    ]
   },
   {
     "id": "d03a9f90",
@@ -24504,9 +24945,27 @@
       "カジヤ・ニンジャ"
     ],
     "ninjaType": "リアルニンジャ",
+    "ninjaSoul": {
+      "id": "1wz7x12u",
+      "name": "カジヤ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "ティターン・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B8"
+    "skills": [
+      "ニンジャ存在感",
+      "ケンドー・オートマトン"
+    ],
+    "appearance": "煤けたニンジャ装束。全長13フィート強。\n背中から四対、肩から三対、合計14本の腕。",
+    "description": "琵琶湖地下深くの洞窟に潜むリアルニンジャ。\nかつてベッピンを鍛えワンソーに逆らい、罰により死ねない身体となった。\n現在はベッピンに吸収されている。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B8",
+    "appearances": [
+      {
+        "id": "q0zjg8rk"
+      }
+    ]
   },
   {
     "id": "380ae00f",
@@ -24803,10 +25262,28 @@
   {
     "id": "c1521500",
     "name": "ホンダ・ニンジャ",
+    "aliases": [
+      "ホルス神"
+    ],
     "ninjaType": "リアルニンジャ",
+    "ninjaSoul": {
+      "id": "02p93f98",
+      "name": "ホンダ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9B%E3%83%B3%E3%83%80%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+    "skills": [],
+    "appearance": "ファルコン・オメーン。",
+    "description": "平安時代にハガネ・ニンジャ討伐に赴いたニンジャ。\nその後はベッピンを浄化するべくエジプトへ渡ったという。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9B%E3%83%B3%E3%83%80%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
+    "appearances": [
+      {
+        "id": "q0zjg8rk"
+      }
+    ]
   },
   {
     "id": "e6a56649",
@@ -24846,10 +25323,30 @@
   {
     "id": "f7b717a5",
     "name": "ヤマイヌ・ニンジャ",
+    "aliases": [
+      "アヌビス神",
+      "ウプウアウト神"
+    ],
     "ninjaType": "リアルニンジャ",
+    "ninjaSoul": {
+      "id": "nmt7733z",
+      "name": "ヤマイヌ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "ヤマイヌ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A4%E3%83%9E%E3%82%A4%E3%83%8C%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+    "skills": [
+      "ヘンゲヨーカイ・ジツ"
+    ],
+    "description": "平安時代にハガネ・ニンジャ討伐に赴いたニンジャ。\n巨大なジャッカルにヘンゲするという。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A4%E3%83%9E%E3%82%A4%E3%83%8C%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
+    "appearances": [
+      {
+        "id": "q0zjg8rk"
+      }
+    ]
   },
   {
     "id": "b1bf84c9",
