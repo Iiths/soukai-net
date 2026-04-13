@@ -8861,15 +8861,6 @@
         "name": "ザイバツ（第2部）"
       }
     ],
-    "skills": [
-      "バリキ・ジツ",
-      "セルフ・バリキ・ジツ"
-    ],
-    "role": "グランドマスター位階",
-    "appearance": "白金色の光彩と暗黒の瞳孔を持つ目。40がらみの皺が刻まれた頬。\n赤熱する炭を思わせる赤橙色のニンジャ装束。ブレーサー。アフラ・マズダーを象徴する意匠のメンポ。\n普段着は白手袋と近代貴族めいたスーツ。",
-    "description": "ザイバツ・グランドマスターの一人。\n人体を異常活性化させるバリキ・ジツの使い手。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%82%B0%E3%82%BE%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3",
     "appearances": [
       {
         "id": "js9ejlo6"
@@ -8886,7 +8877,16 @@
       {
         "id": "g01g2lf0"
       }
-    ]
+    ],
+    "skills": [
+      "バリキ・ジツ",
+      "セルフ・バリキ・ジツ"
+    ],
+    "role": "グランドマスター位階",
+    "appearance": "白金色の光彩と暗黒の瞳孔を持つ目。40がらみの皺が刻まれた頬。\n赤熱する炭を思わせる赤橙色のニンジャ装束。ブレーサー。アフラ・マズダーを象徴する意匠のメンポ。\n普段着は白手袋と近代貴族めいたスーツ。",
+    "description": "ザイバツ・グランドマスターの一人。\n人体を異常活性化させるバリキ・ジツの使い手。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%82%B0%E3%82%BE%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3"
   },
   {
     "id": "bfd1c9e1",
@@ -9188,6 +9188,11 @@
         "name": "ザイバツ（第2部）"
       }
     ],
+    "appearances": [
+      {
+        "id": "7orkjubb"
+      }
+    ],
     "skills": [
       "ブンシン・ジツ",
       "ハガクレ・ジツ"
@@ -9196,12 +9201,7 @@
     "appearance": "ターコイズ色のニンジャ装束",
     "description": "ザイバツのマスター位階ニンジャ。マルノウチ抗争参加者。\n無数の分身を作り出し同時攻撃する。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B3%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%A9%E3%83%BC",
-    "appearances": [
-      {
-        "id": "7orkjubb"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B3%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%A9%E3%83%BC"
   },
   {
     "id": "6388e12c",
@@ -9945,6 +9945,11 @@
         "name": "ザイバツ（第2部）"
       }
     ],
+    "appearances": [
+      {
+        "id": "7a5b8225"
+      }
+    ],
     "skills": [
       "サスマタ"
     ],
@@ -9952,12 +9957,7 @@
     "appearance": "黒い処刑人頭巾。上半身裸。下半身に黒い装束。",
     "description": "ザイバツのニンジャ。イグゾーション配下。\n拷問、処刑官の立場で実戦カラテは弱い。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%82%AF%E3%82%B9%E3%82%AD%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC",
-    "appearances": [
-      {
-        "id": "7a5b8225"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%82%AF%E3%82%B9%E3%82%AD%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC"
   },
   {
     "id": "91ce0e8d",
@@ -10132,11 +10132,6 @@
         "name": "ザイバツ（第2部）"
       }
     ],
-    "skills": [],
-    "appearance": "茶色のニンジャ装束。ズキン。呼吸孔つきメンポ。",
-    "description": "ザイバツのニンジャ。イグゾーション派閥。\n情報収集能力に長ける。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%A9%E3%83%9F%E3%83%89%E3%82%B5%E3%82%A6%E3%83%AB%E3%82%B9",
     "appearances": [
       {
         "id": "9910422e"
@@ -10144,7 +10139,12 @@
       {
         "id": "vr3fq73p"
       }
-    ]
+    ],
+    "skills": [],
+    "appearance": "茶色のニンジャ装束。ズキン。呼吸孔つきメンポ。",
+    "description": "ザイバツのニンジャ。イグゾーション派閥。\n情報収集能力に長ける。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%A9%E3%83%9F%E3%83%89%E3%82%B5%E3%82%A6%E3%83%AB%E3%82%B9"
   },
   {
     "id": "ae541e69",
@@ -10351,14 +10351,6 @@
         "name": "ザイバツ（第2部）"
       }
     ],
-    "skills": [
-      "カトン・ボール"
-    ],
-    "role": "アデプト階位",
-    "appearance": "黒地にファイアーパターン刺繍が施されたニンジャ装束。身長200cm超。\n両掌にはサイバネ手術。",
-    "description": "ザイバツのアデプト位階ニンジャ。マルノウチ抗争参加者。\nカトン・ファイアーボールで敵を焼き尽くす。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%B3%E3%83%90%E3%83%BC%E3%83%B3",
     "appearances": [
       {
         "id": "7orkjubb"
@@ -10366,7 +10358,15 @@
       {
         "id": "6o0erlqp"
       }
-    ]
+    ],
+    "skills": [
+      "カトン・ボール"
+    ],
+    "role": "アデプト階位",
+    "appearance": "黒地にファイアーパターン刺繍が施されたニンジャ装束。身長200cm超。\n両掌にはサイバネ手術。",
+    "description": "ザイバツのアデプト位階ニンジャ。マルノウチ抗争参加者。\nカトン・ファイアーボールで敵を焼き尽くす。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%B3%E3%83%90%E3%83%BC%E3%83%B3"
   },
   {
     "id": "d7e3a1d5",
@@ -10431,6 +10431,11 @@
         "name": "ザイバツ（第2部）"
       }
     ],
+    "appearances": [
+      {
+        "id": "9910422e"
+      }
+    ],
     "skills": [
       "ヒスイ・ケン・ジツ"
     ],
@@ -10438,12 +10443,7 @@
     "appearance": "緑色のニンジャ装束。",
     "description": "ザイバツのアプレンティスニンジャ。\n翡翠の剣を生成して投擲する。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%89%E3%82%BD%E3%83%BC%E3%83%89",
-    "appearances": [
-      {
-        "id": "9910422e"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%89%E3%82%BD%E3%83%BC%E3%83%89"
   },
   {
     "id": "84248a54",
@@ -10463,6 +10463,11 @@
         "name": "ザイバツ（第2部）"
       }
     ],
+    "appearances": [
+      {
+        "id": "9910422e"
+      }
+    ],
     "skills": [
       "マンティス・カマ"
     ],
@@ -10470,12 +10475,7 @@
     "appearance": "黄緑色のニンジャ装束。手首にカマを装着。",
     "description": "ザイバツのアデプト位階ニンジャ。\n両手のカマで攻撃する。ジェイドソードのメンター。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B8%E3%83%A3%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88%E3%83%9E%E3%83%B3%E3%83%86%E3%82%A3%E3%82%B9",
-    "appearances": [
-      {
-        "id": "9910422e"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B8%E3%83%A3%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88%E3%83%9E%E3%83%B3%E3%83%86%E3%82%A3%E3%82%B9"
   },
   {
     "id": "5459db39",
@@ -10543,6 +10543,11 @@
         "name": "ザイバツ（第2部）"
       }
     ],
+    "appearances": [
+      {
+        "id": "7orkjubb"
+      }
+    ],
     "skills": [
       "古代ローマカラテ"
     ],
@@ -10550,12 +10555,7 @@
     "appearance": "装甲タイルを貼りつけた重装ニンジャ装束。",
     "description": "ザイバツのニンジャ。マルノウチ抗争参加者。\n恐るべき古代ローマカラテの使い手。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BB%E3%83%B3%E3%83%81%E3%83%A5%E3%83%AA%E3%82%AA%E3%83%B3",
-    "appearances": [
-      {
-        "id": "7orkjubb"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BB%E3%83%B3%E3%83%81%E3%83%A5%E3%83%AA%E3%82%AA%E3%83%B3"
   },
   {
     "id": "7273ceb4",
@@ -10621,6 +10621,11 @@
         "name": "ザイバツ（第2部）"
       }
     ],
+    "appearances": [
+      {
+        "id": "7orkjubb"
+      }
+    ],
     "skills": [
       "ケズリ・カラテ"
     ],
@@ -10628,12 +10633,7 @@
     "appearance": "錆色のニンジャ装束。両手両足の格闘用装甲に禍々しい鉤棘。\n首筋にバイオLAN端子。",
     "description": "ザイバツのニンジャ。マルノウチ抗争参加者。\nガードした相手のエネルギーを奪い取るケスリの使い手。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%A3%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%A9%E3%83%BC",
-    "appearances": [
-      {
-        "id": "7orkjubb"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%A3%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%A9%E3%83%BC"
   },
   {
     "id": "f1fa60dd",
@@ -10677,6 +10677,11 @@
         "name": "ザイバツ（第2部）"
       }
     ],
+    "appearances": [
+      {
+        "id": "7orkjubb"
+      }
+    ],
     "skills": [
       "ハッカー"
     ],
@@ -10684,12 +10689,7 @@
     "appearance": "サイバー暗視スコープメンポ。",
     "description": "ザイバツのニンジャ。マルノウチ抗争参加者。\nタイピングがハヤイ。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%AF%E3%82%B9%E3%83%97",
-    "appearances": [
-      {
-        "id": "7orkjubb"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%AF%E3%82%B9%E3%83%97"
   },
   {
     "id": "d77405f3",
@@ -10777,16 +10777,16 @@
         "name": "ザイバツ（第2部）"
       }
     ],
-    "skills": [],
-    "role": "アデプト位階",
-    "description": "ザイバツのニンジャ。マルノウチ抗争参加者。\n拷問による情報収集を得意とする。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%88%E3%83%BC%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%BC",
     "appearances": [
       {
         "id": "7orkjubb"
       }
-    ]
+    ],
+    "skills": [],
+    "role": "アデプト位階",
+    "description": "ザイバツのニンジャ。マルノウチ抗争参加者。\n拷問による情報収集を得意とする。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%88%E3%83%BC%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%BC"
   },
   {
     "id": "94d1190a",
@@ -10954,6 +10954,11 @@
         "name": "ザイバツ（第2部）"
       }
     ],
+    "appearances": [
+      {
+        "id": "7orkjubb"
+      }
+    ],
     "skills": [
       "ジェットハルバード"
     ],
@@ -10961,12 +10966,7 @@
     "appearance": "装束変形機構つきのフードつきツナギ。折り畳み式のハルバード。",
     "description": "ザイバツのニンジャ。マルノウチ抗争参加者。\n推進機能つきの槍斧ジェットハルバードを使いこなす。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%93%E3%83%BC%E3%83%95%E3%82%A4%E3%83%BC%E3%82%BF%E3%83%BC",
-    "appearances": [
-      {
-        "id": "7orkjubb"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%93%E3%83%BC%E3%83%95%E3%82%A4%E3%83%BC%E3%82%BF%E3%83%BC"
   },
   {
     "id": "6f1fa7e4",
@@ -17330,6 +17330,16 @@
   {
     "id": "d0cd20",
     "name": "エルドリッチ",
+    "realName": "クロガミ・ハカラ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "a8sr0u36",
+      "name": "ゼツメツ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "シ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "イモータル・ニンジャ・ワークショップ",
@@ -17340,32 +17350,108 @@
         "name": "サークル・シマナガシ"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%83%AB%E3%83%89%E3%83%AA%E3%83%83%E3%83%81"
+    "skills": [
+      "ネクロ・カラテ",
+      "ソードオフ・ショットガン",
+      "鎖鎌",
+      "チョッパーバイク",
+      "鋼鉄カンオケ"
+    ],
+    "appearance": "山高帽。ズタズタのロングコート。真っ白なストレートの髪。体中に巻かれた黒い包帯。\nどろりと濁った眼。口の中には乱杭歯と青黒い舌。身長194cm。",
+    "description": "INWの脱走ニンジャ。\nゼツメツ・ニンジャの元憑依者で、ソウル残滓で動いている。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%83%AB%E3%83%89%E3%83%AA%E3%83%83%E3%83%81",
+    "appearances": [
+      {
+        "id": "w0ir764o"
+      },
+      {
+        "id": "gba0awyv"
+      },
+      {
+        "id": "x9g18jha"
+      },
+      {
+        "id": "z7rgd0bm"
+      },
+      {
+        "id": "m7ldwmab"
+      },
+      {
+        "id": "8r8ibb8m"
+      },
+      {
+        "id": "1rdmzslz"
+      },
+      {
+        "id": "7bd07f98"
+      },
+      {
+        "id": "66ac3aba"
+      }
+    ]
   },
   {
     "id": "0b2fed",
     "name": "ガーストリィ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "lko6cmi4",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "イモータル・ニンジャ・ワークショップ",
         "name": "イモータル・ニンジャ・ワークショップ"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AC%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AA%E3%82%A3"
+    "skills": [
+      "有毒ニンジャアドレナリン",
+      "毒爪"
+    ],
+    "appearance": "汚れたニンジャ装束。骸骨めいたフルメンポ。頭部に蛆虫がうごめく緑の腐肉。",
+    "description": "リー先生が生みだしたゾンビ―ニンジャ。\n体内を循環する有毒アドレナリンにより高速移動を実現。知能が低い。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AC%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AA%E3%82%A3",
+    "appearances": [
+      {
+        "id": "w0ir764o"
+      }
+    ]
   },
   {
     "id": "b555d8",
     "name": "グール",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "o5fn4coi",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "イモータル・ニンジャ・ワークショップ",
         "name": "イモータル・ニンジャ・ワークショップ"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B0%E3%83%BC%E3%83%AB"
+    "skills": [
+      "麻痺毒"
+    ],
+    "description": "リー先生が生みだしたゾンビーニンジャ。\n知能が低くアイサツを繰り返してしまう。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B0%E3%83%BC%E3%83%AB",
+    "appearances": [
+      {
+        "id": "w0ir764o"
+      }
+    ]
   },
   {
     "id": "28675c",
@@ -17522,14 +17608,6 @@
         "name": "カブキ・フォース"
       }
     ],
-    "skills": [
-      "アンコクトン・ジツ",
-      "コトダマ認識能力"
-    ],
-    "appearance": "病的に白く痩せた身体。拘束具が変形させた特異なニンジャ装束。\n身長169cm。ジゴクめいた黒髪を逆立たせ、目の色は黒。",
-    "description": "凶悪な死刑囚に強大なニンジャソウルが憑依。\nコールタール状の暗黒物質、アンコクトンを操る。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B9%E3%83%89%E3%83%AC%E3%82%A4%E3%83%B3",
     "appearances": [
       {
         "id": "9910422e"
@@ -17561,7 +17639,15 @@
       {
         "id": "aac95faa"
       }
-    ]
+    ],
+    "skills": [
+      "アンコクトン・ジツ",
+      "コトダマ認識能力"
+    ],
+    "appearance": "病的に白く痩せた身体。拘束具が変形させた特異なニンジャ装束。\n身長169cm。ジゴクめいた黒髪を逆立たせ、目の色は黒。",
+    "description": "凶悪な死刑囚に強大なニンジャソウルが憑依。\nコールタール状の暗黒物質、アンコクトンを操る。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B9%E3%83%89%E3%83%AC%E3%82%A4%E3%83%B3"
   },
   {
     "id": "c3f333",
@@ -17582,15 +17668,6 @@
         "name": "デスドレイン一味"
       }
     ],
-    "skills": [
-      "アカラ・カラテ",
-      "巨大サイバネアーム",
-      "アカラ・ジツ"
-    ],
-    "appearance": "ソバシェフ装束を改造した白いニンジャ装束。フルフェイスメンポ。\n両腕に体格に不釣り合いなほど巨大なサイバネアーム。身長190cm。",
-    "description": "ソバシェフ・ランペイジ事件を起こした男にニンジャソウルが憑依。\n生身の腕と融合した超巨大サイバネ腕であらゆるものを破壊する。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%83%B3%E3%83%9A%E3%82%A4%E3%82%B8",
     "appearances": [
       {
         "id": "9910422e"
@@ -17604,7 +17681,16 @@
       {
         "id": "rujnq8bg"
       }
-    ]
+    ],
+    "skills": [
+      "アカラ・カラテ",
+      "巨大サイバネアーム",
+      "アカラ・ジツ"
+    ],
+    "appearance": "ソバシェフ装束を改造した白いニンジャ装束。フルフェイスメンポ。\n両腕に体格に不釣り合いなほど巨大なサイバネアーム。身長190cm。",
+    "description": "ソバシェフ・ランペイジ事件を起こした男にニンジャソウルが憑依。\n生身の腕と融合した超巨大サイバネ腕であらゆるものを破壊する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%83%B3%E3%83%9A%E3%82%A4%E3%82%B8"
   },
   {
     "id": "ee66d1",
@@ -17684,6 +17770,11 @@
         "name": "サヴァイヴァー・ドージョー"
       }
     ],
+    "appearances": [
+      {
+        "id": "ot4lpixl"
+      }
+    ],
     "skills": [
       "イヴォルーション",
       "異形化"
@@ -17691,12 +17782,7 @@
     "appearance": "黒い癖毛。蒼白の顔に陰気な目つき。戦闘時は黒いメンポ。",
     "description": "サヴァイヴァー・ドージョーを乗っ取ったニンジャ。\nイヴォルテーションで他者や自身を鬼人化させる。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%83%B4%E3%82%A9%E3%83%AB%E3%83%B4%E3%82%A1%E3%83%BC",
-    "appearances": [
-      {
-        "id": "ot4lpixl"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%83%B4%E3%82%A9%E3%83%AB%E3%83%B4%E3%82%A1%E3%83%BC"
   },
   {
     "id": "1180eb",
@@ -17716,6 +17802,11 @@
         "name": "サヴァイヴァー・ドージョー"
       }
     ],
+    "appearances": [
+      {
+        "id": "ot4lpixl"
+      }
+    ],
     "skills": [
       "マバタキ・ジツ",
       "スリケン"
@@ -17723,12 +17814,7 @@
     "appearance": "額に赤い宝玉。",
     "description": "イヴォルヴァーが乗っ取った新サヴァイヴァー・ドージョーの一員。\n瞬間移動を繰り返すマバタキ・ジツの使い手。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%83%BC%E3%83%90%E3%83%B3%E3%82%AF%E3%83%AB",
-    "appearances": [
-      {
-        "id": "ot4lpixl"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%83%BC%E3%83%90%E3%83%B3%E3%82%AF%E3%83%AB"
   },
   {
     "id": "6f6a2a",
@@ -25308,14 +25394,6 @@
       "clan": "カクレ・ニンジャクラン"
     },
     "organizations": [],
-    "skills": [
-      "身躱しのジツ",
-      "ステッキ・ドー"
-    ],
-    "appearance": "痩せた中年男性。瞳の色は茶色。胸元に『膳』の焼き印。\n第4部：都会的なコート。黒いサングラス。眼球の代わりに一対の琥珀。",
-    "description": "精神崩壊したニンジャ学者にニンジャソウルが発現。\n現在は学者ニンジャとして世界中を飛び回っている。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%83%9F%E3%83%8E%E3%83%BB%E3%82%B9%E3%83%89",
     "appearances": [
       {
         "id": "hfcqzrkh"
@@ -25343,6 +25421,55 @@
       },
       {
         "id": "61943e5e"
+      }
+    ],
+    "skills": [
+      "身躱しのジツ",
+      "ステッキ・ドー"
+    ],
+    "appearance": "痩せた中年男性。瞳の色は茶色。胸元に『膳』の焼き印。\n第4部：都会的なコート。黒いサングラス。眼球の代わりに一対の琥珀。",
+    "description": "精神崩壊したニンジャ学者にニンジャソウルが発現。\n現在は学者ニンジャとして世界中を飛び回っている。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%83%9F%E3%83%8E%E3%83%BB%E3%82%B9%E3%83%89"
+  },
+  {
+    "id": "htqnv0el",
+    "name": "リストレイント",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "jwy0qy5g",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "コソク・ニンジャクラン"
+    },
+    "organizations": [],
+    "skills": [
+      "拘束具投擲",
+      "ポン・パンチ"
+    ],
+    "appearance": "全身に鉄の輪を装着。",
+    "description": "INWに同行していたエージェントニンジャ。\n鉄製の拘束具を用いたコソク・ジツの使い手。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AA%E3%82%B9%E3%83%88%E3%83%AC%E3%82%A4%E3%83%B3%E3%83%88",
+    "appearances": [
+      {
+        "id": "w0ir764o"
+      }
+    ]
+  },
+  {
+    "id": "gsh02hus",
+    "name": "シンギュラリティ",
+    "aliases": [],
+    "organizations": [],
+    "skills": [],
+    "description": "リー先生が実在を突き止めた超ニンジャ存在。\n事象の先に立つとされる。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%B3%E3%82%AE%E3%83%A5%E3%83%A9%E3%83%AA%E3%83%86%E3%82%A3",
+    "appearances": [
+      {
+        "id": "w0ir764o"
       }
     ]
   }
