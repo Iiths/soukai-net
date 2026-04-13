@@ -17669,26 +17669,66 @@
   {
     "id": "dcc6c8",
     "name": "イヴォルヴァー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "oiz7v2qy",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "ヒュドラ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "新サヴァイヴァー・ドージョー",
-        "name": "新サヴァイヴァー・ドージョー"
+        "name": "サヴァイヴァー・ドージョー"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%83%B4%E3%82%A9%E3%83%AB%E3%83%B4%E3%82%A1%E3%83%BC"
+    "skills": [
+      "イヴォルーション",
+      "異形化"
+    ],
+    "appearance": "黒い癖毛。蒼白の顔に陰気な目つき。戦闘時は黒いメンポ。",
+    "description": "サヴァイヴァー・ドージョーを乗っ取ったニンジャ。\nイヴォルテーションで他者や自身を鬼人化させる。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%83%B4%E3%82%A9%E3%83%AB%E3%83%B4%E3%82%A1%E3%83%BC",
+    "appearances": [
+      {
+        "id": "ot4lpixl"
+      }
+    ]
   },
   {
     "id": "1180eb",
     "name": "カーバンクル",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "rrooz6sv",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "カゲロウ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "新サヴァイヴァー・ドージョー",
-        "name": "新サヴァイヴァー・ドージョー"
+        "name": "サヴァイヴァー・ドージョー"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%83%BC%E3%83%90%E3%83%B3%E3%82%AF%E3%83%AB"
+    "skills": [
+      "マバタキ・ジツ",
+      "スリケン"
+    ],
+    "appearance": "額に赤い宝玉。",
+    "description": "イヴォルヴァーが乗っ取った新サヴァイヴァー・ドージョーの一員。\n瞬間移動を繰り返すマバタキ・ジツの使い手。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%83%BC%E3%83%90%E3%83%B3%E3%82%AF%E3%83%AB",
+    "appearances": [
+      {
+        "id": "ot4lpixl"
+      }
+    ]
   },
   {
     "id": "6f6a2a",
@@ -25268,7 +25308,10 @@
       "clan": "カクレ・ニンジャクラン"
     },
     "organizations": [],
-    "skills": [],
+    "skills": [
+      "身躱しのジツ",
+      "ステッキ・ドー"
+    ],
     "appearance": "痩せた中年男性。瞳の色は茶色。胸元に『膳』の焼き印。\n第4部：都会的なコート。黒いサングラス。眼球の代わりに一対の琥珀。",
     "description": "精神崩壊したニンジャ学者にニンジャソウルが発現。\n現在は学者ニンジャとして世界中を飛び回っている。",
     "status": "alive",
