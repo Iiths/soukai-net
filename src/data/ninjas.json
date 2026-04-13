@@ -12027,15 +12027,67 @@
   {
     "id": "b1595b9e",
     "name": "ネクサス",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "mtv0ujm0",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "zaibatsu-p3p4",
         "name": "ザイバツ（第3部以降）"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8D%E3%82%AF%E3%82%B5%E3%82%B9"
+    "skills": [
+      "イタコ・ジツ"
+    ],
+    "role": "グランドマスター位階",
+    "appearance": "フード付きの襤褸布。ソクシンブツめいた風体。\nコトダマ空間上は目が発光した壮年ボンズ姿。\n第4部ではキョート城でも後者の姿で実体化する。",
+    "description": "オヒガンに精通したコトダマンサー・ニンジャ。\nキョート城の守護者であり、新生ザイバツの要となる存在。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8D%E3%82%AF%E3%82%B5%E3%82%B9",
+    "appearances": [
+      {
+        "id": "5pugu0tr"
+      },
+      {
+        "id": "3zn1rjr5"
+      },
+      {
+        "id": "12ml6hmz"
+      },
+      {
+        "id": "vrg4755o"
+      },
+      {
+        "id": "vyhgnuh0"
+      },
+      {
+        "id": "8r8ibb8m"
+      },
+      {
+        "id": "3cygxhpv"
+      },
+      {
+        "id": "his9gvkp"
+      },
+      {
+        "id": "1c9a1c54"
+      },
+      {
+        "id": "8m0jzogt"
+      },
+      {
+        "id": "2jvhv6np"
+      },
+      {
+        "id": "6dcsfo7u"
+      }
+    ]
   },
   {
     "id": "f1592be1",
@@ -25967,6 +26019,33 @@
     "appearances": [
       {
         "id": "w0ir764o"
+      }
+    ]
+  },
+  {
+    "id": "k7tszb34",
+    "name": "ブラックウィッチ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "vi91otzx",
+      "name": "",
+      "grade": "等級不明",
+      "origin": "ネズミまたはウィッチ・ニンジャクランの高位ソウルと推定"
+    },
+    "organizations": [],
+    "skills": [
+      "ドク・ジツ",
+      "エンハンスメント・ジツ",
+      "ネズミ・ブンシン・ジツ"
+    ],
+    "appearance": "襤褸布めいた黒いニンジャ装束。黒いフード付きローブ。長い爪。\n長く艶やかな鉛色の髪。灰色に変色し一部腐敗した肌。",
+    "description": "ザイバツのヌケニン。\n餌付けしたネズミを使役する厄介なニンジャ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%A6%E3%82%A3%E3%83%83%E3%83%81",
+    "appearances": [
+      {
+        "id": "5pugu0tr"
       }
     ]
   }
