@@ -9055,14 +9055,40 @@
   {
     "id": "441c5a9d",
     "name": "ダークドメイン",
+    "realName": "セリザワ・ガズキ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "piohxue9",
+      "name": "マイニユ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "マイニユ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "zaibatsu-p2",
         "name": "ザイバツ（第2部）"
       }
     ],
-    "appearances": []
+    "skills": [
+      "ムシアナ・ジツ",
+      "アンタイ・ウェポン",
+      "メイアルーアジコンパッソ"
+    ],
+    "role": "グランドマスター位階",
+    "appearance": "宇宙めいた暗黒の装束。威圧的なオーラ。身長189cm。",
+    "description": "ザイバツ・グランドマスターの一人。\n亜空間を利用して攻撃を躱し、反物質アンタイ・ウェポンで敵を滅ぼす。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%80%E3%83%BC%E3%82%AF%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3",
+    "appearances": [
+      {
+        "id": "js9ejlo6"
+      },
+      {
+        "id": "6o0erlqp"
+      }
+    ]
   },
   {
     "id": "b96afd16",
@@ -25378,10 +25404,33 @@
   {
     "id": "d03a9f90",
     "name": "フマー・ニンジャ",
+    "aliases": [],
     "ninjaType": "リアルニンジャ",
+    "ninjaSoul": {
+      "id": "kvolip7t",
+      "name": "フマー・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "フマー・ニンジャ",
+      "origin": ""
+    },
     "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%83%9E%E3%83%BC%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+    "skills": [
+      "スリケン・ジツ",
+      "カゼのジツ",
+      "ダイシュリケン"
+    ],
+    "appearance": "金色に輝く目。恐らく身長2m超。",
+    "description": "ニンジャ六騎士の一人。マスタースリケン。\nスリケンで茨を生成したり、集約してキョダイシュリケンを投擲する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%83%9E%E3%83%BC%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
+    "appearances": [
+      {
+        "id": "6o0erlqp"
+      },
+      {
+        "id": "d66fda01"
+      }
+    ]
   },
   {
     "id": "3f34d6f3",
@@ -25522,10 +25571,97 @@
   {
     "id": "29226512",
     "name": "ケイトー・ニンジャ",
+    "aliases": [
+      "ギャラルホルン",
+      "スカーレット",
+      "クローザー",
+      "ブラックカイト",
+      "マーリン",
+      "マンデイン"
+    ],
     "ninjaType": "リアルニンジャ",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B1%E3%82%A4%E3%83%88%E3%83%BC%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+    "ninjaSoul": {
+      "id": "v86dwmmh",
+      "name": "ケイトー・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": ""
+    },
+    "organizations": [
+      {
+        "id": "ztzhrjjo",
+        "name": "ダーク・カラテ・エンパイア"
+      }
+    ],
+    "skills": [
+      "ボー・オブ・ザ・トラベラー",
+      "ボー・オブ・クリムゾン",
+      "緋色の稲妻",
+      "タイジン・ジツ"
+    ],
+    "appearance": "緋色の眼光。耳まで口が開く。\nフード付きローブ。",
+    "description": "時を逆さまに生きると嘯く神話級ニンジャ英雄。\n権謀術数を張り巡らせ、緋色の稲妻で障害を焼き払う。\n状況によって名を使い分ける。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B1%E3%82%A4%E3%83%88%E3%83%BC%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
+    "appearances": [
+      {
+        "id": "6o0erlqp"
+      },
+      {
+        "id": "futllzdo"
+      },
+      {
+        "id": "dk9icyo7"
+      },
+      {
+        "id": "kehqgsdx"
+      },
+      {
+        "id": "wjryt0u9"
+      },
+      {
+        "id": "vrvaz1y4"
+      },
+      {
+        "id": "his9gvkp"
+      },
+      {
+        "id": "0905b269"
+      },
+      {
+        "id": "34a1b4ba"
+      },
+      {
+        "id": "1c9a1c54"
+      },
+      {
+        "id": "2ro7dlra"
+      },
+      {
+        "id": "e07b3b1a"
+      },
+      {
+        "id": "89f07b12"
+      },
+      {
+        "id": "76830614"
+      },
+      {
+        "id": "08f154f0"
+      },
+      {
+        "id": "bc845992"
+      },
+      {
+        "id": "298d8046"
+      },
+      {
+        "id": "7bd07f98"
+      },
+      {
+        "id": "d66fda01"
+      }
+    ]
   },
   {
     "id": "96afb87a",
