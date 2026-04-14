@@ -942,10 +942,6 @@
         "name": "イモータル・ニンジャ・ワークショップ"
       },
       {
-        "id": "アマクダリ",
-        "name": "アマクダリ"
-      },
-      {
         "id": "y8yzi8su",
         "name": "ヨロシサン製薬"
       }
@@ -4934,7 +4930,7 @@
       },
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": [],
@@ -4953,7 +4949,7 @@
       },
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": [],
@@ -8014,7 +8010,7 @@
       },
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": [
@@ -8320,10 +8316,6 @@
       {
         "id": "soukaiya-p4",
         "name": "ソウカイヤ（第4部）"
-      },
-      {
-        "id": "アマクダリ",
-        "name": "アマクダリ"
       }
     ],
     "appearances": [
@@ -8503,7 +8495,7 @@
       },
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": [
@@ -8587,7 +8579,7 @@
       },
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": [],
@@ -8682,10 +8674,6 @@
       },
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
-      },
-      {
-        "id": "アマクダリ",
         "name": "アマクダリ"
       }
     ],
@@ -9071,6 +9059,14 @@
         "name": "ザイバツ（第2部）"
       }
     ],
+    "appearances": [
+      {
+        "id": "js9ejlo6"
+      },
+      {
+        "id": "6o0erlqp"
+      }
+    ],
     "skills": [
       "ムシアナ・ジツ",
       "アンタイ・ウェポン",
@@ -9080,15 +9076,7 @@
     "appearance": "宇宙めいた暗黒の装束。威圧的なオーラ。身長189cm。",
     "description": "ザイバツ・グランドマスターの一人。\n亜空間を利用して攻撃を躱し、反物質アンタイ・ウェポンで敵を滅ぼす。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%80%E3%83%BC%E3%82%AF%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3",
-    "appearances": [
-      {
-        "id": "js9ejlo6"
-      },
-      {
-        "id": "6o0erlqp"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%80%E3%83%BC%E3%82%AF%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3"
   },
   {
     "id": "b96afd16",
@@ -10226,10 +10214,6 @@
       },
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
-      },
-      {
-        "id": "アマクダリ",
         "name": "アマクダリ"
       },
       {
@@ -10412,14 +10396,36 @@
   {
     "id": "075f12e1",
     "name": "ガーディアン",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "btv78f70",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "イージス・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "zaibatsu-p2",
         "name": "ザイバツ（第2部）"
       }
     ],
-    "appearances": []
+    "appearances": [
+      {
+        "id": "6o0erlqp"
+      }
+    ],
+    "skills": [
+      "ムテキ・エンハンス",
+      "大盾",
+      "ビッグ・カラテ"
+    ],
+    "role": "アデプト位階",
+    "appearance": "体全体を覆い隠すほどの大盾を両腕に装備。体躯が大きい。",
+    "description": "ザイバツのニンジャ。\nムテキを大盾にエンハンスして攻撃を防ぐ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AC%E3%83%BC%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3"
   },
   {
     "id": "289d5250",
@@ -10463,18 +10469,18 @@
         "name": "ザイバツ（第2部）"
       }
     ],
+    "appearances": [
+      {
+        "id": "6o0erlqp"
+      }
+    ],
     "skills": [
       "ポイズンブレス・ジツ"
     ],
     "appearance": "陽に焼けた浅黒い肌。ウニめいたドレッドヘア。\n背中にジツに用いるガラス器具。",
     "description": "ザイバツの下級ニンジャ。\n非致死性のポイズンブレス・ジツを放ちモータルを昏睡させる。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B9%E3%83%8F%E3%82%A4%E3%82%A8%E3%83%8A%EF%BC%8F%E3%83%8F%E3%83%AA%E3%82%B1%E3%83%BC%E3%83%B3%E3%82%B4%E3%83%BC%E3%82%B9%E3%83%88%EF%BC%8F%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%96%EF%BC%8F%E3%82%AC%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%EF%BC%8F%E3%82%BB%E3%83%97%E3%83%86%E3%83%B3%E3%83%90%E3%83%BC",
-    "appearances": [
-      {
-        "id": "6o0erlqp"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B9%E3%83%8F%E3%82%A4%E3%82%A8%E3%83%8A%EF%BC%8F%E3%83%8F%E3%83%AA%E3%82%B1%E3%83%BC%E3%83%B3%E3%82%B4%E3%83%BC%E3%82%B9%E3%83%88%EF%BC%8F%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%96%EF%BC%8F%E3%82%AC%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%EF%BC%8F%E3%82%BB%E3%83%97%E3%83%86%E3%83%B3%E3%83%90%E3%83%BC"
   },
   {
     "id": "b031116a",
@@ -10589,14 +10595,31 @@
   {
     "id": "ae541e69",
     "name": "クレアオーディエンス",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "94djkzuw",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "コダマ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "zaibatsu-p2",
         "name": "ザイバツ（第2部）"
       }
     ],
-    "appearances": []
+    "appearances": [
+      {
+        "id": "6o0erlqp"
+      }
+    ],
+    "skills": [],
+    "role": "アデプト位階",
+    "description": "ザイバツの索敵ニンジャ。ネオサイタマ駐屯組。\n地中に潜む敵や、エテルの流れをも読み取る高度な索敵力を持つ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%AC%E3%82%A2%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%A8%E3%83%B3%E3%82%B9"
   },
   {
     "id": "3c4dcfef",
@@ -10991,6 +11014,11 @@
         "name": "ザイバツ（第2部）"
       }
     ],
+    "appearances": [
+      {
+        "id": "6o0erlqp"
+      }
+    ],
     "skills": [
       "レッサー・ムテキ・ウェポン",
       "古代ローマカラテ"
@@ -10999,12 +11027,7 @@
     "appearance": "女性。",
     "description": "ザイバツの下級ニンジャ。\nプリンセプスの弟子。古代ローマカラテ使い。\nアプレンティスながら実力はアデプト並。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B9%E3%83%8F%E3%82%A4%E3%82%A8%E3%83%8A%EF%BC%8F%E3%83%8F%E3%83%AA%E3%82%B1%E3%83%BC%E3%83%B3%E3%82%B4%E3%83%BC%E3%82%B9%E3%83%88%EF%BC%8F%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%96%EF%BC%8F%E3%82%AC%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%EF%BC%8F%E3%82%BB%E3%83%97%E3%83%86%E3%83%B3%E3%83%90%E3%83%BC",
-    "appearances": [
-      {
-        "id": "6o0erlqp"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B9%E3%83%8F%E3%82%A4%E3%82%A8%E3%83%8A%EF%BC%8F%E3%83%8F%E3%83%AA%E3%82%B1%E3%83%BC%E3%83%B3%E3%82%B4%E3%83%BC%E3%82%B9%E3%83%88%EF%BC%8F%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%96%EF%BC%8F%E3%82%AC%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%EF%BC%8F%E3%82%BB%E3%83%97%E3%83%86%E3%83%B3%E3%83%90%E3%83%BC"
   },
   {
     "id": "2db6435d",
@@ -11208,17 +11231,17 @@
         "name": "ザイバツ（第2部）"
       }
     ],
+    "appearances": [
+      {
+        "id": "6o0erlqp"
+      }
+    ],
     "skills": [],
     "role": "アデプト位階",
     "appearance": "二足歩行のハイエナ人間めいた外見。",
     "description": "ザイバツの下級ニンジャ。\nケモノパンクスと呼ばれる獣人化バイオサイバネ人間がニンジャ化したようだ。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B9%E3%83%8F%E3%82%A4%E3%82%A8%E3%83%8A%EF%BC%8F%E3%83%8F%E3%83%AA%E3%82%B1%E3%83%BC%E3%83%B3%E3%82%B4%E3%83%BC%E3%82%B9%E3%83%88%EF%BC%8F%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%96%EF%BC%8F%E3%82%AC%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%EF%BC%8F%E3%82%BB%E3%83%97%E3%83%86%E3%83%B3%E3%83%90%E3%83%BC",
-    "appearances": [
-      {
-        "id": "6o0erlqp"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B9%E3%83%8F%E3%82%A4%E3%82%A8%E3%83%8A%EF%BC%8F%E3%83%8F%E3%83%AA%E3%82%B1%E3%83%BC%E3%83%B3%E3%82%B4%E3%83%BC%E3%82%B9%E3%83%88%EF%BC%8F%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%96%EF%BC%8F%E3%82%AC%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%EF%BC%8F%E3%82%BB%E3%83%97%E3%83%86%E3%83%B3%E3%83%90%E3%83%BC"
   },
   {
     "id": "32b79c28",
@@ -11485,6 +11508,11 @@
         "name": "ザイバツ（第2部）"
       }
     ],
+    "appearances": [
+      {
+        "id": "6o0erlqp"
+      }
+    ],
     "skills": [
       "ステルス・ジツ",
       "フージン・ジツ"
@@ -11493,12 +11521,7 @@
     "appearance": "ぼろぼろになった灰色の修道士ローブ。カピロテを思わせる円錐形の長帽子メンポ。",
     "description": "ザイバツの下級ニンジャ。\n旋風や竜巻を起こすジツを持つが、その力は途上。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B9%E3%83%8F%E3%82%A4%E3%82%A8%E3%83%8A%EF%BC%8F%E3%83%8F%E3%83%AA%E3%82%B1%E3%83%BC%E3%83%B3%E3%82%B4%E3%83%BC%E3%82%B9%E3%83%88%EF%BC%8F%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%96%EF%BC%8F%E3%82%AC%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%EF%BC%8F%E3%82%BB%E3%83%97%E3%83%86%E3%83%B3%E3%83%90%E3%83%BC",
-    "appearances": [
-      {
-        "id": "6o0erlqp"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B9%E3%83%8F%E3%82%A4%E3%82%A8%E3%83%8A%EF%BC%8F%E3%83%8F%E3%83%AA%E3%82%B1%E3%83%BC%E3%83%B3%E3%82%B4%E3%83%BC%E3%82%B9%E3%83%88%EF%BC%8F%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%96%EF%BC%8F%E3%82%AC%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%EF%BC%8F%E3%82%BB%E3%83%97%E3%83%86%E3%83%B3%E3%83%90%E3%83%BC"
   },
   {
     "id": "7e743858",
@@ -11838,14 +11861,34 @@
   {
     "id": "51aad3a2",
     "name": "プリンセプス",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "m1fx7u4s",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "zaibatsu-p2",
         "name": "ザイバツ（第2部）"
       }
     ],
-    "appearances": []
+    "appearances": [
+      {
+        "id": "6o0erlqp"
+      }
+    ],
+    "skills": [
+      "古代ローマカラテ"
+    ],
+    "role": "アデプト位階",
+    "appearance": "若手拳闘士めいたビジュアル。",
+    "description": "ザイバツのニンジャ。\n古代ローマカラテ使い。弟子が複数いるようだ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%83%97%E3%82%B9"
   },
   {
     "id": "c847e32d",
@@ -12336,6 +12379,11 @@
         "name": "ザイバツ（第2部）"
       }
     ],
+    "appearances": [
+      {
+        "id": "6o0erlqp"
+      }
+    ],
     "skills": [
       "ヘンゲ・ヨーカイ・ジツ（蟹）"
     ],
@@ -12343,12 +12391,7 @@
     "appearance": "甲殻類めいたフルフェイスメンポ。",
     "description": "ザイバツの下級ニンジャ。\n蟹人間にヘンゲするジツを使う。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B9%E3%83%8F%E3%82%A4%E3%82%A8%E3%83%8A%EF%BC%8F%E3%83%8F%E3%83%AA%E3%82%B1%E3%83%BC%E3%83%B3%E3%82%B4%E3%83%BC%E3%82%B9%E3%83%88%EF%BC%8F%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%96%EF%BC%8F%E3%82%AC%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%EF%BC%8F%E3%82%BB%E3%83%97%E3%83%86%E3%83%B3%E3%83%90%E3%83%BC",
-    "appearances": [
-      {
-        "id": "6o0erlqp"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B9%E3%83%8F%E3%82%A4%E3%82%A8%E3%83%8A%EF%BC%8F%E3%83%8F%E3%83%AA%E3%82%B1%E3%83%BC%E3%83%B3%E3%82%B4%E3%83%BC%E3%82%B9%E3%83%88%EF%BC%8F%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%96%EF%BC%8F%E3%82%AC%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%EF%BC%8F%E3%82%BB%E3%83%97%E3%83%86%E3%83%B3%E3%83%90%E3%83%BC"
   },
   {
     "id": "c96370b0",
@@ -13405,10 +13448,6 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
-      },
-      {
-        "id": "アマクダリ",
         "name": "アマクダリ"
       },
       {
@@ -13426,10 +13465,6 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
-      },
-      {
-        "id": "アマクダリ",
         "name": "アマクダリ"
       }
     ],
@@ -13443,10 +13478,6 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
-      },
-      {
-        "id": "アマクダリ",
         "name": "アマクダリ"
       }
     ],
@@ -13460,10 +13491,6 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
-      },
-      {
-        "id": "アマクダリ",
         "name": "アマクダリ"
       }
     ],
@@ -13477,10 +13504,6 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
-      },
-      {
-        "id": "アマクダリ",
         "name": "アマクダリ"
       }
     ],
@@ -13494,10 +13517,6 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
-      },
-      {
-        "id": "アマクダリ",
         "name": "アマクダリ"
       }
     ],
@@ -13511,10 +13530,6 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
-      },
-      {
-        "id": "アマクダリ",
         "name": "アマクダリ"
       }
     ],
@@ -13528,10 +13543,6 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
-      },
-      {
-        "id": "アマクダリ",
         "name": "アマクダリ"
       }
     ],
@@ -13545,7 +13556,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -13557,10 +13568,6 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
-      },
-      {
-        "id": "アマクダリ",
         "name": "アマクダリ"
       }
     ],
@@ -13574,15 +13581,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
-      },
-      {
-        "id": "アマクダリ",
         "name": "アマクダリ"
-      },
-      {
-        "id": "日本政府",
-        "name": "日本政府"
       }
     ],
     "appearances": [],
@@ -13595,10 +13594,6 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
-      },
-      {
-        "id": "アマクダリ",
         "name": "アマクダリ"
       },
       {
@@ -13616,7 +13611,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -13628,7 +13623,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -13640,7 +13635,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -13652,7 +13647,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -13664,7 +13659,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -13676,7 +13671,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -13684,14 +13679,36 @@
   {
     "id": "c8faf052",
     "name": "コロッシヴ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "afp35lg1",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "レンキン・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
-    "appearances": []
+    "skills": [
+      "腐食カラテ"
+    ],
+    "appearance": "大柄な体躯。赤紫色の装束。錆びたガントレット。",
+    "description": "アマクダリのニンジャ。恐らくアクシス。\n触れた相手を腐食させるジツの使い手。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B3%E3%83%AD%E3%83%83%E3%82%B7%E3%83%B4",
+    "appearances": [
+      {
+        "id": "6o0erlqp"
+      },
+      {
+        "id": "nghu0pwd"
+      }
+    ]
   },
   {
     "id": "d6530f4f",
@@ -13700,7 +13717,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -13712,7 +13729,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -13724,7 +13741,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -13736,7 +13753,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -13748,7 +13765,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -13760,7 +13777,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -13772,7 +13789,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -13784,7 +13801,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -13796,7 +13813,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -13808,7 +13825,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -13820,7 +13837,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -13828,14 +13845,64 @@
   {
     "id": "1947043e",
     "name": "ドラゴンベイン",
+    "realName": "ナザキ・マゴト",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "v2gvz4z9",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "モズ・ニンジャクラン",
+      "origin": "高位のソウルではない"
+    },
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
-    "appearances": []
+    "skills": [
+      "ツラナイテタオス",
+      "モズ・ダイブ",
+      "鷲の拳"
+    ],
+    "role": "アマクダリ・アクシス",
+    "appearance": "豹頭を模した顔全体を覆うカブト・メンポ。白のニンジャアーマー。\n「ネヴァーダイズ」では幻獣めいた意匠のフルフェイス・メンポ。\n素顔は厳しい顔つきの黒髪のスラヴ系。身長189㎝。",
+    "description": "アマクダリ・アクシスのニンジャ。\nオベリスクめいた巨槍ツラヌイテタオスを軽々と扱う。\n古くからアガメムノンに仕えていた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%99%E3%82%A4%E3%83%B3",
+    "appearances": [
+      {
+        "id": "dd6cebbd"
+      },
+      {
+        "id": "6o0erlqp"
+      },
+      {
+        "id": "nghu0pwd"
+      },
+      {
+        "id": "x9g18jha"
+      },
+      {
+        "id": "aaa70fe2"
+      },
+      {
+        "id": "370fffc1"
+      },
+      {
+        "id": "yrr4132n"
+      },
+      {
+        "id": "2v6e48gz"
+      },
+      {
+        "id": "e9c2b6e2"
+      },
+      {
+        "id": "8r8ibb8m"
+      }
+    ]
   },
   {
     "id": "23f377d4",
@@ -13844,7 +13911,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -13856,7 +13923,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -13868,7 +13935,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -13876,26 +13943,65 @@
   {
     "id": "99dee2b0",
     "name": "フューネラル",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "x4quf8wy",
+      "name": "バロン・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
-    "appearances": []
+    "appearances": [
+      {
+        "id": "6o0erlqp"
+      }
+    ],
+    "skills": [
+      "ゲン・ジツ",
+      "ステッキ・ドー"
+    ],
+    "appearance": "バラクラバを思わせるドクロ・ペイント。黒いマント。シルクハット。ステッキ。",
+    "description": "アマクダリのニンジャ。ソウカイヤからの移籍組。\n大規模なゲン・ジツを展開して戦う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%83%A5%E3%83%BC%E3%83%8D%E3%83%A9%E3%83%AB"
   },
   {
     "id": "b93678fa",
     "name": "ブラックウィドー",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "v54opm8v",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": "クモ系のニンジャクラン"
+    },
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
-    "appearances": []
+    "skills": [
+      "クモ型ドロイドユニット"
+    ],
+    "appearance": "鼻から上を仮面めいて覆うのメンポ。黒いヴェール。\n八本のサイバークモ脚を持つ巨大なドロイドユニット。\n日常生活は通常のサイバネ脚を使用。",
+    "description": "ザイバツのニンジャ。恐らくアクシス所属。\n蜘蛛型稼働アーマーと直結し敵を踏み潰す。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%A6%E3%82%A3%E3%83%89%E3%83%BC",
+    "appearances": [
+      {
+        "id": "6o0erlqp"
+      }
+    ]
   },
   {
     "id": "00b4b425",
@@ -13904,7 +14010,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -13916,7 +14022,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -13928,7 +14034,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -13940,7 +14046,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -13952,7 +14058,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -13964,7 +14070,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -13976,7 +14082,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -13988,7 +14094,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14000,7 +14106,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14012,7 +14118,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14024,7 +14130,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14036,7 +14142,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14048,7 +14154,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14060,7 +14166,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14072,7 +14178,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14084,7 +14190,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14096,7 +14202,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14108,7 +14214,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14120,7 +14226,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14132,7 +14238,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14144,7 +14250,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14156,7 +14262,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14168,7 +14274,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14180,7 +14286,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14192,7 +14298,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14204,7 +14310,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14216,7 +14322,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14228,7 +14334,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14240,7 +14346,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14252,7 +14358,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14264,7 +14370,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14276,7 +14382,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14288,7 +14394,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14300,7 +14406,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14312,7 +14418,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14324,7 +14430,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14336,7 +14442,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14348,7 +14454,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14360,7 +14466,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14372,7 +14478,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14384,7 +14490,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14396,7 +14502,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14408,7 +14514,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14420,7 +14526,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14432,7 +14538,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14444,7 +14550,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14456,7 +14562,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14468,7 +14574,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14480,7 +14586,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14492,7 +14598,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14505,7 +14611,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": [
@@ -14526,7 +14632,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14538,7 +14644,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14550,7 +14656,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14562,7 +14668,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14574,7 +14680,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14586,7 +14692,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14598,7 +14704,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14610,7 +14716,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14622,7 +14728,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14634,7 +14740,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14646,7 +14752,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14658,7 +14764,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14670,7 +14776,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14682,7 +14788,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14694,7 +14800,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14706,7 +14812,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14718,7 +14824,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14730,7 +14836,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14742,7 +14848,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14754,7 +14860,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14766,7 +14872,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14778,7 +14884,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14790,7 +14896,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14802,7 +14908,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       },
       {
         "id": "ヨロシサン製薬",
@@ -14827,7 +14933,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": [
@@ -14862,7 +14968,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14874,7 +14980,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14886,7 +14992,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14898,7 +15004,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14910,7 +15016,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14922,7 +15028,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14934,7 +15040,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14946,7 +15052,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14958,7 +15064,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14970,7 +15076,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14982,7 +15088,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -14994,7 +15100,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -15006,7 +15112,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -15018,7 +15124,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -15030,7 +15136,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -15042,7 +15148,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -15054,7 +15160,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -15066,7 +15172,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -15078,7 +15184,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -15090,7 +15196,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -15102,7 +15208,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -15114,7 +15220,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -15126,7 +15232,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -15138,7 +15244,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -15150,7 +15256,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -15162,7 +15268,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -15174,10 +15280,6 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
-      },
-      {
-        "id": "アマクダリ",
         "name": "アマクダリ"
       }
     ],
@@ -15194,7 +15296,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -15206,10 +15308,6 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
-      },
-      {
-        "id": "アマクダリ",
         "name": "アマクダリ"
       }
     ],
@@ -15223,10 +15321,6 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
-      },
-      {
-        "id": "アマクダリ",
         "name": "アマクダリ"
       }
     ],
@@ -15240,10 +15334,6 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
-      },
-      {
-        "id": "アマクダリ",
         "name": "アマクダリ"
       }
     ],
@@ -15257,10 +15347,6 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
-      },
-      {
-        "id": "アマクダリ",
         "name": "アマクダリ"
       }
     ],
@@ -15274,10 +15360,6 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
-      },
-      {
-        "id": "アマクダリ",
         "name": "アマクダリ"
       }
     ],
@@ -15291,7 +15373,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -15303,10 +15385,6 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
-      },
-      {
-        "id": "アマクダリ",
         "name": "アマクダリ"
       }
     ],
@@ -15320,10 +15398,6 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
-      },
-      {
-        "id": "アマクダリ",
         "name": "アマクダリ"
       }
     ],
@@ -15337,10 +15411,6 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
-      },
-      {
-        "id": "アマクダリ",
         "name": "アマクダリ"
       }
     ],
@@ -15354,10 +15424,6 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
-      },
-      {
-        "id": "アマクダリ",
         "name": "アマクダリ"
       }
     ],
@@ -15371,10 +15437,6 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
-      },
-      {
-        "id": "アマクダリ",
         "name": "アマクダリ"
       }
     ],
@@ -15388,10 +15450,6 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
-      },
-      {
-        "id": "アマクダリ",
         "name": "アマクダリ"
       }
     ],
@@ -15405,10 +15463,6 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
-      },
-      {
-        "id": "アマクダリ",
         "name": "アマクダリ"
       }
     ],
@@ -15422,10 +15476,6 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
-      },
-      {
-        "id": "アマクダリ",
         "name": "アマクダリ"
       }
     ],
@@ -15439,10 +15489,6 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
-      },
-      {
-        "id": "アマクダリ",
         "name": "アマクダリ"
       }
     ],
@@ -15456,10 +15502,6 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
-      },
-      {
-        "id": "アマクダリ",
         "name": "アマクダリ"
       }
     ],
@@ -15473,7 +15515,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -15485,7 +15527,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -15497,7 +15539,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -15509,10 +15551,6 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
-      },
-      {
-        "id": "アマクダリ",
         "name": "アマクダリ"
       }
     ],
@@ -15526,10 +15564,6 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
-      },
-      {
-        "id": "アマクダリ",
         "name": "アマクダリ"
       }
     ],
@@ -15543,10 +15577,6 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
-      },
-      {
-        "id": "アマクダリ",
         "name": "アマクダリ"
       }
     ],
@@ -15560,10 +15590,6 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
-      },
-      {
-        "id": "アマクダリ",
         "name": "アマクダリ"
       }
     ],
@@ -15577,10 +15603,6 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
-      },
-      {
-        "id": "アマクダリ",
         "name": "アマクダリ"
       }
     ],
@@ -15594,10 +15616,6 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
-      },
-      {
-        "id": "アマクダリ",
         "name": "アマクダリ"
       }
     ],
@@ -15611,7 +15629,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -15623,7 +15641,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -15635,7 +15653,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -15647,7 +15665,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       },
       {
         "id": "ギャングクラン",
@@ -15664,7 +15682,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       },
       {
         "id": "ヤクザ",
@@ -15681,7 +15699,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -15693,7 +15711,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -15705,7 +15723,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -15717,7 +15735,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": [],
@@ -15730,7 +15748,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -15742,7 +15760,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -15754,7 +15772,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -15766,7 +15784,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -15778,7 +15796,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -15790,7 +15808,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -15802,7 +15820,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -15814,7 +15832,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       },
       {
         "id": "サラカイカ・ヘクト社",
@@ -15839,7 +15857,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       },
       {
         "id": "ネオサイタマ市警",
@@ -15874,7 +15892,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -15886,7 +15904,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -15898,7 +15916,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -15910,7 +15928,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -15922,7 +15940,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -15934,7 +15952,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -15946,7 +15964,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -15958,7 +15976,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -15970,7 +15988,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -15982,7 +16000,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -15994,7 +16012,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -16006,7 +16024,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -16018,7 +16036,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -16030,7 +16048,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       },
       {
         "id": "イモータル・ニンジャ・ワークショップ",
@@ -16047,7 +16065,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -16055,14 +16073,41 @@
   {
     "id": "7f85ee20",
     "name": "ディアハンター",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "gjckhhnp",
+      "name": "",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
-    "appearances": []
+    "skills": [
+      "スナイパースリケン"
+    ],
+    "appearance": "都市迷彩色の装束。トライアングル状に三つのスコープが配置されたフルフェイス・メンポ。\n左腕より拳一つ分長い右腕。",
+    "description": "アマクダリのニンジャ。\nシャーテック出身で、なんと素手で都市間弾道スリケンを実現した。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%A3%E3%82%A2%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC",
+    "appearances": [
+      {
+        "id": "6o0erlqp"
+      },
+      {
+        "id": "tqlc7ayk"
+      },
+      {
+        "id": "0ij95wkj"
+      },
+      {
+        "id": "vr3fq73p"
+      }
+    ]
   },
   {
     "id": "1fd1f89b",
@@ -16071,7 +16116,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -16083,7 +16128,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -16095,7 +16140,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -16107,7 +16152,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -16119,7 +16164,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -16131,7 +16176,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -16143,7 +16188,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -16155,7 +16200,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -16167,7 +16212,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -16179,7 +16224,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -16191,7 +16236,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -16203,7 +16248,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -16215,7 +16260,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -16227,7 +16272,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -16239,7 +16284,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -16251,7 +16296,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -16263,7 +16308,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -16275,7 +16320,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -16287,7 +16332,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -16299,10 +16344,6 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
-      },
-      {
-        "id": "アマクダリ",
         "name": "アマクダリ"
       }
     ],
@@ -16316,7 +16357,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -16328,7 +16369,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -16340,7 +16381,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -16352,7 +16393,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -16364,7 +16405,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -16376,7 +16417,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -16388,7 +16429,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -16400,7 +16441,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -16412,7 +16453,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -16424,7 +16465,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -16436,7 +16477,7 @@
     "organizations": [
       {
         "id": "amakudari-p3",
-        "name": "アマクダリ（第3部）"
+        "name": "アマクダリ"
       }
     ],
     "appearances": []
@@ -25414,6 +25455,14 @@
       "origin": ""
     },
     "organizations": [],
+    "appearances": [
+      {
+        "id": "6o0erlqp"
+      },
+      {
+        "id": "d66fda01"
+      }
+    ],
     "skills": [
       "スリケン・ジツ",
       "カゼのジツ",
@@ -25422,15 +25471,7 @@
     "appearance": "金色に輝く目。恐らく身長2m超。",
     "description": "ニンジャ六騎士の一人。マスタースリケン。\nスリケンで茨を生成したり、集約してキョダイシュリケンを投擲する。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%83%9E%E3%83%BC%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
-    "appearances": [
-      {
-        "id": "6o0erlqp"
-      },
-      {
-        "id": "d66fda01"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%83%9E%E3%83%BC%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
   },
   {
     "id": "3f34d6f3",
@@ -25593,16 +25634,6 @@
         "name": "ダーク・カラテ・エンパイア"
       }
     ],
-    "skills": [
-      "ボー・オブ・ザ・トラベラー",
-      "ボー・オブ・クリムゾン",
-      "緋色の稲妻",
-      "タイジン・ジツ"
-    ],
-    "appearance": "緋色の眼光。耳まで口が開く。\nフード付きローブ。",
-    "description": "時を逆さまに生きると嘯く神話級ニンジャ英雄。\n権謀術数を張り巡らせ、緋色の稲妻で障害を焼き払う。\n状況によって名を使い分ける。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B1%E3%82%A4%E3%83%88%E3%83%BC%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
     "appearances": [
       {
         "id": "6o0erlqp"
@@ -25661,7 +25692,17 @@
       {
         "id": "d66fda01"
       }
-    ]
+    ],
+    "skills": [
+      "ボー・オブ・ザ・トラベラー",
+      "ボー・オブ・クリムゾン",
+      "緋色の稲妻",
+      "タイジン・ジツ"
+    ],
+    "appearance": "緋色の眼光。耳まで口が開く。\nフード付きローブ。",
+    "description": "時を逆さまに生きると嘯く神話級ニンジャ英雄。\n権謀術数を張り巡らせ、緋色の稲妻で障害を焼き払う。\n状況によって名を使い分ける。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B1%E3%82%A4%E3%83%88%E3%83%BC%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
   },
   {
     "id": "96afb87a",
@@ -26769,14 +26810,14 @@
       "grade": "等級不明"
     },
     "organizations": [],
-    "skills": [],
-    "description": "アマクダリのニンジャ。",
-    "status": "dead",
     "appearances": [
       {
         "id": "6o0erlqp"
       }
-    ]
+    ],
+    "skills": [],
+    "description": "アマクダリのニンジャ。",
+    "status": "dead"
   },
   {
     "id": "cutsom2n",
@@ -26789,14 +26830,14 @@
       "grade": "等級不明"
     },
     "organizations": [],
-    "skills": [],
-    "description": "アマクダリのニンジャ。",
-    "status": "dead",
     "appearances": [
       {
         "id": "6o0erlqp"
       }
-    ]
+    ],
+    "skills": [],
+    "description": "アマクダリのニンジャ。",
+    "status": "dead"
   },
   {
     "id": "oe48vgvg",
@@ -26809,14 +26850,14 @@
       "grade": "等級不明"
     },
     "organizations": [],
-    "skills": [],
-    "description": "アマクダリのニンジャ。",
-    "status": "dead",
     "appearances": [
       {
         "id": "6o0erlqp"
       }
-    ]
+    ],
+    "skills": [],
+    "description": "アマクダリのニンジャ。",
+    "status": "dead"
   },
   {
     "id": "g4rfdrrc",
@@ -26829,13 +26870,13 @@
       "grade": "等級不明"
     },
     "organizations": [],
-    "skills": [],
-    "description": "アマクダリのニンジャ。",
-    "status": "dead",
     "appearances": [
       {
         "id": "6o0erlqp"
       }
-    ]
+    ],
+    "skills": [],
+    "description": "アマクダリのニンジャ。",
+    "status": "dead"
   }
 ]
