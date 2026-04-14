@@ -45,9 +45,9 @@ export function FilterPanel({
 
   return (
     <div className={styles.panel}>
-      {/* 登場情報 */}
+      {/* エピソード情報 */}
       <div className={styles.section}>
-        <div className={styles.sectionTitle}>登場情報</div>
+        <div className={styles.sectionTitle}>エピソード情報</div>
         <div className={styles.filterRow}>
           <div className={styles.filterGroup}>
             <label className={styles.label}>登場部</label>
@@ -96,9 +96,9 @@ export function FilterPanel({
         </div>
       </div>
 
-      {/* ニンジャ種別 */}
+      {/* キャラクター情報 */}
       <div className={styles.section}>
-        <div className={styles.sectionTitle}>ニンジャ種別</div>
+        <div className={styles.sectionTitle}>キャラクター情報</div>
         <div className={styles.filterRow}>
           <div className={styles.filterGroup}>
             <label className={styles.label}>ニンジャタイプ</label>
@@ -115,12 +115,28 @@ export function FilterPanel({
               ))}
             </select>
           </div>
+
+          <div className={styles.filterGroup}>
+            <label className={styles.label}>ステータス</label>
+            <select
+              className={styles.select}
+              value={criteria.status || ''}
+              onChange={(e) =>
+                set('status', e.target.value as 'alive' | 'dead' | 'unknown' | '')
+              }
+            >
+              <option value="">すべて</option>
+              <option value="alive">生存</option>
+              <option value="dead">死亡</option>
+              <option value="unknown">不明</option>
+            </select>
+          </div>
         </div>
       </div>
 
-      {/* ニンジャソウル */}
+      {/* ニンジャソウル情報 */}
       <div className={styles.section}>
-        <div className={styles.sectionTitle}>ニンジャソウル</div>
+        <div className={styles.sectionTitle}>ニンジャソウル情報</div>
         <div className={styles.filterRow}>
           <div className={styles.filterGroup}>
             <label className={styles.label}>ソウル等級</label>
@@ -158,9 +174,9 @@ export function FilterPanel({
         </div>
       </div>
 
-      {/* その他 */}
+      {/* 組織情報 */}
       <div className={styles.section}>
-        <div className={styles.sectionTitle}>その他</div>
+        <div className={styles.sectionTitle}>組織情報</div>
         <div className={styles.filterRow}>
           <div className={styles.filterGroup}>
             <label className={styles.label}>所属組織</label>
@@ -179,22 +195,6 @@ export function FilterPanel({
           </div>
 
           <div className={styles.filterGroup}>
-            <label className={styles.label}>ステータス</label>
-            <select
-              className={styles.select}
-              value={criteria.status || ''}
-              onChange={(e) =>
-                set('status', e.target.value as 'alive' | 'dead' | 'unknown' | '')
-              }
-            >
-              <option value="">すべて</option>
-              <option value="alive">生存</option>
-              <option value="dead">死亡</option>
-              <option value="unknown">不明</option>
-            </select>
-          </div>
-
-          <div className={styles.filterGroup}>
             <label className={styles.label}>役職</label>
             <input
               className={styles.input}
@@ -204,7 +204,13 @@ export function FilterPanel({
               onChange={(e) => set('role', e.target.value)}
             />
           </div>
+        </div>
+      </div>
 
+      {/* その他 */}
+      <div className={styles.section}>
+        <div className={styles.sectionTitle}>その他</div>
+        <div className={styles.filterRow}>
           <div className={styles.filterGroup}>
             <label className={styles.label}>ジツ・カラテなど</label>
             <input
