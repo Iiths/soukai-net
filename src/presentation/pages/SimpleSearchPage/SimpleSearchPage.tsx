@@ -3,11 +3,13 @@ import { useNavigate, useSearchParams } from 'react-router-dom';
 import { Ninja } from '../../../domain/entities/Ninja';
 import { NinjaType } from '../../../domain/entities/Ninja';
 import { Episode } from '../../../domain/entities/Episode';
+import { Organization } from '../../../domain/entities/Organization';
 import { FilterCriteria, FilterNinjaUseCase } from '../../../usecases/FilterNinjaUseCase';
 import { NinjaSoulGrade } from '../../../domain/entities/NinjaSoul';
 import { SearchNinjaUseCase } from '../../../usecases/SearchNinjaUseCase';
 import { JsonNinjaRepository } from '../../../infrastructure/repositories/JsonNinjaRepository';
 import { JsonEpisodeRepository } from '../../../infrastructure/repositories/JsonEpisodeRepository';
+import { JsonOrganizationRepository } from '../../../infrastructure/repositories/JsonOrganizationRepository';
 import { SearchBar } from '../../components/SearchBar/SearchBar';
 import { NinjaCard } from '../../components/NinjaCard/NinjaCard';
 import { FilterPanel } from '../../components/FilterPanel/FilterPanel';
@@ -46,7 +48,7 @@ function paramsToFilterCriteria(sp: URLSearchParams): FilterCriteria {
   const grade  = sp.get(P.SOUL_GRADE);    if (grade)  c.ninjaSoulGrade = grade as NinjaSoulGrade;
   const clan   = sp.get(P.SOUL_CLAN);     if (clan)   c.ninjaSoulClan = clan;
   const type   = sp.get(P.NINJA_TYPE);    if (type)   c.ninjaType     = type as NinjaType;
-  const org    = sp.get(P.ORG);           if (org)    c.organizationName = org;
+  const org    = sp.get(P.ORG);           if (org)    c.organizationId = org;
   const status = sp.get(P.STATUS);        if (status) c.status        = status as 'alive' | 'dead' | 'unknown';
   const role   = sp.get(P.ROLE);          if (role)   c.role          = role;
   const skill  = sp.get(P.SKILL);         if (skill)  c.skill         = skill;
@@ -61,7 +63,7 @@ function filterCriteriaToEntries(c: FilterCriteria): [string, string][] {
   if (c.ninjaSoulGrade)       entries.push([P.SOUL_GRADE,    c.ninjaSoulGrade]);
   if (c.ninjaSoulClan)        entries.push([P.SOUL_CLAN,     c.ninjaSoulClan]);
   if (c.ninjaType)            entries.push([P.NINJA_TYPE,    c.ninjaType]);
-  if (c.organizationName)     entries.push([P.ORG,           c.organizationName]);
+  if (c.organizationId)       entries.push([P.ORG,           c.organizationId]);
   if (c.status)               entries.push([P.STATUS,        c.status]);
   if (c.role)                 entries.push([P.ROLE,          c.role]);
   if (c.skill)                entries.push([P.SKILL,         c.skill]);
@@ -79,21 +81,30 @@ export function SimpleSearchPage() {
   const filterOpen = searchParams.get(P.FILTER_OPEN) === '1';
   const criteria   = useMemo(() => paramsToFilterCriteria(searchParams), [searchParams]);
 
-  const [results,     setResults]     = useState<Ninja[]>([]);
-  const [allNinjas,   setAllNinjas]   = useState<Ninja[]>([]);
-  const [allEpisodes, setAllEpisodes] = useState<Episode[]>([]);
-  const [isLoading,   setIsLoading]   = useState<boolean>(false);
+  const [results,          setResults]          = useState<Ninja[]>([]);
+  const [allNinjas,        setAllNinjas]        = useState<Ninja[]>([]);
+  const [allEpisodes,      setAllEpisodes]      = useState<Episode[]>([]);
+  const [allOrganizations, setAllOrganizations] = useState<Organization[]>([]);
+  const [isLoading,        setIsLoading]        = useState<boolean>(false);
 
-  // 全ニンジャ・全エピソードを初回ロード
+  // 全ニンジャ・全エピソード・全組織を初回ロード
   useEffect(() => {
     Promise.all([
       new JsonNinjaRepository().findAll(),
       new JsonEpisodeRepository().findAll(),
-    ]).then(([ninjas, episodes]) => {
+      new JsonOrganizationRepository().findAll(),
+    ]).then(([ninjas, episodes, orgs]) => {
       setAllNinjas(ninjas);
       setAllEpisodes(episodes);
+      setAllOrganizations(orgs.sort((a, b) => a.name.localeCompare(b.name, 'ja')));
     });
   }, []);
+
+  // 組織名解決用マップ
+  const orgMap = useMemo(
+    () => new Map(allOrganizations.map((o) => [o.id, o])),
+    [allOrganizations]
+  );
 
   // フィルターパネル用の選択肢を生成
   const arcs = useMemo(() => {
@@ -114,11 +125,7 @@ export function SimpleSearchPage() {
     return Array.from(s).sort();
   }, [allNinjas]);
 
-  const organizations = useMemo(() => {
-    const s = new Set<string>();
-    allNinjas.forEach((n) => n.organizations?.forEach((o) => s.add(o.name)));
-    return Array.from(s).sort();
-  }, [allNinjas]);
+  // organizations は allOrganizations をそのまま使用（organizations.json から一元管理）
 
   // 検索実行
   const performSearch = useCallback(async (q: string, c: FilterCriteria) => {
@@ -227,7 +234,7 @@ export function SimpleSearchPage() {
             arcs={arcs}
             seasons={seasons}
             ninjaSoulClans={ninjaSoulClans}
-            organizations={organizations}
+            organizations={allOrganizations}
           />
         </div>
       )}
@@ -253,6 +260,7 @@ export function SimpleSearchPage() {
                 key={ninja.id}
                 ninja={ninja}
                 onClick={() => handleCardClick(ninja.id)}
+                orgMap={orgMap}
               />
             ))}
           </div>

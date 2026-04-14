@@ -51,7 +51,7 @@ export function NinjaDetailPage() {
   const { id = '' } = useParams<{ id: string }>();
   const navigate = useNavigate();
   const isLocalDev = useIsLocalDev();
-  const { ninja, episodes, isLoading } = useNinjaDetail(id);
+  const { ninja, episodes, organizations, isLoading } = useNinjaDetail(id);
 
   if (isLoading) {
     return (
@@ -191,9 +191,9 @@ export function NinjaDetailPage() {
         {/* 所属組織 */}
         <section className={styles.section}>
           <h2 className={styles.sectionTitle}>所属組織</h2>
-          {hasValue(ninja.organizations) ? (
+          {organizations.length > 0 ? (
             <div className={styles.tagRow}>
-              {ninja.organizations!.map((org) => (
+              {organizations.map((org) => (
                 <Badge key={org.id} variant="org" text={org.name} />
               ))}
             </div>

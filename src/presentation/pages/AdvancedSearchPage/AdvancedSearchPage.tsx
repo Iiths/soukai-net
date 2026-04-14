@@ -3,8 +3,10 @@ import { useNavigate } from 'react-router-dom';
 import { FilterCriteria, FilterNinjaUseCase } from '../../../usecases/FilterNinjaUseCase';
 import { JsonNinjaRepository } from '../../../infrastructure/repositories/JsonNinjaRepository';
 import { JsonEpisodeRepository } from '../../../infrastructure/repositories/JsonEpisodeRepository';
+import { JsonOrganizationRepository } from '../../../infrastructure/repositories/JsonOrganizationRepository';
 import { Ninja } from '../../../domain/entities/Ninja';
 import { Episode } from '../../../domain/entities/Episode';
+import { Organization } from '../../../domain/entities/Organization';
 import { FilterPanel } from '../../components/FilterPanel/FilterPanel';
 import { NinjaCard } from '../../components/NinjaCard/NinjaCard';
 import styles from './AdvancedSearchPage.module.css';
@@ -14,8 +16,14 @@ export function AdvancedSearchPage() {
   const [criteria, setCriteria] = useState<FilterCriteria>({});
   const [results, setResults] = useState<Ninja[]>([]);
   const [isLoading, setIsLoading] = useState<boolean>(false);
-  const [allNinjas, setAllNinjas] = useState<Ninja[]>([]);
   const [allEpisodes, setAllEpisodes] = useState<Episode[]>([]);
+  const [allOrganizations, setAllOrganizations] = useState<Organization[]>([]);
+
+  // 組織名解決用マップ
+  const orgMap = useMemo(
+    () => new Map(allOrganizations.map((o) => [o.id, o])),
+    [allOrganizations]
+  );
 
   const arcs = useMemo(() => {
     const arcSet = new Set<string>();
@@ -25,24 +33,14 @@ export function AdvancedSearchPage() {
     return Array.from(arcSet).sort();
   }, [allEpisodes]);
 
-  const organizations = useMemo(() => {
-    const orgSet = new Set<string>();
-    allNinjas.forEach((ninja) => {
-      ninja.organizations?.forEach((org) => {
-        orgSet.add(org.name);
-      });
-    });
-    return Array.from(orgSet).sort();
-  }, [allNinjas]);
-
   useEffect(() => {
     const loadAll = async () => {
-      const [ninjas, episodes] = await Promise.all([
-        new JsonNinjaRepository().findAll(),
+      const [episodes, orgs] = await Promise.all([
         new JsonEpisodeRepository().findAll(),
+        new JsonOrganizationRepository().findAll(),
       ]);
-      setAllNinjas(ninjas);
       setAllEpisodes(episodes);
+      setAllOrganizations(orgs.sort((a, b) => a.name.localeCompare(b.name, 'ja')));
     };
     loadAll();
   }, []);
@@ -81,7 +79,7 @@ export function AdvancedSearchPage() {
         criteria={criteria}
         onChange={setCriteria}
         arcs={arcs}
-        organizations={organizations}
+        organizations={allOrganizations}
         seasons={[]}
         ninjaSoulClans={[]}
       />
@@ -107,6 +105,7 @@ export function AdvancedSearchPage() {
                 key={ninja.id}
                 ninja={ninja}
                 onClick={() => handleCardClick(ninja.id)}
+                orgMap={orgMap}
               />
             ))}
           </div>

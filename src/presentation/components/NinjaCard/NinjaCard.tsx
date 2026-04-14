@@ -1,10 +1,13 @@
 import { Ninja } from '../../../domain/entities/Ninja';
+import { Organization } from '../../../domain/entities/Organization';
 import styles from './NinjaCard.module.css';
 import { Badge } from '../Badge/Badge';
 
 interface NinjaCardProps {
   ninja: Ninja;
   onClick?: () => void;
+  /** 組織名解決用マップ（id → Organization）。省略時は組織バッジを非表示 */
+  orgMap?: Map<string, Organization>;
 }
 
 const STATUS_LABEL: Record<string, string> = {
@@ -19,7 +22,13 @@ const STATUS_CLASS: Record<string, string> = {
   unknown: styles.statusUnknown,
 };
 
-export function NinjaCard({ ninja, onClick }: NinjaCardProps) {
+export function NinjaCard({ ninja, onClick, orgMap }: NinjaCardProps) {
+  const resolvedOrgs: Organization[] = orgMap
+    ? (ninja.organizations ?? []).flatMap((ref) => {
+        const org = orgMap.get(ref.id);
+        return org ? [org] : [];
+      })
+    : [];
   return (
     <div className={styles.card} onClick={onClick} role="button" tabIndex={0}>
       <div className={styles.header}>
@@ -56,9 +65,9 @@ export function NinjaCard({ ninja, onClick }: NinjaCardProps) {
         </div>
       )}
 
-      {ninja.organizations && ninja.organizations.length > 0 && (
+      {resolvedOrgs.length > 0 && (
         <div className={styles.organizations}>
-          {ninja.organizations.map((org) => (
+          {resolvedOrgs.map((org) => (
             <Badge key={org.id} variant="org" text={org.name} />
           ))}
         </div>

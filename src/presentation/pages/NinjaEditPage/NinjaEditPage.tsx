@@ -3,10 +3,11 @@ import { useParams, useNavigate } from 'react-router-dom';
 import { Ninja, NinjaType, NINJA_TYPES } from '../../../domain/entities/Ninja';
 import { NinjaSoul, NinjaSoulGrade, NINJA_SOUL_GRADES } from '../../../domain/entities/NinjaSoul';
 import { Episode, EpisodeRef } from '../../../domain/entities/Episode';
-import { Organization } from '../../../domain/entities/Organization';
+import { Organization, OrganizationRef } from '../../../domain/entities/Organization';
 import { GetNinjaDetailUseCase } from '../../../usecases/GetNinjaDetailUseCase';
 import { JsonNinjaRepository } from '../../../infrastructure/repositories/JsonNinjaRepository';
 import { JsonEpisodeRepository } from '../../../infrastructure/repositories/JsonEpisodeRepository';
+import { JsonOrganizationRepository } from '../../../infrastructure/repositories/JsonOrganizationRepository';
 import { useNinjaEditContext } from '../../context/NinjaEditContext';
 import styles from './NinjaEditPage.module.css';
 
@@ -16,29 +17,35 @@ function genId() {
   return Math.random().toString(36).slice(2, 10);
 }
 
-function emptyOrg(): Organization {
-  return { id: genId(), name: '' };
-}
-
 // ---- フォームの内部ステート型 ----
 // appearances はフォーム編集用に完全な Episode[] を使う
-// 保存時に EpisodeRef[] へ変換する
+// organizations はフォーム編集用に完全な Organization[] を使う
+// 保存時にそれぞれ EpisodeRef[] / OrganizationRef[] へ変換する
 
-interface FormState extends Omit<Ninja, 'appearances'> {
+interface FormState extends Omit<Ninja, 'appearances' | 'organizations'> {
   _hasSoul: boolean;
-  appearances: Episode[]; // 編集中は完全なエピソード情報を保持
+  appearances: Episode[];     // 編集中は完全なエピソード情報を保持
+  organizations: Organization[]; // 編集中は完全な組織情報を保持
 }
 
-function ninjaToForm(ninja: Ninja, episodeMap: Map<string, Episode>): FormState {
+function ninjaToForm(
+  ninja: Ninja,
+  episodeMap: Map<string, Episode>,
+  orgMap: Map<string, Organization>
+): FormState {
   const episodes = ninja.appearances
     .map((ref) => episodeMap.get(ref.id))
     .filter((ep): ep is Episode => ep !== undefined);
+
+  const orgs = (ninja.organizations ?? [])
+    .map((ref) => orgMap.get(ref.id))
+    .filter((org): org is Organization => org !== undefined);
 
   return {
     ...ninja,
     aliases: ninja.aliases ?? [],
     skills: ninja.skills ?? [],
-    organizations: ninja.organizations ?? [],
+    organizations: orgs,
     appearances: episodes,
     ninjaSoul: ninja.ninjaSoul ?? {
       id: genId(),
@@ -52,11 +59,13 @@ function ninjaToForm(ninja: Ninja, episodeMap: Map<string, Episode>): FormState 
 }
 
 function formToNinja(form: FormState): Ninja {
-  const { _hasSoul, appearances, ...ninjaFields } = form;
+  const { _hasSoul, appearances, organizations, ...ninjaFields } = form;
   const episodeRefs: EpisodeRef[] = appearances.map((ep) => ({ id: ep.id }));
+  const orgRefs: OrganizationRef[] = organizations.map((org) => ({ id: org.id }));
   return {
     ...ninjaFields,
     appearances: episodeRefs,
+    organizations: orgRefs,
     ninjaSoul: _hasSoul ? form.ninjaSoul : undefined,
     realName: form.realName?.trim() || undefined,
     role: form.role?.trim() || undefined,
@@ -66,7 +75,6 @@ function formToNinja(form: FormState): Ninja {
     wikiUrl: form.wikiUrl?.trim() || undefined,
     aliases: form.aliases?.filter(a => a.trim()) ?? [],
     skills: form.skills?.filter(s => s.trim()) ?? [],
-    organizations: form.organizations?.filter(o => o.name.trim()) ?? [],
   };
 }
 
@@ -80,7 +88,7 @@ function emptyForm(): FormState {
     aliases: [],
     ninjaType: undefined,
     ninjaSoul: { id: genId(), name: '', grade: undefined, clan: undefined, origin: undefined },
-    organizations: [],
+    organizations: [],   // Organization[] (full objects during editing)
     appearances: [],
     skills: [],
     role: undefined,
@@ -104,25 +112,33 @@ export function NinjaEditPage() {
 
   const [form, setForm] = useState<FormState | null>(null);
   const [allEpisodes, setAllEpisodes] = useState<Episode[]>([]);
+  const [allOrganizations, setAllOrganizations] = useState<Organization[]>([]);
   const [isLoading, setIsLoading] = useState(true);
   const [saved, setSaved] = useState(false);
   const [downloading, setDownloading] = useState(false);
   const [episodeSearch, setEpisodeSearch] = useState('');
+  const [orgSearch, setOrgSearch] = useState('');
 
   useEffect(() => {
     const load = async () => {
       setIsLoading(true);
       try {
         const episodeRepo = new JsonEpisodeRepository();
+        const orgRepo = new JsonOrganizationRepository();
 
         if (isNew) {
-          // 新規追加モード: エピソードだけ読み込んで空フォームを用意
-          const allEps = await episodeRepo.findAll();
+          // 新規追加モード: エピソード・組織一覧を読み込んで空フォームを用意
+          const [allEps, allOrgs] = await Promise.all([
+            episodeRepo.findAll(),
+            orgRepo.findAll(),
+          ]);
           setAllEpisodes(allEps);
+          setAllOrganizations(allOrgs.sort((a, b) => a.name.localeCompare(b.name, 'ja')));
           setForm(emptyForm());
         } else {
-          const [allEps, ninja] = await Promise.all([
+          const [allEps, allOrgs, ninja] = await Promise.all([
             episodeRepo.findAll(),
+            orgRepo.findAll(),
             (async () => {
               const override = getOverride(id);
               if (override) return override;
@@ -133,8 +149,11 @@ export function NinjaEditPage() {
           ]);
 
           setAllEpisodes(allEps);
+          setAllOrganizations(allOrgs.sort((a, b) => a.name.localeCompare(b.name, 'ja')));
+
           const epMap = new Map(allEps.map((ep) => [ep.id, ep]));
-          setForm(ninja ? ninjaToForm(ninja, epMap) : null);
+          const orgMap = new Map(allOrgs.map((org) => [org.id, org]));
+          setForm(ninja ? ninjaToForm(ninja, epMap, orgMap) : null);
         }
       } finally {
         setIsLoading(false);
@@ -167,10 +186,28 @@ export function NinjaEditPage() {
   const updateSkill = (i: number, v: string) =>
     set('skills', (form?.skills ?? []).map((s, j) => j === i ? v : s));
 
-  const addOrg = () => set('organizations', [...(form?.organizations ?? []), emptyOrg()]);
-  const removeOrg = (i: number) => set('organizations', (form?.organizations ?? []).filter((_, j) => j !== i));
-  const updateOrg = (i: number, name: string) =>
-    set('organizations', (form?.organizations ?? []).map((o, j) => j === i ? { ...o, name } : o));
+  // 組織操作（organizations.json から選択）
+  const addOrg = (org: Organization) => {
+    if (form?.organizations.some(o => o.id === org.id)) return; // 重複追加防止
+    set('organizations', [...(form?.organizations ?? []), org]);
+    setOrgSearch('');
+  };
+  const removeOrg = (i: number) =>
+    set('organizations', (form?.organizations ?? []).filter((_, j) => j !== i));
+
+  // 順序変更
+  const moveOrgUp = (i: number) => {
+    if (i === 0) return;
+    const list = [...(form?.organizations ?? [])];
+    [list[i - 1], list[i]] = [list[i], list[i - 1]];
+    set('organizations', list);
+  };
+  const moveOrgDown = (i: number) => {
+    const list = [...(form?.organizations ?? [])];
+    if (i === list.length - 1) return;
+    [list[i], list[i + 1]] = [list[i + 1], list[i]];
+    set('organizations', list);
+  };
 
   // エピソード操作（episodes.json から選択 or 手動追加）
   const addEpisode = (ep: Episode) => {
@@ -208,6 +245,13 @@ export function NinjaEditPage() {
     ? allEpisodes.filter(ep =>
         ep.title.toLowerCase().includes(episodeSearch.toLowerCase()) ||
         ep.id.includes(episodeSearch)
+      ).slice(0, 10)
+    : [];
+
+  const filteredOrgs = orgSearch.trim()
+    ? allOrganizations.filter(org =>
+        org.name.toLowerCase().includes(orgSearch.toLowerCase()) ||
+        org.id.includes(orgSearch)
       ).slice(0, 10)
     : [];
 
@@ -411,19 +455,61 @@ export function NinjaEditPage() {
         {/* ── 所属組織 ── */}
         <fieldset className={styles.fieldset}>
           <legend className={styles.legend}>所属組織</legend>
-          <div className={styles.dynamicList}>
-            {form.organizations?.map((org, i) => (
-              <div key={org.id} className={styles.listRow}>
-                <input
-                  className={styles.input}
-                  value={org.name}
-                  onChange={e => updateOrg(i, e.target.value)}
-                  placeholder={`組織名 ${i + 1}`}
-                />
-                <button className={styles.btnRemove} onClick={() => removeOrg(i)} title="削除">✕</button>
+
+          {/* 登録済み組織 */}
+          <div className={styles.episodeList}>
+            {form.organizations.map((org, i) => (
+              <div key={org.id} className={styles.episodeEntry}>
+                <div className={styles.episodeEntryHeader}>
+                  {/* 順序変更ボタン */}
+                  <div className={styles.episodeMoveButtons}>
+                    <button
+                      className={styles.btnMove}
+                      onClick={() => moveOrgUp(i)}
+                      disabled={i === 0}
+                      title="上へ"
+                    >▲</button>
+                    <button
+                      className={styles.btnMove}
+                      onClick={() => moveOrgDown(i)}
+                      disabled={i === form.organizations.length - 1}
+                      title="下へ"
+                    >▼</button>
+                  </div>
+                  <span className={styles.episodeIndex}>#{i + 1}</span>
+                  <span className={styles.episodeTitle}>{org.name}</span>
+                  <button className={styles.btnRemove} onClick={() => removeOrg(i)} title="削除">✕</button>
+                </div>
               </div>
             ))}
-            <button className={styles.btnAdd} onClick={addOrg}>＋ 組織を追加</button>
+          </div>
+
+          {/* 組織検索・追加 */}
+          <div className={styles.episodeSearchWrapper}>
+            <input
+              className={styles.input}
+              value={orgSearch}
+              onChange={e => setOrgSearch(e.target.value)}
+              placeholder="組織名で検索して追加..."
+            />
+            {orgSearch.trim() && (
+              <div className={styles.episodeSuggestions}>
+                {filteredOrgs.map(org => (
+                  <button
+                    key={org.id}
+                    className={styles.episodeSuggestionItem}
+                    onClick={() => addOrg(org)}
+                  >
+                    <span className={styles.epSugTitle}>{org.name}</span>
+                  </button>
+                ))}
+                {filteredOrgs.length === 0 && (
+                  <div className={styles.episodeSuggestionItem} style={{ cursor: 'default', color: '#888' }}>
+                    一致する組織が見つかりません
+                  </div>
+                )}
+              </div>
+            )}
           </div>
         </fieldset>
 

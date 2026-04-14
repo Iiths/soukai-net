@@ -16,7 +16,8 @@ export type FilterCriteria = {
   ninjaSoulClan?: string;
   /** ニンジャの種別 */
   ninjaType?: NinjaType;
-  organizationName?: string;
+  /** 所属組織ID（organizations.json の id） */
+  organizationId?: string;
   status?: 'alive' | 'dead' | 'unknown';
   /** 役職（部分一致） */
   role?: string;
@@ -98,10 +99,10 @@ export class FilterNinjaUseCase {
         }
       }
 
-      // 所属組織フィルター
-      if (criteria.organizationName) {
-        const orgMatch = ninja.organizations?.some((org) =>
-          org.name.includes(criteria.organizationName!)
+      // 所属組織フィルター（IDで完全一致）
+      if (criteria.organizationId) {
+        const orgMatch = ninja.organizations?.some((ref) =>
+          ref.id === criteria.organizationId
         );
         if (!orgMatch) return false;
       }

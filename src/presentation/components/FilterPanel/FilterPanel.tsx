@@ -1,6 +1,7 @@
 import { FilterCriteria } from '../../../usecases/FilterNinjaUseCase';
 import { NinjaType } from '../../../domain/entities/Ninja';
 import { NinjaSoulGrade } from '../../../domain/entities/NinjaSoul';
+import { Organization } from '../../../domain/entities/Organization';
 import styles from './FilterPanel.module.css';
 
 const NINJA_TYPES: NinjaType[] = [
@@ -25,7 +26,7 @@ interface FilterPanelProps {
   arcs: string[];
   seasons: number[];
   ninjaSoulClans: string[];
-  organizations: string[];
+  organizations: Organization[];
 }
 
 export function FilterPanel({
@@ -182,13 +183,13 @@ export function FilterPanel({
             <label className={styles.label}>所属組織</label>
             <select
               className={styles.select}
-              value={criteria.organizationName || ''}
-              onChange={(e) => set('organizationName', e.target.value)}
+              value={criteria.organizationId || ''}
+              onChange={(e) => set('organizationId', e.target.value)}
             >
               <option value="">すべて</option>
               {organizations.map((org) => (
-                <option key={org} value={org}>
-                  {org}
+                <option key={org.id} value={org.id}>
+                  {org.name}
                 </option>
               ))}
             </select>

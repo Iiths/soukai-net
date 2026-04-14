@@ -21,7 +21,8 @@ issue対応の大半は「JSONデータの追加・修正」か「React UIの実
 soukai-net/
 ├── src/data/
 │   ├── ninjas.json        ← ニンジャマスターデータ（~1546件）
-│   └── episodes.json      ← エピソードマスターデータ（~152件）
+│   ├── episodes.json      ← エピソードマスターデータ（~152件）
+│   └── organizations.json ← 組織マスターデータ（~112件）★issue#13で追加
 ├── src/domain/entities/
 │   └── Ninja.ts           ← TypeScript型定義（スキーマの正）
 ├── ai_tools/
@@ -52,8 +53,8 @@ soukai-net/
     "clan": "",
     "origin": ""
   },
-  "organizations": [               // 省略可（空配列[]でもOK）
-    { "id": "soukaiya-p1", "name": "ソウカイヤ（第1部）" }
+  "organizations": [               // 組織IDへの参照（issue#13以降はIDのみ）。省略可（空配列[]でもOK）
+    { "id": "soukaiya-p1" }        // ★nameは持たない。organizations.jsonを参照
   ],
   "appearances": [                 // エピソードIDへの参照。省略可（空配列[]でもOK）
     { "id": "nubhusa7" }
@@ -71,10 +72,23 @@ soukai-net/
 ### ninjaType の有効値
 `"ニンジャソウル憑依者"` | `"リアルニンジャ"` | `"ロボ・ニンジャ"` | `"バイオニンジャ"` | `"非ニンジャ"` | `"カツ・ワンソーの影"`
 
-### organization.id の命名規則
-- 汎用: `org_name_from_name()` → `re.sub(r"[^\w\u3040-\u9fff]", "_", name)[:30].strip("_").lower()`
-- 例外（手動指定）: `"soukaiya-p1"`, `"soukaiya-p4"`, `"zaibatsu-p1"` など部つき組織
-- ⚠️ `"ソウカイヤ"` `"ザイバツ"` 単体の org_name は `BLOCKED_ORG_NAMES` に登録済みで追加禁止
+### organizations.json スキーマ（issue#13で追加）
+
+```json
+{ "id": "soukaiya-p1", "name": "ソウカイヤ（第1部）" }
+{ "id": "zaibatsu-p2", "name": "ザイバツ（第2部）" }
+{ "id": "a3eb746e",    "name": "カナリハヤイ社" }
+```
+
+- ninjas.json の `organizations` は `[{"id": "..."}]` のみ（nameは持たない）
+- organizations.json は `src/data/organizations.json` に約112件収録
+- 新規組織追加時は organizations.json に追記し、ninjas.json からは ID のみ参照する
+
+### organization.id の命名規則（issue#13以降）
+- 既存の意味ある ID: `"soukaiya-p1"`, `"soukaiya-p4"`, `"zaibatsu-p2"`, `"zaibatsu-p3p4"` は保持
+- ai_tools で設定された UUID8: `"ztzhrjjo"`, `"gndew7o1"`, `"qdiy2dh4"`, `"v4q6j4de"`, `"y8yzi8su"`, `"4f04u1l8"` は保持
+- 新規追加時: `uuid4().hex[:8]` で生成し organizations.json に追記
+- ⚠️ `"ソウカイヤ"` `"ザイバツ"` 単体の org_name は `BLOCKED_ORG_NAMES` に登録済みで追加禁止（wiki_crawlerの文脈）
 
 ---
 
@@ -119,7 +133,7 @@ def make_id(): return uuid.uuid4().hex[:8]
 {
     "id": make_id(),
     "name": name,
-    "organizations": [{"id": org_id, "name": org_name}],
+    "organizations": [{"id": org_id}],   # ★issue#13以降: nameは持たない（organizations.json参照）
     "appearances": [],
 }
 ```
@@ -203,7 +217,7 @@ wiki_crawler.py を読まずに済むよう要点をまとめる。
 | `ninjaSoulGrade` | `NinjaSoulGrade` | ソウル等級（セレクトボックス） |
 | `ninjaSoulClan` | `string` | ニンジャクラン（セレクトボックス） |
 | `ninjaType` | `NinjaType` | ニンジャタイプ（セレクトボックス） |
-| `organizationName` | `string` | 所属組織（セレクトボックス） |
+| `organizationId` | `string` | 所属組織ID（organizations.jsonのid。セレクトボックス） |
 | `status` | `'alive'｜'dead'｜'unknown'` | ステータス |
 | `role` | `string` | 役職（部分一致、テキスト入力） |
 | `skill` | `string` | ジツ・カラテなどスキル名（部分一致、テキスト入力） |

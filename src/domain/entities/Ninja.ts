@@ -1,5 +1,5 @@
 import { NinjaSoul } from './NinjaSoul';
-import { Organization } from './Organization';
+import { OrganizationRef } from './Organization';
 import { EpisodeRef } from './Episode';
 
 export type NinjaType =
@@ -27,7 +27,8 @@ export type Ninja = {
   /** ニンジャの種別（ニンジャソウル憑依者/リアルニンジャ/ロボ・ニンジャ/バイオニンジャ/非ニンジャ） */
   ninjaType?: NinjaType;
   ninjaSoul?: NinjaSoul;
-  organizations?: Organization[];
+  /** 所属組織参照（IDのみ。詳細は organizations.json を参照） */
+  organizations?: OrganizationRef[];
   /** 登場エピソード参照（IDのみ。詳細は episodes.json を参照） */
   appearances: EpisodeRef[];
   skills?: string[];
