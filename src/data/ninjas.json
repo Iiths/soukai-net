@@ -3665,15 +3665,6 @@
         "name": "ニンジャスレイヤーと協力者達"
       }
     ],
-    "skills": [
-      "ムテキ・アティチュード",
-      "エネルギー・スリケン",
-      "ムテキ・バリア"
-    ],
-    "role": "「獄麗」オーナー",
-    "appearance": "整ったボンズヘアー。ネオン・アイシャドー。身長約213cm。\n（～第3部）変形機構つきレザージャケット。IRCインカムの付いたメンポ。\n（第4部）ダーク・ミラー・コート。クロームのスーツ。繊細な彫金を施されたサイバネ腕。",
-    "description": "ニチョーム・ストリートを守るドラァグ・クイーン。\nムテキの力で攻撃を防ぎ、エネルギー・スリケンとして撃ち返す。",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8D%E3%82%B6%E3%83%BC%E3%82%AF%E3%82%A4%E3%83%BC%E3%83%B3",
     "appearances": [
       {
         "id": "8hejs1x6"
@@ -3711,7 +3702,16 @@
       {
         "id": "7bd07f98"
       }
-    ]
+    ],
+    "skills": [
+      "ムテキ・アティチュード",
+      "エネルギー・スリケン",
+      "ムテキ・バリア"
+    ],
+    "role": "「獄麗」オーナー",
+    "appearance": "整ったボンズヘアー。ネオン・アイシャドー。身長約213cm。\n（～第3部）変形機構つきレザージャケット。IRCインカムの付いたメンポ。\n（第4部）ダーク・ミラー・コート。クロームのスーツ。繊細な彫金を施されたサイバネ腕。",
+    "description": "ニチョーム・ストリートを守るドラァグ・クイーン。\nムテキの力で攻撃を防ぎ、エネルギー・スリケンとして撃ち返す。",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8D%E3%82%B6%E3%83%BC%E3%82%AF%E3%82%A4%E3%83%BC%E3%83%B3"
   },
   {
     "id": "17754559151",
@@ -5201,8 +5201,7 @@
     "realName": "フジオ・カタクラ",
     "aliases": [
       "ソード・オブ・ソウカイヤ",
-      "グランドロード",
-      "あるじ"
+      "グランドロード"
     ],
     "ninjaType": "ニンジャソウル憑依者",
     "ninjaSoul": {
@@ -9408,17 +9407,17 @@
         "name": "ザイバツ（第2部）"
       }
     ],
+    "appearances": [
+      {
+        "id": "8b7ceaa4"
+      }
+    ],
     "skills": [],
     "role": "マスター位階",
     "appearance": "水色のニンジャ装束。手にゴム手袋めいたグローブ。外科医的な風体。",
     "description": "ザイバツの医療ニンジャ。\nサイバネ医師としても有能だがサディスト。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3",
-    "appearances": [
-      {
-        "id": "8b7ceaa4"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3"
   },
   {
     "id": "b10354db",
@@ -10062,15 +10061,6 @@
         "name": "ザイバツ（第2部）"
       }
     ],
-    "skills": [
-      "ビッグ・カラテ",
-      "アロンダイト剣"
-    ],
-    "role": "マスター位階",
-    "appearance": "身長250cm超。赤いニンジャ装束。「健」「康」の二文字がショドーされたメンポ。",
-    "description": "ザイバツ・シテンノの一人。暴力のプロ。\nビッグニンジャの巨体をサイバネで更に強化している。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%83%83%E3%83%89%E3%82%B4%E3%83%AA%E3%83%A9",
     "appearances": [
       {
         "id": "9a9c26f3"
@@ -10081,7 +10071,16 @@
       {
         "id": "8hejs1x6"
       }
-    ]
+    ],
+    "skills": [
+      "ビッグ・カラテ",
+      "アロンダイト剣"
+    ],
+    "role": "マスター位階",
+    "appearance": "身長250cm超。赤いニンジャ装束。「健」「康」の二文字がショドーされたメンポ。",
+    "description": "ザイバツ・シテンノの一人。暴力のプロ。\nビッグニンジャの巨体をサイバネで更に強化している。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%83%83%E3%83%89%E3%82%B4%E3%83%AA%E3%83%A9"
   },
   {
     "id": "aa0dfcac",
@@ -10173,6 +10172,11 @@
         "name": "ザイバツ（第2部）"
       }
     ],
+    "appearances": [
+      {
+        "id": "8hejs1x6"
+      }
+    ],
     "skills": [
       "ムテキ・ウェポン化"
     ],
@@ -10180,12 +10184,7 @@
     "appearance": "小柄な体格。メタリックニンジャ装束。体の側面に仕込み刃。",
     "description": "ザイバツのニンジャ。\nムテキの応用で自ら剣となる。担い手が必要。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%AD%E3%83%B3%E3%83%80%E3%82%A4%E3%83%88",
-    "appearances": [
-      {
-        "id": "8hejs1x6"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%AD%E3%83%B3%E3%83%80%E3%82%A4%E3%83%88"
   },
   {
     "id": "c724ba4b",
@@ -10423,14 +10422,33 @@
   {
     "id": "ff8d3c99",
     "name": "ガンジャー",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "26f70fmz",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "zaibatsu-p2",
         "name": "ザイバツ（第2部）"
       }
     ],
-    "appearances": []
+    "skills": [
+      "ポイズンブレス・ジツ"
+    ],
+    "appearance": "陽に焼けた浅黒い肌。ウニめいたドレッドヘア。\n背中にジツに用いるガラス器具。",
+    "description": "ザイバツの下級ニンジャ。\n非致死性のポイズンブレス・ジツを放ちモータルを昏睡させる。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B9%E3%83%8F%E3%82%A4%E3%82%A8%E3%83%8A%EF%BC%8F%E3%83%8F%E3%83%AA%E3%82%B1%E3%83%BC%E3%83%B3%E3%82%B4%E3%83%BC%E3%82%B9%E3%83%88%EF%BC%8F%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%96%EF%BC%8F%E3%82%AC%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%EF%BC%8F%E3%82%BB%E3%83%97%E3%83%86%E3%83%B3%E3%83%90%E3%83%BC",
+    "appearances": [
+      {
+        "id": "6o0erlqp"
+      }
+    ]
   },
   {
     "id": "b031116a",
@@ -10439,13 +10457,32 @@
       "スズキ・キヨシ"
     ],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "0nh81mbl",
+      "name": "",
+      "grade": "アーチ級",
+      "clan": "テッポウ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "zaibatsu-p2",
         "name": "ザイバツ（第2部）"
       }
     ],
-    "appearances": []
+    "appearances": [
+      {
+        "id": "oer10ykn"
+      }
+    ],
+    "skills": [
+      "ピストルカラテ"
+    ],
+    "role": "アデプト位階",
+    "appearance": "ロングコートの上に黒いケープ。白手袋。\nハーフヴェネツィアマスクめいた形状のハンニャ・オメーン。",
+    "description": "収監された怪盗スズキ・キヨシに強力なニンジャソウルが憑依。\n速度を重視したピストルカラテの使い手。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AC%E3%83%B3%E3%82%B9%E3%83%AA%E3%83%B3%E3%82%AC%E3%83%BC"
   },
   {
     "id": "88396d55",
@@ -10896,6 +10933,11 @@
         "name": "ザイバツ（第2部）"
       }
     ],
+    "appearances": [
+      {
+        "id": "68q536wv"
+      }
+    ],
     "skills": [
       "鎖ブレード",
       "スリケン"
@@ -10903,24 +10945,40 @@
     "appearance": "ザイバツ紋の入ったダークブルーのニンジャ装束。",
     "description": "ザイバツのニンジャ。\n武器の鎖ブレードは遠近両用。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%88%E3%83%BC%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC",
-    "appearances": [
-      {
-        "id": "68q536wv"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%88%E3%83%BC%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC"
   },
   {
     "id": "9ff68d1b",
     "name": "セプテンバー",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "t310j1o0",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "zaibatsu-p2",
         "name": "ザイバツ（第2部）"
       }
     ],
-    "appearances": []
+    "skills": [
+      "レッサー・ムテキ・ウェポン",
+      "古代ローマカラテ"
+    ],
+    "role": "アプレンティス位階",
+    "appearance": "女性。",
+    "description": "ザイバツの下級ニンジャ。\nプリンセプスの弟子。古代ローマカラテ使い。\nアプレンティスながら実力はアデプト並。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B9%E3%83%8F%E3%82%A4%E3%82%A8%E3%83%8A%EF%BC%8F%E3%83%8F%E3%83%AA%E3%82%B1%E3%83%BC%E3%83%B3%E3%82%B4%E3%83%BC%E3%82%B9%E3%83%88%EF%BC%8F%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%96%EF%BC%8F%E3%82%AC%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%EF%BC%8F%E3%82%BB%E3%83%97%E3%83%86%E3%83%B3%E3%83%90%E3%83%BC",
+    "appearances": [
+      {
+        "id": "6o0erlqp"
+      }
+    ]
   },
   {
     "id": "2db6435d",
@@ -11109,14 +11167,32 @@
   {
     "id": "d77405f3",
     "name": "デスハイエナ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "1ekuwfic",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "zaibatsu-p2",
         "name": "ザイバツ（第2部）"
       }
     ],
-    "appearances": []
+    "skills": [],
+    "role": "アデプト位階",
+    "appearance": "二足歩行のハイエナ人間めいた外見。",
+    "description": "ザイバツの下級ニンジャ。\nケモノパンクスと呼ばれる獣人化バイオサイバネ人間がニンジャ化したようだ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B9%E3%83%8F%E3%82%A4%E3%82%A8%E3%83%8A%EF%BC%8F%E3%83%8F%E3%83%AA%E3%82%B1%E3%83%BC%E3%83%B3%E3%82%B4%E3%83%BC%E3%82%B9%E3%83%88%EF%BC%8F%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%96%EF%BC%8F%E3%82%AC%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%EF%BC%8F%E3%82%BB%E3%83%97%E3%83%86%E3%83%B3%E3%83%90%E3%83%BC",
+    "appearances": [
+      {
+        "id": "6o0erlqp"
+      }
+    ]
   },
   {
     "id": "32b79c28",
@@ -11286,17 +11362,17 @@
         "name": "ザイバツ（第2部）"
       }
     ],
+    "appearances": [
+      {
+        "id": "68q536wv"
+      }
+    ],
     "skills": [
       "テイクザットユーフィーンド・ジツ"
     ],
     "description": "ザイバツのニンジャ。ネオサイタマ駐屯組。\n十数m範囲を衝撃波で粉砕する危険なジツを使う。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%82%A4%E3%83%9A%E3%83%AA%E3%82%AA%E3%83%B3",
-    "appearances": [
-      {
-        "id": "68q536wv"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%82%A4%E3%83%9A%E3%83%AA%E3%82%AA%E3%83%B3"
   },
   {
     "id": "5e46bf4f",
@@ -11368,14 +11444,35 @@
   {
     "id": "e43cbb87",
     "name": "ハリケーンゴースト",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "rgrnre06",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": "メイジ、またはカゼ・ニンジャクラン"
+    },
     "organizations": [
       {
         "id": "zaibatsu-p2",
         "name": "ザイバツ（第2部）"
       }
     ],
-    "appearances": []
+    "skills": [
+      "ステルス・ジツ",
+      "フージン・ジツ"
+    ],
+    "role": "アデプト位階",
+    "appearance": "ぼろぼろになった灰色の修道士ローブ。カピロテを思わせる円錐形の長帽子メンポ。",
+    "description": "ザイバツの下級ニンジャ。\n旋風や竜巻を起こすジツを持つが、その力は途上。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B9%E3%83%8F%E3%82%A4%E3%82%A8%E3%83%8A%EF%BC%8F%E3%83%8F%E3%83%AA%E3%82%B1%E3%83%BC%E3%83%B3%E3%82%B4%E3%83%BC%E3%82%B9%E3%83%88%EF%BC%8F%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%96%EF%BC%8F%E3%82%AC%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%EF%BC%8F%E3%82%BB%E3%83%97%E3%83%86%E3%83%B3%E3%83%90%E3%83%BC",
+    "appearances": [
+      {
+        "id": "6o0erlqp"
+      }
+    ]
   },
   {
     "id": "7e743858",
@@ -11849,18 +11946,18 @@
         "name": "ザイバツ（第2部）"
       }
     ],
+    "appearances": [
+      {
+        "id": "8hejs1x6"
+      }
+    ],
     "skills": [
       "スリケン"
     ],
     "appearance": "インカム内蔵メンポ。",
     "description": "ザイバツの下級ニンジャ。\n投げるスリケンがハヤイ。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%99%E3%83%AD%E3%82%B7%E3%83%86%E3%82%A3",
-    "appearances": [
-      {
-        "id": "8hejs1x6"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%99%E3%83%AD%E3%82%B7%E3%83%86%E3%82%A3"
   },
   {
     "id": "2a41b3c2",
@@ -12058,6 +12155,11 @@
         "name": "ザイバツ（第2部）"
       }
     ],
+    "appearances": [
+      {
+        "id": "e9f0dd22"
+      }
+    ],
     "skills": [
       "ネムリ・ジツ"
     ],
@@ -12065,12 +12167,7 @@
     "appearance": "斑模様のニンジャ装束。",
     "description": "ザイバツのニンジャ。\n超自然ジョルリ糸で相手を悪夢に誘い殺すネムリ・ジツの使い手。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%AB%E3%83%95%E3%82%A7%E3%82%A6%E3%82%B9",
-    "appearances": [
-      {
-        "id": "e9f0dd22"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%AB%E3%83%95%E3%82%A7%E3%82%A6%E3%82%B9"
   },
   {
     "id": "d7b96b42",
@@ -12090,18 +12187,18 @@
         "name": "ザイバツ（第2部）"
       }
     ],
+    "appearances": [
+      {
+        "id": "8hejs1x6"
+      }
+    ],
     "skills": [
       "ダイノソー・ホーン"
     ],
     "appearance": "硬質化した装甲ニンジャ装束。",
     "description": "ザイバツの下級ニンジャ。\n攻防一体の装甲とインプラント・ホーンが持ち味。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%82%A4%E3%83%8E%E3%82%BB%E3%83%A9%E3%82%B9",
-    "appearances": [
-      {
-        "id": "8hejs1x6"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%82%A4%E3%83%8E%E3%82%BB%E3%83%A9%E3%82%B9"
   },
   {
     "id": "0731d363",
@@ -12133,6 +12230,11 @@
         "name": "ザイバツ（第2部）"
       }
     ],
+    "appearances": [
+      {
+        "id": "e9f0dd22"
+      }
+    ],
     "skills": [
       "闘犬型金属グローブ"
     ],
@@ -12140,12 +12242,7 @@
     "appearance": "両腕に牙を剥く闘犬の頭を模した金属製のグローブ。\n潜入用の作業服。",
     "description": "ザイバツのニンジャ。\nコンパクトな打撃戦を得意とする。グローブには噛みつき機構も備わる。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%83%93%E3%83%83%E3%83%89%E3%83%89%E3%83%83%E3%82%B0",
-    "appearances": [
-      {
-        "id": "e9f0dd22"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%83%93%E3%83%83%E3%83%89%E3%83%89%E3%83%83%E3%82%B0"
   },
   {
     "id": "f3a1c4c2",
@@ -12198,14 +12295,34 @@
   {
     "id": "bae45f59",
     "name": "ワークラブ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "fss5kunq",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "zaibatsu-p2",
         "name": "ザイバツ（第2部）"
       }
     ],
-    "appearances": []
+    "skills": [
+      "ヘンゲ・ヨーカイ・ジツ（蟹）"
+    ],
+    "role": "アデプト位階",
+    "appearance": "甲殻類めいたフルフェイスメンポ。",
+    "description": "ザイバツの下級ニンジャ。\n蟹人間にヘンゲするジツを使う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B9%E3%83%8F%E3%82%A4%E3%82%A8%E3%83%8A%EF%BC%8F%E3%83%8F%E3%83%AA%E3%82%B1%E3%83%BC%E3%83%B3%E3%82%B4%E3%83%BC%E3%82%B9%E3%83%88%EF%BC%8F%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%96%EF%BC%8F%E3%82%AC%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%EF%BC%8F%E3%82%BB%E3%83%97%E3%83%86%E3%83%B3%E3%83%90%E3%83%BC",
+    "appearances": [
+      {
+        "id": "6o0erlqp"
+      }
+    ]
   },
   {
     "id": "c96370b0",
@@ -12323,14 +12440,33 @@
   {
     "id": "f4c63c20",
     "name": "ジャッジメント",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "0zg4afrc",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "zaibatsu-p2",
         "name": "ザイバツ（第2部）"
       }
     ],
-    "appearances": []
+    "appearances": [
+      {
+        "id": "oer10ykn"
+      }
+    ],
+    "skills": [
+      "トバシ・ケン"
+    ],
+    "appearance": "虚無僧編笠。黒いニンジャ装束。サイバーレインコート。\n恐らく身長身長190cm前後。大柄。",
+    "description": "キョートで活動するフリーランス傭兵ニンジャ。\n編笠を暗殺武器として飛ばすトバシ・ケンの使い手。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88"
   },
   {
     "id": "c0a62532",
@@ -21620,66 +21756,6 @@
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%83%A2%E3%83%BB%E3%82%A4%E3%82%B7%E3%82%A4%EF%BC%8F%E3%82%BF%E3%83%A2%E3%83%BB%E3%83%92%E3%83%AD%E3%82%B7"
   },
   {
-    "id": "00ed348e",
-    "name": "デスハイエナ",
-    "organizations": [
-      {
-        "id": "ニンジャスレイヤー_コミカライズ版",
-        "name": "ニンジャスレイヤー（コミカライズ版）"
-      }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B9%E3%83%8F%E3%82%A4%E3%82%A8%E3%83%8A%EF%BC%8F%E3%83%8F%E3%83%AA%E3%82%B1%E3%83%BC%E3%83%B3%E3%82%B4%E3%83%BC%E3%82%B9%E3%83%88%EF%BC%8F%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%96%EF%BC%8F%E3%82%AC%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%EF%BC%8F%E3%82%BB%E3%83%97%E3%83%86%E3%83%B3%E3%83%90%E3%83%BC"
-  },
-  {
-    "id": "8ae065fe",
-    "name": "ハリケーンゴースト",
-    "organizations": [
-      {
-        "id": "ニンジャスレイヤー_コミカライズ版",
-        "name": "ニンジャスレイヤー（コミカライズ版）"
-      }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B9%E3%83%8F%E3%82%A4%E3%82%A8%E3%83%8A%EF%BC%8F%E3%83%8F%E3%83%AA%E3%82%B1%E3%83%BC%E3%83%B3%E3%82%B4%E3%83%BC%E3%82%B9%E3%83%88%EF%BC%8F%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%96%EF%BC%8F%E3%82%AC%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%EF%BC%8F%E3%82%BB%E3%83%97%E3%83%86%E3%83%B3%E3%83%90%E3%83%BC"
-  },
-  {
-    "id": "a2bdf57a",
-    "name": "ワークラブ",
-    "organizations": [
-      {
-        "id": "ニンジャスレイヤー_コミカライズ版",
-        "name": "ニンジャスレイヤー（コミカライズ版）"
-      }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B9%E3%83%8F%E3%82%A4%E3%82%A8%E3%83%8A%EF%BC%8F%E3%83%8F%E3%83%AA%E3%82%B1%E3%83%BC%E3%83%B3%E3%82%B4%E3%83%BC%E3%82%B9%E3%83%88%EF%BC%8F%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%96%EF%BC%8F%E3%82%AC%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%EF%BC%8F%E3%82%BB%E3%83%97%E3%83%86%E3%83%B3%E3%83%90%E3%83%BC"
-  },
-  {
-    "id": "e758d0aa",
-    "name": "ガンジャー",
-    "organizations": [
-      {
-        "id": "ニンジャスレイヤー_コミカライズ版",
-        "name": "ニンジャスレイヤー（コミカライズ版）"
-      }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B9%E3%83%8F%E3%82%A4%E3%82%A8%E3%83%8A%EF%BC%8F%E3%83%8F%E3%83%AA%E3%82%B1%E3%83%BC%E3%83%B3%E3%82%B4%E3%83%BC%E3%82%B9%E3%83%88%EF%BC%8F%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%96%EF%BC%8F%E3%82%AC%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%EF%BC%8F%E3%82%BB%E3%83%97%E3%83%86%E3%83%B3%E3%83%90%E3%83%BC"
-  },
-  {
-    "id": "9e76feab",
-    "name": "セプテンバー",
-    "organizations": [
-      {
-        "id": "ニンジャスレイヤー_コミカライズ版",
-        "name": "ニンジャスレイヤー（コミカライズ版）"
-      }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B9%E3%83%8F%E3%82%A4%E3%82%A8%E3%83%8A%EF%BC%8F%E3%83%8F%E3%83%AA%E3%82%B1%E3%83%BC%E3%83%B3%E3%82%B4%E3%83%BC%E3%82%B9%E3%83%88%EF%BC%8F%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%96%EF%BC%8F%E3%82%AC%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%EF%BC%8F%E3%82%BB%E3%83%97%E3%83%86%E3%83%B3%E3%83%90%E3%83%BC"
-  },
-  {
     "id": "490c05",
     "name": "アモクウェイブ",
     "organizations": [
@@ -26510,16 +26586,119 @@
       "clan": "ヤイバ・ニンジャクラン"
     },
     "organizations": [],
+    "appearances": [
+      {
+        "id": "8hejs1x6"
+      }
+    ],
     "skills": [
       "ミキサーブレード"
     ],
     "appearance": "狂的な双眸。耳まで裂けた口。サメめいた歯。",
     "description": "猟奇殺人を繰り返していた野良ニンジャ。\n右手につけた鉤爪はプロセッサーめいてミキサー回転する。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%97%E3%83%AD%E3%82%BB%E3%83%83%E3%82%B5%E3%83%BC",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%97%E3%83%AD%E3%82%BB%E3%83%83%E3%82%B5%E3%83%BC"
+  },
+  {
+    "id": "vxq60gkq",
+    "name": "ブロードソード",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "p8m05gjk",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "organizations": [],
     "appearances": [
       {
-        "id": "8hejs1x6"
+        "id": "oer10ykn"
+      }
+    ],
+    "skills": [
+      "ブロードソード"
+    ],
+    "description": "キョートでニンジャスレイヤーと交戦したニンジャ。\n恐らくザイバツニンジャと思われる。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%AD%E3%83%BC%E3%83%89%E3%82%BD%E3%83%BC%E3%83%89"
+  },
+  {
+    "id": "09f35wtw",
+    "name": "テクノランス",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "nh5jaavu",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "organizations": [],
+    "skills": [],
+    "description": "アマクダリのニンジャ。",
+    "status": "dead",
+    "appearances": [
+      {
+        "id": "6o0erlqp"
+      }
+    ]
+  },
+  {
+    "id": "cutsom2n",
+    "name": "ダブルアーム",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "q7iv9685",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "organizations": [],
+    "skills": [],
+    "description": "アマクダリのニンジャ。",
+    "status": "dead",
+    "appearances": [
+      {
+        "id": "6o0erlqp"
+      }
+    ]
+  },
+  {
+    "id": "oe48vgvg",
+    "name": "エナジースキナー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "nrmktfph",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "organizations": [],
+    "skills": [],
+    "description": "アマクダリのニンジャ。",
+    "status": "dead",
+    "appearances": [
+      {
+        "id": "6o0erlqp"
+      }
+    ]
+  },
+  {
+    "id": "g4rfdrrc",
+    "name": "プライムナンバー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "03eu5spx",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "organizations": [],
+    "skills": [],
+    "description": "アマクダリのニンジャ。",
+    "status": "dead",
+    "appearances": [
+      {
+        "id": "6o0erlqp"
       }
     ]
   }
