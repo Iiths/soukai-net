@@ -9266,14 +9266,6 @@
         "name": "ニンジャスレイヤーと協力者達"
       }
     ],
-    "skills": [
-      "ポータル・ジツ",
-      "テレパス・ジツ"
-    ],
-    "appearance": "白緑色のニンジャ装束。吸気浄化機能付きメンポ。\nディプロマットと瓜二つの容姿。身長175㎝。",
-    "description": "元ザイバツのマスター位階ニンジャ。\n兄ディプロマットとは強い繋がりを持つ。\n第4部では兄と古美術商を営んでいる。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%B3%E3%83%90%E3%82%B5%E3%83%80%E3%83%BC",
     "appearances": [
       {
         "id": "n18b20ae"
@@ -9308,7 +9300,15 @@
       {
         "id": "3972e76a"
       }
-    ]
+    ],
+    "skills": [
+      "ポータル・ジツ",
+      "テレパス・ジツ"
+    ],
+    "appearance": "白緑色のニンジャ装束。吸気浄化機能付きメンポ。\nディプロマットと瓜二つの容姿。身長175㎝。",
+    "description": "元ザイバツのマスター位階ニンジャ。\n兄ディプロマットとは強い繋がりを持つ。\n第4部では兄と古美術商を営んでいる。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%B3%E3%83%90%E3%82%B5%E3%83%80%E3%83%BC"
   },
   {
     "id": "e85217f9",
@@ -9557,6 +9557,11 @@
         "name": "ザイバツ（第2部）"
       }
     ],
+    "appearances": [
+      {
+        "id": "g01g2lf0"
+      }
+    ],
     "skills": [
       "サイバネ高圧電流"
     ],
@@ -9564,12 +9569,7 @@
     "appearance": "ホログラムを放つサイバネ兜・メンポ。",
     "description": "ザイバツのニンジャ。\nドローンと連携した電撃を放つ。ネンコに厳しい。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%81%E3%82%A7%E3%82%A4%E3%83%B3%E3%83%9C%E3%83%AB%E3%83%88",
-    "appearances": [
-      {
-        "id": "g01g2lf0"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%81%E3%82%A7%E3%82%A4%E3%83%B3%E3%83%9C%E3%83%AB%E3%83%88"
   },
   {
     "id": "9a26a00c",
@@ -9593,14 +9593,6 @@
         "name": "ニンジャスレイヤーと協力者達"
       }
     ],
-    "skills": [
-      "ポータル・ジツ",
-      "テレパス・ジツ"
-    ],
-    "appearance": "薄紫色のニンジャ装束。吸気浄化機能付きメンポ。\nアンバサダーと瓜二つの容姿。身長175㎝。",
-    "description": "元ザイバツのマスター位階ニンジャ。\n弟アンバサダーとは強い繋がりを持つ。\n第4部では弟、ナミダと共に古美術商を営んでいる。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%A3%E3%83%97%E3%83%AD%E3%83%9E%E3%83%83%E3%83%88",
     "appearances": [
       {
         "id": "g01g2lf0"
@@ -9620,7 +9612,15 @@
       {
         "id": "3972e76a"
       }
-    ]
+    ],
+    "skills": [
+      "ポータル・ジツ",
+      "テレパス・ジツ"
+    ],
+    "appearance": "薄紫色のニンジャ装束。吸気浄化機能付きメンポ。\nアンバサダーと瓜二つの容姿。身長175㎝。",
+    "description": "元ザイバツのマスター位階ニンジャ。\n弟アンバサダーとは強い繋がりを持つ。\n第4部では弟、ナミダと共に古美術商を営んでいる。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%A3%E3%83%97%E3%83%AD%E3%83%9E%E3%83%83%E3%83%88"
   },
   {
     "id": "10c8747c",
@@ -10168,15 +10168,6 @@
         "name": "ザイバツ（第2部）"
       }
     ],
-    "skills": [
-      "ゲン・ジツ",
-      "エネルギー・スリケン"
-    ],
-    "role": "マスター位階",
-    "appearance": "無数の同心円模様に覆われた全身タイツ装束。\n「ヘル・オン・アース」では首に襟巻き状のガラスシリンダーを巻き、\nその中の液体をチューブでこめかみに直接流しこんでいる。",
-    "description": "ザイバツの恐るべき執行者ニンジャ。\nゲン・ジツの対処法を知らなければ倒すことができない。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AA%E3%82%B9%E3%83%88",
     "appearances": [
       {
         "id": "nghu0pwd"
@@ -10187,7 +10178,16 @@
       {
         "id": "12ml6hmz"
       }
-    ]
+    ],
+    "skills": [
+      "ゲン・ジツ",
+      "エネルギー・スリケン"
+    ],
+    "role": "マスター位階",
+    "appearance": "無数の同心円模様に覆われた全身タイツ装束。\n「ヘル・オン・アース」では首に襟巻き状のガラスシリンダーを巻き、\nその中の液体をチューブでこめかみに直接流しこんでいる。",
+    "description": "ザイバツの恐るべき執行者ニンジャ。\nゲン・ジツの対処法を知らなければ倒すことができない。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AA%E3%82%B9%E3%83%88"
   },
   {
     "id": "dd8ca0c1",
@@ -12546,15 +12546,15 @@
       "origin": ""
     },
     "organizations": [],
-    "skills": [],
-    "description": "キョートで活動するフリーランス傭兵ニンジャ。\n彼のようにザイバツ自体に属さない恭順者とヨゴレニンジャと呼ぶ。",
-    "status": "unknown",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%90%E3%83%A9%E3%83%B3%E3%83%81",
     "appearances": [
       {
         "id": "g01g2lf0"
       }
-    ]
+    ],
+    "skills": [],
+    "description": "キョートで活動するフリーランス傭兵ニンジャ。\n彼のようにザイバツ自体に属さない恭順者とヨゴレニンジャと呼ぶ。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%90%E3%83%A9%E3%83%B3%E3%83%81"
   },
   {
     "id": "b990946e",
@@ -12586,15 +12586,15 @@
       "origin": ""
     },
     "organizations": [],
-    "skills": [],
-    "description": "キョートで活動するフリーランス傭兵ニンジャ。\nヨゴレニンジャの一人。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AD%E3%83%A3%E3%83%B3%E3%82%B5%E3%83%BC",
     "appearances": [
       {
         "id": "g01g2lf0"
       }
-    ]
+    ],
+    "skills": [],
+    "description": "キョートで活動するフリーランス傭兵ニンジャ。\nヨゴレニンジャの一人。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AD%E3%83%A3%E3%83%B3%E3%82%B5%E3%83%BC"
   },
   {
     "id": "a9f8be88",
@@ -12609,18 +12609,18 @@
       "origin": ""
     },
     "organizations": [],
+    "appearances": [
+      {
+        "id": "g01g2lf0"
+      }
+    ],
     "skills": [
       "クロックブレード"
     ],
     "appearance": "クロックブレードなる武器を持つ。",
     "description": "キョートで活動するフリーランス傭兵ニンジャ。\nヨゴレニンジャの一人。\n乱闘騒ぎを生き残ったが、その後の足取りは不明。",
     "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%AD%E3%83%83%E3%82%AF%E3%82%BF%E3%83%AF%E3%83%BC",
-    "appearances": [
-      {
-        "id": "g01g2lf0"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%AD%E3%83%83%E3%82%AF%E3%82%BF%E3%83%AF%E3%83%BC"
   },
   {
     "id": "f4c63c20",
@@ -12666,17 +12666,17 @@
       "origin": ""
     },
     "organizations": [],
+    "appearances": [
+      {
+        "id": "g01g2lf0"
+      }
+    ],
     "skills": [
       "カタナ"
     ],
     "description": "キョートで活動するフリーランス傭兵ニンジャ。\nいわゆるヨゴレニンジャの一人。カタナで攻撃する。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%83%BC%E3%83%A2%E3%83%B3%E3%82%AB%E3%82%A4%E3%83%B3",
-    "appearances": [
-      {
-        "id": "g01g2lf0"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%83%BC%E3%83%A2%E3%83%B3%E3%82%AB%E3%82%A4%E3%83%B3"
   },
   {
     "id": "d42bd7d3",
@@ -12715,18 +12715,18 @@
       "origin": ""
     },
     "organizations": [],
+    "appearances": [
+      {
+        "id": "g01g2lf0"
+      }
+    ],
     "skills": [
       "ナックルダスター"
     ],
     "appearance": "サイバネナックルダスターを持つ。",
     "description": "キョートで活動するフリーランス傭兵ニンジャ。\nヨゴレニンジャの一人。ナックルダスターで殴りかかる。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%82%B9%E3%83%8A%E3%83%83%E3%82%AF%E3%83%AB",
-    "appearances": [
-      {
-        "id": "g01g2lf0"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%82%B9%E3%83%8A%E3%83%83%E3%82%AF%E3%83%AB"
   },
   {
     "id": "4f25ff8b",
@@ -12741,15 +12741,15 @@
       "origin": ""
     },
     "organizations": [],
-    "skills": [],
-    "description": "キョートで活動するフリーランス傭兵ニンジャ。\nヨゴレニンジャの一人。",
-    "status": "unknown",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%83%AB%E3%83%96%E3%83%A9%E3%82%A4%E3%83%88",
     "appearances": [
       {
         "id": "g01g2lf0"
       }
-    ]
+    ],
+    "skills": [],
+    "description": "キョートで活動するフリーランス傭兵ニンジャ。\nヨゴレニンジャの一人。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%83%AB%E3%83%96%E3%83%A9%E3%82%A4%E3%83%88"
   },
   {
     "id": "185fd423",
@@ -12776,16 +12776,16 @@
       "origin": ""
     },
     "organizations": [],
-    "skills": [],
-    "appearance": "両腕がサイバネ。戦闘時に鋼鉄パーツが露出。",
-    "description": "キョートで活動するフリーランス傭兵ニンジャ。\nヨゴレニンジャの一人。サイバネティクスが自慢。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%83%83%E3%83%89%E3%83%89%E3%83%83%E3%82%B0",
     "appearances": [
       {
         "id": "g01g2lf0"
       }
-    ]
+    ],
+    "skills": [],
+    "appearance": "両腕がサイバネ。戦闘時に鋼鉄パーツが露出。",
+    "description": "キョートで活動するフリーランス傭兵ニンジャ。\nヨゴレニンジャの一人。サイバネティクスが自慢。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%83%83%E3%83%89%E3%83%89%E3%83%83%E3%82%B0"
   },
   {
     "id": "b1595b9e",
@@ -16555,14 +16555,33 @@
   {
     "id": "d3545092",
     "name": "メタルベイン",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "1ft9qcfi",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "タナカ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "amakudari-p3",
         "name": "アマクダリ"
       }
     ],
-    "appearances": []
+    "skills": [
+      "磁力テレキネシス"
+    ],
+    "appearance": "鉛色のニンジャ装束。背中に「磁改」のプリント。\n手首にサイバネ水晶パネル。",
+    "description": "アマクダリのニンジャ。\n電力を消費して金属物を操るサイコニンジャ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%99%E3%82%A4%E3%83%B3",
+    "appearances": [
+      {
+        "id": "fwq12d1u"
+      }
+    ]
   },
   {
     "id": "4bdfb80d",
@@ -18360,14 +18379,33 @@
   {
     "id": "72590e",
     "name": "ナックラヴィー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "y4lcv11n",
+      "name": "ビョウキ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "イモータル・ニンジャ・ワークショップ",
         "name": "イモータル・ニンジャ・ワークショップ"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8A%E3%83%83%E3%82%AF%E3%83%A9%E3%83%B4%E3%82%A3%E3%83%BC"
+    "skills": [
+      "ネクロ・カラテ"
+    ],
+    "appearance": "ギリシア哲人めいた長布。\n黒い筋線維がむき出しの上半身。",
+    "description": "リー先生が生みだしたゾンビーニンジャ。\n高い知能、ネクロ・カラテに加え敵を病毒に侵す厄介なジツを使う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8A%E3%83%83%E3%82%AF%E3%83%A9%E3%83%B4%E3%82%A3%E3%83%BC",
+    "appearances": [
+      {
+        "id": "fwq12d1u"
+      }
+    ]
   },
   {
     "id": "2a6a59",
@@ -19781,14 +19819,6 @@
       "origin": ""
     },
     "organizations": [],
-    "skills": [
-      "テレパシー ",
-      "ネンリキ・ジツ"
-    ],
-    "appearance": "正体不明の金属でできた銀色のメンポ。ピンクのニンジャ装束。",
-    "description": "謎めいた次元旅行者ニンジャ。\n第四の壁を容易く突破し、ニンジャヘッズと度々交流する。",
-    "status": "unknown",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B6%E3%83%BB%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B4",
     "appearances": [
       {
         "id": "9a7q6o48"
@@ -19832,7 +19862,15 @@
       {
         "id": "d66fda01"
       }
-    ]
+    ],
+    "skills": [
+      "テレパシー ",
+      "ネンリキ・ジツ"
+    ],
+    "appearance": "正体不明の金属でできた銀色のメンポ。ピンクのニンジャ装束。",
+    "description": "謎めいた次元旅行者ニンジャ。\n第四の壁を容易く突破し、ニンジャヘッズと度々交流する。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B6%E3%83%BB%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B4"
   },
   {
     "id": "1223fe",
@@ -24535,11 +24573,6 @@
       "origin": ""
     },
     "organizations": [],
-    "skills": [],
-    "appearance": "ニンジャ装束状でサイズ不定の砂嵐ノイズ。\n指に鉤爪。",
-    "description": "コトダマ空間内に現れる半狂乱ニンジャ存在。\nポータルなどで訪れた者に無差別に襲い掛かる。",
-    "status": "unknown",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%83%B3%E3%82%AF%E3%82%A3%E3%82%B8%E3%82%BF%E3%83%BC",
     "appearances": [
       {
         "id": "9a7q6o48"
@@ -24559,7 +24592,12 @@
       {
         "id": "kehqgsdx"
       }
-    ]
+    ],
+    "skills": [],
+    "appearance": "ニンジャ装束状でサイズ不定の砂嵐ノイズ。\n指に鉤爪。",
+    "description": "コトダマ空間内に現れる半狂乱ニンジャ存在。\nポータルなどで訪れた者に無差別に襲い掛かる。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%83%B3%E3%82%AF%E3%82%A3%E3%82%B8%E3%82%BF%E3%83%BC"
   },
   {
     "id": "76e6fbe9",
@@ -25703,6 +25741,14 @@
       "origin": ""
     },
     "organizations": [],
+    "appearances": [
+      {
+        "id": "6o0erlqp"
+      },
+      {
+        "id": "d66fda01"
+      }
+    ],
     "skills": [
       "スリケン・ジツ",
       "カゼのジツ",
@@ -25712,15 +25758,7 @@
     "appearance": "金色に輝く目。恐らく身長2m超。",
     "description": "ニンジャ六騎士の一人。マスタースリケン。\nスリケンで茨を生成したり、集約してキョダイシュリケンを投擲する。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%83%9E%E3%83%BC%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
-    "appearances": [
-      {
-        "id": "6o0erlqp"
-      },
-      {
-        "id": "d66fda01"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%83%9E%E3%83%BC%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
   },
   {
     "id": "3f34d6f3",
@@ -25735,6 +25773,14 @@
       "origin": ""
     },
     "organizations": [],
+    "appearances": [
+      {
+        "id": "8r8ibb8m"
+      },
+      {
+        "id": "d66fda01"
+      }
+    ],
     "skills": [
       "ヤリ・オブ・ザ・ヘイロー",
       "ヤリ・オブ・ザ・ハント",
@@ -25744,15 +25790,7 @@
     "appearance": "草色のニンジャ装束。悲哀を称えた目。曲線的なフルメンポ。",
     "description": "ニンジャ六騎士の一人。マスターヤリ。\n探索行と神話的戦いの果て、オヒガンの門を蹴破り失踪した。",
     "status": "unknown",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A4%E3%83%9E%E3%83%88%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
-    "appearances": [
-      {
-        "id": "8r8ibb8m"
-      },
-      {
-        "id": "d66fda01"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A4%E3%83%9E%E3%83%88%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
   },
   {
     "id": "8c25a629",
@@ -27162,11 +27200,6 @@
       "grade": "等級不明"
     },
     "organizations": [],
-    "skills": [],
-    "appearance": "海賊帽。ニンジャ装束。",
-    "description": "コトダマ空間の海原を徘徊する謎めいたニンジャ船長。\n様々な知識を有し、訪れた迷い人をからかう。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B3%E3%83%AB%E3%82%BB%E3%82%A2",
     "appearances": [
       {
         "id": "g01g2lf0"
@@ -27191,6 +27224,94 @@
       },
       {
         "id": "emcygtsj"
+      }
+    ],
+    "skills": [],
+    "appearance": "海賊帽。ニンジャ装束。",
+    "description": "コトダマ空間の海原を徘徊する謎めいたニンジャ船長。\n様々な知識を有し、訪れた迷い人をからかう。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B3%E3%83%AB%E3%82%BB%E3%82%A2"
+  },
+  {
+    "id": "kmjbgq3o",
+    "name": "ケンワ・タイ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "jbjdmuka",
+      "name": "キヨミ・ニンジャ",
+      "grade": "アーチ級"
+    },
+    "organizations": [],
+    "skills": [
+      "癒しの手",
+      "ドク爆発"
+    ],
+    "appearance": "ヘドロの塊めいたフード付きのローブ。汁が滴る身体。",
+    "description": "独立寺院のボンズに極めて特殊なニンジャソウルが憑依。\n触れた者のビョウキを浄化するが、代償として自身の身体がヘドロ化してしまう。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B1%E3%83%B3%E3%83%AF%E3%83%BB%E3%82%BF%E3%82%A4",
+    "appearances": [
+      {
+        "id": "fwq12d1u"
+      }
+    ]
+  },
+  {
+    "id": "x7qursxk",
+    "name": "ラヴェジャー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "nbzxh1c3",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "コドク・ニンジャクラン"
+    },
+    "organizations": [
+      {
+        "id": "bwkemmzm",
+        "name": "イモータル・ニンジャ・ワークショップ"
+      }
+    ],
+    "skills": [],
+    "appearance": "執事服めいたニンジャ装束。猫背。ずんぐりしたシルエット。\n低身長。醜い素顔を覆面とメンポで隠す。",
+    "description": "INWの執事ニンジャ。ゾンビーたちの管理もしている。\n彼自身恐ろしいジツを使うが、アンデッドニンジャではないらしい。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%83%B4%E3%82%A7%E3%82%B8%E3%83%A3%E3%83%BC",
+    "appearances": [
+      {
+        "id": "fwq12d1u"
+      },
+      {
+        "id": "zt9pvzah"
+      },
+      {
+        "id": "8r8ibb8m"
+      }
+    ]
+  },
+  {
+    "id": "po5g46me",
+    "name": "ブラッドカース",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "nph8aye0",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "organizations": [],
+    "skills": [
+      "バイオ毒分泌器官",
+      "ノロイ・ジツ"
+    ],
+    "description": "ネザークイーンと交戦した野良ニンジャ。\n倒しても解毒されない厄介なノロイ毒液を放つ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%83%83%E3%83%89%E3%82%AB%E3%83%BC%E3%82%B9",
+    "appearances": [
+      {
+        "id": "fwq12d1u"
       }
     ]
   }
