@@ -25,14 +25,6 @@ export function AdvancedSearchPage() {
     return Array.from(arcSet).sort();
   }, [allEpisodes]);
 
-  const ninjaSouls = useMemo(() => {
-    const soulSet = new Set<string>();
-    allNinjas.forEach((ninja) => {
-      if (ninja.ninjaSoul) soulSet.add(ninja.ninjaSoul.name);
-    });
-    return Array.from(soulSet).sort();
-  }, [allNinjas]);
-
   const organizations = useMemo(() => {
     const orgSet = new Set<string>();
     allNinjas.forEach((ninja) => {
@@ -89,7 +81,6 @@ export function AdvancedSearchPage() {
         criteria={criteria}
         onChange={setCriteria}
         arcs={arcs}
-        ninjaSouls={ninjaSouls}
         organizations={organizations}
         seasons={[]}
         ninjaSoulClans={[]}

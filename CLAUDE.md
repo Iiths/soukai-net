@@ -191,6 +191,27 @@ wiki_crawler.py を読まずに済むよう要点をまとめる。
 
 ---
 
+## 10. FilterCriteria スキーマ（詳細検索）
+
+`src/usecases/FilterNinjaUseCase.ts` の `FilterCriteria` 型が検索条件の定義元。
+
+| フィールド | 型 | 説明 |
+|---|---|---|
+| `arc` | `string` | 登場部（セレクトボックス） |
+| `season` | `number` | 登場シーズン（第4部以降） |
+| `episodeTitle` | `string` | エピソードタイトル（部分一致） |
+| `ninjaSoulGrade` | `NinjaSoulGrade` | ソウル等級（セレクトボックス） |
+| `ninjaSoulClan` | `string` | ニンジャクラン（セレクトボックス） |
+| `ninjaType` | `NinjaType` | ニンジャタイプ（セレクトボックス） |
+| `organizationName` | `string` | 所属組織（セレクトボックス） |
+| `status` | `'alive'｜'dead'｜'unknown'` | ステータス |
+| `role` | `string` | 役職（部分一致、テキスト入力） |
+| `skill` | `string` | ジツ・カラテなどスキル名（部分一致、テキスト入力） |
+
+※ `ninjaSoulName`（ニンジャソウル名）は issue#12 で削除（1人に1つしか紐づかないため）。
+
+---
+
 ## 8. 実行コマンドリファレンス
 
 ```bash

@@ -10,7 +10,6 @@ export type FilterCriteria = {
   season?: number;
   /** エピソードタイトル（部分一致） */
   episodeTitle?: string;
-  ninjaSoulName?: string;
   /** ニンジャソウルの等級 */
   ninjaSoulGrade?: NinjaSoulGrade;
   /** 所属ニンジャクラン（部分一致） */
@@ -19,6 +18,10 @@ export type FilterCriteria = {
   ninjaType?: NinjaType;
   organizationName?: string;
   status?: 'alive' | 'dead' | 'unknown';
+  /** 役職（部分一致） */
+  role?: string;
+  /** ジツ・カラテなどのスキル（部分一致） */
+  skill?: string;
 };
 
 export class FilterNinjaUseCase {
@@ -70,13 +73,6 @@ export class FilterNinjaUseCase {
         if (!epMatch) return false;
       }
 
-      // ニンジャソウル名フィルター
-      if (criteria.ninjaSoulName) {
-        if (!ninja.ninjaSoul?.name.includes(criteria.ninjaSoulName)) {
-          return false;
-        }
-      }
-
       // ニンジャソウル等級フィルター
       if (criteria.ninjaSoulGrade) {
         if (ninja.ninjaSoul?.grade !== criteria.ninjaSoulGrade) {
@@ -115,6 +111,21 @@ export class FilterNinjaUseCase {
         if (ninja.status !== criteria.status) {
           return false;
         }
+      }
+
+      // 役職フィルター（部分一致）
+      if (criteria.role) {
+        if (!ninja.role?.toLowerCase().includes(criteria.role.toLowerCase())) {
+          return false;
+        }
+      }
+
+      // スキル（ジツ・カラテなど）フィルター（部分一致）
+      if (criteria.skill) {
+        const skillMatch = ninja.skills?.some((s) =>
+          s.toLowerCase().includes(criteria.skill!.toLowerCase())
+        );
+        if (!skillMatch) return false;
       }
 
       return true;

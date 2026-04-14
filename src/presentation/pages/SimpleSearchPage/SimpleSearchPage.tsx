@@ -20,18 +20,20 @@ const P = {
   ARC:           'arc',
   SEASON:        'season',
   EPISODE_TITLE: 'ep',
-  SOUL_NAME:     'soul',
   SOUL_GRADE:    'grade',
   SOUL_CLAN:     'clan',
   NINJA_TYPE:    'type',
   ORG:           'org',
   STATUS:        'status',
+  ROLE:          'role',
+  SKILL:         'skill',
 } as const;
 
 const FILTER_PARAM_KEYS = [
   P.ARC, P.SEASON, P.EPISODE_TITLE,
-  P.SOUL_NAME, P.SOUL_GRADE, P.SOUL_CLAN,
+  P.SOUL_GRADE, P.SOUL_CLAN,
   P.NINJA_TYPE, P.ORG, P.STATUS,
+  P.ROLE, P.SKILL,
 ] as const;
 
 // ----- URL ↔ FilterCriteria 変換 -----
@@ -41,12 +43,13 @@ function paramsToFilterCriteria(sp: URLSearchParams): FilterCriteria {
   const arc    = sp.get(P.ARC);           if (arc)    c.arc           = arc;
   const season = sp.get(P.SEASON);        if (season) c.season        = Number(season);
   const ep     = sp.get(P.EPISODE_TITLE); if (ep)     c.episodeTitle  = ep;
-  const soul   = sp.get(P.SOUL_NAME);     if (soul)   c.ninjaSoulName = soul;
   const grade  = sp.get(P.SOUL_GRADE);    if (grade)  c.ninjaSoulGrade = grade as NinjaSoulGrade;
   const clan   = sp.get(P.SOUL_CLAN);     if (clan)   c.ninjaSoulClan = clan;
   const type   = sp.get(P.NINJA_TYPE);    if (type)   c.ninjaType     = type as NinjaType;
   const org    = sp.get(P.ORG);           if (org)    c.organizationName = org;
   const status = sp.get(P.STATUS);        if (status) c.status        = status as 'alive' | 'dead' | 'unknown';
+  const role   = sp.get(P.ROLE);          if (role)   c.role          = role;
+  const skill  = sp.get(P.SKILL);         if (skill)  c.skill         = skill;
   return c;
 }
 
@@ -55,12 +58,13 @@ function filterCriteriaToEntries(c: FilterCriteria): [string, string][] {
   if (c.arc)                  entries.push([P.ARC,           c.arc]);
   if (c.season !== undefined) entries.push([P.SEASON,        String(c.season)]);
   if (c.episodeTitle)         entries.push([P.EPISODE_TITLE, c.episodeTitle]);
-  if (c.ninjaSoulName)        entries.push([P.SOUL_NAME,     c.ninjaSoulName]);
   if (c.ninjaSoulGrade)       entries.push([P.SOUL_GRADE,    c.ninjaSoulGrade]);
   if (c.ninjaSoulClan)        entries.push([P.SOUL_CLAN,     c.ninjaSoulClan]);
   if (c.ninjaType)            entries.push([P.NINJA_TYPE,    c.ninjaType]);
   if (c.organizationName)     entries.push([P.ORG,           c.organizationName]);
   if (c.status)               entries.push([P.STATUS,        c.status]);
+  if (c.role)                 entries.push([P.ROLE,          c.role]);
+  if (c.skill)                entries.push([P.SKILL,         c.skill]);
   return entries;
 }
 
@@ -103,12 +107,6 @@ export function SimpleSearchPage() {
     allEpisodes.forEach((ep) => { if (ep.season !== undefined) s.add(ep.season); });
     return Array.from(s).sort((a, b) => a - b);
   }, [allEpisodes]);
-
-  const ninjaSouls = useMemo(() => {
-    const s = new Set<string>();
-    allNinjas.forEach((n) => { if (n.ninjaSoul?.name) s.add(n.ninjaSoul.name); });
-    return Array.from(s).sort();
-  }, [allNinjas]);
 
   const ninjaSoulClans = useMemo(() => {
     const s = new Set<string>();
@@ -228,7 +226,6 @@ export function SimpleSearchPage() {
             onChange={handleCriteriaChange}
             arcs={arcs}
             seasons={seasons}
-            ninjaSouls={ninjaSouls}
             ninjaSoulClans={ninjaSoulClans}
             organizations={organizations}
           />

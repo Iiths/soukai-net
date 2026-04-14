@@ -24,7 +24,6 @@ interface FilterPanelProps {
   onChange: (criteria: FilterCriteria) => void;
   arcs: string[];
   seasons: number[];
-  ninjaSouls: string[];
   ninjaSoulClans: string[];
   organizations: string[];
 }
@@ -34,7 +33,6 @@ export function FilterPanel({
   onChange,
   arcs,
   seasons,
-  ninjaSouls,
   ninjaSoulClans,
   organizations,
 }: FilterPanelProps) {
@@ -125,22 +123,6 @@ export function FilterPanel({
         <div className={styles.sectionTitle}>ニンジャソウル</div>
         <div className={styles.filterRow}>
           <div className={styles.filterGroup}>
-            <label className={styles.label}>ニンジャソウル名</label>
-            <select
-              className={styles.select}
-              value={criteria.ninjaSoulName || ''}
-              onChange={(e) => set('ninjaSoulName', e.target.value)}
-            >
-              <option value="">すべて</option>
-              {ninjaSouls.map((soul) => (
-                <option key={soul} value={soul}>
-                  {soul}
-                </option>
-              ))}
-            </select>
-          </div>
-
-          <div className={styles.filterGroup}>
             <label className={styles.label}>ソウル等級</label>
             <select
               className={styles.select}
@@ -210,6 +192,28 @@ export function FilterPanel({
               <option value="dead">死亡</option>
               <option value="unknown">不明</option>
             </select>
+          </div>
+
+          <div className={styles.filterGroup}>
+            <label className={styles.label}>役職</label>
+            <input
+              className={styles.input}
+              type="text"
+              placeholder="役職で検索"
+              value={criteria.role || ''}
+              onChange={(e) => set('role', e.target.value)}
+            />
+          </div>
+
+          <div className={styles.filterGroup}>
+            <label className={styles.label}>ジツ・カラテなど</label>
+            <input
+              className={styles.input}
+              type="text"
+              placeholder="スキル名で検索"
+              value={criteria.skill || ''}
+              onChange={(e) => set('skill', e.target.value)}
+            />
           </div>
         </div>
       </div>
