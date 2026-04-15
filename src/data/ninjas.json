@@ -24415,12 +24415,25 @@
   {
     "id": "773dbf0e",
     "name": "クエスター・メニイ",
-    "organizations": [],
+    "aliases": [],
+    "ninjaType": "リアルニンジャ",
+    "ninjaSoul": {
+      "id": "l25fx74g",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": "恐らくアーチ級ソウル"
+    },
+    "skills": [],
+    "appearance": "襤褸の堆積物と称される装束。フードの中から得体のしれぬ影と、\n銀河の星々めいて輝く無数の光の粒が覗く。多腕。",
+    "description": "クエスター・ナルと対をなすリアルニンジャ。\n洞窟の深淵にいながらUNIXモニタ群で世界中の情報を収集。\n適格者として認めた相手に謎めいたクエストを課す。",
+    "status": "alive",
     "appearances": [
       {
         "id": "8fffe24e"
       }
-    ]
+    ],
+    "organizations": []
   },
   {
     "id": "4e0c35b0",
@@ -24815,10 +24828,27 @@
   {
     "id": "7512bd35",
     "name": "ブラックカイマン",
-    "organizations": [],
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "taf8wfuc",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "appearance": "危険なワニ革スーツ。金チェーンつきの眼鏡。\n首元にゾウラン・ダイ・カイの金バッジ。",
+    "description": "ゾウラン・ダイ・カイの上位ニンジャ。",
+    "status": "alive",
     "appearances": [
       {
         "id": "8fffe24e"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "d3e96eb7"
       }
     ]
   },
@@ -26986,5 +27016,128 @@
       }
     ],
     "organizations": []
+  },
+  {
+    "id": "c7fb32h5",
+    "name": "ブラッグモンガー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "p4y3xs39",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [],
+    "description": "ネザーの地を漂流していたニンジャ。\nジョウゴを主と認め、軍略を授ける。",
+    "status": "alive",
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "suohypic",
+    "name": "フリント",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "ay7dzuqc",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [],
+    "appearance": "鳥面。",
+    "description": "ネザーの地を放浪していたニンジャ。\nジョウゴを主と認め、配下となった。",
+    "status": "alive",
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "e9seuvq8",
+    "name": "セクルード",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "k4bnbbcu",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [],
+    "description": "ネザーの地を漂流していたニンジャ。\nジョウゴの配下となった。ハイク詠みと称される。",
+    "status": "alive",
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "wfjh1l7m",
+    "name": "サダツグ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "fr1tc87l",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [],
+    "appearance": "双刀の刃。",
+    "description": "ネザーの地を漂流していたニンジャ。\nジョウゴの配下。呪われた剣士。",
+    "status": "alive",
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "nxj9zftv",
+    "name": "ミューティレイト ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "0uzr25s2",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [],
+    "appearance": "白いマッシュルームヘア。目が隠れるほど長い前髪。\n黒いメンポ。黒いオーバーサイズのストリートウェア装束。腕に邪悪なエメツタトゥー。",
+    "description": "ゾウラン・ダイ・カイの若いニンジャ。",
+    "status": "alive",
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "d3e96eb7"
+      }
+    ]
   }
 ]
