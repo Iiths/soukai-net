@@ -11875,13 +11875,28 @@
   {
     "id": "a837ca40",
     "name": "デフレクション",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "8a85js1e",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "スリケン"
+    ],
+    "role": "アデプト位階",
+    "description": "ザイバツのニンジャ。マルノウチ抗争参加者。\nスリケン射撃に自信あり。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%83%95%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3",
+    "appearances": [],
     "organizations": [
       {
         "id": "zaibatsu-p2"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "dcd2349e",
@@ -12055,13 +12070,34 @@
   {
     "id": "30285082",
     "name": "パラサイト",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "3k8wj8ct",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ステルス・ジツ",
+      "蟲群の利用"
+    ],
+    "role": "アデプト位階",
+    "appearance": "傷を負うと傷口から小さい虫が溢れる。",
+    "description": "ザイバツのニンジャ。マルノウチ抗争参加者。\nモータルの体内に蟲を仕込み支配下に置く。\nこのニンジャの存在のために、マルノウチ抗争後に市民の処理が必要となった。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%91%E3%83%A9%E3%82%B5%E3%82%A4%E3%83%88",
+    "appearances": [
+      {
+        "id": "3a99f033"
+      }
+    ],
     "organizations": [
       {
         "id": "zaibatsu-p2"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "e43cbb87",
@@ -12911,13 +12947,34 @@
   {
     "id": "5f304551",
     "name": "ミッショネル",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "5eibjkhy",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ジュー・ジツ",
+      "ステルス"
+    ],
+    "role": "アデプト位階",
+    "appearance": "滑らかなボディースーツ装束。\n胸に菱形の目と「罪」「罰」を組み合わせた意匠。",
+    "description": "ザイバツのニンジャ。マルノウチ抗争参加者。\n手足を自在に伸ばすジュー・ジツの使い手。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9F%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8D%E3%83%AB",
+    "appearances": [
+      {
+        "id": "3a99f033"
+      }
+    ],
     "organizations": [
       {
         "id": "zaibatsu-p2"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "490433e7",
@@ -13310,13 +13367,33 @@
   {
     "id": "03d88ca9",
     "name": "レッドブル",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "s1ebgkp8",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ヘンゲヨーカイ・ジツ"
+    ],
+    "role": "アデプト位階",
+    "appearance": "ヘンゲの際に装束を脱ぎ捨てる。",
+    "description": "ザイバツのニンジャ。マルノウチ抗争参加者。\n牛頭の怪物にヘンゲして突撃する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%83%83%E3%83%89%E3%83%96%E3%83%AB",
+    "appearances": [
+      {
+        "id": "3a99f033"
+      }
+    ],
     "organizations": [
       {
         "id": "zaibatsu-p2"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "f99a940e",
