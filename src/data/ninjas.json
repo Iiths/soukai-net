@@ -8839,13 +8839,30 @@
   {
     "id": "3a02fcfe",
     "name": "ガラハッド",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "gbwmfr8o",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "role": "マスター位階",
+    "description": "ザイバツのマスターニンジャ。パーガトリー派閥。\n同期のサイレンより先に昇進したらしい。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%82%A4%E3%83%AC%E3%83%B3%EF%BC%8F%E3%82%AC%E3%83%A9%E3%83%8F%E3%83%83%E3%83%89%EF%BC%8F%E3%83%98%E3%83%B4%E3%82%A3%E3%83%BC%E3%83%A1%E3%82%A4%E3%82%B9%EF%BC%8F%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB%E3%83%81%E3%83%A7%E3%83%B3%EF%BC%8F%E3%82%AF%E3%83%AD%E3%82%A6%E3%83%A9%E3%83%BC",
+    "appearances": [
+      {
+        "id": "rujnq8bg"
+      }
+    ],
     "organizations": [
       {
         "id": "zaibatsu-p2"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "886268cf",
@@ -8948,13 +8965,41 @@
   {
     "id": "1b58e598",
     "name": "ジャバウォック",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "7vf2j3b3",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "ドレイク・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "鉄針",
+      "バイオモーフ",
+      "羽根スリケン"
+    ],
+    "role": "マスター位階",
+    "appearance": "竜めいた角をあしらったフルメンポ。\n極めて戦闘的なシルエット。",
+    "description": "ザイバツのマスターニンジャ。スローハンド派閥。\n禁忌のバイオモーフの力でバイオ翼竜に変身する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B8%E3%83%A3%E3%83%90%E3%82%A6%E3%82%A9%E3%83%83%E3%82%AF",
+    "appearances": [
+      {
+        "id": "rujnq8bg"
+      },
+      {
+        "id": "d05ef453"
+      },
+      {
+        "id": "12ml6hmz"
+      }
+    ],
     "organizations": [
       {
         "id": "zaibatsu-p2"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "2300544a",
@@ -9271,13 +9316,41 @@
   {
     "id": "5f5eeecb",
     "name": "ブルーオーブ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "82tan4op",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "マンタ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "カラテ・バブル",
+      "バイオモーフ",
+      "酸性カラテ・バブル"
+    ],
+    "role": "マスター位階",
+    "appearance": "大柄な体格。不気味なマントと一体化した水色の装束。",
+    "description": "ザイバツのマスターニンジャ。スローハンド派閥。\n禁断のバイオモーフによりエイ人間に変身する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%AB%E3%83%BC%E3%82%AA%E3%83%BC%E3%83%96",
+    "appearances": [
+      {
+        "id": "rujnq8bg"
+      },
+      {
+        "id": "d05ef453"
+      },
+      {
+        "id": "12ml6hmz"
+      }
+    ],
     "organizations": [
       {
         "id": "zaibatsu-p2"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "d2db030a",
@@ -9972,13 +10045,34 @@
   {
     "id": "ba7bd02a",
     "name": "エボニーワーデン",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "t92nk00n",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ボー・カラテ",
+      "ミゾ・ヅキ"
+    ],
+    "role": "アデプト位階",
+    "appearance": "警官風のニンジャ装束。",
+    "description": "ザイバツのニンジャ。\nキョートの守護者を自認。ボーで戦う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%83%9C%E3%83%8B%E3%83%BC%E3%83%AF%E3%83%BC%E3%83%87%E3%83%B3",
+    "appearances": [
+      {
+        "id": "9e965363"
+      }
+    ],
     "organizations": [
       {
         "id": "zaibatsu-p2"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "14c6e983",
@@ -10213,13 +10307,30 @@
   {
     "id": "3c4dcfef",
     "name": "クロウラー",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "zzjsw95q",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "role": "アプレンティス位階",
+    "description": "ザイバツのアプレンティスニンジャ。\nパーガトリー派閥。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%82%A4%E3%83%AC%E3%83%B3%EF%BC%8F%E3%82%AC%E3%83%A9%E3%83%8F%E3%83%83%E3%83%89%EF%BC%8F%E3%83%98%E3%83%B4%E3%82%A3%E3%83%BC%E3%83%A1%E3%82%A4%E3%82%B9%EF%BC%8F%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB%E3%83%81%E3%83%A7%E3%83%B3%EF%BC%8F%E3%82%AF%E3%83%AD%E3%82%A6%E3%83%A9%E3%83%BC",
+    "appearances": [
+      {
+        "id": "rujnq8bg"
+      }
+    ],
     "organizations": [
       {
         "id": "zaibatsu-p2"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "1090c61e",
@@ -10332,13 +10443,30 @@
   {
     "id": "37ac486c",
     "name": "サイレン",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "l8awp3kf",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "role": "アデプト位階",
+    "description": "ザイバツのニンジャ。パーガトリー派閥。\n同期のガラハッドに出世で追い抜かれている。",
+    "status": "dead",
+    "wikiUrl": "http://localhost:5173/ninja/37ac486c/edit",
+    "appearances": [
+      {
+        "id": "rujnq8bg"
+      }
+    ],
     "organizations": [
       {
         "id": "zaibatsu-p2"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "3c4adc35",
@@ -10726,13 +10854,34 @@
   {
     "id": "f1fa60dd",
     "name": "ディスタンス",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "8i34i4oi",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "スナイパースリケン"
+    ],
+    "description": "ザイバツのスナイパーニンジャ。シャーテック出身。\n近距離でもスリケンは放てるが、\n彼の本領はスナイパースリケンによる遠距離射撃にある。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%A3%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9",
+    "appearances": [
+      {
+        "id": "rujnq8bg"
+      },
+      {
+        "id": "12ml6hmz"
+      }
+    ],
     "organizations": [
       {
         "id": "zaibatsu-p2"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "58e0e3b0",
@@ -11249,13 +11398,32 @@
   {
     "id": "83ec2ffd",
     "name": "ファロス",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "yh3cjgf8",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ヒュプノ・ジツ"
+    ],
+    "role": "アデプト位階",
+    "description": "ザイバツの古参ニンジャ。\nジツでモータルを催眠状態にした。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A1%E3%83%AD%E3%82%B9",
+    "appearances": [
+      {
+        "id": "9e965363"
+      }
+    ],
     "organizations": [
       {
         "id": "zaibatsu-p2"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "4cfeca1c",
@@ -11324,13 +11492,29 @@
   {
     "id": "9a80da02",
     "name": "フォールチョン",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "o3wi1b60",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "description": "ザイバツのニンジャ。パーガトリー派閥。\nニンジャネーム的にファルシオンを振るうのだろうか。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%82%A4%E3%83%AC%E3%83%B3%EF%BC%8F%E3%82%AC%E3%83%A9%E3%83%8F%E3%83%83%E3%83%89%EF%BC%8F%E3%83%98%E3%83%B4%E3%82%A3%E3%83%BC%E3%83%A1%E3%82%A4%E3%82%B9%EF%BC%8F%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB%E3%83%81%E3%83%A7%E3%83%B3%EF%BC%8F%E3%82%AF%E3%83%AD%E3%82%A6%E3%83%A9%E3%83%BC",
+    "appearances": [
+      {
+        "id": "rujnq8bg"
+      }
+    ],
     "organizations": [
       {
         "id": "zaibatsu-p2"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "0dc13865",
@@ -11497,13 +11681,31 @@
   {
     "id": "daa294c0",
     "name": "フロッガー",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "h3gu38c6",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "role": "アデプト位階",
+    "appearance": "メンポと頭巾を身に付けている。",
+    "description": "ザイバツのニンジャ。\n違法サーバ施設などの管理を任されている。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%83%AD%E3%83%83%E3%82%AC%E3%83%BC",
+    "appearances": [
+      {
+        "id": "rujnq8bg"
+      }
+    ],
     "organizations": [
       {
         "id": "zaibatsu-p2"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "538d59be",
@@ -11546,13 +11748,33 @@
   {
     "id": "6ef7217a",
     "name": "ヘヴィーメイス",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "jucd61q6",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "メイス"
+    ],
+    "role": "アデプト位階",
+    "appearance": "メイスが武器。",
+    "description": "ザイバツのニンジャ。パーガトリー派閥。\nその名の通り重いメイスを振るう。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%82%A4%E3%83%AC%E3%83%B3%EF%BC%8F%E3%82%AC%E3%83%A9%E3%83%8F%E3%83%83%E3%83%89%EF%BC%8F%E3%83%98%E3%83%B4%E3%82%A3%E3%83%BC%E3%83%A1%E3%82%A4%E3%82%B9%EF%BC%8F%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB%E3%83%81%E3%83%A7%E3%83%B3%EF%BC%8F%E3%82%AF%E3%83%AD%E3%82%A6%E3%83%A9%E3%83%BC",
+    "appearances": [
+      {
+        "id": "rujnq8bg"
+      }
+    ],
     "organizations": [
       {
         "id": "zaibatsu-p2"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "e5653428",
@@ -11617,7 +11839,40 @@
   {
     "id": "2a41b3c2",
     "name": "ボロゴーヴ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "udvzjec0",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "首狩りナイフ"
+    ],
+    "role": "アデプト位階",
+    "appearance": "メンポ。",
+    "description": "ザイバツのニンジャ。パーガトリーの伝令。\n第4部現在も司令官として左将軍に仕えている様子。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9C%E3%83%AD%E3%82%B4%E3%83%BC%E3%83%B4",
+    "appearances": [
+      {
+        "id": "rujnq8bg"
+      },
+      {
+        "id": "6e95e58d"
+      },
+      {
+        "id": "vyhgnuh0"
+      },
+      {
+        "id": "8r8ibb8m"
+      },
+      {
+        "id": "6dcsfo7u"
+      }
+    ],
     "organizations": [
       {
         "id": "zaibatsu-p2"
@@ -11625,9 +11880,7 @@
       {
         "id": "zaibatsu-p3p4"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9C%E3%83%AD%E3%82%B4%E3%83%BC%E3%83%B4"
+    ]
   },
   {
     "id": "82ec5fbe",
@@ -12078,17 +12331,29 @@
   {
     "id": "b990946e",
     "name": "ヴァンキッシュ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "organizations": [
+    "ninjaSoul": {
+      "id": "p0xrhfxy",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "カタナ",
+      "サブマシンガン"
+    ],
+    "appearance": "弾薬ベルトを巻いたニンジャ装束。バラクラバ。",
+    "description": "武装集団「ハヤイ・ツカイテ団」の首領を務めるニンジャ。\nドイツ系移民。ザイバツの指示で動いていた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%AD%E3%83%83%E3%82%B7%E3%83%A5",
+    "appearances": [
       {
-        "id": "zaibatsu-p2"
-      },
-      {
-        "id": "1454a3ff"
+        "id": "rujnq8bg"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%AD%E3%83%83%E3%82%B7%E3%83%A5"
+    "organizations": []
   },
   {
     "id": "fa436592",
