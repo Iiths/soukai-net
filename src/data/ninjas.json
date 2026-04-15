@@ -8522,24 +8522,85 @@
   {
     "id": "bfd1c9e1",
     "name": "ヴィジランス",
+    "realName": "クズハ・セイメイイン",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "hllggwsk",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": "高位のソウルではない"
+    },
+    "skills": [
+      "エコノミック・カラテ"
+    ],
+    "role": "グランドマスター位階",
+    "appearance": "眼鏡。スーツ。サラリマンめいた風体。\n腰のUNIXベルトからホログラフィ・キーボードが展開。身長174㎝。",
+    "description": "ザイバツ・グランドマスターの一人。\n圧倒的なタイプ速度、そしてマルチタスクスキルを持つ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%B4%E3%82%A3%E3%82%B8%E3%83%A9%E3%83%B3%E3%82%B9",
+    "appearances": [
+      {
+        "id": "t4m7hei5"
+      },
+      {
+        "id": "9e965363"
+      },
+      {
+        "id": "12ml6hmz"
+      }
+    ],
     "organizations": [
       {
         "id": "zaibatsu-p2"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "8cd26fa6",
     "name": "ケイビイン",
+    "realName": "エンケイ・ゴウガドウ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "jqdsgp7b",
+      "name": "オダ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "アスラ・カラテ",
+      "カゲムシャ・ジツ"
+    ],
+    "role": "グランドマスター位階",
+    "appearance": "暗青紫色のニンジャ装束。背中に二本のニンジャソード。身長187㎝。",
+    "description": "ザイバツ・グランドマスターの一人。キョート城の庭師。\nカタナだけでなく巨大ブッダ像をもネンリキで操る。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B1%E3%82%A4%E3%83%93%E3%82%A4%E3%83%B3",
+    "appearances": [
+      {
+        "id": "js9ejlo6"
+      },
+      {
+        "id": "9a9c26f3"
+      },
+      {
+        "id": "oer10ykn"
+      },
+      {
+        "id": "t4m7hei5"
+      },
+      {
+        "id": "12ml6hmz"
+      }
+    ],
     "organizations": [
       {
         "id": "zaibatsu-p2"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "3c04da97",
@@ -8591,13 +8652,55 @@
   {
     "id": "00bc0368",
     "name": "スローハンド",
+    "realName": "ニト・タカシゲ・コウコウド",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "0qv5thyl",
+      "name": "イダテン・ニンジャ",
+      "grade": "アーチ級",
+      "origin": ""
+    },
+    "skills": [
+      "ヘイスト・ジツ",
+      "スリケン"
+    ],
+    "role": "グランドマスター位階",
+    "appearance": "暗銀色のニンジャ装束。目の周りに熟年者めいた皺。身長167㎝。",
+    "description": "ザイバツ・グランドマスターの一人。\nヘイスト・ジツによる異常加速を行うが、代償に老化してしまう。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%AD%E3%83%BC%E3%83%8F%E3%83%B3%E3%83%89",
+    "appearances": [
+      {
+        "id": "7orkjubb"
+      },
+      {
+        "id": "9910422e"
+      },
+      {
+        "id": "9a9c26f3"
+      },
+      {
+        "id": "rujnq8bg"
+      },
+      {
+        "id": "d05ef453"
+      },
+      {
+        "id": "t4m7hei5"
+      },
+      {
+        "id": "gb8b6euf"
+      },
+      {
+        "id": "12ml6hmz"
+      }
+    ],
     "organizations": [
       {
         "id": "zaibatsu-p2"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "441c5a9d",
