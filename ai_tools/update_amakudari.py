@@ -367,7 +367,7 @@ def add_org(ninja: dict, org: dict):
     if ninja.get("organizations") is None:
         ninja["organizations"] = []
     if not has_org(ninja, org["id"]):
-        ninja["organizations"].append({"id": org["id"], "name": org["name"]})
+        ninja["organizations"].append({"id": org["id"]})
 
 
 def build_name_index(ninjas: list) -> dict:
@@ -399,7 +399,7 @@ def process(members: list, org: dict, ninjas: list, index: dict):
             new_ninja: dict = {
                 "id": make_id(name),
                 "name": name,
-                "organizations": [{"id": org["id"], "name": org["name"]}],
+                "organizations": [{"id": org["id"]}],
                 "appearances": [],
             }
             if aliases:

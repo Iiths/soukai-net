@@ -18,9 +18,6 @@
         "id": "qdiy2dh4"
       },
       {
-        "id": "c7ca589e"
-      },
-      {
         "id": "a91ea54d"
       }
     ],
@@ -448,9 +445,6 @@
       },
       {
         "id": "9fd6aaf4"
-      },
-      {
-        "id": "c7ca589e"
       }
     ],
     "appearances": [],
@@ -778,9 +772,6 @@
       },
       {
         "id": "4f623b6b"
-      },
-      {
-        "id": "003bbb14"
       }
     ],
     "appearances": [],
@@ -1341,9 +1332,6 @@
       },
       {
         "id": "a91ea54d"
-      },
-      {
-        "id": "0b6f1eb5"
       }
     ],
     "appearances": [],
@@ -1568,7 +1556,7 @@
     "ninjaType": "ニンジャソウル憑依者",
     "organizations": [
       {
-        "id": "0969a1d4"
+        "id": "f35c5c1d"
       }
     ],
     "appearances": [],
@@ -1582,7 +1570,7 @@
     "ninjaType": "ニンジャソウル憑依者",
     "organizations": [
       {
-        "id": "0969a1d4"
+        "id": "f35c5c1d"
       },
       {
         "id": "3d06734e"
@@ -2261,12 +2249,6 @@
     "ninjaType": "非ニンジャ",
     "organizations": [
       {
-        "id": "c76542d4"
-      },
-      {
-        "id": "0b6f1eb5"
-      },
-      {
         "id": "a6ae08ba"
       }
     ],
@@ -2279,9 +2261,6 @@
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
     "organizations": [
-      {
-        "id": "c76542d4"
-      },
       {
         "id": "a6ae08ba"
       }
@@ -2296,9 +2275,6 @@
     "aliases": [],
     "organizations": [
       {
-        "id": "c76542d4"
-      },
-      {
         "id": "a6ae08ba"
       }
     ],
@@ -2311,9 +2287,6 @@
     "name": "イスハーク・ミザワ",
     "aliases": [],
     "organizations": [
-      {
-        "id": "c76542d4"
-      },
       {
         "id": "a6ae08ba"
       }
@@ -2328,13 +2301,10 @@
     "aliases": [],
     "organizations": [
       {
-        "id": "c76542d4"
+        "id": "a6ae08ba"
       },
       {
         "id": "227508fb"
-      },
-      {
-        "id": "a6ae08ba"
       }
     ],
     "appearances": [],
@@ -2348,13 +2318,10 @@
     "ninjaType": "ニンジャソウル憑依者",
     "organizations": [
       {
-        "id": "c76542d4"
+        "id": "a6ae08ba"
       },
       {
         "id": "227508fb"
-      },
-      {
-        "id": "a6ae08ba"
       }
     ],
     "appearances": [],
@@ -2369,13 +2336,10 @@
     ],
     "organizations": [
       {
-        "id": "c76542d4"
+        "id": "a6ae08ba"
       },
       {
         "id": "227508fb"
-      },
-      {
-        "id": "a6ae08ba"
       }
     ],
     "appearances": [],
@@ -2390,13 +2354,10 @@
     ],
     "organizations": [
       {
-        "id": "c76542d4"
+        "id": "a6ae08ba"
       },
       {
         "id": "227508fb"
-      },
-      {
-        "id": "a6ae08ba"
       }
     ],
     "appearances": [],
@@ -2410,13 +2371,10 @@
     "ninjaType": "ニンジャソウル憑依者",
     "organizations": [
       {
-        "id": "c76542d4"
+        "id": "a6ae08ba"
       },
       {
         "id": "227508fb"
-      },
-      {
-        "id": "a6ae08ba"
       }
     ],
     "appearances": [],
@@ -2432,13 +2390,10 @@
     "ninjaType": "ニンジャソウル憑依者",
     "organizations": [
       {
-        "id": "c76542d4"
+        "id": "a6ae08ba"
       },
       {
         "id": "227508fb"
-      },
-      {
-        "id": "a6ae08ba"
       }
     ],
     "appearances": [],
@@ -2454,13 +2409,10 @@
     "ninjaType": "ニンジャソウル憑依者",
     "organizations": [
       {
-        "id": "c76542d4"
+        "id": "a6ae08ba"
       },
       {
         "id": "227508fb"
-      },
-      {
-        "id": "a6ae08ba"
       }
     ],
     "appearances": [],
@@ -2476,13 +2428,10 @@
     "ninjaType": "ニンジャソウル憑依者",
     "organizations": [
       {
-        "id": "c76542d4"
+        "id": "a6ae08ba"
       },
       {
         "id": "227508fb"
-      },
-      {
-        "id": "a6ae08ba"
       }
     ],
     "appearances": [],
@@ -2495,13 +2444,10 @@
     "aliases": [],
     "organizations": [
       {
-        "id": "c76542d4"
+        "id": "a6ae08ba"
       },
       {
         "id": "227508fb"
-      },
-      {
-        "id": "a6ae08ba"
       }
     ],
     "appearances": [],
@@ -2515,13 +2461,10 @@
     "ninjaType": "ニンジャソウル憑依者",
     "organizations": [
       {
-        "id": "c76542d4"
+        "id": "a6ae08ba"
       },
       {
         "id": "227508fb"
-      },
-      {
-        "id": "a6ae08ba"
       }
     ],
     "appearances": [],
@@ -2534,13 +2477,10 @@
     "aliases": [],
     "organizations": [
       {
-        "id": "c76542d4"
+        "id": "a6ae08ba"
       },
       {
         "id": "227508fb"
-      },
-      {
-        "id": "a6ae08ba"
       }
     ],
     "appearances": [],
@@ -2553,13 +2493,10 @@
     "aliases": [],
     "organizations": [
       {
-        "id": "c76542d4"
+        "id": "a6ae08ba"
       },
       {
         "id": "227508fb"
-      },
-      {
-        "id": "a6ae08ba"
       }
     ],
     "appearances": [],
@@ -2573,13 +2510,10 @@
     "ninjaType": "ニンジャソウル憑依者",
     "organizations": [
       {
-        "id": "c76542d4"
+        "id": "a6ae08ba"
       },
       {
         "id": "227508fb"
-      },
-      {
-        "id": "a6ae08ba"
       }
     ],
     "appearances": [],
@@ -2592,9 +2526,6 @@
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
     "organizations": [
-      {
-        "id": "c76542d4"
-      },
       {
         "id": "a6ae08ba"
       }
@@ -2609,13 +2540,10 @@
     "aliases": [],
     "organizations": [
       {
-        "id": "c76542d4"
+        "id": "a6ae08ba"
       },
       {
         "id": "227508fb"
-      },
-      {
-        "id": "a6ae08ba"
       }
     ],
     "appearances": [],
@@ -2628,9 +2556,6 @@
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
     "organizations": [
-      {
-        "id": "c76542d4"
-      },
       {
         "id": "a6ae08ba"
       }
@@ -2820,9 +2745,6 @@
       },
       {
         "id": "e5bcd27c"
-      },
-      {
-        "id": "ddbd300c"
       }
     ],
     "appearances": [
@@ -2903,7 +2825,7 @@
         "id": "6a1597d1"
       },
       {
-        "id": "ddbd300c"
+        "id": "e5bcd27c"
       }
     ],
     "appearances": [],
@@ -2934,7 +2856,7 @@
         "id": "6a1597d1"
       },
       {
-        "id": "ddbd300c"
+        "id": "e5bcd27c"
       }
     ],
     "appearances": [],
@@ -2951,7 +2873,7 @@
         "id": "6a1597d1"
       },
       {
-        "id": "ddbd300c"
+        "id": "e5bcd27c"
       }
     ],
     "appearances": [],
@@ -4039,11 +3961,7 @@
       "カワダ・イチロク"
     ],
     "ninjaType": "非ニンジャ",
-    "organizations": [
-      {
-        "id": "fc66412a"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%83%AF%E3%83%80%E3%83%BB%E3%82%A4%E3%83%81%E3%83%AD%E3%82%AF%EF%BC%8F%E3%82%AB%E3%83%AF%E3%83%80%E3%83%BB%E3%83%8A%E3%82%B4%E3%83%A4"
   },
@@ -4054,11 +3972,7 @@
       "カワダ・イチロク"
     ],
     "ninjaType": "非ニンジャ",
-    "organizations": [
-      {
-        "id": "fc66412a"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%83%AF%E3%83%80%E3%83%BB%E3%82%A4%E3%83%81%E3%83%AD%E3%82%AF%EF%BC%8F%E3%82%AB%E3%83%AF%E3%83%80%E3%83%BB%E3%83%8A%E3%82%B4%E3%83%A4"
   },
@@ -4224,11 +4138,7 @@
     "aliases": [
       "ジャケタ"
     ],
-    "organizations": [
-      {
-        "id": "81f57b78"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "status": "alive",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AA%E3%83%A5%E3%82%A6%E3%83%A2%E3%83%B3%E3%82%B8%EF%BC%8F%E3%82%B8%E3%83%A3%E3%82%B1%E3%82%BF#jaketa"
@@ -4239,11 +4149,7 @@
     "aliases": [
       "ジャケタ"
     ],
-    "organizations": [
-      {
-        "id": "81f57b78"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "status": "alive",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AA%E3%83%A5%E3%82%A6%E3%83%A2%E3%83%B3%E3%82%B8%EF%BC%8F%E3%82%B8%E3%83%A3%E3%82%B1%E3%82%BF#jaketa"
@@ -4252,11 +4158,7 @@
     "id": "17754559199",
     "name": "ゼバ・ザクマ",
     "aliases": [],
-    "organizations": [
-      {
-        "id": "81f57b78"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "status": "alive",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BC%E3%83%90%E3%83%BB%E3%82%B6%E3%82%AF%E3%83%9E"
@@ -4265,11 +4167,7 @@
     "id": "17754559200",
     "name": "トバ・ユウト",
     "aliases": [],
-    "organizations": [
-      {
-        "id": "81f57b78"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "status": "alive",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%88%E3%83%90%E3%83%BB%E3%83%A6%E3%82%A6%E3%83%88"
@@ -4279,11 +4177,7 @@
     "name": "ニューロサージ",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "organizations": [
-      {
-        "id": "81f57b78"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "status": "alive",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%AD%E3%82%B5%E3%83%BC%E3%82%B8"
@@ -4292,11 +4186,7 @@
     "id": "17754559202",
     "name": "スカルヘッド",
     "aliases": [],
-    "organizations": [
-      {
-        "id": "81f57b78"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "status": "alive",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%98%E3%83%83%E3%83%89"
@@ -4306,11 +4196,7 @@
     "name": "ストリングベンド",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "organizations": [
-      {
-        "id": "81f57b78"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "status": "alive",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%88%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%99%E3%83%B3%E3%83%89"
@@ -4320,11 +4206,7 @@
     "name": "コーストウインド",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "organizations": [
-      {
-        "id": "81f57b78"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "status": "alive",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B3%E3%83%BC%E3%82%B9%E3%83%88%E3%82%A6%E3%82%A4%E3%83%B3%E3%83%89"
@@ -4333,11 +4215,7 @@
     "id": "17754559206",
     "name": "トジカタ・ウルフ",
     "aliases": [],
-    "organizations": [
-      {
-        "id": "81f57b78"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "status": "alive",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%88%E3%82%B8%E3%82%AB%E3%82%BF%E3%83%BB%E3%82%A6%E3%83%AB%E3%83%95"
@@ -4346,11 +4224,7 @@
     "id": "17754559207",
     "name": "ブラッドドッグ",
     "aliases": [],
-    "organizations": [
-      {
-        "id": "81f57b78"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "status": "alive",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%83%83%E3%83%89%E3%83%89%E3%83%83%E3%82%B0"
@@ -4359,11 +4233,7 @@
     "id": "17754559208",
     "name": "テンペスター",
     "aliases": [],
-    "organizations": [
-      {
-        "id": "81f57b78"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "status": "dead",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%86%E3%83%B3%E3%83%9A%E3%82%B9%E3%82%BF%E3%83%BC"
@@ -4575,11 +4445,7 @@
     "name": "ウォーペイント",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "organizations": [
-      {
-        "id": "a528fa79"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "status": "alive",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%9A%E3%82%A4%E3%83%B3%E3%83%88"
@@ -4589,11 +4455,7 @@
     "name": "キャプテンジェネラル",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "organizations": [
-      {
-        "id": "a528fa79"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "status": "alive",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AD%E3%83%A3%E3%83%97%E3%83%86%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%A9%E3%83%AB"
@@ -4603,11 +4465,7 @@
     "name": "サイサムライ",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "organizations": [
-      {
-        "id": "a528fa79"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "status": "alive",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%82%A4%E3%82%B5%E3%83%A0%E3%83%A9%E3%82%A4"
@@ -4618,9 +4476,6 @@
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
     "organizations": [
-      {
-        "id": "a528fa79"
-      },
       {
         "id": "a91ea54d"
       }
@@ -4636,9 +4491,6 @@
     "ninjaType": "ニンジャソウル憑依者",
     "organizations": [
       {
-        "id": "a528fa79"
-      },
-      {
         "id": "cd4744be"
       }
     ],
@@ -4652,9 +4504,6 @@
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
     "organizations": [
-      {
-        "id": "a528fa79"
-      },
       {
         "id": "cd4744be"
       }
@@ -4670,11 +4519,7 @@
       "キンキー・コウイチ"
     ],
     "ninjaType": "非ニンジャ",
-    "organizations": [
-      {
-        "id": "a528fa79"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%82%B7%E3%83%AA%E3%83%BB%E3%83%A2%E3%83%8E%E9%81%8B%E5%96%B6%E9%96%A2%E4%BF%82%E8%80%85#e0004f4c"
   },
@@ -4685,11 +4530,7 @@
       "スゴイヘッド"
     ],
     "ninjaType": "非ニンジャ",
-    "organizations": [
-      {
-        "id": "a528fa79"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%83%8A%E3%83%96%EF%BC%8F%E3%82%B9%E3%82%B4%E3%82%A4%E3%83%98%E3%83%83%E3%83%89"
   },
@@ -4700,11 +4541,7 @@
       "スゴイヘッド"
     ],
     "ninjaType": "非ニンジャ",
-    "organizations": [
-      {
-        "id": "a528fa79"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%83%8A%E3%83%96%EF%BC%8F%E3%82%B9%E3%82%B4%E3%82%A4%E3%83%98%E3%83%83%E3%83%89"
   },
@@ -4713,11 +4550,7 @@
     "name": "ヒナヤ・イケル・タニグチ",
     "aliases": [],
     "ninjaType": "非ニンジャ",
-    "organizations": [
-      {
-        "id": "a528fa79"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%92%E3%83%8A%E3%83%A4%E3%83%BB%E3%82%A4%E3%82%B1%E3%83%AB%E3%83%BB%E3%82%BF%E3%83%8B%E3%82%B0%E3%83%81"
   },
@@ -4748,11 +4581,7 @@
       "ホバタ・ジュンゴー"
     ],
     "ninjaType": "非ニンジャ",
-    "organizations": [
-      {
-        "id": "a528fa79"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%83%83%E3%83%81%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%B3%E3%82%B4%E3%83%BC"
   },
@@ -4761,11 +4590,7 @@
     "name": "モーティマー・オムラ",
     "aliases": [],
     "ninjaType": "非ニンジャ",
-    "organizations": [
-      {
-        "id": "a528fa79"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%83%9E%E3%83%BC%E3%83%BB%E3%82%AA%E3%83%A0%E3%83%A9"
   },
@@ -6021,9 +5846,6 @@
     "organizations": [
       {
         "id": "soukaiya-p1"
-      },
-      {
-        "id": "7899449f"
       }
     ],
     "appearances": [
@@ -9817,9 +9639,6 @@
       },
       {
         "id": "cd4744be"
-      },
-      {
-        "id": "0b6f1eb5"
       }
     ],
     "appearances": [],
@@ -11208,9 +11027,6 @@
     "organizations": [
       {
         "id": "zaibatsu-p2"
-      },
-      {
-        "id": "88bb6f17"
       }
     ],
     "appearances": [],
@@ -13010,9 +12826,6 @@
     "organizations": [
       {
         "id": "cd4744be"
-      },
-      {
-        "id": "afda38a5"
       }
     ],
     "appearances": [],
@@ -13144,9 +12957,6 @@
     "organizations": [
       {
         "id": "cd4744be"
-      },
-      {
-        "id": "c7ca589e"
       }
     ],
     "appearances": [],
@@ -15146,9 +14956,6 @@
     "organizations": [
       {
         "id": "cd4744be"
-      },
-      {
-        "id": "81f57b78"
       }
     ],
     "appearances": [],
@@ -16727,12 +16534,6 @@
     "name": "アマクダリ",
     "organizations": [
       {
-        "id": "def6a78e"
-      },
-      {
-        "id": "d31f6e52"
-      },
-      {
         "id": "4f623b6b"
       }
     ],
@@ -18212,9 +18013,6 @@
     "organizations": [
       {
         "id": "83982ced"
-      },
-      {
-        "id": "c7ca589e"
       }
     ],
     "appearances": [],
@@ -18366,55 +18164,35 @@
   {
     "id": "887041",
     "name": "エンプレス",
-    "organizations": [
-      {
-        "id": "81f57b78"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%83%B3%E3%83%97%E3%83%AC%E3%82%B9"
   },
   {
     "id": "7b2983",
     "name": "ジュクレンシャ",
-    "organizations": [
-      {
-        "id": "81f57b78"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B8%E3%83%A5%E3%82%AF%E3%83%AC%E3%83%B3%E3%82%B7%E3%83%A3"
   },
   {
     "id": "941ce6",
     "name": "スレッジハマー",
-    "organizations": [
-      {
-        "id": "81f57b78"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%AC%E3%83%83%E3%82%B8%E3%83%8F%E3%83%9E%E3%83%BC"
   },
   {
     "id": "6467fc",
     "name": "テネイシャス",
-    "organizations": [
-      {
-        "id": "81f57b78"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%86%E3%83%8D%E3%82%A4%E3%82%B7%E3%83%A3%E3%82%B9"
   },
   {
     "id": "9a6bf3",
     "name": "ヘンチマン",
-    "organizations": [
-      {
-        "id": "81f57b78"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%B3%E3%83%81%E3%83%9E%E3%83%B3"
   },
@@ -18562,9 +18340,6 @@
     "organizations": [
       {
         "id": "y8yzi8su"
-      },
-      {
-        "id": "e21e82a0"
       }
     ],
     "appearances": [],
@@ -18664,9 +18439,6 @@
     "organizations": [
       {
         "id": "y8yzi8su"
-      },
-      {
-        "id": "0b6f1eb5"
       }
     ],
     "appearances": [],
@@ -18964,9 +18736,6 @@
     "organizations": [
       {
         "id": "9fd6aaf4"
-      },
-      {
-        "id": "c7ca589e"
       }
     ],
     "appearances": [
@@ -19563,11 +19332,7 @@
   {
     "id": "34e514",
     "name": "エシオ・カタリ",
-    "organizations": [
-      {
-        "id": "53f176a2"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%82%B7%E3%82%AA%E3%83%BB%E3%82%AB%E3%82%BF%E3%83%AA"
   },
@@ -19666,7 +19431,7 @@
     "ninjaType": "非ニンジャ",
     "organizations": [
       {
-        "id": "ddbd300c"
+        "id": "e5bcd27c"
       }
     ],
     "appearances": [
@@ -19836,9 +19601,6 @@
     "organizations": [
       {
         "id": "7bb790d7"
-      },
-      {
-        "id": "def6a78e"
       }
     ],
     "appearances": [],
@@ -19916,9 +19678,6 @@
     "organizations": [
       {
         "id": "70547989"
-      },
-      {
-        "id": "0b6f1eb5"
       }
     ],
     "appearances": [],
@@ -20047,99 +19806,63 @@
   {
     "id": "e35520",
     "name": "モミジ・ヤンガ",
-    "organizations": [
-      {
-        "id": "88bb6f17"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%9F%E3%82%B8%E3%83%BB%E3%83%A4%E3%83%B3%E3%82%AC"
   },
   {
     "id": "668b2e03",
     "name": "フラッシュガン",
-    "organizations": [
-      {
-        "id": "88bb6f17"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%AC%E3%83%B3%EF%BC%8F%E3%82%B5%E3%83%BC%E3%83%99%E3%83%AB%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC"
   },
   {
     "id": "c7b58d0c",
     "name": "サーベルタイガー",
-    "organizations": [
-      {
-        "id": "88bb6f17"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%AC%E3%83%B3%EF%BC%8F%E3%82%B5%E3%83%BC%E3%83%99%E3%83%AB%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC"
   },
   {
     "id": "69215307",
     "name": "ホーンドブシ",
-    "organizations": [
-      {
-        "id": "88bb6f17"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9B%E3%83%BC%E3%83%B3%E3%83%89%E3%83%96%E3%82%B7%EF%BC%8F%E3%83%B4%E3%82%A9%E3%83%AB%E3%83%88%E3%83%9E%E3%83%B3"
   },
   {
     "id": "5d2dc1da",
     "name": "ヴォルトマン",
-    "organizations": [
-      {
-        "id": "88bb6f17"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9B%E3%83%BC%E3%83%B3%E3%83%89%E3%83%96%E3%82%B7%EF%BC%8F%E3%83%B4%E3%82%A9%E3%83%AB%E3%83%88%E3%83%9E%E3%83%B3"
   },
   {
     "id": "217f31",
     "name": "ハンニバル",
-    "organizations": [
-      {
-        "id": "88bb6f17"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%83%B3%E3%83%8B%E3%83%90%E3%83%AB"
   },
   {
     "id": "8399e1",
     "name": "スクランブラー",
-    "organizations": [
-      {
-        "id": "88bb6f17"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%96%E3%83%A9%E3%83%BC"
   },
   {
     "id": "1680a4",
     "name": "ランバージャック",
-    "organizations": [
-      {
-        "id": "88bb6f17"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%83%B3%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF"
   },
   {
     "id": "9d73f3",
     "name": "キルジマ・タカユキ",
-    "organizations": [
-      {
-        "id": "a523c7b3"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AD%E3%83%AB%E3%82%B8%E3%83%9E%E3%83%BB%E3%82%BF%E3%82%AB%E3%83%A6%E3%82%AD"
   },
@@ -20149,33 +19872,21 @@
     "aliases": [
       "コッカトリス"
     ],
-    "organizations": [
-      {
-        "id": "a523c7b3"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B3%E3%83%83%E3%82%AB%E3%83%88%E3%83%AA%E3%82%B9%EF%BC%88%E3%82%B5%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3%E3%82%B9%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%EF%BC%89"
   },
   {
     "id": "ed6397",
     "name": "デスリーパー",
-    "organizations": [
-      {
-        "id": "a523c7b3"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%91%E3%83%BC"
   },
   {
     "id": "02c511",
     "name": "トゥームストーン",
-    "organizations": [
-      {
-        "id": "a523c7b3"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%88%E3%82%A5%E3%83%BC%E3%83%A0%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3"
   },
@@ -20185,11 +19896,7 @@
     "aliases": [
       "ヘルカイト"
     ],
-    "organizations": [
-      {
-        "id": "a523c7b3"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%AB%E3%82%AB%E3%82%A4%E3%83%88%EF%BC%88%E3%82%B5%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3%E3%82%B9%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%EF%BC%89"
   },
@@ -20197,9 +19904,6 @@
     "id": "8156a2",
     "name": "アケチ・ニンジャ",
     "organizations": [
-      {
-        "id": "a523c7b3"
-      },
       {
         "id": "9cf1667c"
       }
@@ -20210,133 +19914,77 @@
   {
     "id": "c78448",
     "name": "カラス・ニンジャ",
-    "organizations": [
-      {
-        "id": "a523c7b3"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%83%A9%E3%82%B9%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
   },
   {
     "id": "0bdd2d",
     "name": "スコルピオ",
-    "organizations": [
-      {
-        "id": "a523c7b3"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%B3%E3%83%AB%E3%83%94%E3%82%AA"
   },
   {
     "id": "e7776e",
     "name": "ジェイディッド",
-    "organizations": [
-      {
-        "id": "97389338"
-      },
-      {
-        "id": "0b6f1eb5"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%87%E3%82%A3%E3%83%83%E3%83%89"
   },
   {
     "id": "8f2b33",
     "name": "スキアヴォーナ",
-    "organizations": [
-      {
-        "id": "97389338"
-      },
-      {
-        "id": "0b6f1eb5"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%AD%E3%82%A2%E3%83%B4%E3%82%A9%E3%83%BC%E3%83%8A"
   },
   {
     "id": "fb0856",
     "name": "セズベス",
-    "organizations": [
-      {
-        "id": "97389338"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BB%E3%82%BA%E3%83%99%E3%82%B9"
   },
   {
     "id": "b96699",
     "name": "マディフィスト",
-    "organizations": [
-      {
-        "id": "97389338"
-      },
-      {
-        "id": "0b6f1eb5"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%83%87%E3%82%A3%E3%83%95%E3%82%A3%E3%82%B9%E3%83%88"
   },
   {
     "id": "6dbabf",
     "name": "レディオラ",
-    "organizations": [
-      {
-        "id": "97389338"
-      },
-      {
-        "id": "0b6f1eb5"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%83%87%E3%82%A3%E3%82%AA%E3%83%A9"
   },
   {
     "id": "7915bf",
     "name": "ダニエル・キャリントン",
-    "organizations": [
-      {
-        "id": "97389338"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%80%E3%83%8B%E3%82%A8%E3%83%AB%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%AA%E3%83%B3%E3%83%88%E3%83%B3"
   },
   {
     "id": "34eb44",
     "name": "ディー",
-    "organizations": [
-      {
-        "id": "97389338"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%A3%E3%83%BC"
   },
   {
     "id": "7fa64a",
     "name": "アベル",
-    "organizations": [
-      {
-        "id": "81f57b78"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%99%E3%83%AB"
   },
   {
     "id": "a35142",
     "name": "ハクイ",
-    "organizations": [
-      {
-        "id": "81f57b78"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%82%AF%E3%82%A4"
   },
@@ -20372,105 +20020,63 @@
   {
     "id": "1a99a2",
     "name": "ドゴジマ・ゼイモン",
-    "organizations": [
-      {
-        "id": "81f57b78"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%89%E3%82%B4%E3%82%B8%E3%83%9E%E3%83%BB%E3%82%BC%E3%82%A4%E3%83%A2%E3%83%B3"
   },
   {
     "id": "b13343",
     "name": "イシイ・ウェイダ",
-    "organizations": [
-      {
-        "id": "81f57b78"
-      },
-      {
-        "id": "c7ca589e"
-      },
-      {
-        "id": "9c4243ea"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%82%B7%E3%82%A4%E3%83%BB%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%80"
   },
   {
     "id": "959aab",
     "name": "ウィンドブラスト",
-    "organizations": [
-      {
-        "id": "81f57b78"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%89%E3%83%96%E3%83%A9%E3%82%B9%E3%83%88"
   },
   {
     "id": "422e16",
     "name": "ハシバ",
-    "organizations": [
-      {
-        "id": "81f57b78"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%82%B7%E3%83%90"
   },
   {
     "id": "ed5101",
     "name": "アベ",
-    "organizations": [
-      {
-        "id": "81f57b78"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%99"
   },
   {
     "id": "cdccf7",
     "name": "モタロウ",
-    "organizations": [
-      {
-        "id": "81f57b78"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%82%BF%E3%83%AD%E3%82%A6"
   },
   {
     "id": "ed290a",
     "name": "ケン",
-    "organizations": [
-      {
-        "id": "81f57b78"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B1%E3%83%B3"
   },
   {
     "id": "9e5ba6",
     "name": "タジバ",
-    "organizations": [
-      {
-        "id": "81f57b78"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%82%B8%E3%83%90"
   },
   {
     "id": "3660db",
     "name": "アザワ",
-    "organizations": [
-      {
-        "id": "81f57b78"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%B6%E3%83%AF"
   },
@@ -20480,9 +20086,6 @@
     "aliases": [],
     "ninjaType": "非ニンジャ",
     "organizations": [
-      {
-        "id": "81f57b78"
-      },
       {
         "id": "e9a2f554"
       }
@@ -20515,33 +20118,21 @@
   {
     "id": "270122",
     "name": "ヤマモト",
-    "organizations": [
-      {
-        "id": "81f57b78"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A4%E3%83%9E%E3%83%A2%E3%83%88"
   },
   {
     "id": "c6680e",
     "name": "デグチ",
-    "organizations": [
-      {
-        "id": "81f57b78"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B0%E3%83%81"
   },
   {
     "id": "cecd60",
     "name": "キノ",
-    "organizations": [
-      {
-        "id": "81f57b78"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AD%E3%83%8E"
   },
@@ -20559,11 +20150,7 @@
   {
     "id": "099ea5",
     "name": "サキハシ・ヒロ",
-    "organizations": [
-      {
-        "id": "afda38a5"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%82%AD%E3%83%8F%E3%82%B7%E3%83%BB%E3%83%92%E3%83%AD"
   },
@@ -20669,47 +20256,28 @@
   {
     "id": "20ac24",
     "name": "カブセ・ソウヤマ",
-    "organizations": [
-      {
-        "id": "e535a77f"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%83%96%E3%82%BB%E3%83%BB%E3%82%BD%E3%82%A6%E3%83%A4%E3%83%9E"
   },
   {
     "id": "bd9c29",
     "name": "イシカワ",
-    "organizations": [
-      {
-        "id": "e535a77f"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%82%B7%E3%82%AB%E3%83%AF"
   },
   {
     "id": "a4aa42",
     "name": "サイモンジ・ヤナギダ",
-    "organizations": [
-      {
-        "id": "e535a77f"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%82%A4%E3%83%A2%E3%83%B3%E3%82%B8%E3%83%BB%E3%83%A4%E3%83%8A%E3%82%AE%E3%83%80"
   },
   {
     "id": "b86b1f",
     "name": "シゲオ",
-    "organizations": [
-      {
-        "id": "e535a77f"
-      },
-      {
-        "id": "9c4243ea"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%82%B2%E3%82%AA"
   },
@@ -20735,11 +20303,7 @@
   {
     "id": "cbca72",
     "name": "ラッキー・ジェイク",
-    "organizations": [
-      {
-        "id": "e535a77f"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%83%83%E3%82%AD%E3%83%BC%E3%83%BB%E3%82%B8%E3%82%A7%E3%82%A4%E3%82%AF"
   },
@@ -20779,99 +20343,63 @@
   {
     "id": "a635ce",
     "name": "ダトウ",
-    "organizations": [
-      {
-        "id": "d1b72500"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%80%E3%83%88%E3%82%A6"
   },
   {
     "id": "956154",
     "name": "ハタケヤマ",
-    "organizations": [
-      {
-        "id": "d1b72500"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%82%BF%E3%82%B1%E3%83%A4%E3%83%9E"
   },
   {
     "id": "5257bf",
     "name": "イーサン・コナーズ",
-    "organizations": [
-      {
-        "id": "97389338"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%83%BC%E3%82%B5%E3%83%B3%E3%83%BB%E3%82%B3%E3%83%8A%E3%83%BC%E3%82%BA"
   },
   {
     "id": "c4478e",
     "name": "マシュー・テイラー",
-    "organizations": [
-      {
-        "id": "97389338"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%BB%E3%83%86%E3%82%A4%E3%83%A9%E3%83%BC"
   },
   {
     "id": "c53243",
     "name": "コウボウ",
-    "organizations": [
-      {
-        "id": "c7ca589e"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B3%E3%82%A6%E3%83%9C%E3%82%A6"
   },
   {
     "id": "059104",
     "name": "ゼウス・ニンジャ",
-    "organizations": [
-      {
-        "id": "c7ca589e"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BC%E3%82%A6%E3%82%B9%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
   },
   {
     "id": "353957",
     "name": "ヤサキ",
-    "organizations": [
-      {
-        "id": "c7ca589e"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A4%E3%82%B5%E3%82%AD"
   },
   {
     "id": "93b06f",
     "name": "アヴァリス",
-    "organizations": [
-      {
-        "id": "0b6f1eb5"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%B4%E3%82%A1%E3%83%AA%E3%82%B9"
   },
   {
     "id": "f741d5",
     "name": "サツガイ",
-    "organizations": [
-      {
-        "id": "0b6f1eb5"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%84%E3%82%AC%E3%82%A4"
   },
@@ -20879,9 +20407,6 @@
     "id": "9b2cda",
     "name": "デス・ライユー",
     "organizations": [
-      {
-        "id": "0b6f1eb5"
-      },
       {
         "id": "728df8e9"
       }
@@ -20893,9 +20418,6 @@
     "id": "a2e936",
     "name": "ブギーマン",
     "organizations": [
-      {
-        "id": "0b6f1eb5"
-      },
       {
         "id": "745e0c92"
       }
@@ -20989,22 +20511,14 @@
   {
     "id": "c15b4e",
     "name": "ヴェイル",
-    "organizations": [
-      {
-        "id": "0b6f1eb5"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%B4%E3%82%A7%E3%82%A4%E3%83%AB"
   },
   {
     "id": "dfa39e",
     "name": "アラシ・ニンジャ",
-    "organizations": [
-      {
-        "id": "0b6f1eb5"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%A9%E3%82%B7%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
   },
@@ -21041,11 +20555,7 @@
       "clan": "ソガ・ニンジャクラン",
       "origin": ""
     },
-    "organizations": [
-      {
-        "id": "0b6f1eb5"
-      }
-    ],
+    "organizations": [],
     "appearances": [
       {
         "id": "q0zjg8rk"
@@ -21071,9 +20581,6 @@
     "name": "インヴィンシブル",
     "organizations": [
       {
-        "id": "0b6f1eb5"
-      },
-      {
         "id": "a6ae08ba"
       }
     ],
@@ -21083,33 +20590,21 @@
   {
     "id": "006f26",
     "name": "ダゴン・ニンジャ",
-    "organizations": [
-      {
-        "id": "0b6f1eb5"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%80%E3%82%B4%E3%83%B3%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
   },
   {
     "id": "296b76",
     "name": "ア・ニンジャ",
-    "organizations": [
-      {
-        "id": "0b6f1eb5"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
   },
   {
     "id": "54fdf6",
     "name": "ウン・ニンジャ",
-    "organizations": [
-      {
-        "id": "0b6f1eb5"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%83%B3%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
   },
@@ -21125,11 +20620,7 @@
       "clan": "ハトリ・ニンジャクラン",
       "origin": ""
     },
-    "organizations": [
-      {
-        "id": "0b6f1eb5"
-      }
-    ],
+    "organizations": [],
     "appearances": [
       {
         "id": "q0zjg8rk"
@@ -21149,22 +20640,14 @@
   {
     "id": "c53c187a",
     "name": "タモ・イシイ",
-    "organizations": [
-      {
-        "id": "caea4964"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%83%A2%E3%83%BB%E3%82%A4%E3%82%B7%E3%82%A4%EF%BC%8F%E3%82%BF%E3%83%A2%E3%83%BB%E3%83%92%E3%83%AD%E3%82%B7"
   },
   {
     "id": "b38f33b8",
     "name": "タモ・ヒロシ",
-    "organizations": [
-      {
-        "id": "caea4964"
-      }
-    ],
+    "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%83%A2%E3%83%BB%E3%82%A4%E3%82%B7%E3%82%A4%EF%BC%8F%E3%82%BF%E3%83%A2%E3%83%BB%E3%83%92%E3%83%AD%E3%82%B7"
   },

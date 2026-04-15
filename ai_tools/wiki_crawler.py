@@ -109,8 +109,65 @@ NON_CHAR_URL_SEGMENTS: set[str] = {
 NON_ORG_TITLES = {"地名", "ニンジャクラン一覧", "翻訳チーム", ""}
 
 # マージ時に organizations への追加を禁止する組織名
-# （第N部つき名称が別途存在するため、汎用名での追加は競合を招く）
-BLOCKED_ORG_NAMES = {"ソウカイヤ", "ザイバツ"}
+# - 第N部つき名称が別途存在するため汎用名での追加を禁止するもの
+# - organizations.json に登録しない「非組織」カテゴリ（issue#14で追加）
+BLOCKED_ORG_NAMES: set[str] = {
+    # 部つき組織の汎用名（別途 soukaiya-p1 / zaibatsu-p2 等が正式）
+    "ソウカイヤ", "ザイバツ",
+    # 組織ではないカテゴリ（issue#14 で organizations.json から削除済み）
+    "「スズメバチの黄色」",
+    "「スレイト・オブ・ニンジャ」",
+    "「プロメテウス・アレイ」",
+    "その他",
+    "ウェルシー・トロスシ",
+    "オリジナル・ツイッターアー・アドベンチャー・ゲームブック・シリーズ",
+    "グリズリーハンター",
+    "サムライニンジャスレイヤー",
+    "シャドー・コン参加団体",
+    "シャーテック",
+    "スガモ重犯罪刑務所",
+    "ダイハンジョウ",
+    "ニンジャスレイヤー（コミカライズ版）",
+    "ネオサイタマ市議会",
+    "ピグマリオン・コシモト兄弟カンパニー",
+    "ヤクザ",
+    "リアルニンジャ",
+    "日本政府",
+    "芸能関係者",
+    # 統合元（issue#14 でそれぞれ下記に統合済み）
+    # エジプト（エネアド社）→ エネアド社
+    "エジプト（エネアド社）",
+    # ネオサイタマ市警49課 → ネオサイタマ市警
+    "ネオサイタマ市警49課",
+    # ハデス・ネット（ハデス・ニンジャクラン） → ハデス・ネット
+    "ハデス・ネット（ハデス・ニンジャクラン）",
+    # ボロブドゥール（ムカデ・ニンジャクラン）→ ボロブドゥール（旧名での追加を防止）
+    "ボロブドゥール（ムカデ・ニンジャクラン）",
+}
+
+# マージ時の組織名正規化マップ（旧名 → 正規名。統合元が入力された場合に自動リダイレクト）
+ORG_NORMALIZE_MAP: dict[str, str] = {
+    "エジプト（エネアド社）":             "エネアド社",
+    "ネオサイタマ市警49課":              "ネオサイタマ市警",
+    "ハデス・ネット（ハデス・ニンジャクラン）": "ハデス・ネット",
+    "ボロブドゥール（ムカデ・ニンジャクラン）": "ボロブドゥール",
+}
+
+# organizations.json を起動時に一度だけ読み込んで名前→IDマップを構築
+_ORG_NAME_TO_ID: "dict[str, str] | None" = None
+
+def _load_org_map() -> dict[str, str]:
+    global _ORG_NAME_TO_ID
+    if _ORG_NAME_TO_ID is None:
+        orgs_path = BASE_DIR / "src" / "data" / "organizations.json"
+        try:
+            with open(orgs_path, encoding="utf-8") as f:
+                data = json.load(f)
+            _ORG_NAME_TO_ID = {o["name"]: o["id"] for o in data}
+        except FileNotFoundError:
+            print(f"  ⚠ organizations.json が見つかりません: {orgs_path}")
+            _ORG_NAME_TO_ID = {}
+    return _ORG_NAME_TO_ID
 
 _fetch_count = 0
 
@@ -408,10 +465,6 @@ def make_id(name: str) -> str:
     return uuid.uuid4().hex[:8]
 
 
-def org_id_from_name(org_name: str) -> str:
-    return re.sub(r"[^\w\u3040-\u9fff]", "_", org_name)[:30].strip("_").lower()
-
-
 def build_index(ninjas: list) -> dict:
     idx = {}
     for n in ninjas:
@@ -422,12 +475,27 @@ def build_index(ninjas: list) -> dict:
 
 
 def add_org(ninja: dict, org_name: str):
+    """
+    organizations.json を参照して組織IDを解決し、ninjas の organizations に追加する。
+    - BLOCKED_ORG_NAMES に含まれる → スキップ
+    - ORG_NORMALIZE_MAP で正規名に変換してから処理
+    - organizations.json に存在しない名前 → スキップ（未知の組織は登録しない）
+    - 形式は {"id": "..."} のみ（nameは持たない。organizations.json を参照）
+    """
+    # 正規名に変換
+    org_name = ORG_NORMALIZE_MAP.get(org_name, org_name)
+
     if org_name in BLOCKED_ORG_NAMES:
-        return  # 汎用名での追加を禁止（第N部つき名称が別途存在するため）
-    oid = org_id_from_name(org_name)
+        return  # ブロックリストに含まれる名前は追加禁止
+
+    org_map = _load_org_map()
+    oid = org_map.get(org_name)
+    if not oid:
+        return  # organizations.json に存在しない組織は追加しない
+
     orgs = ninja.setdefault("organizations", [])
-    if not any(o.get("id") == oid or o.get("name") == org_name for o in orgs):
-        orgs.append({"id": oid, "name": org_name})
+    if not any(o.get("id") == oid for o in orgs):
+        orgs.append({"id": oid})
 
 
 def merge_entry(existing: dict, org_name: str, wiki_url: "str | None",
@@ -460,10 +528,15 @@ def merge_entry(existing: dict, org_name: str, wiki_url: "str | None",
 
 
 def create_new_entry(name: str, org_name: str, wiki_url: "str | None", detail: dict) -> dict:
+    # 正規名に変換してから organizations.json でIDを解決
+    canonical_org = ORG_NORMALIZE_MAP.get(org_name, org_name)
+    org_map = _load_org_map()
+    org_id = org_map.get(canonical_org) if canonical_org not in BLOCKED_ORG_NAMES else None
+
     entry: dict = {
         "id":            make_id(name),
         "name":          name,
-        "organizations": [{"id": org_id_from_name(org_name), "name": org_name}],
+        "organizations": [{"id": org_id}] if org_id else [],
         "appearances":   [],
         # role / appearance はWikiページから自動抽出が困難なため手動入力フィールド
         # スクレイピングでは設定しない（null = 未登録扱い）
