@@ -9061,7 +9061,29 @@
   {
     "id": "b10354db",
     "name": "シースラッグ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "vsaqmlv7",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "スライム・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "ゲル化",
+      "クナイ・ダート"
+    ],
+    "role": "マスター位階",
+    "appearance": "青黄マダラ模様のニンジャ装束。",
+    "description": "イヴォーカーの教義に染まったザイバツニンジャ。\n身体をゲル化して敵を包み込む。位階が謎めいている。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%BC%E3%82%B9%E3%83%A9%E3%83%83%E3%82%B0",
+    "appearances": [
+      {
+        "id": "d6eo1dkg"
+      }
+    ],
     "organizations": [
       {
         "id": "zaibatsu-p2"
@@ -9069,9 +9091,7 @@
       {
         "id": "4bba956b"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%BC%E3%82%B9%E3%83%A9%E3%83%83%E3%82%B0"
+    ]
   },
   {
     "id": "1b58e598",
@@ -10767,13 +10787,31 @@
   {
     "id": "891f1b34",
     "name": "ストームビートル",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "aok6jlhf",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "role": "アデプト位階",
+    "appearance": "小肥りの体系。",
+    "description": "ザイバツのアデプトニンジャ。\n傘下ヤクザクランのバウンサーをしていたようだ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%88%E3%83%BC%E3%83%A0%E3%83%93%E3%83%BC%E3%83%88%E3%83%AB",
+    "appearances": [
+      {
+        "id": "d6eo1dkg"
+      }
+    ],
     "organizations": [
       {
         "id": "zaibatsu-p2"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "c6d0106e",
@@ -11656,14 +11694,18 @@
       "id": "z0b2h38p",
       "name": "",
       "grade": "等級不明",
-      "clan": "シノビニンジャ・クラン",
+      "clan": "シノビ・ニンジャクラン",
       "origin": ""
     },
-    "organizations": [
-      {
-        "id": "zaibatsu-p2"
-      }
+    "skills": [
+      "光学迷彩フロシキ",
+      "クナイ・ダート",
+      "吹き矢"
     ],
+    "role": "アデプト位階",
+    "appearance": "灰色のニンジャ装束。サイレンサー搭載のサイバーメンポ。",
+    "description": "ザイバツの若手ニンジャ。\nシノビ・ニンジャクランのニンジャで、\n斥侯や偵察、ストーキングを得意とする。",
+    "status": "dead",
     "appearances": [
       {
         "id": "w1fu608s"
@@ -11675,15 +11717,11 @@
         "id": "b2f24cc3"
       }
     ],
-    "skills": [
-      "光学迷彩フロシキ",
-      "クナイ・ダート",
-      "吹き矢"
-    ],
-    "role": "アデプト位階",
-    "appearance": "灰色のニンジャ装束。サイレンサー搭載のサイバーメンポ。",
-    "description": "ザイバツの若手ニンジャ。\nシノビ・ニンジャクランのニンジャで、\n斥侯や偵察、ストーキングを得意とする。",
-    "status": "dead"
+    "organizations": [
+      {
+        "id": "zaibatsu-p2"
+      }
+    ]
   },
   {
     "id": "1ef49a81",
@@ -16632,16 +16670,49 @@
   {
     "id": "77c4c0",
     "name": "アコライト",
+    "realName": "カンツァイ",
+    "aliases": [],
+    "ninjaSoul": {
+      "id": "mk4j92ez",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ボンジャン・カラテ",
+      "ヘブンスルーキャノン",
+      "拒否のハンマー",
+      "ボンジャン・センキュタイ"
+    ],
+    "appearance": "ボンジャン・バトルカフタンをアレンジした白と橙のツートーンのニンジャ装束。\n眉目秀麗。メンポや頭巾はつけない。「バトルクエスト～」以降は隻腕。",
+    "description": "ボンジャン・テンプルのレッサーボンズにニンジャソウルが憑依。\n自分の運命に苦悩しながらもボンジャン・カラテを振るう。",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%B3%E3%83%A9%E3%82%A4%E3%83%88",
+    "appearances": [
+      {
+        "id": "d6eo1dkg"
+      },
+      {
+        "id": "12ml6hmz"
+      },
+      {
+        "id": "t2l0ugzn"
+      },
+      {
+        "id": "8r8ibb8m"
+      },
+      {
+        "id": "2b15f640"
+      },
+      {
+        "id": "aac95faa"
+      }
+    ],
     "organizations": [
       {
         "id": "a91ea54d"
-      },
-      {
-        "id": "e9a2f554"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%B3%E3%83%A9%E3%82%A4%E3%83%88"
+    ]
   },
   {
     "id": "393907",
@@ -17471,6 +17542,51 @@
   {
     "id": "a69131",
     "name": "ファーリーマン",
+    "aliases": [],
+    "ninjaType": "バイオニンジャ",
+    "ninjaSoul": {
+      "id": "jcztkrc7",
+      "name": "",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ボー・ジツ",
+      "クナイ・ダート"
+    ],
+    "appearance": "全身がモップめいた長く白い毛で覆われている。身長200㎝超。",
+    "description": "フサフサの毛で覆われたバイオニンジャ。\nサヴァイヴァー・ドージョーの仲間だったが、\n文明を嫌い、サワタリ・カンパニー成立を機に脱退した。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A1%E3%83%BC%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%B3",
+    "appearances": [
+      {
+        "id": "2a31b6d9"
+      },
+      {
+        "id": "12ml6hmz"
+      },
+      {
+        "id": "8bf115a4"
+      },
+      {
+        "id": "180a24b4"
+      },
+      {
+        "id": "qeenefau"
+      },
+      {
+        "id": "2v6e48gz"
+      },
+      {
+        "id": "8r8ibb8m"
+      },
+      {
+        "id": "914a622e"
+      },
+      {
+        "id": "08f2e3c4"
+      }
+    ],
     "organizations": [
       {
         "id": "8e0630be"
@@ -17478,9 +17594,7 @@
       {
         "id": "y8yzi8su"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A1%E3%83%BC%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%B3"
+    ]
   },
   {
     "id": "7df4a6",
@@ -20098,24 +20212,61 @@
   {
     "id": "3ef8ad53",
     "name": "スコードリーダー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "3jezsizx",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "カーボンソリッド・ネット",
+      "スリケン"
+    ],
+    "appearance": "ベレー帽。メンポ。",
+    "description": "リロン・ケミカル社が派遣したエージェントニンジャ。\nスリケン使用者。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%EF%BC%8F%E3%83%95%E3%83%AD%E3%82%B9%E3%83%88%E3%82%AE%E3%82%AC%E3%83%BC%E3%82%B9",
+    "appearances": [
+      {
+        "id": "2a31b6d9"
+      }
+    ],
     "organizations": [
       {
         "id": "1ede41ee"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%EF%BC%8F%E3%83%95%E3%83%AD%E3%82%B9%E3%83%88%E3%82%AE%E3%82%AC%E3%83%BC%E3%82%B9"
+    ]
   },
   {
     "id": "0730ff4e",
     "name": "フロストギガース",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "kfm5lgxg",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "appearance": "白いニンジャ装束。バイオパンダと見紛う体格。",
+    "description": "リロン・ケミカル社のエージェントニンジャ。\n戦闘時には巨体を更にパンプアップする。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%EF%BC%8F%E3%83%95%E3%83%AD%E3%82%B9%E3%83%88%E3%82%AE%E3%82%AC%E3%83%BC%E3%82%B9",
+    "appearances": [
+      {
+        "id": "2a31b6d9"
+      }
+    ],
     "organizations": [
       {
         "id": "1ede41ee"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%EF%BC%8F%E3%83%95%E3%83%AD%E3%82%B9%E3%83%88%E3%82%AE%E3%82%AC%E3%83%BC%E3%82%B9"
+    ]
   },
   {
     "id": "9dd834",
@@ -20225,35 +20376,91 @@
   {
     "id": "e72fcb",
     "name": "ファイアブレス",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "44euk2fu",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "火吹き型カトン・ジツ",
+      "TNT樽攻撃"
+    ],
+    "appearance": "黒革のニンジャ装束を着用。\n顔だけが不自然に膨らんだ痩せた長身。\nバーナー機構付きメンポ。",
+    "description": "神聖アンタイブッダ帝国のニンジャ。\nその名の通りメンポから炎を吹き出す。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%83%96%E3%83%AC%E3%82%B9",
+    "appearances": [
+      {
+        "id": "d6eo1dkg"
+      }
+    ],
     "organizations": [
       {
         "id": "4bba956b"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%83%96%E3%83%AC%E3%82%B9"
+    ]
   },
   {
     "id": "163133",
     "name": "マストドン",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "7xeazel2",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "appearance": "身長3メートルの巨体。\n袴の腰にシメナワ。上半身は裸。顔にニンジャ頭巾。",
+    "description": "神聖アンタイブッダ帝国のニンジャ。\n元スモトリヤクザ。巨体を活かして突進する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3",
+    "appearances": [
+      {
+        "id": "d6eo1dkg"
+      }
+    ],
     "organizations": [
       {
         "id": "4bba956b"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3"
+    ]
   },
   {
     "id": "c0be81",
     "name": "マニプル",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "vfmulrpz",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "古代ローマカラテ"
+    ],
+    "appearance": "モヒカン飾りの付いた鉄兜メンポ。裸の上半身に鋲打ちクロスベルト。",
+    "description": "神聖アンタイブッダ帝国のニンジャ。元バウンサー。\n古代ローマカラテの使い手。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%83%8B%E3%83%97%E3%83%AB",
+    "appearances": [
+      {
+        "id": "d6eo1dkg"
+      }
+    ],
     "organizations": [
       {
         "id": "4bba956b"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%83%8B%E3%83%97%E3%83%AB"
+    ]
   },
   {
     "id": "e594e5",
@@ -26679,5 +26886,105 @@
     "description": "ザイバツの占術ニンジャ。脱走を図ったため幽閉中。\nウラナイ・ジツでニンジャスレイヤーの誕生を予言した。",
     "status": "dead",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%A9%E3%82%AF%E3%83%8B%E3%83%83%E3%83%89"
+  },
+  {
+    "id": "mov033xg",
+    "name": "ヘルパトロール",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "kwr4dq8h",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [],
+    "appearance": "マッポに偽装している。",
+    "description": "ザイバツの残党ニンジャ。\nマッポに擬態して当たり屋行為を働いていた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%80%8CNINJA%20SLAYER%20-%20SAN%E3%80%8D#:hl:word=NINJA%20SLAYER",
+    "appearances": [
+      {
+        "id": "06533e2a"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "zaibatsu-p2"
+      }
+    ]
+  },
+  {
+    "id": "g9yg4kdo",
+    "name": "ティンバージャック",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "bi4sulgo",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [],
+    "appearance": "通行人に偽装している。",
+    "description": "ザイバツの残党ニンジャ。\n通行人を偽装して当たり屋行為を働いていた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%80%8CNINJA%20SLAYER%20-%20SAN%E3%80%8D#:hl:word=NINJA%20SLAYER",
+    "appearances": [
+      {
+        "id": "06533e2a"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "zaibatsu-p2"
+      }
+    ]
+  },
+  {
+    "id": "3b1tkl4v",
+    "name": "キャタピラー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "dem0p7wm",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "キャタピラー・ジツ"
+    ],
+    "appearance": "ダークアイアン色のニンジャ装束。\n両腕のガントレットに戦車めいた機構。",
+    "description": "闇ブローカー、ブーンズ洞の護衛を務めていたニンジャ。\n両腕のサイバネ・キャタピラーに自信がある。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AD%E3%83%A3%E3%82%BF%E3%83%94%E3%83%A9%E3%83%BC",
+    "appearances": [
+      {
+        "id": "d6eo1dkg"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "cvgf5uke",
+    "name": "ヴァーミリオン",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "furg3yc1",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "カトン・パンチ"
+    ],
+    "appearance": "紫色のニンジャ装束。",
+    "description": "闇ブローカー、ブーンズ洞の護衛を務めていたニンジャ。\nブレーサーを赤熱させ、名前通り朱色の炎を纏わせる。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%9F%E3%83%AA%E3%82%AA%E3%83%B3",
+    "appearances": [
+      {
+        "id": "d6eo1dkg"
+      }
+    ],
+    "organizations": []
   }
 ]
