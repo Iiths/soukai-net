@@ -1980,7 +1980,57 @@
     "id": "1775455967",
     "name": "ディスカバリー",
     "aliases": [],
-    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaType": "バイオニンジャ",
+    "ninjaSoul": {
+      "id": "moubzuha",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "プロトタイプ・ヨロシ・ジツ",
+      "カポエイラ・カラテ"
+    ],
+    "appearance": "石灰色の地に黒い渦巻模様のニンジャ装束。身長180㎝。\n第4部では白シャツの袖を捲り上げ、渦巻き模様の軍パンツ。",
+    "description": "サブジュゲイターのプロトタイプとしてヨロシサンが生みだしたバイオニンジャ。\n現在はサワタリの右腕としてサワタリ・カンパニーを支えている。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AB%E3%83%90%E3%83%AA%E3%83%BC",
+    "appearances": [
+      {
+        "id": "gb8b6euf"
+      },
+      {
+        "id": "2a31b6d9"
+      },
+      {
+        "id": "12ml6hmz"
+      },
+      {
+        "id": "8bf115a4"
+      },
+      {
+        "id": "180a24b4"
+      },
+      {
+        "id": "qeenefau"
+      },
+      {
+        "id": "2v6e48gz"
+      },
+      {
+        "id": "8r8ibb8m"
+      },
+      {
+        "id": "914a622e"
+      },
+      {
+        "id": "a6a4d687"
+      },
+      {
+        "id": "08f2e3c4"
+      }
+    ],
     "organizations": [
       {
         "id": "0ed3fcb2"
@@ -1991,10 +2041,7 @@
       {
         "id": "y8yzi8su"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AB%E3%83%90%E3%83%AA%E3%83%BC"
+    ]
   },
   {
     "id": "1775455968",
@@ -8677,7 +8724,16 @@
   {
     "id": "8c3a2963",
     "name": "パーガトリー",
+    "realName": "タムラ・ヒシカゲ・シジュウクイン",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "6ipefumz",
+      "name": "イカルガ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "ゴダ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "zaibatsu-p2"
@@ -8686,7 +8742,62 @@
         "id": "zaibatsu-p3p4"
       }
     ],
-    "appearances": [],
+    "appearances": [
+      {
+        "id": "7orkjubb"
+      },
+      {
+        "id": "9a9c26f3"
+      },
+      {
+        "id": "b504b250"
+      },
+      {
+        "id": "tqlc7ayk"
+      },
+      {
+        "id": "nghu0pwd"
+      },
+      {
+        "id": "rujnq8bg"
+      },
+      {
+        "id": "t4m7hei5"
+      },
+      {
+        "id": "12ml6hmz"
+      },
+      {
+        "id": "vrg4755o"
+      },
+      {
+        "id": "vyhgnuh0"
+      },
+      {
+        "id": "8r8ibb8m"
+      },
+      {
+        "id": "his9gvkp"
+      },
+      {
+        "id": "2jvhv6np"
+      },
+      {
+        "id": "6dcsfo7u"
+      }
+    ],
+    "skills": [
+      "暗黒カラテミサイル",
+      "カラテ粒子バリア",
+      "カラテ粒子パンチ",
+      "カラテボール",
+      "カラテ・ストーム",
+      "ダンティアン"
+    ],
+    "role": "グランドマスター位階・左将軍",
+    "appearance": "開口機構付きメンポ。扇子。左手小指ケジメ。\n高貴なニンジャ装束。",
+    "description": "ザイバツ・グランドマスターの一人。左将軍。\n極めて高い血中カラテ再生力を持ち、\n消費が激しい筈のカラテミサイルを様々に応用して放つ。",
+    "status": "alive",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%91%E3%83%BC%E3%82%AC%E3%83%88%E3%83%AA%E3%83%BC"
   },
   {
@@ -11099,6 +11210,16 @@
       "clan": "シノビ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "zaibatsu-p2"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "rujnq8bg"
+      }
+    ],
     "skills": [
       "ステルス・ジツ"
     ],
@@ -11106,17 +11227,7 @@
     "appearance": "腕にUNIXガントレット。装束のどこかにザイバツのエンブレム。",
     "description": "ザイバツのニンジャ。\nステルス・ジツを活かしてデスドレインを監視していた。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8E%E3%83%BC%E3%82%B7%E3%83%BC%E3%82%A2%E3%83%A0",
-    "appearances": [
-      {
-        "id": "rujnq8bg"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "zaibatsu-p2"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8E%E3%83%BC%E3%82%B7%E3%83%BC%E3%82%A2%E3%83%A0"
   },
   {
     "id": "52d008fb",
@@ -19017,13 +19128,38 @@
   {
     "id": "f33000",
     "name": "アサイラム",
+    "aliases": [],
+    "ninjaType": "バイオニンジャ",
+    "ninjaSoul": {
+      "id": "z7oi26dq",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "バイオ・イアイド"
+    ],
+    "appearance": "四本の腕。四本のカタナ。\n瞳は赤く、縦にスリットの入った格子状のメンポ。",
+    "description": "ヨロシサン製薬のバイオニンジャ。\nノトーリアスをベースとしており、更に2本増えた四刀流で戦う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%B5%E3%82%A4%E3%83%A9%E3%83%A0",
+    "appearances": [
+      {
+        "id": "gb8b6euf"
+      },
+      {
+        "id": "3c2cb74c"
+      },
+      {
+        "id": "2v6e48gz"
+      }
+    ],
     "organizations": [
       {
         "id": "y8yzi8su"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%B5%E3%82%A4%E3%83%A9%E3%83%A0"
+    ]
   },
   {
     "id": "bc4e0b90",
@@ -19083,24 +19219,64 @@
   {
     "id": "df0d14",
     "name": "ナーガラージャ",
+    "aliases": [],
+    "ninjaType": "バイオニンジャ",
+    "ninjaSoul": {
+      "id": "y9uksih5",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "牛刀",
+      "大蛇ボディ"
+    ],
+    "appearance": "上半身にニンジャ装束。下半身がバイオ大蛇。\n薄緑色の肌に赤い瞳、巨大な口には鋭い牙。",
+    "description": "ヨロシサン製薬が生みだした半人半蛇のバイオニンジャ。\n蛇行速度、ニンジャ耐久力ともに高く力も強い。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8A%E3%83%BC%E3%82%AC%E3%83%A9%E3%83%BC%E3%82%B8%E3%83%A3",
+    "appearances": [
+      {
+        "id": "gb8b6euf"
+      }
+    ],
     "organizations": [
       {
         "id": "y8yzi8su"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8A%E3%83%BC%E3%82%AC%E3%83%A9%E3%83%BC%E3%82%B8%E3%83%A3"
+    ]
   },
   {
     "id": "3ae519",
     "name": "ボーンアーマー",
+    "aliases": [],
+    "ninjaType": "バイオニンジャ",
+    "ninjaSoul": {
+      "id": "xjbw7xjk",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ボーンマントラップ",
+      "ボーンスリケン"
+    ],
+    "appearance": "7フィート超の巨体。全身を覆う白い外骨格。",
+    "description": "ニンジャソウル憑依者を素体に生みだされたバイオニンジャ。\n再生する外骨格により防御力は高いが、知性が犠牲になっている。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9C%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%BC%E3%83%9E%E3%83%BC",
+    "appearances": [
+      {
+        "id": "gb8b6euf"
+      }
+    ],
     "organizations": [
       {
         "id": "y8yzi8su"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9C%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%BC%E3%83%9E%E3%83%BC"
+    ]
   },
   {
     "id": "61c2a4",
@@ -19171,13 +19347,32 @@
   {
     "id": "dc1a77",
     "name": "ボタニック",
+    "aliases": [],
+    "ninjaType": "バイオニンジャ",
+    "ninjaSoul": {
+      "id": "9bs8o3nv",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "バイオ・ブンシン・ジツ"
+    ],
+    "appearance": "蔦の集合体。生身の顔面に葉脈めいた血管。",
+    "description": "ヨロシサン製薬が生みだしたバイオニンジャ。\n肉体を無数の蔦に変え、広範囲に展開できる。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9C%E3%82%BF%E3%83%8B%E3%83%83%E3%82%AF",
+    "appearances": [
+      {
+        "id": "gb8b6euf"
+      }
+    ],
     "organizations": [
       {
         "id": "y8yzi8su"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9C%E3%82%BF%E3%83%8B%E3%83%83%E3%82%AF"
+    ]
   },
   {
     "id": "622bb3",
