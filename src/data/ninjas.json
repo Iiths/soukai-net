@@ -9545,13 +9545,35 @@
   {
     "id": "03208477",
     "name": "トゥールビヨン",
+    "realName": "ゴゼン・リクトモ・ミョウオド",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "1a90ewwo",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "アイキ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "エスケープメント・ジツ",
+      "スリケン"
+    ],
+    "role": "マスター位階",
+    "appearance": "真鍮色のニンジャ装束。年齢相応に若々しい外見。",
+    "description": "ザイバツのニンジャ。若年ながらマスター位階。貴族出身。\nダメージを外部に逃がすエスケープメント・ジツの使い手で、基礎カラテもなかなか。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%88%E3%82%A5%E3%83%BC%E3%83%AB%E3%83%93%E3%83%A8%E3%83%B3#:hl:word=%E3%83%88%E3%82%A5%E3%83%BC%E3%83%AB%E3%83%93%E3%83%A8%E3%83%B3",
+    "appearances": [
+      {
+        "id": "hfcqzrkh"
+      }
+    ],
     "organizations": [
       {
         "id": "zaibatsu-p2"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "725b7b62",
@@ -9646,13 +9668,32 @@
   {
     "id": "c70ad4a0",
     "name": "パラベラム",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "slaee52r",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "連打パンチ"
+    ],
+    "role": "マスター位階",
+    "description": "ザイバツのニンジャ。イグゾーション派閥。\nサイバネ間接によって高速連打パンチが可能。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%91%E3%83%A9%E3%83%99%E3%83%A9%E3%83%A0",
+    "appearances": [
+      {
+        "id": "hfcqzrkh"
+      }
+    ],
     "organizations": [
       {
         "id": "zaibatsu-p2"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "510f997d",
@@ -11681,13 +11722,30 @@
   {
     "id": "58e0e3b0",
     "name": "デザートバット",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "32nrsei0",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "コウモリ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [],
+    "appearance": "薄茶色のニンジャ装束。\n「クライ～」では額に血文字で「身勝手」と書かれたハチマキを巻く。",
+    "description": "ザイバツのニンジャ。\nパラグラムの相棒だった。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B6%E3%83%BC%E3%83%88%E3%83%90%E3%83%83%E3%83%88",
+    "appearances": [
+      {
+        "id": "hfcqzrkh"
+      }
+    ],
     "organizations": [
       {
         "id": "zaibatsu-p2"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "9f50499b",
@@ -28189,6 +28247,35 @@
     "organizations": [
       {
         "id": "cd4744be"
+      }
+    ]
+  },
+  {
+    "id": "xrxpzs7x",
+    "name": "ヴォルテージ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "jp9n436s",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "ライデン・ニンジャクラン"
+    },
+    "skills": [
+      "サイバネ放電ユニット"
+    ],
+    "appearance": "顔の左半分をサイバネ改造。\n両腕に無骨なニンジャ小手。ブレーサーからスタンガンめいた電極。",
+    "description": "オムラ・インダストリの企業ニンジャ。\nダークニンジャをしてなかなかの使い手と言わしめるワザマエを誇る。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%B4%E3%82%A9%E3%83%AB%E3%83%86%E3%83%BC%E3%82%B8",
+    "appearances": [
+      {
+        "id": "hfcqzrkh"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9fd6aaf4"
       }
     ]
   }
