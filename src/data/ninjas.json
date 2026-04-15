@@ -1322,9 +1322,109 @@
   {
     "id": "1775455944",
     "name": "ユカノ",
+    "realName": "ドラゴン・ユカノ",
     "aliases": [
-      "ドラゴン・ユカノ",
-      "ドラゴン・ニンジャ"
+      "ドラゴン・ニンジャ",
+      "マスターチャドー"
+    ],
+    "ninjaType": "リアルニンジャ",
+    "ninjaSoul": {
+      "id": "vbwmyk1a",
+      "name": "ドラゴン・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "ドラゴン・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "チャドー",
+      "ドラゴン・トビゲリ",
+      "ソウル・ブロウナウト・ジツ",
+      "秘儀「イエ・モト」"
+    ],
+    "role": "ニンジャ六騎士",
+    "appearance": "身長172cm。ストレート、または姫カットの前髪にポニーテールの黒髪。\n赤と金で彩られた威厳に満ちたニンジャ装束。豊満。",
+    "description": "ニンジャ六騎士の一人。マスターチャドー。\n悠久の時の中で何度も記憶をリセットしていた。\n現在はドラゴン・ドージョーの再興を試みている。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A6%E3%82%AB%E3%83%8E",
+    "appearances": [
+      {
+        "id": "00e29gpz"
+      },
+      {
+        "id": "qs1ghuk5"
+      },
+      {
+        "id": "qad20i3w"
+      },
+      {
+        "id": "w6ccm5qg"
+      },
+      {
+        "id": "nghu0pwd"
+      },
+      {
+        "id": "wbfhbzoh"
+      },
+      {
+        "id": "oer10ykn"
+      },
+      {
+        "id": "g01g2lf0"
+      },
+      {
+        "id": "t4m7hei5"
+      },
+      {
+        "id": "12ml6hmz"
+      },
+      {
+        "id": "db1b5ac6"
+      },
+      {
+        "id": "bc4c96e8"
+      },
+      {
+        "id": "80a12ccc"
+      },
+      {
+        "id": "zt9pvzah"
+      },
+      {
+        "id": "635624e9"
+      },
+      {
+        "id": "6e95e58d"
+      },
+      {
+        "id": "vyhgnuh0"
+      },
+      {
+        "id": "2v6e48gz"
+      },
+      {
+        "id": "8r8ibb8m"
+      },
+      {
+        "id": "914a622e"
+      },
+      {
+        "id": "4de384e9"
+      },
+      {
+        "id": "3972e76a"
+      },
+      {
+        "id": "futllzdo"
+      },
+      {
+        "id": "b6722efc"
+      },
+      {
+        "id": "ff3c9805"
+      },
+      {
+        "id": "7bd07f98"
+      }
     ],
     "organizations": [
       {
@@ -1333,10 +1433,7 @@
       {
         "id": "a91ea54d"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A6%E3%82%AB%E3%83%8E"
+    ]
   },
   {
     "id": "1775455945",
@@ -8407,7 +8504,8 @@
       "id": "3yf1tzt3",
       "name": "",
       "clan": "",
-      "origin": ""
+      "origin": "",
+      "grade": "レッサー級"
     },
     "skills": [
       "カラダチ",
@@ -9118,14 +9216,11 @@
       "clan": "ランパ・ニンジャクラン",
       "origin": ""
     },
-    "skills": [
-      "有害音波"
+    "organizations": [
+      {
+        "id": "zaibatsu-p2"
+      }
     ],
-    "role": "マスター位階",
-    "appearance": "両掌にサイバネ機構。",
-    "description": "ザイバツのマスター位階ニンジャ。サラマンダー派閥。\n両腕から質量を感じるほど強烈な音を放つ。カラテも強い。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%83%B3%E3%82%B7%E3%83%BC",
     "appearances": [
       {
         "id": "wbfhbzoh"
@@ -9134,11 +9229,14 @@
         "id": "12ml6hmz"
       }
     ],
-    "organizations": [
-      {
-        "id": "zaibatsu-p2"
-      }
-    ]
+    "skills": [
+      "有害音波"
+    ],
+    "role": "マスター位階",
+    "appearance": "両掌にサイバネ機構。",
+    "description": "ザイバツのマスター位階ニンジャ。サラマンダー派閥。\n両腕から質量を感じるほど強烈な音を放つ。カラテも強い。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%83%B3%E3%82%B7%E3%83%BC"
   },
   {
     "id": "5f5eeecb",
@@ -11090,13 +11188,7 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "古代ローマカラテ"
-    ],
-    "appearance": "古代ローマカラテ意匠を取り入れたニンジャ装束。",
-    "description": "シャドー・コンの上位ランカーニンジャ。\n古代ローマカラテの使い手。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A1%E3%83%A9%E3%83%B3%E3%82%AF%E3%82%B9",
+    "organizations": [],
     "appearances": [
       {
         "id": "wbfhbzoh"
@@ -11105,7 +11197,13 @@
         "id": "e9c2b6e2"
       }
     ],
-    "organizations": []
+    "skills": [
+      "古代ローマカラテ"
+    ],
+    "appearance": "古代ローマカラテ意匠を取り入れたニンジャ装束。",
+    "description": "シャドー・コンの上位ランカーニンジャ。\n古代ローマカラテの使い手。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A1%E3%83%A9%E3%83%B3%E3%82%AF%E3%82%B9"
   },
   {
     "id": "8f4cb826",
@@ -16032,11 +16130,15 @@
       "clan": "ドラゴン・ニンジャクラン",
       "origin": ""
     },
-    "organizations": [
-      {
-        "id": "a91ea54d"
-      }
+    "skills": [
+      "チャドー",
+      "ドラゴン・トビゲリ",
+      "秘儀「イエ・モト」"
     ],
+    "appearance": "鋭い眼光を湛えた小柄な老人。竜の刺繍入ニンジャ装束。\n「メナス・オブ・ダークニンジャ」では死に装束に額に三角の布。身長164cm。",
+    "description": "ドラゴン・ニンジャクランの末裔。\nニンジャスレイヤーに数々のインストラクションを授けた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%BB%E3%82%B2%E3%83%B3%E3%83%89%E3%83%BC%E3%82%BD%E3%83%BC",
     "appearances": [
       {
         "id": "kqp68e75"
@@ -16054,13 +16156,14 @@
         "id": "w6ccm5qg"
       }
     ],
-    "skills": [
-      "ドラゴン・カラテ",
-      "ソウル・ブロウナウト・ジツの派生"
-    ],
-    "description": "ドラゴン・ニンジャクランの末裔。\nニンジャスレイヤーに数々のインストラクションを授けた。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%BB%E3%82%B2%E3%83%B3%E3%83%89%E3%83%BC%E3%82%BD%E3%83%BC"
+    "organizations": [
+      {
+        "id": "38e6ee73"
+      },
+      {
+        "id": "a91ea54d"
+      }
+    ]
   },
   {
     "id": "77c4c0",
@@ -19870,9 +19973,26 @@
   {
     "id": "e35520",
     "name": "モミジ・ヤンガ",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%9F%E3%82%B8%E3%83%BB%E3%83%A4%E3%83%B3%E3%82%AC"
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "q3sym98r",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "appearance": "いかつい体格の、くたびれた初老の男。\n眉間に深い皺、額に大きな傷",
+    "description": "ドージョー「グリズリー穴」の経営者。\nかつてはシャドー・コン出場者だったが引退した。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%9F%E3%82%B8%E3%83%BB%E3%83%A4%E3%83%B3%E3%82%AC",
+    "appearances": [
+      {
+        "id": "wbfhbzoh"
+      }
+    ],
+    "organizations": []
   },
   {
     "id": "668b2e03",
@@ -19886,16 +20006,16 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "description": "元グリズリー穴所属のニンジャ。\n他のドージョーに引き抜かれた。",
-    "status": "unknown",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%AC%E3%83%B3%EF%BC%8F%E3%82%B5%E3%83%BC%E3%83%99%E3%83%AB%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC",
+    "organizations": [],
     "appearances": [
       {
         "id": "wbfhbzoh"
       }
     ],
-    "organizations": []
+    "skills": [],
+    "description": "元グリズリー穴所属のニンジャ。\n他のドージョーに引き抜かれた。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%AC%E3%83%B3%EF%BC%8F%E3%82%B5%E3%83%BC%E3%83%99%E3%83%AB%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC"
   },
   {
     "id": "c7b58d0c",
@@ -19909,16 +20029,16 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "description": "元グリズリー穴所属のニンジャ。\nトレーニング方針や契約で揉め、その後ヤクザなどに転向したという。",
-    "status": "unknown",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%AC%E3%83%B3%EF%BC%8F%E3%82%B5%E3%83%BC%E3%83%99%E3%83%AB%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC",
+    "organizations": [],
     "appearances": [
       {
         "id": "wbfhbzoh"
       }
     ],
-    "organizations": []
+    "skills": [],
+    "description": "元グリズリー穴所属のニンジャ。\nトレーニング方針や契約で揉め、その後ヤクザなどに転向したという。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%AC%E3%83%B3%EF%BC%8F%E3%82%B5%E3%83%BC%E3%83%99%E3%83%AB%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC"
   },
   {
     "id": "69215307",
@@ -19932,18 +20052,18 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "ドリルホーン・スタンピード"
-    ],
-    "description": "シャドー・コンの参加者。ニンジャ。\n第一ニンジャ格闘会に所属。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9B%E3%83%BC%E3%83%B3%E3%83%89%E3%83%96%E3%82%B7%EF%BC%8F%E3%83%B4%E3%82%A9%E3%83%AB%E3%83%88%E3%83%9E%E3%83%B3",
+    "organizations": [],
     "appearances": [
       {
         "id": "wbfhbzoh"
       }
     ],
-    "organizations": []
+    "skills": [
+      "ドリルホーン・スタンピード"
+    ],
+    "description": "シャドー・コンの参加者。ニンジャ。\n第一ニンジャ格闘会に所属。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9B%E3%83%BC%E3%83%B3%E3%83%89%E3%83%96%E3%82%B7%EF%BC%8F%E3%83%B4%E3%82%A9%E3%83%AB%E3%83%88%E3%83%9E%E3%83%B3"
   },
   {
     "id": "5d2dc1da",
@@ -19957,16 +20077,16 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "description": "シャドー・コンの参加者。ニンジャ。\n古代ローマカラテの使い手らしい。",
-    "status": "unknown",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9B%E3%83%BC%E3%83%B3%E3%83%89%E3%83%96%E3%82%B7%EF%BC%8F%E3%83%B4%E3%82%A9%E3%83%AB%E3%83%88%E3%83%9E%E3%83%B3",
+    "organizations": [],
     "appearances": [
       {
         "id": "wbfhbzoh"
       }
     ],
-    "organizations": []
+    "skills": [],
+    "description": "シャドー・コンの参加者。ニンジャ。\n古代ローマカラテの使い手らしい。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9B%E3%83%BC%E3%83%B3%E3%83%89%E3%83%96%E3%82%B7%EF%BC%8F%E3%83%B4%E3%82%A9%E3%83%AB%E3%83%88%E3%83%9E%E3%83%B3"
   },
   {
     "id": "217f31",
@@ -19980,17 +20100,17 @@
       "clan": "マンモス・ニンジャクラン",
       "origin": ""
     },
-    "skills": [],
-    "appearance": "マンモス・アーマー。マンモス・タスク。",
-    "description": "シャドー・コンの参加者。ニンジャ。\n古代ローマカラテ会に所属している。",
-    "status": "unknown",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%83%B3%E3%83%8B%E3%83%90%E3%83%AB",
+    "organizations": [],
     "appearances": [
       {
         "id": "wbfhbzoh"
       }
     ],
-    "organizations": []
+    "skills": [],
+    "appearance": "マンモス・アーマー。マンモス・タスク。",
+    "description": "シャドー・コンの参加者。ニンジャ。\n古代ローマカラテ会に所属している。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%83%B3%E3%83%8B%E3%83%90%E3%83%AB"
   },
   {
     "id": "8399e1",
@@ -20004,18 +20124,18 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "ジュドー"
-    ],
-    "description": "シャドー・コンの参加者。ニンジャ。\nかつてはジュドー世界大会のタイトルホルダーだったという。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%96%E3%83%A9%E3%83%BC",
+    "organizations": [],
     "appearances": [
       {
         "id": "wbfhbzoh"
       }
     ],
-    "organizations": []
+    "skills": [
+      "ジュドー"
+    ],
+    "description": "シャドー・コンの参加者。ニンジャ。\nかつてはジュドー世界大会のタイトルホルダーだったという。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%96%E3%83%A9%E3%83%BC"
   },
   {
     "id": "1680a4",
@@ -20029,17 +20149,17 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "appearance": "木こりめいたニンジャ装束。",
-    "description": "シャドー・コンの参加者。ニンジャ。\nミロキディコンハウスに所属している。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%83%B3%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF",
+    "organizations": [],
     "appearances": [
       {
         "id": "wbfhbzoh"
       }
     ],
-    "organizations": []
+    "skills": [],
+    "appearance": "木こりめいたニンジャ装束。",
+    "description": "シャドー・コンの参加者。ニンジャ。\nミロキディコンハウスに所属している。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%83%B3%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF"
   },
   {
     "id": "9d73f3",
@@ -25936,23 +26056,23 @@
     "name": "モーターナガサマ",
     "aliases": [],
     "ninjaType": "ロボ・ニンジャ",
+    "organizations": [
+      {
+        "id": "9fd6aaf4"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "wbfhbzoh"
+      }
+    ],
     "skills": [
       "シリンダーハンマーパンチ"
     ],
     "appearance": "全方位カメラアイを備えた灯台めいたフォルムの頭部。無骨なシリンダー型の腕。\n全長は一般的な長身の男性と同程度。",
     "description": "オムラ・インダストリが開発した試作ロボニンジャ。\n炸薬を利用して釘打ち機のような打撃を放つ。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%8A%E3%82%AC%E3%82%B5%E3%83%9E",
-    "appearances": [
-      {
-        "id": "wbfhbzoh"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "9fd6aaf4"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%8A%E3%82%AC%E3%82%B5%E3%83%9E"
   },
   {
     "id": "qpsdhwcy",
@@ -25964,16 +26084,16 @@
       "name": "",
       "grade": "等級不明"
     },
-    "skills": [],
-    "appearance": "黒灰色のニンジャ装束。",
-    "description": "シャドー・コンの参加者。ニンジャ。\nグリズリー穴所属。スパーリング中に昏睡したが、その後復帰したという。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%AA%E3%83%B3%E3%82%B0",
+    "organizations": [],
     "appearances": [
       {
         "id": "wbfhbzoh"
       }
     ],
-    "organizations": []
+    "skills": [],
+    "appearance": "黒灰色のニンジャ装束。",
+    "description": "シャドー・コンの参加者。ニンジャ。\nグリズリー穴所属。スパーリング中に昏睡したが、その後復帰したという。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%AA%E3%83%B3%E3%82%B0"
   }
 ]
