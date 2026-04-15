@@ -9022,13 +9022,43 @@
   {
     "id": "a9490c07",
     "name": "ストーカー",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "bg4g9d9e",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "サメ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "ハッカー",
+      "コトダマ認識能力"
+    ],
+    "role": "マスター位階",
+    "appearance": "眼鏡。後ろに結った髪。うなじにLAN直結端子。ギザ歯。\nオーエルの勤務服めいたニンジャ装束。身長171cm。",
+    "description": "ザイバツのニンジャ。ヴィジランスの側近。\nキョート電算室のアドミニストレイター。ナンシーに執着する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%88%E3%83%BC%E3%82%AB%E3%83%BC",
+    "appearances": [
+      {
+        "id": "9a9c26f3"
+      },
+      {
+        "id": "t4m7hei5"
+      },
+      {
+        "id": "9e965363"
+      },
+      {
+        "id": "12ml6hmz"
+      }
+    ],
     "organizations": [
       {
         "id": "zaibatsu-p2"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "e1c2614b",
@@ -11965,24 +11995,62 @@
   {
     "id": "314f8fa9",
     "name": "レッドクリーヴァー",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "7ddey3g6",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "大鉈"
+    ],
+    "appearance": "オーバーオール型ニンジャ装束。人間性を排した不気味なメンポ。",
+    "description": "自我を破壊されたザイバツの護衛ニンジャ。\nキョート城の地形を利用し侵入者に襲い掛かる。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%83%83%E3%83%89%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B4%E3%82%A1%E3%83%BC",
+    "appearances": [
+      {
+        "id": "t4m7hei5"
+      }
+    ],
     "organizations": [
       {
         "id": "zaibatsu-p2"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "3c5ff6ce",
     "name": "ワッチドッグ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "anat9cig",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "イヌ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "刃物状の四肢"
+    ],
+    "appearance": "口元が露出したフルフェイスめいたメンポ。\n手足の肘・膝から置換された刃。",
+    "description": "思考能力を破壊されたザイバツの護衛ニンジャ。\nキョート城を徘徊し侵入者に襲い掛かる。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AF%E3%83%83%E3%83%81%E3%83%89%E3%83%83%E3%82%B0",
+    "appearances": [
+      {
+        "id": "t4m7hei5"
+      }
+    ],
     "organizations": [
       {
         "id": "zaibatsu-p2"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "8c194133",
@@ -26095,5 +26163,41 @@
     "description": "シャドー・コンの参加者。ニンジャ。\nグリズリー穴所属。スパーリング中に昏睡したが、その後復帰したという。",
     "status": "dead",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%AA%E3%83%B3%E3%82%B0"
+  },
+  {
+    "id": "l0titd6m",
+    "name": "アラクニッド",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "gbzg3ie9",
+      "name": "",
+      "grade": "アーチ級",
+      "clan": "アカシ・ニンジャクラン"
+    },
+    "skills": [
+      "ユメアルク・ジツ",
+      "ウラナイ・ジツ"
+    ],
+    "appearance": "座敷牢の中で多数の鈎を直接体に突き刺されそれらに繋がった鎖で天井から吊り下げられている。\nコトダマ空間内では蜘蛛の巣模様の黒いキナガシ。ニンジャ覆面と長髪。",
+    "description": "ザイバツの占術ニンジャ。脱走を図ったため幽閉中。\nウラナイ・ジツでニンジャスレイヤーの誕生を予言した。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%A9%E3%82%AF%E3%83%8B%E3%83%83%E3%83%89",
+    "appearances": [
+      {
+        "id": "9lclsu2q"
+      },
+      {
+        "id": "t4m7hei5"
+      },
+      {
+        "id": "12ml6hmz"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "zaibatsu-p2"
+      }
+    ]
   }
 ]
