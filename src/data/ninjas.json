@@ -14856,14 +14856,58 @@
   {
     "id": "f56b8fb2",
     "name": "スパルタカス",
+    "realName": "ヤマ・マサカツ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "1ymxhuf0",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "古代ローマカラテ"
+    ],
+    "role": "アマクダリ12人",
+    "appearance": "鎖覆面に真鍮のメンポ、白黒ファイアパターンの装束。鎖防具。身長198cm。",
+    "description": "アマクダリ「12人」の一人。古代ローマカラテ伝承者。\n五つの構えすべてを使いこなす。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%91%E3%83%AB%E3%82%BF%E3%82%AB%E3%82%B9",
+    "appearances": [
+      {
+        "id": "5b7a2175"
+      },
+      {
+        "id": "x9g18jha"
+      },
+      {
+        "id": "aaa70fe2"
+      },
+      {
+        "id": "5jvbtmyb"
+      },
+      {
+        "id": "370fffc1"
+      },
+      {
+        "id": "rwd4t44a"
+      },
+      {
+        "id": "2v6e48gz"
+      },
+      {
+        "id": "93f8b0a5"
+      },
+      {
+        "id": "e9c2b6e2"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%91%E3%83%AB%E3%82%BF%E3%82%AB%E3%82%B9"
+    ]
   },
   {
     "id": "5ccfb5fa",
