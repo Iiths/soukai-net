@@ -17841,13 +17841,34 @@
   {
     "id": "077a26",
     "name": "シバカリ",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "skills": [
+      "ハッカー"
+    ],
+    "appearance": "頭髪はコーンロウ・ヘアー。アウトローめいた身なり。\nこめかみに六つのLAN端子。",
+    "description": "ネオサイタマのテンサイ級傭兵ハッカー。\nナンシーに雇われたことで、ニンジャスレイヤーをサポートする。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%90%E3%82%AB%E3%83%AA",
+    "appearances": [
+      {
+        "id": "6o0erlqp"
+      },
+      {
+        "id": "tqlc7ayk"
+      },
+      {
+        "id": "5b7a2175"
+      },
+      {
+        "id": "8r8ibb8m"
+      }
+    ],
     "organizations": [
       {
         "id": "a91ea54d"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%90%E3%82%AB%E3%83%AA"
+    ]
   },
   {
     "id": "a5e5e5",
@@ -18154,13 +18175,62 @@
   {
     "id": "858b98",
     "name": "エーリアス・ディクタス",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "b5a7qd6c",
+      "name": "シルバーキー",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": "イグナイトのソウルも同時に宿している"
+    },
+    "skills": [
+      "ユメミル・ジツ"
+    ],
+    "appearance": "痩せて小柄。テック・ジャケット。ジーンズ。エンジニアブーツ。\n「地獄お」とレタリングされたマフラー。髪型は黒いショートボブ。身長160cm。",
+    "description": "シルバーキーとイグナイトが不本意な同居状態になっている姿。\nユメミル・ジツを行使する。カラテはダメ。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%83%BC%E3%83%AA%E3%82%A2%E3%82%B9%E3%83%BB%E3%83%87%E3%82%A3%E3%82%AF%E3%82%BF%E3%82%B9",
+    "appearances": [
+      {
+        "id": "12ml6hmz"
+      },
+      {
+        "id": "5b7a2175"
+      },
+      {
+        "id": "db1b5ac6"
+      },
+      {
+        "id": "5yxs7jbc"
+      },
+      {
+        "id": "9581c315"
+      },
+      {
+        "id": "222c43b6"
+      },
+      {
+        "id": "20d3a4ce"
+      },
+      {
+        "id": "24a026e8"
+      },
+      {
+        "id": "zt9pvzah"
+      },
+      {
+        "id": "635624e9"
+      },
+      {
+        "id": "6e95e58d"
+      }
+    ],
     "organizations": [
       {
         "id": "a91ea54d"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%83%BC%E3%83%AA%E3%82%A2%E3%82%B9%E3%83%BB%E3%83%87%E3%82%A3%E3%82%AF%E3%82%BF%E3%82%B9"
+    ]
   },
   {
     "id": "ef1524",
@@ -18216,13 +18286,41 @@
   {
     "id": "ea666b",
     "name": "ブレイズ",
+    "aliases": [],
+    "ninjaSoul": {
+      "id": "yayvbpgl",
+      "name": "イグナイト",
+      "grade": "レッサー級",
+      "clan": "タナカ・ニンジャクラン",
+      "origin": "シルバーキーのソウルも併せ持つ。"
+    },
+    "skills": [
+      "インプルーブド・カトン・ジツ",
+      "シルバーキー分離"
+    ],
+    "appearance": "赤いショートボブ。痩せて小柄。身長160㎝。\n「地獄お」とレタリングされたマフラー。火の粉のような輝きが波打つ髪。\n眉毛の代わりにイバラめいたタトゥー。",
+    "description": "イグナイトとシルバーキーが不本意な同居状態にある状態。\nイグナイト側の人格が表出しており、変則カトン・ジツは健在。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%AC%E3%82%A4%E3%82%BA",
+    "appearances": [
+      {
+        "id": "20d3a4ce"
+      },
+      {
+        "id": "a72113c1"
+      },
+      {
+        "id": "635624e9"
+      },
+      {
+        "id": "6e95e58d"
+      }
+    ],
     "organizations": [
       {
         "id": "a91ea54d"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%AC%E3%82%A4%E3%82%BA"
+    ]
   },
   {
     "id": "15cd5e",
