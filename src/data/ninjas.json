@@ -16795,38 +16795,97 @@
   {
     "id": "cb96d5e5",
     "name": "ウォーヘッド",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "2iqmghbj",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "role": "ウォーヘッド・カンパニー",
+    "description": "アマクダリ衛星組織「ウォーヘッド・カンパニー」のニンジャ。\nプラズマリザード、トリガーハッピーは彼の部下である。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%98%E3%83%83%E3%83%89",
+    "appearances": [
+      {
+        "id": "bc4c96e8"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%98%E3%83%83%E3%83%89"
+    ]
   },
   {
     "id": "e179ddbd",
     "name": "トリガーハッピー",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "9cnr7rqk",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "マシンピストル"
+    ],
+    "role": "ウォーヘッド・カンパニー",
+    "appearance": "黒いミリタリーコート装束。",
+    "description": "ウォーヘッド・カンパニーのニンジャ。\nプラズマリザードと組んで犯罪を働く。ピストルが武器。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%88%E3%83%AA%E3%82%AC%E3%83%BC%E3%83%8F%E3%83%83%E3%83%94%E3%83%BC",
+    "appearances": [
+      {
+        "id": "bc4c96e8"
+      },
+      {
+        "id": "vr3fq73p"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%88%E3%83%AA%E3%82%AC%E3%83%BC%E3%83%8F%E3%83%83%E3%83%94%E3%83%BC"
+    ]
   },
   {
     "id": "8374a24e",
     "name": "プラズマリザード",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "lql8abmk",
+      "name": "",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "プラズマ・クナイ"
+    ],
+    "role": "ウォーヘッド・カンパニー",
+    "appearance": "メンポ。青白い電弧が放たれる瞳。",
+    "description": "ウォーヘッド・カンパニーのニンジャ。\n暴力的な性格。プラズマ・クナイを投げる。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%97%E3%83%A9%E3%82%BA%E3%83%9E%E3%83%AA%E3%82%B6%E3%83%BC%E3%83%89",
+    "appearances": [
+      {
+        "id": "bc4c96e8"
+      },
+      {
+        "id": "vr3fq73p"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%97%E3%83%A9%E3%82%BA%E3%83%9E%E3%83%AA%E3%82%B6%E3%83%BC%E3%83%89"
+    ]
   },
   {
     "id": "73da19a5",
