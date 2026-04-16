@@ -6195,13 +6195,31 @@
   {
     "id": "58dfbcba",
     "name": "コンストリクター",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "s9j34rs7",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "鎖つきジュッテ"
+    ],
+    "description": "ソウカイヤのニンジャ。\nカチグミ・クラスの自宅を襲っていた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B3%E3%83%B3%E3%82%B9%E3%83%88%E3%83%AA%E3%82%AF%E3%82%BF%E3%83%BC",
+    "appearances": [
+      {
+        "id": "5b7a2175"
+      }
+    ],
     "organizations": [
       {
         "id": "soukaiya-p1"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "b50b782f",
@@ -14676,14 +14694,104 @@
   {
     "id": "0f097b8d",
     "name": "アガメムノン",
+    "realName": "シバ",
+    "aliases": [
+      "シバタ・ソウジロウ"
+    ],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "le4menzy",
+      "name": "ゼウス・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "ゼウス・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "デン・ジツ",
+      "デン・スリケン",
+      "エネルギードレイン",
+      "デン・ブンシン",
+      "デン・スフィア",
+      "肉体再構成"
+    ],
+    "role": "アマクダリ12人",
+    "appearance": "褐色の肌、後ろへ撫で付けた白髪めいた金髪。眉目秀麗な男。灰色の瞳。身長182cm。\n普段は白いスーツ。イクサ時は黄金のパルスが駆け巡る電撃装束。\nブレーサーとメンポの意匠の威容はオリュンポス12忍の頂点に立つ者にふさわしいと形容される。",
+    "description": "アマクダリ・セクトの実質的指導者。\n文字通り稲妻の速度で放たれるデン・スリケンは並のニンジャを一瞬で感電死させる。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%AC%E3%83%A1%E3%83%A0%E3%83%8E%E3%83%B3",
+    "appearances": [
+      {
+        "id": "9lclsu2q"
+      },
+      {
+        "id": "dd6cebbd"
+      },
+      {
+        "id": "tqlc7ayk"
+      },
+      {
+        "id": "5b7a2175"
+      },
+      {
+        "id": "bc4c96e8"
+      },
+      {
+        "id": "st6b9q7x"
+      },
+      {
+        "id": "a72113c1"
+      },
+      {
+        "id": "12216e23"
+      },
+      {
+        "id": "zqv40ass"
+      },
+      {
+        "id": "x9g18jha"
+      },
+      {
+        "id": "aaa70fe2"
+      },
+      {
+        "id": "z7rgd0bm"
+      },
+      {
+        "id": "0f424015"
+      },
+      {
+        "id": "xyi4nw8g"
+      },
+      {
+        "id": "5jvbtmyb"
+      },
+      {
+        "id": "370fffc1"
+      },
+      {
+        "id": "rwd4t44a"
+      },
+      {
+        "id": "yrr4132n"
+      },
+      {
+        "id": "93f8b0a5"
+      },
+      {
+        "id": "e9c2b6e2"
+      },
+      {
+        "id": "8140b365"
+      },
+      {
+        "id": "8r8ibb8m"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%AC%E3%83%A1%E3%83%A0%E3%83%8E%E3%83%B3"
+    ]
   },
   {
     "id": "02595771",
@@ -15335,13 +15443,39 @@
   {
     "id": "b80397c5",
     "name": "ワイバーン",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "pgwfux5j",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "サソリ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "尻尾状マニピュレーター",
+      "サイコ毒液",
+      "アウー・バチゥド",
+      "スリケン"
+    ],
+    "role": "アマクダリ・アクシス",
+    "appearance": "ウェットスーツめいたサイバネ装束。流線型のニンジャヘルム。\n灰色の肌。背中に巨大な尻尾状のマニピュレーター。",
+    "description": "アマクダリ・アクシスのニンジャ。\nサソリめいた尻尾マニピュレーターを使って戦う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AF%E3%82%A4%E3%83%90%E3%83%BC%E3%83%B3",
+    "appearances": [
+      {
+        "id": "5b7a2175"
+      },
+      {
+        "id": "5041abcf"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "c6ac7cf8",
@@ -16758,13 +16892,32 @@
   {
     "id": "b65f28ec",
     "name": "グリーンパイソン",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "1n842bvj",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "ヘビ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "ドク・ジツ"
+    ],
+    "appearance": "開閉機構つきメンポ。バイオサイバネによる牙、舌。",
+    "description": "アマクダリの外周組織に所属していたニンジャ。\nサイバネ口内から毒液を放つ。カラテもそこそこ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%BC%E3%83%99%E3%82%A2%E3%83%BC%EF%BC%8F%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%91%E3%82%A4%E3%82%BD%E3%83%B3%EF%BC%8F%E3%82%A6%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9C%E3%83%BC%E3%83%B3#fa35d79f",
+    "appearances": [
+      {
+        "id": "5b7a2175"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "13579e8e",
@@ -16818,24 +16971,63 @@
   {
     "id": "4b727c8b",
     "name": "ポーラーベアー",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "4u7xfun3",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "ビッグ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "ビッグカラテ"
+    ],
+    "appearance": "白い毛皮仕立てのニンジャ装束。巨漢。",
+    "description": "アマクダリの外周組織所属ニンジャ。\nニンジャスレイヤーの噂を知っていた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%BC%E3%83%99%E3%82%A2%E3%83%BC%EF%BC%8F%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%91%E3%82%A4%E3%82%BD%E3%83%B3%EF%BC%8F%E3%82%A6%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9C%E3%83%BC%E3%83%B3#p5eeaf73",
+    "appearances": [
+      {
+        "id": "5b7a2175"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "abb50e27",
     "name": "ホミサイド",
+    "aliases": [
+      "ウィッシュボーン "
+    ],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "vqavkrzn",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "常人の三倍の脚力"
+    ],
+    "appearance": "石灰色の装束。",
+    "description": "アマクダリのニンジャ。\nTwitter初連載ではウィッシュボーンという名前だったが変更された。",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9B%E3%83%9F%E3%82%B5%E3%82%A4%E3%83%89",
+    "appearances": [
+      {
+        "id": "5b7a2175"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "cd334921",
@@ -19879,46 +20071,100 @@
   {
     "id": "628105",
     "name": "セイジ",
+    "aliases": [
+      "ニンジャスレイヤー",
+      "ニンジャキラー"
+    ],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "bguo8xj5",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "ヒツケ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "カトン・ジツ",
+      "スリケン",
+      "チャカ・ガン"
+    ],
+    "appearance": "赤黒のニンジャ装束。「忍」「殺」とペイントされた黒鋼メンポ。",
+    "description": "妄執の果てに自らニンジャスレイヤーを名乗り始めた男。\n己のニンジャソウルを極限まで搾り取り、紅蓮のカトン炎に変える。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BB%E3%82%A4%E3%82%B8",
+    "appearances": [
+      {
+        "id": "5b7a2175"
+      },
+      {
+        "id": "db1b5ac6"
+      }
+    ],
     "organizations": [
       {
         "id": "55d3a7ac"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BB%E3%82%A4%E3%82%B8"
+    ]
   },
   {
     "id": "9eb82db5",
     "name": "ナブケ",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "skills": [
+      "ハッカー"
+    ],
+    "description": "セイジをサポートするテンサイ級ハッカー。\n他のハッカーより年上で、無軌道な若者を焚きつけていたようだ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8A%E3%83%96%E3%82%B1%EF%BC%8F%E3%82%AB%E3%83%84%E3%83%A9%EF%BC%8F%E3%82%A8%E3%83%93%E3%82%A6%E3%83%9F",
+    "appearances": [
+      {
+        "id": "5b7a2175"
+      }
+    ],
     "organizations": [
       {
         "id": "55d3a7ac"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8A%E3%83%96%E3%82%B1%EF%BC%8F%E3%82%AB%E3%83%84%E3%83%A9%EF%BC%8F%E3%82%A8%E3%83%93%E3%82%A6%E3%83%9F"
+    ]
   },
   {
     "id": "534d7543",
     "name": "カツラ",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "skills": [
+      "ハッカー"
+    ],
+    "description": "セイジをサポートしていたテンサイ級ハッカー。\nギリギリ成人くらいの女の子だったらしい。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8A%E3%83%96%E3%82%B1%EF%BC%8F%E3%82%AB%E3%83%84%E3%83%A9%EF%BC%8F%E3%82%A8%E3%83%93%E3%82%A6%E3%83%9F",
+    "appearances": [],
     "organizations": [
       {
         "id": "55d3a7ac"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8A%E3%83%96%E3%82%B1%EF%BC%8F%E3%82%AB%E3%83%84%E3%83%A9%EF%BC%8F%E3%82%A8%E3%83%93%E3%82%A6%E3%83%9F"
+    ]
   },
   {
     "id": "3d855a3b",
     "name": "エビウミ",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "skills": [],
+    "description": "セイジをサポートするテンサイ級ハッカー。\n少年院に入れるくらいの年齢だったようだ。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8A%E3%83%96%E3%82%B1%EF%BC%8F%E3%82%AB%E3%83%84%E3%83%A9%EF%BC%8F%E3%82%A8%E3%83%93%E3%82%A6%E3%83%9F",
+    "appearances": [
+      {
+        "id": "5b7a2175"
+      }
+    ],
     "organizations": [
       {
         "id": "55d3a7ac"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8A%E3%83%96%E3%82%B1%EF%BC%8F%E3%82%AB%E3%83%84%E3%83%A9%EF%BC%8F%E3%82%A8%E3%83%93%E3%82%A6%E3%83%9F"
+    ]
   },
   {
     "id": "c1ddb4",
@@ -28501,12 +28747,36 @@
       "grade": "等級不明"
     },
     "skills": [],
-    "description": "ヤクザニンジャ。\nカタナキラー・ダイ・フェデレイション・レンゴウのサブクランに所属。",
+    "description": "ヤクザニンジャ。アンチェインドドレッド・ヤクザクラン所属。\nニンジャ化する前からクラン所属のヤクザだったようだ。",
     "status": "dead",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%AB%E3%82%AA%E3%83%BC%E3%82%AC",
     "appearances": [
       {
         "id": "917989ad"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "qov2i03w",
+    "name": "バードハンター",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "2esprruj",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "ブーメランブレード "
+    ],
+    "appearance": "メンポと覆面。ズボンの膝部分に「鳥」「葬」のショドー。",
+    "description": "フリーランスの賞金稼ぎニンジャ。\n無軌道なニュービーニンジャを狩っていた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%83%BC%E3%83%89%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC",
+    "appearances": [
+      {
+        "id": "5b7a2175"
       }
     ],
     "organizations": []
