@@ -19815,13 +19815,32 @@
   {
     "id": "23f216",
     "name": "タイフォーン",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "qrxsdm3u",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "ビッグ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "ネギトログラインダー棍棒"
+    ],
+    "appearance": "身長4メートル強の肥満した巨体。\n眼は緑色。白い頭蓋骨が無造作に露出した頭部。\n鼻から下を覆う江戸戦争様式の鋼鉄メンポ。",
+    "description": "リー先生が生みだしたゾンビーニンジャ。\nゾンビー由来の耐久力と巨体から繰り出される棍棒は脅威。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%82%A4%E3%83%95%E3%82%A9%E3%83%BC%E3%83%B3",
+    "appearances": [
+      {
+        "id": "5yxs7jbc"
+      }
+    ],
     "organizations": [
       {
         "id": "09afd629"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%82%A4%E3%83%95%E3%82%A9%E3%83%BC%E3%83%B3"
+    ]
   },
   {
     "id": "91c26c",
@@ -20720,13 +20739,28 @@
   {
     "id": "5f6e27",
     "name": "メイヴェン",
-    "organizations": [
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "pfqb6iam",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "スシ握り"
+    ],
+    "appearance": "スシ・シェフ装束。衛生マスクめいたメンポ。\nイクサ時は水色がかった白装束に鋼鉄メンポ。",
+    "description": "スシレストラン「ウェルシー・トロスシ」を経営するスシ屋ニンジャ。\n優れたイタマエであり、解体中のマグロ骨を投擲することもできる。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A1%E3%82%A4%E3%83%B4%E3%82%A7%E3%83%B3",
+    "appearances": [
       {
-        "id": "y8yzi8su"
+        "id": "5yxs7jbc"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A1%E3%82%A4%E3%83%B4%E3%82%A7%E3%83%B3"
+    "organizations": []
   },
   {
     "id": "d4b41c",
@@ -22103,35 +22137,93 @@
   {
     "id": "e594e5",
     "name": "ガンダルヴァ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "ur5qms5s",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ヒュプノ・ジツめいたジツ",
+      "ヘンゲヨーカイ・ジツ"
+    ],
+    "appearance": "金糸と蒼石で飾り立てたニンジャ装束。開閉式メンポ。",
+    "description": "地下カルト教団「オイラン・パレス」の主。\nオイランを洗脳するジツに加え、恐るべきジツを隠し持つ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AC%E3%83%B3%E3%83%80%E3%83%AB%E3%83%B4%E3%82%A1",
+    "appearances": [
+      {
+        "id": "t2l0ugzn"
+      }
+    ],
     "organizations": [
       {
         "id": "7bb790d7"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AC%E3%83%B3%E3%83%80%E3%83%AB%E3%83%B4%E3%82%A1"
+    ]
   },
   {
     "id": "6c9270",
     "name": "アーケロン",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "hr7uuzl7",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ジェット水流コントロール"
+    ],
+    "appearance": "腰布とニンジャ頭巾。全身に鱗の刺青。\n水中呼吸機能の付いた奇怪な海洋動物めいた意匠のメンポ。",
+    "description": "セッタイ・アンズルが擁するニンジャ。\n水中がフーリンカザンで、IRCコントローラで水流の流れを変えてしまう。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%AD%E3%83%B3",
+    "appearances": [
+      {
+        "id": "t2l0ugzn"
+      }
+    ],
     "organizations": [
       {
         "id": "7bb790d7"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%AD%E3%83%B3"
+    ]
   },
   {
     "id": "d1c482",
     "name": "オーバーウェルム",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "vtc6fvrb",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "近接カラテ"
+    ],
+    "appearance": "身長240㎝超。上半身に黒いタトゥー。白いニンジャ装束。",
+    "description": "ガンダルヴァのボディガードを務めるニンジャ。\n特殊なジツは持たないが基礎カラテが高い。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%82%A6%E3%82%A7%E3%83%AB%E3%83%A0",
+    "appearances": [
+      {
+        "id": "t2l0ugzn"
+      }
+    ],
     "organizations": [
       {
         "id": "7bb790d7"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%82%A6%E3%82%A7%E3%83%AB%E3%83%A0"
+    ]
   },
   {
     "id": "6abaef",
@@ -22147,57 +22239,145 @@
   {
     "id": "4d6372",
     "name": "ウォーピッグ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "2xwcx2ld",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "appearance": "肥満巨体。",
+    "description": "セッタイ・アンズルの神前闘技に参加したニンジャ。\n巨体に似合わず身のこなしは俊敏。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%94%E3%83%83%E3%82%B0",
+    "appearances": [
+      {
+        "id": "t2l0ugzn"
+      }
+    ],
     "organizations": [
       {
         "id": "7bb790d7"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%94%E3%83%83%E3%82%B0"
+    ]
   },
   {
     "id": "f84275",
     "name": "グレイヤー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "ub52iddm",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "appearance": "メタル繊維のニンジャ装束。屈強。",
+    "description": "セッタイ・アンズルの神前闘技に参加したニンジャ。\n元アメフト選手国会議員に雇われていた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B0%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC",
+    "appearances": [
+      {
+        "id": "t2l0ugzn"
+      }
+    ],
     "organizations": [
       {
         "id": "7bb790d7"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B0%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC"
+    ]
   },
   {
     "id": "ac6738",
     "name": "シーホーク",
-    "organizations": [
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "mf58vudj",
+      "name": "",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ナックルダスター"
+    ],
+    "appearance": "左右の二の腕に錨のタトゥー。髭面の巨漢。",
+    "description": "セッタイ・アンズルで行われる神前闘技に参加予定だったニンジャ。\nナックルダスターが獲物。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%BC%E3%83%9B%E3%83%BC%E3%82%AF",
+    "appearances": [
       {
-        "id": "7bb790d7"
+        "id": "t2l0ugzn"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%BC%E3%83%9B%E3%83%BC%E3%82%AF"
+    "organizations": []
   },
   {
     "id": "23583a",
     "name": "バグベアー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "0gcemm7t",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ドトン・ジツ（目くらまし）",
+      "スリケン",
+      "キリモミ回転ドロップキック"
+    ],
+    "appearance": "こげ茶色のニンジャ装束。威圧的に逆立った髪型。",
+    "description": "セッタイ・アンズルの神前闘技に参加したニンジャ。\n地面の土を蹴って視界を遮り、強力なケリ・キックを放つ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%82%B0%E3%83%99%E3%82%A2%E3%83%BC",
+    "appearances": [
+      {
+        "id": "t2l0ugzn"
+      }
+    ],
     "organizations": [
       {
         "id": "7bb790d7"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%82%B0%E3%83%99%E3%82%A2%E3%83%BC"
+    ]
   },
   {
     "id": "af07dd",
     "name": "バロール",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "3gdu6qc2",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": "恐らくアクマ・ニンジャクラン系"
+    },
+    "skills": [
+      "アクマ変身"
+    ],
+    "appearance": "赤紫のニンジャ装束。痩せ型。",
+    "description": "セッタイ・アンズルの神前闘技に参加したニンジャ。\n青銅色の皮膚を持つアクマに変身する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%83%AD%E3%83%BC%E3%83%AB",
+    "appearances": [
+      {
+        "id": "t2l0ugzn"
+      }
+    ],
     "organizations": [
       {
         "id": "7bb790d7"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%83%AD%E3%83%BC%E3%83%AB"
+    ]
   },
   {
     "id": "f55eea",
@@ -22211,23 +22391,23 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "70547989"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "db1b5ac6"
+      }
+    ],
     "skills": [
       "フージン・ジツ"
     ],
     "appearance": "身の丈8フィート。ストイックに引き締まった肉体。\nニンジャ修道士共通の灰色のフード付きローブ。\n群青色のニンジャ頭巾。メンポ。黒いニンジャ装束。",
     "description": "欺瞞に満ちたニンジャ修道会を統べるニンジャ。\n強大なアーチ級ソウルにより、、時速666kmめいた暴風を発する。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%83%AB%E3%82%BF%E3%83%AD%E3%82%B9",
-    "appearances": [
-      {
-        "id": "db1b5ac6"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "70547989"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%83%AB%E3%82%BF%E3%83%AD%E3%82%B9"
   },
   {
     "id": "23b0fb",
@@ -22243,6 +22423,16 @@
       "clan": "シノビ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "70547989"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "db1b5ac6"
+      }
+    ],
     "skills": [
       "ケムリ・ダマ",
       "ゲン・ジツ"
@@ -22250,17 +22440,7 @@
     "appearance": "灰色の質素なローブでニンジャ装束。",
     "description": "ニンジャ修道会のニンジャ。\nケムリ・ダマで相手の平衡感覚を狂わせる。\n当初の名はケムリ・ニンジャだったが流石にリアルニンジャではなかった。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B1%E3%83%A0%E3%83%AA%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
-    "appearances": [
-      {
-        "id": "db1b5ac6"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "70547989"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B1%E3%83%A0%E3%83%AA%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
   },
   {
     "id": "b79484",
@@ -22285,6 +22465,16 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "70547989"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "db1b5ac6"
+      }
+    ],
     "skills": [
       "コソク・ジツ",
       "スリケン"
@@ -22292,17 +22482,7 @@
     "appearance": "灰色の質素なローブでニンジャ装束。目元を覆い隠す。",
     "description": "ニンジャ修道会のニンジャ。タルタロスの右腕。\nコソク・ジツを込めた拘束具で異教徒の身動きを封じる。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BB%E3%83%8E%E3%83%90%E3%82%A4%E3%83%88",
-    "appearances": [
-      {
-        "id": "db1b5ac6"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "70547989"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BB%E3%83%8E%E3%83%90%E3%82%A4%E3%83%88"
   },
   {
     "id": "0c7583",
@@ -22316,23 +22496,23 @@
       "clan": "ヤイバ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "70547989"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "db1b5ac6"
+      }
+    ],
     "skills": [
       "二刀流"
     ],
     "appearance": "灰色の簡素なローブでニンジャ装束。",
     "description": "ニンジャ修道会のニンジャ。\n二刀流の使い手。ミヤモトマサシの信奉者。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%AC%E3%82%A4%E3%83%89%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC",
-    "appearances": [
-      {
-        "id": "db1b5ac6"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "70547989"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%AC%E3%82%A4%E3%83%89%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC"
   },
   {
     "id": "e3d370",
