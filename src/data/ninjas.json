@@ -771,15 +771,17 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "鉄条網生成",
-      "鏖殺鉄条網",
-      "スリケン・ジツ"
+    "organizations": [
+      {
+        "id": "8d0b3043"
+      },
+      {
+        "id": "a91ea54d"
+      },
+      {
+        "id": "4f623b6b"
+      }
     ],
-    "appearance": "身長204cm。大柄。鉄条網の鎖帷子めいたニンジャ装束。鉄条網製メンポ。\nパーカーとカーゴパンツ。「ニチョーム・ウォー」以降は左半身を鉄条網に置換。\n第4部ではマントを羽織っている。金色の目。歩行補助杖。",
-    "description": "サークル・シマナガシの頭目を務めていたニンジャ。\n短期な性格だったが4期では内省的に。\n強大なフマーの力を行使する。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%8A%E3%82%A4%E3%82%A2%E3%83%AC%E3%82%A4%E3%82%BF%E3%83%BC",
     "appearances": [
       {
         "id": "8x6pt5fy"
@@ -821,17 +823,15 @@
         "id": "gzrph4m3"
       }
     ],
-    "organizations": [
-      {
-        "id": "8d0b3043"
-      },
-      {
-        "id": "a91ea54d"
-      },
-      {
-        "id": "4f623b6b"
-      }
-    ]
+    "skills": [
+      "鉄条網生成",
+      "鏖殺鉄条網",
+      "スリケン・ジツ"
+    ],
+    "appearance": "身長204cm。大柄。鉄条網の鎖帷子めいたニンジャ装束。鉄条網製メンポ。\nパーカーとカーゴパンツ。「ニチョーム・ウォー」以降は左半身を鉄条網に置換。\n第4部ではマントを羽織っている。金色の目。歩行補助杖。",
+    "description": "サークル・シマナガシの頭目を務めていたニンジャ。\n短期な性格だったが4期では内省的に。\n強大なフマーの力を行使する。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%8A%E3%82%A4%E3%82%A2%E3%83%AC%E3%82%A4%E3%82%BF%E3%83%BC"
   },
   {
     "id": "1775455918",
@@ -15854,13 +15854,38 @@
   {
     "id": "df22d23c",
     "name": "クリスタライズド",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "0qliyld0",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "コリ・ジツ（氷の巨人）"
+    ],
+    "appearance": "白いニンジャ装束。",
+    "description": "アマクダリのコリ・ニンジャ。\n11フィートもの氷の巨像に身を包んで戦う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%A9%E3%82%A4%E3%82%BA%E3%83%89",
+    "appearances": [
+      {
+        "id": "6o0erlqp"
+      },
+      {
+        "id": "ba3cbca6"
+      },
+      {
+        "id": "2v6e48gz"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "c19b3448",
@@ -16944,26 +16969,73 @@
   {
     "id": "440dc3a9",
     "name": "アイスジャベリン",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "s37m9ysk",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "コリ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "コリ・ウェポン（大槍）",
+      "コリ・ウェポン（大盾）"
+    ],
+    "appearance": "白いニンジャ装束。",
+    "description": "アマクダリのコリ・ニンジャ。\nコリ・ジツにより槍と盾を生成する攻防一体ニンジャ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%A4%E3%82%B9%E3%82%B8%E3%83%A3%E3%83%99%E3%83%AA%E3%83%B3",
+    "appearances": [
+      {
+        "id": "ba3cbca6"
+      },
+      {
+        "id": "x9g18jha"
+      },
+      {
+        "id": "aaa70fe2"
+      },
+      {
+        "id": "0f424015"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%A4%E3%82%B9%E3%82%B8%E3%83%A3%E3%83%99%E3%83%AA%E3%83%B3"
+    ]
   },
   {
     "id": "dd2f5480",
     "name": "ダイヤモンドダスト",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "zf2kfung",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "コリ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "コリ・スリケン",
+      "コリ・ダガー"
+    ],
+    "appearance": "白いニンジャ装束。",
+    "description": "アマクダリのコリ・ニンジャ。\nコリ・ジツによって空気中からスリケンなどを生成する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E3%83%80%E3%82%B9%E3%83%88",
+    "appearances": [
+      {
+        "id": "ba3cbca6"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E3%83%80%E3%82%B9%E3%83%88"
+    ]
   },
   {
     "id": "cb96d5e5",
@@ -17830,23 +17902,23 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "cd4744be"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "9ba1a179"
+      }
+    ],
     "skills": [
       "アルファ・ソーマト・ジツ"
     ],
     "appearance": "「天下」紋が刺繍されたニンジャ装束。オナタカミ製サイバーメンポ。",
     "description": "アマクダリのニンジャ。\n幸せな記憶で幸福死させる強力なジツの使い手。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%BA%E3%83%9E%E3%83%AB",
-    "appearances": [
-      {
-        "id": "9ba1a179"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "cd4744be"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%BA%E3%83%9E%E3%83%AB"
   },
   {
     "id": "5b219654",
@@ -17937,23 +18009,23 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "cd4744be"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "9ba1a179"
+      }
+    ],
     "skills": [
       "ソード・チョップ"
     ],
     "appearance": "亡霊じみてぼろぼろの黒ニンジャ装束。\n右肩から先に青白く発光するオナタカミ社製新型軍用サイバネアーム。。",
     "description": "アマクダリのニンジャ。\nソウルの闇に飲まれており危険。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%99%E3%82%A4%E3%83%AB%E3%82%BD%E3%83%BC%E3%83%89",
-    "appearances": [
-      {
-        "id": "9ba1a179"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "cd4744be"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%99%E3%82%A4%E3%83%AB%E3%82%BD%E3%83%BC%E3%83%89"
   },
   {
     "id": "01e8c3b8",
@@ -18001,21 +18073,21 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "appearance": "逞しい上半身を露出。「天下」紋を誇示する口が開いた金属製フルメンポ。",
-    "description": "アマクダリのニンジャ。\nヤクザクランを傘下に置く。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%B0%E3%83%8A%E3%83%8B%E3%83%A0",
+    "organizations": [
+      {
+        "id": "cd4744be"
+      }
+    ],
     "appearances": [
       {
         "id": "9ba1a179"
       }
     ],
-    "organizations": [
-      {
-        "id": "cd4744be"
-      }
-    ]
+    "skills": [],
+    "appearance": "逞しい上半身を露出。「天下」紋を誇示する口が開いた金属製フルメンポ。",
+    "description": "アマクダリのニンジャ。\nヤクザクランを傘下に置く。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%B0%E3%83%8A%E3%83%8B%E3%83%A0"
   },
   {
     "id": "619eb72d",
@@ -20678,13 +20750,11 @@
       "clan": "ゴダ・ニンジャクラン",
       "origin": ""
     },
-    "skills": [
-      "ヘシキリ"
+    "organizations": [
+      {
+        "id": "8d0b3043"
+      }
     ],
-    "appearance": "マーブル模様の都市迷彩じみた装束。キャップ。フードを目深に被っている。身長176cm。",
-    "description": "サークル・シマナガシのメンバーだったニンジャ。\n現在は南アフリカに居を構える。\n緩慢で破壊力に優れるカラテを使う。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AB%E3%82%A4%E3%83%8A%E3%83%BC",
     "appearances": [
       {
         "id": "8x6pt5fy"
@@ -20720,11 +20790,13 @@
         "id": "5e3f0a1c"
       }
     ],
-    "organizations": [
-      {
-        "id": "8d0b3043"
-      }
-    ]
+    "skills": [
+      "ヘシキリ"
+    ],
+    "appearance": "マーブル模様の都市迷彩じみた装束。キャップ。フードを目深に被っている。身長176cm。",
+    "description": "サークル・シマナガシのメンバーだったニンジャ。\n現在は南アフリカに居を構える。\n緩慢で破壊力に優れるカラテを使う。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AB%E3%82%A4%E3%83%8A%E3%83%BC"
   },
   {
     "id": "0580ba",
