@@ -17821,13 +17821,32 @@
   {
     "id": "494f0539",
     "name": "ファンタズマル",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "artq0pt1",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "アルファ・ソーマト・ジツ"
+    ],
+    "appearance": "「天下」紋が刺繍されたニンジャ装束。オナタカミ製サイバーメンポ。",
+    "description": "アマクダリのニンジャ。\n幸せな記憶で幸福死させる強力なジツの使い手。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%BA%E3%83%9E%E3%83%AB",
+    "appearances": [
+      {
+        "id": "9ba1a179"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "5b219654",
@@ -17909,13 +17928,32 @@
   {
     "id": "4c4b62c6",
     "name": "ベイルソード",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "c0pp85j0",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ソード・チョップ"
+    ],
+    "appearance": "亡霊じみてぼろぼろの黒ニンジャ装束。\n右肩から先に青白く発光するオナタカミ社製新型軍用サイバネアーム。。",
+    "description": "アマクダリのニンジャ。\nソウルの闇に飲まれており危険。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%99%E3%82%A4%E3%83%AB%E3%82%BD%E3%83%BC%E3%83%89",
+    "appearances": [
+      {
+        "id": "9ba1a179"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "01e8c3b8",
@@ -17954,13 +17992,30 @@
   {
     "id": "8680d764",
     "name": "マグナニム",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "9blm3nsy",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "appearance": "逞しい上半身を露出。「天下」紋を誇示する口が開いた金属製フルメンポ。",
+    "description": "アマクダリのニンジャ。\nヤクザクランを傘下に置く。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%B0%E3%83%8A%E3%83%8B%E3%83%A0",
+    "appearances": [
+      {
+        "id": "9ba1a179"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "619eb72d",
