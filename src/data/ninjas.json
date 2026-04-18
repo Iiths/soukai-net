@@ -14920,14 +14920,62 @@
   {
     "id": "6102bd80",
     "name": "スターゲイザー",
+    "realName": "サイデン・マルティネス",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "oz9gevyd",
+      "name": "",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "アイキドー",
+      "スリケン",
+      "ナノカラテエンジン"
+    ],
+    "role": "アマクダリ12人",
+    "appearance": "スキンヘッド。大柄で屈強な体躯。体毛がない。身長200㎝。\n生命維持装置めいた鋼のメンポ。心臓部に渦巻く太陽の意匠のプロテクター。\n光ファイバーめいたチューブがプロテクターから伸びている。",
+    "description": "アマクダリ12人の一人。オナタカミ特別顧問。\n衛星からエネルギーを補充し無限に再生する。カラテも厄介。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B2%E3%82%A4%E3%82%B6%E3%83%BC",
+    "appearances": [
+      {
+        "id": "gba0awyv"
+      },
+      {
+        "id": "x9g18jha"
+      },
+      {
+        "id": "aaa70fe2"
+      },
+      {
+        "id": "qeenefau"
+      },
+      {
+        "id": "yg4p8qly"
+      },
+      {
+        "id": "5jvbtmyb"
+      },
+      {
+        "id": "rwd4t44a"
+      },
+      {
+        "id": "yrr4132n"
+      },
+      {
+        "id": "2v6e48gz"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
+      },
+      {
+        "id": "eb889bf0"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B2%E3%82%A4%E3%82%B6%E3%83%BC"
+    ]
   },
   {
     "id": "f56b8fb2",
@@ -15047,13 +15095,34 @@
   {
     "id": "60a88a10",
     "name": "アルバレスト",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "a8u8nm4h",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "ヤギ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "スリケンボウガン",
+      "フタツイシユミ・ドー"
+    ],
+    "role": "アマクダリ・アクシス",
+    "appearance": "両腕にボウガン一体型のブレーサー。",
+    "description": "アマクダリ・アクシスのニンジャ。\n二刀のスリケンボウガンで戦うフタツイシユミ・ドーの使い手。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%AB%E3%83%90%E3%83%AC%E3%82%B9%E3%83%88",
+    "appearances": [
+      {
+        "id": "gba0awyv"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "320f78c5",
@@ -15552,13 +15621,35 @@
   {
     "id": "00b4b425",
     "name": "ブラックオニキス",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "4vn7gsep",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "イアイドー",
+      "クナイ・ダート",
+      "モーターサイクル「守衛二世」"
+    ],
+    "role": "アマクダリ・アクシス",
+    "appearance": "ステルス機構付きのニンジャ装束。肘先にブレード展開機構。\nニンジャ籠手。背中にニンジャソード。",
+    "description": "アマクダリ・アクシスのニンジャ。\nモーターサイクルを駆り、二刀のカタナで戦う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%AA%E3%83%8B%E3%82%AD%E3%82%B9",
+    "appearances": [
+      {
+        "id": "gba0awyv"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "ba66985a",
@@ -15607,13 +15698,40 @@
   {
     "id": "af443fb6",
     "name": "レネゲイド",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "i9zlx79b",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "爆弾作成",
+      "ローキック"
+    ],
+    "role": "アマクダリ・アクシス",
+    "appearance": "メンポ。",
+    "description": "アマクダリ・アクシスのニンジャ。\n爆発物の取り扱いに長ける。かつては別の名で活動していた。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%83%8D%E3%82%B2%E3%82%A4%E3%83%89",
+    "appearances": [
+      {
+        "id": "gba0awyv"
+      },
+      {
+        "id": "2v6e48gz"
+      },
+      {
+        "id": "8r8ibb8m"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "b80397c5",
@@ -17490,13 +17608,27 @@
   {
     "id": "bf0df6ea",
     "name": "オーファン",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "skills": [
+      "スリケン",
+      "ロングレンジ鎖鎌",
+      "ドラグーン操縦"
+    ],
+    "appearance": "鍛え上げられた肩と胸板。皮膚がマダラ模様。",
+    "description": "アマクダリの下級ニンジャ。\nカタナオカメヤクザクランを統括していた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AA%E3%83%BC%E3%83%95%E3%82%A1%E3%83%B3",
+    "appearances": [
+      {
+        "id": "gba0awyv"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "9798397e",
@@ -17848,13 +17980,30 @@
   {
     "id": "4c2bb2c3",
     "name": "トラッカー",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "w6y94xgm",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "appearance": "紺色迷彩のニンジャ装束。",
+    "description": "アマクダリの下級ニンジャ。\nクロームドルフィン捕獲ミッションに従事していた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB%E3%83%80%E3%82%A6%E3%83%B3%EF%BC%8F%E3%83%9D%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%8F%E3%83%88%E3%83%A9%E3%83%83%E3%82%AB%E3%83%BC",
+    "appearances": [
+      {
+        "id": "gba0awyv"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "d62283b1",
@@ -17955,13 +18104,30 @@
   {
     "id": "5313d8aa",
     "name": "フォールダウン",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "ksey4y38",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "appearance": "茶迷彩のニンジャ装束。",
+    "description": "アマクダリの下級ニンジャ。\nクロームドルフィン捕獲ミッションに従事していた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB%E3%83%80%E3%82%A6%E3%83%B3%EF%BC%8F%E3%83%9D%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%8F%E3%83%88%E3%83%A9%E3%83%83%E3%82%AB%E3%83%BC",
+    "appearances": [
+      {
+        "id": "gba0awyv"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "7149ae6f",
@@ -18074,13 +18240,30 @@
   {
     "id": "08c9dcfc",
     "name": "ポインター",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "lbdx026a",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "appearance": "灰迷彩のニンジャ装束。",
+    "description": "アマクダリの下級ニンジャ。\nクロームドルフィン捕獲ミッションに従事していた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB%E3%83%80%E3%82%A6%E3%83%B3%EF%BC%8F%E3%83%9D%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%EF%BC%8F%E3%83%88%E3%83%A9%E3%83%83%E3%82%AB%E3%83%BC",
+    "appearances": [
+      {
+        "id": "gba0awyv"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "8680d764",
@@ -22011,13 +22194,34 @@
   {
     "id": "ef9e4e",
     "name": "レクティファイアー",
+    "aliases": [
+      "レクティファイア"
+    ],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "mabsuusc",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "コダマ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "ドラグーン操作"
+    ],
+    "appearance": "人間味の少ない外見。フルメンポ。機械めいた言葉。",
+    "description": "オナタカミ社の企業ニンジャ。\n無線LANで同時に5機ものドラグーンを操作する。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%83%BC",
+    "appearances": [
+      {
+        "id": "gba0awyv"
+      }
+    ],
     "organizations": [
       {
         "id": "eb889bf0"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%83%BC"
+    ]
   },
   {
     "id": "6cf821",
@@ -29774,6 +29978,36 @@
     "organizations": [
       {
         "id": "9fd6aaf4"
+      }
+    ]
+  },
+  {
+    "id": "71d4dq8e",
+    "name": "クロームドルフィン",
+    "realName": "ケンザ・キシオミ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "u76knuyn",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "ヤブサメ・ニンジャクラン"
+    },
+    "skills": [
+      "インテリジェント・エアロバイク「イルカクロイ」 "
+    ],
+    "appearance": "銀ラインの入った有機的シルエットのクローム・ニンジャアーマー。\n鋭角流線形のフルフェイス・ニンジャヘルム。青い眼光。サイボーグ兵士めいた外見。",
+    "description": "ネオサイタマの夜の路上を徘徊する謎のライダーニンジャ。\nエアロバイク「イルカクロイ」と一体化して疾り続ける。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%A0%E3%83%89%E3%83%AB%E3%83%95%E3%82%A3%E3%83%B3",
+    "appearances": [
+      {
+        "id": "gba0awyv"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "cd4744be"
       }
     ]
   }
