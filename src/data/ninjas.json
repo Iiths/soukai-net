@@ -4789,9 +4789,30 @@
     "name": "モーティマー・オムラ",
     "aliases": [],
     "ninjaType": "非ニンジャ",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%83%9E%E3%83%BC%E3%83%BB%E3%82%AA%E3%83%A0%E3%83%A9"
+    "skills": [],
+    "appearance": "アメフト選手じみた巨体。宇宙服めいた白いパワードスーツを着ていた。第3部時点で47歳。",
+    "description": "オムラ・インダストリCEO。\n様々なことがあり、オムラ倒産後は過去を捨て、\n4部では名を変えて家族で暮らしていた。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%83%9E%E3%83%BC%E3%83%BB%E3%82%AA%E3%83%A0%E3%83%A9",
+    "appearances": [
+      {
+        "id": "nghu0pwd"
+      },
+      {
+        "id": "12ml6hmz"
+      },
+      {
+        "id": "a26d6fd0"
+      },
+      {
+        "id": "8r8ibb8m"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9fd6aaf4"
+      }
+    ]
   },
   {
     "id": "2d19cb1f",
@@ -15863,13 +15884,11 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "コリ・ジツ（氷の巨人）"
+    "organizations": [
+      {
+        "id": "cd4744be"
+      }
     ],
-    "appearance": "白いニンジャ装束。",
-    "description": "アマクダリのコリ・ニンジャ。\n11フィートもの氷の巨像に身を包んで戦う。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%A9%E3%82%A4%E3%82%BA%E3%83%89",
     "appearances": [
       {
         "id": "6o0erlqp"
@@ -15881,11 +15900,13 @@
         "id": "2v6e48gz"
       }
     ],
-    "organizations": [
-      {
-        "id": "cd4744be"
-      }
-    ]
+    "skills": [
+      "コリ・ジツ（氷の巨人）"
+    ],
+    "appearance": "白いニンジャ装束。",
+    "description": "アマクダリのコリ・ニンジャ。\n11フィートもの氷の巨像に身を包んで戦う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%A9%E3%82%A4%E3%82%BA%E3%83%89"
   },
   {
     "id": "c19b3448",
@@ -16978,14 +16999,11 @@
       "clan": "コリ・ニンジャクラン",
       "origin": ""
     },
-    "skills": [
-      "コリ・ウェポン（大槍）",
-      "コリ・ウェポン（大盾）"
+    "organizations": [
+      {
+        "id": "cd4744be"
+      }
     ],
-    "appearance": "白いニンジャ装束。",
-    "description": "アマクダリのコリ・ニンジャ。\nコリ・ジツにより槍と盾を生成する攻防一体ニンジャ。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%A4%E3%82%B9%E3%82%B8%E3%83%A3%E3%83%99%E3%83%AA%E3%83%B3",
     "appearances": [
       {
         "id": "ba3cbca6"
@@ -17000,11 +17018,14 @@
         "id": "0f424015"
       }
     ],
-    "organizations": [
-      {
-        "id": "cd4744be"
-      }
-    ]
+    "skills": [
+      "コリ・ウェポン（大槍）",
+      "コリ・ウェポン（大盾）"
+    ],
+    "appearance": "白いニンジャ装束。",
+    "description": "アマクダリのコリ・ニンジャ。\nコリ・ジツにより槍と盾を生成する攻防一体ニンジャ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%A4%E3%82%B9%E3%82%B8%E3%83%A3%E3%83%99%E3%83%AA%E3%83%B3"
   },
   {
     "id": "dd2f5480",
@@ -17018,6 +17039,16 @@
       "clan": "コリ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "cd4744be"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "ba3cbca6"
+      }
+    ],
     "skills": [
       "コリ・スリケン",
       "コリ・ダガー"
@@ -17025,17 +17056,7 @@
     "appearance": "白いニンジャ装束。",
     "description": "アマクダリのコリ・ニンジャ。\nコリ・ジツによって空気中からスリケンなどを生成する。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E3%83%80%E3%82%B9%E3%83%88",
-    "appearances": [
-      {
-        "id": "ba3cbca6"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "cd4744be"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E3%83%80%E3%82%B9%E3%83%88"
   },
   {
     "id": "cb96d5e5",
@@ -21744,46 +21765,104 @@
   {
     "id": "fd0ce961",
     "name": "モーターサスガ",
+    "aliases": [],
+    "ninjaType": "ロボ・ニンジャ",
+    "skills": [
+      "ホログラム投射機構",
+      "歯車盾",
+      "変形機構",
+      "モーターガッタイ"
+    ],
+    "appearance": "人間の倍近いゴリラじみた巨体。腰部はシリンダー機構。\n巨大な右腕部の先端に更に大きい右腕。\n頭部には威圧的に点滅する赤い複眼と蒸気を噴出するスリット。",
+    "description": "オムラ・インダストリ残党が生み出したモーター三天使の一機。\n巨体から繰り出されるパンチは実際脅威。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B5%E3%82%B9%E3%82%AC%EF%BC%8F%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B9%E3%82%B4%E3%82%B5%EF%BC%8F%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%AB%E3%83%8A%E3%83%AA",
+    "appearances": [
+      {
+        "id": "a26d6fd0"
+      }
+    ],
     "organizations": [
       {
         "id": "9fd6aaf4"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B5%E3%82%B9%E3%82%AC%EF%BC%8F%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B9%E3%82%B4%E3%82%B5%EF%BC%8F%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%AB%E3%83%8A%E3%83%AA"
+    ]
   },
   {
     "id": "0ebf3c1d",
     "name": "モータースゴサ",
+    "aliases": [],
+    "ninjaType": "ロボ・ニンジャ",
+    "skills": [
+      "ホログラム投射機構",
+      "ドリルアーム",
+      "ハニカム式ロケットランチャー",
+      "拡散小型ミサイルランチャー",
+      "モーターガッタイ"
+    ],
+    "appearance": "スクラップ塊じみた巨体。右腕に巨大なドリル。左腕にハニカム状ロケットランチャー。",
+    "description": "オムラ・インダストリ残党が生みだしたモーター三天使の一機。\n遠近共に攻撃できる大火力を誇るが機動力を犠牲にしている。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B5%E3%82%B9%E3%82%AC%EF%BC%8F%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B9%E3%82%B4%E3%82%B5%EF%BC%8F%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%AB%E3%83%8A%E3%83%AA",
+    "appearances": [
+      {
+        "id": "a26d6fd0"
+      }
+    ],
     "organizations": [
       {
         "id": "9fd6aaf4"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B5%E3%82%B9%E3%82%AC%EF%BC%8F%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B9%E3%82%B4%E3%82%B5%EF%BC%8F%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%AB%E3%83%8A%E3%83%AA"
+    ]
   },
   {
     "id": "d0708a6d",
     "name": "モーターカナリ",
+    "aliases": [],
+    "ninjaType": "ロボ・ニンジャ",
+    "skills": [
+      "モーターガッタイ"
+    ],
+    "appearance": "脚部に装甲。その他は骨格のみ。頭部は二つ目。",
+    "description": "オムラ・インダストリ残党が生みだしたモーター三天使の一機。\n他の二天使に比べ未完成状態であったが、唯一合体機構は完成していた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B5%E3%82%B9%E3%82%AC%EF%BC%8F%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B9%E3%82%B4%E3%82%B5%EF%BC%8F%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%AB%E3%83%8A%E3%83%AA",
+    "appearances": [
+      {
+        "id": "a26d6fd0"
+      }
+    ],
     "organizations": [
       {
         "id": "9fd6aaf4"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B5%E3%82%B9%E3%82%AC%EF%BC%8F%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B9%E3%82%B4%E3%82%B5%EF%BC%8F%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%AB%E3%83%8A%E3%83%AA"
+    ]
   },
   {
     "id": "f09beb",
     "name": "モーターカネダ",
+    "realName": "カネダ・オムラ",
+    "aliases": [],
+    "ninjaType": "ロボ・ニンジャ",
+    "skills": [
+      "スリケン",
+      "サイ",
+      "電子ジャミング"
+    ],
+    "appearance": "黒帯・黒い道着。胸板にオムラ雷神紋の刺青。体表を有機皮膚プレートで覆う。\n鼻から下を黒覆面。目に埋め込み式サイバーサングラス。",
+    "description": "オムラ・インダストリが倒産後に生み出した狂気のロボCEO。\n人間と外見上はさほど変わらないが、ロボニンジャである。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%AB%E3%83%8D%E3%83%80",
+    "appearances": [
+      {
+        "id": "a26d6fd0"
+      }
+    ],
     "organizations": [
       {
         "id": "9fd6aaf4"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%AB%E3%83%8D%E3%83%80"
+    ]
   },
   {
     "id": "6fa1fb",
@@ -29642,5 +29721,60 @@
     "description": "フリーランスの賞金稼ぎニンジャ。\n無軌道なニュービーニンジャを狩っていた。",
     "status": "dead",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%83%BC%E3%83%89%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC"
+  },
+  {
+    "id": "8frel8t4",
+    "name": "モーターガッタイ",
+    "aliases": [],
+    "ninjaType": "ロボ・ニンジャ",
+    "skills": [
+      "オムラ認証システム",
+      "戦闘データフィードバックAI",
+      "メイアルーアジコンパッソ",
+      "トビゲリ"
+    ],
+    "appearance": "モーターカナリを中核として、他二機が右半身・左半身を構成。\n左右の腕にサスガの歯車盾。スゴサ右腕のドリルアーム。\n胸部装甲の下にスゴサ左腕のロケットランチャー。背部に熱蒸気の排出孔とロケットブースター。",
+    "description": "モーターサスガ、スゴサ、カナリの三天使が合体した殲滅形態。\n各機体が装備していた火力に加え、外見からは想像もできない機動力、カラテを誇る。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B5%E3%82%B9%E3%82%AC%EF%BC%8F%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B9%E3%82%B4%E3%82%B5%EF%BC%8F%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%AB%E3%83%8A%E3%83%AA#h216f30e",
+    "appearances": [
+      {
+        "id": "a26d6fd0"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9fd6aaf4"
+      }
+    ]
+  },
+  {
+    "id": "mg8jyx80",
+    "name": "スコーチャー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "dlyrvsgm",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "サソリ・ニンジャクラン"
+    },
+    "skills": [
+      "サイバネティック・カトン・ジツ"
+    ],
+    "appearance": "円柱の重なったサイバネティック・ニンジャヘルム。\n両眼はLEDアイ。",
+    "description": "オムラ・インダストリの残党企業ニンジャ。\n火炎放射装置を使ったカトン・ジツを使う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC",
+    "appearances": [
+      {
+        "id": "a26d6fd0"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9fd6aaf4"
+      }
+    ]
   }
 ]
