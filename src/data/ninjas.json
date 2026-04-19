@@ -6848,23 +6848,23 @@
       "clan": "",
       "origin": ""
     },
-    "organizations": [
-      {
-        "id": "soukaiya-p1"
-      }
-    ],
-    "appearances": [
-      {
-        "id": "sbw427wb"
-      }
-    ],
     "skills": [
       "セントリーガン",
       "セントリーパンチ"
     ],
     "description": "ソウカイヤの末端ニンジャ。\nサンシタ。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BB%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BB%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC",
+    "appearances": [
+      {
+        "id": "t4llx7ft"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      }
+    ]
   },
   {
     "id": "d6ca39db",
@@ -7132,16 +7132,6 @@
       "clan": "シノビ・ニンジャクラン",
       "origin": ""
     },
-    "organizations": [
-      {
-        "id": "soukaiya-p1"
-      }
-    ],
-    "appearances": [
-      {
-        "id": "00e29gpz"
-      }
-    ],
     "skills": [
       "エメイシ",
       "エンハンス・ジツ"
@@ -7149,7 +7139,17 @@
     "appearance": "黒玉色のニンジャ装束。青い眼光。",
     "description": "ソウカイヤのニンジャ。ゲイトキーパーの直弟子。\nダークニンジャに対抗意識を抱く。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%89%E3%83%9F%E3%83%8A%E3%83%B3%E3%83%88"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%89%E3%83%9F%E3%83%8A%E3%83%B3%E3%83%88",
+    "appearances": [
+      {
+        "id": "kqp68e75"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      }
+    ]
   },
   {
     "id": "09a16fca",
@@ -21276,16 +21276,6 @@
       "clan": "",
       "origin": ""
     },
-    "organizations": [
-      {
-        "id": "09afd629"
-      }
-    ],
-    "appearances": [
-      {
-        "id": "sbw427wb"
-      }
-    ],
     "skills": [
       "ネクロカラテ",
       "麻痺毒クナイ・ダート"
@@ -21293,7 +21283,17 @@
     "appearance": "灰色のニンジャ装束。長身の老人。\n体色は鉛色に変じ、眼は紫色に輝く。\n両手首に結ばれたクナイ・ダート。",
     "description": "リー先生が作り出したゾンビーニンジャ第1号。\nネクロカラテで戦う。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%83%99%E3%83%8A%E3%83%B3%E3%83%88"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%83%99%E3%83%8A%E3%83%B3%E3%83%88",
+    "appearances": [
+      {
+        "id": "t4llx7ft"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "09afd629"
+      }
+    ]
   },
   {
     "id": "b0a575",
