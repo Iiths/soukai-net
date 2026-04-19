@@ -15342,14 +15342,11 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "ビッグカラテ"
+    "organizations": [
+      {
+        "id": "cd4744be"
+      }
     ],
-    "role": "アマクダリ・アクシス",
-    "appearance": "プロテクタースーツ。巨漢。試作型白色バイオサイバネゴリラボディ。\n近未来的なサイボーグゴリラめいた姿。",
-    "description": "アマクダリのニンジャ。\n暴力的ビッグカラテを振るう。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%83%AB%E3%83%80%E3%83%BC%E3%82%B3%E3%83%B3%E3%82%B0",
     "appearances": [
       {
         "id": "12216e23"
@@ -15358,11 +15355,14 @@
         "id": "vr3fq73p"
       }
     ],
-    "organizations": [
-      {
-        "id": "cd4744be"
-      }
-    ]
+    "skills": [
+      "ビッグカラテ"
+    ],
+    "role": "アマクダリ・アクシス",
+    "appearance": "プロテクタースーツ。巨漢。試作型白色バイオサイバネゴリラボディ。\n近未来的なサイボーグゴリラめいた姿。",
+    "description": "アマクダリのニンジャ。\n暴力的ビッグカラテを振るう。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%83%AB%E3%83%80%E3%83%BC%E3%82%B3%E3%83%B3%E3%82%B0"
   },
   {
     "id": "c0d3ed44",
@@ -15453,17 +15453,11 @@
       "clan": "シノビニンジャ・クラン",
       "origin": ""
     },
-    "skills": [
-      "シニフリ・ジツ",
-      "ステルス・ジツ",
-      "絞殺モノフィラメントワイヤー",
-      "ドス・ダガー"
+    "organizations": [
+      {
+        "id": "cd4744be"
+      }
     ],
-    "role": "アマクダリ・アクシス",
-    "appearance": "光学迷彩ニンジャ装束。",
-    "description": "アマクダリ・アクシスのニンジャ。チバが潜り込ませた密偵。\n心音さえ止めて気配を消し、ワイヤーで絞殺する。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%82%BA%E3%82%B1%E3%82%B5",
     "appearances": [
       {
         "id": "13f93080"
@@ -15475,11 +15469,17 @@
         "id": "180a24b4"
       }
     ],
-    "organizations": [
-      {
-        "id": "cd4744be"
-      }
-    ]
+    "skills": [
+      "シニフリ・ジツ",
+      "ステルス・ジツ",
+      "絞殺モノフィラメントワイヤー",
+      "ドス・ダガー"
+    ],
+    "role": "アマクダリ・アクシス",
+    "appearance": "光学迷彩ニンジャ装束。",
+    "description": "アマクダリ・アクシスのニンジャ。チバが潜り込ませた密偵。\n心音さえ止めて気配を消し、ワイヤーで絞殺する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%82%BA%E3%82%B1%E3%82%B5"
   },
   {
     "id": "f2a66b4e",
@@ -17050,13 +17050,34 @@
   {
     "id": "5f9f1168",
     "name": "クルセイダー",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "7ynq2v6u",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "ナイト・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "サイバー馬",
+      "ランス",
+      "剣"
+    ],
+    "appearance": "黒いニンジャ装束。十字のスリットがついたバケツ型ニンジャヘルム。",
+    "description": "アマクダリのニンジャ。\nサイバー馬に騎乗し騎乗槍を振るう騎士ニンジャ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%AB%E3%82%BB%E3%82%A4%E3%83%80%E3%83%BC",
+    "appearances": [
+      {
+        "id": "180a24b4"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "02e98622",
@@ -17070,6 +17091,16 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "cd4744be"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "12216e23"
+      }
+    ],
     "skills": [
       "ヒキャク・マニューバ",
       "ブースター・カラテ",
@@ -17078,17 +17109,7 @@
     "appearance": "機械的なメンポ。小型の偏向スラスター。両肘、両手首に小型のブースターをインプラント。",
     "description": "アマクダリのニンジャ。\nブースターの推進力を利用して戦う。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%83%BC%E3%83%9C%E3%82%A2%E3%82%B5%E3%82%B7%E3%83%B3",
-    "appearances": [
-      {
-        "id": "12216e23"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "cd4744be"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%83%BC%E3%83%9C%E3%82%A2%E3%82%B5%E3%82%B7%E3%83%B3"
   },
   {
     "id": "9eb390bc",
@@ -17100,22 +17121,9 @@
       "id": "1f2h4l1x",
       "name": "",
       "grade": "グレーター級",
-      "clan": "痛み・ニンジャクラン",
+      "clan": "イタミ・ニンジャクラン",
       "origin": ""
     },
-    "organizations": [
-      {
-        "id": "soukaiya-p1"
-      },
-      {
-        "id": "cd4744be"
-      }
-    ],
-    "appearances": [
-      {
-        "id": "st6b9q7x"
-      }
-    ],
     "skills": [
       "イタミ・ジツ",
       "フック付き鎖",
@@ -17124,18 +17132,54 @@
     "appearance": "紺のニンジャ装束。筋骨隆々の異常巨体。身長250㎝超。\n両腕に鎖。背中に鋼鉄カンオケ。",
     "description": "アマクダリのニンジャ。\nカンオケ内に入れた敵の痛みを自らにも与えイタミ・ジツに変える。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%A3%E3%82%B9%E3%82%A8%E3%82%A4%E3%83%96%E3%83%A9%E3%83%BC"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%A3%E3%82%B9%E3%82%A8%E3%82%A4%E3%83%96%E3%83%A9%E3%83%BC",
+    "appearances": [
+      {
+        "id": "st6b9q7x"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      },
+      {
+        "id": "cd4744be"
+      }
+    ]
   },
   {
     "id": "1a7a20d8",
     "name": "ドクター・コーマ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "b3fetuno",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ドク・ジツ",
+      "アンキ・ウェポン"
+    ],
+    "appearance": "長身。片方を剃り上げた長い黒髪。ロングコート・ニンジャ装束。\nガスマスク的なメンポ。",
+    "description": "アマクダリのニンジャ。元リロン・ケミカル社員。\n毒薬に精通。カラテは乏しい。\nアマクダリ崩壊後も生き延びている。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%89%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%B3%E3%83%BC%E3%83%9E",
+    "appearances": [
+      {
+        "id": "180a24b4"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
+      },
+      {
+        "id": "1ede41ee"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "62d26f7f",
@@ -17171,13 +17215,32 @@
   {
     "id": "54721f43",
     "name": "ベアナックル",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "pprahz39",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": "ボックス・カラテに関連するクラン"
+    },
+    "skills": [
+      "ボックス・カラテ"
+    ],
+    "appearance": "白いニンジャ装束。上半身は頭巾とメンポを除き裸。\n細身の筋肉質。腰にブラックベルト。",
+    "description": "アマクダリのニンジャ。\nソウル由来の古式ボックス・カラテで戦う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%99%E3%82%A2%E3%83%8A%E3%83%83%E3%82%AF%E3%83%AB",
+    "appearances": [
+      {
+        "id": "180a24b4"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "0937bb67",
@@ -20213,6 +20276,36 @@
   {
     "id": "64bdfb",
     "name": "カマイタチ",
+    "aliases": [],
+    "ninjaType": "バイオニンジャ",
+    "ninjaSoul": {
+      "id": "ds2kqtta",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "肘骨ブレード"
+    ],
+    "appearance": "身長156cm。猫めいた縦長の瞳孔。人間に近い外見。\n肘骨がブレードになっている。",
+    "description": "サヴァイヴァー・ドージョーの若いバイオニンジャ。\n俊敏に動き回り、肋骨のブレードで攻撃する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%83%9E%E3%82%A4%E3%82%BF%E3%83%81",
+    "appearances": [
+      {
+        "id": "8bf115a4"
+      },
+      {
+        "id": "180a24b4"
+      },
+      {
+        "id": "qeenefau"
+      },
+      {
+        "id": "08f2e3c4"
+      }
+    ],
     "organizations": [
       {
         "id": "8e0630be"
@@ -20220,9 +20313,7 @@
       {
         "id": "y8yzi8su"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%83%9E%E3%82%A4%E3%82%BF%E3%83%81"
+    ]
   },
   {
     "id": "1ed979",
@@ -21026,13 +21117,32 @@
   {
     "id": "28675c",
     "name": "ガーデナー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "nf0tsdm8",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "巨大芝刈り機"
+    ],
+    "appearance": "体長9フィート。腹部に錆び付いた巨大芝刈り機を埋め込んでいる。",
+    "description": "INWが生みだしたゾンビーニンジャ。\nニンジャ耐久力で攻撃を耐え、鷲掴みにした敵を腹の芝刈り機でネギトロにする。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AC%E3%83%BC%E3%83%87%E3%83%8A%E3%83%BC",
+    "appearances": [
+      {
+        "id": "180a24b4"
+      }
+    ],
     "organizations": [
       {
         "id": "09afd629"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AC%E3%83%BC%E3%83%87%E3%83%8A%E3%83%BC"
+    ]
   },
   {
     "id": "4ac02d",
