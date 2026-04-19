@@ -4661,14 +4661,7 @@
       "clan": "ノーム・ニンジャクラン",
       "origin": ""
     },
-    "skills": [
-      "ポンプアクション式ショットガン",
-      "斧"
-    ],
-    "appearance": "南北戦争風のニンジャ装束。ヒゲモジャ。ガラス玉めいた狂的な目。\n背中にカンテラをくくり付けたリュックサックや斧。",
-    "description": "ネオサイタマの地下下水道で生きる隠遁ニンジャ。\n窃盗品や収集品を物々交換してくれる。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AD%E3%83%A3%E3%83%97%E3%83%86%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%A9%E3%83%AB",
+    "organizations": [],
     "appearances": [
       {
         "id": "2pl20n72"
@@ -4680,7 +4673,14 @@
         "id": "qeenefau"
       }
     ],
-    "organizations": []
+    "skills": [
+      "ポンプアクション式ショットガン",
+      "斧"
+    ],
+    "appearance": "南北戦争風のニンジャ装束。ヒゲモジャ。ガラス玉めいた狂的な目。\n背中にカンテラをくくり付けたリュックサックや斧。",
+    "description": "ネオサイタマの地下下水道で生きる隠遁ニンジャ。\n窃盗品や収集品を物々交換してくれる。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AD%E3%83%A3%E3%83%97%E3%83%86%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%A9%E3%83%AB"
   },
   {
     "id": "17754559225",
@@ -4694,14 +4694,7 @@
       "clan": "ヨロイ・ニンジャクラン",
       "origin": ""
     },
-    "skills": [
-      "サイサムライケン",
-      "サイサムライシステム"
-    ],
-    "appearance": "黒い武者鎧めいた甲冑「サイアーマー」。隙間が七色に脈打っている。\n鎧の両肩に「賽」のショドー。半月型の前立を戴く武者兜。顔全体を覆う恐ろしげなサムライメンポ。",
-    "description": "ネオサイタマのフリーランス賞金稼ぎニンジャ。\n息子が設計・開発した総合サイバネ外骨格運用技術「サイシステム」を運用する。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%82%A4%E3%82%B5%E3%83%A0%E3%83%A9%E3%82%A4",
+    "organizations": [],
     "appearances": [
       {
         "id": "222c43b6"
@@ -4716,7 +4709,14 @@
         "id": "8r8ibb8m"
       }
     ],
-    "organizations": []
+    "skills": [
+      "サイサムライケン",
+      "サイサムライシステム"
+    ],
+    "appearance": "黒い武者鎧めいた甲冑「サイアーマー」。隙間が七色に脈打っている。\n鎧の両肩に「賽」のショドー。半月型の前立を戴く武者兜。顔全体を覆う恐ろしげなサムライメンポ。",
+    "description": "ネオサイタマのフリーランス賞金稼ぎニンジャ。\n息子が設計・開発した総合サイバネ外骨格運用技術「サイシステム」を運用する。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%82%A4%E3%82%B5%E3%83%A0%E3%83%A9%E3%82%A4"
   },
   {
     "id": "17754559226",
@@ -17793,17 +17793,33 @@
   {
     "id": "9798397e",
     "name": "カコデモン",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "afq25hqw",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "アクマ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "アクマ変身",
+      "ダブル・アクマ・ポン・パンチ"
+    ],
+    "appearance": "暗鉛色のニンジャ装束。メンポ。スーツ姿に擬態していた。\n大柄で屈強な体格。三白眼。",
+    "description": "アマクダリのニンジャ。サラカイカ・ヘクト社の護衛をしていた。\nアクマ変身して強大な力を発揮する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%82%B3%E3%83%87%E3%83%A2%E3%83%B3",
+    "appearances": [
+      {
+        "id": "a72113c1"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
-      },
-      {
-        "id": "8cd205c5"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%82%B3%E3%83%87%E3%83%A2%E3%83%B3"
+    ]
   },
   {
     "id": "2d0ef9d5",
@@ -17860,13 +17876,33 @@
   {
     "id": "76bdeae2",
     "name": "クルーエルアイアン",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "u0afedcv",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "ケムリ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "キセル",
+      "毒ガス"
+    ],
+    "appearance": "濃紺のニンジャ装束。全長1m以上の鋼鉄キセル。",
+    "description": "アマクダリの下級ニンジャ。\n鋼鉄キセルは毒ガスを放つほか、打撃武器としても優秀。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%A8%E3%83%AB%E3%82%A2%E3%82%A4%E3%82%A2%E3%83%B3",
+    "appearances": [
+      {
+        "id": "a72113c1"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "45b6bf5b",
@@ -17902,19 +17938,19 @@
       "clan": "コブラ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "222c43b6"
+      }
+    ],
     "skills": [
       "イシ・ジツ"
     ],
     "appearance": "光沢のある黒みがかった紫の装束。ギラギラと光る目。\n開口式メンポの下に長い舌。",
     "description": "ネオサイタマのフリーランス傭兵ニンジャ。\nフドウカナシバリ・ジツの一種で相手を石化させてしまう。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B4%E3%83%BC%E3%82%B4%E3%83%B3",
-    "appearances": [
-      {
-        "id": "222c43b6"
-      }
-    ],
-    "organizations": []
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B4%E3%83%BC%E3%82%B4%E3%83%B3"
   },
   {
     "id": "1ddab1ca",
@@ -18183,13 +18219,32 @@
   {
     "id": "d62283b1",
     "name": "ナイトサーバント",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "gly9e0y9",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "ジャガー・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "爪"
+    ],
+    "appearance": "両手に凶悪な爪状武器を展開する機構を持つ。",
+    "description": "アマクダリの下級ニンジャ。\n両手の爪で引き裂き攻撃をする。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8A%E3%82%A4%E3%83%88%E3%82%B5%E3%83%BC%E3%83%90%E3%83%B3%E3%83%88",
+    "appearances": [
+      {
+        "id": "a72113c1"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "a95b4a4c",
@@ -30386,6 +30441,12 @@
       "name": "ダイモン・ニンジャ",
       "grade": "アーチ級"
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "9581c315"
+      }
+    ],
     "skills": [
       "酩酊の世界",
       "クナイ・ダート"
@@ -30393,13 +30454,7 @@
     "appearance": "超自然のメンポ。煮えたぎる混沌めいた顔面を持つ人間離れした風貌。",
     "description": "酩酊者の前に姿を現す超自然的ニンジャ。\n嘔吐寸前の状態で闘わなければならず、意外とキケン。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%83%83%E3%82%AB%E3%82%B9",
-    "appearances": [
-      {
-        "id": "9581c315"
-      }
-    ],
-    "organizations": []
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%83%83%E3%82%AB%E3%82%B9"
   },
   {
     "id": "nq2nutep",
@@ -30411,17 +30466,17 @@
       "name": "",
       "grade": "等級不明"
     },
-    "skills": [],
-    "appearance": "ボンズヘアーの頭頂部を渦巻き状に刈り込んだ髪型。",
-    "description": "ネオサイタマのヤクザニンジャ。\n会員制バーを根城に中立を維持している。\n第4部では地下バーを経営しているようだ。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%A9%E3%82%AF%E3%82%BA%E3%83%BC",
+    "organizations": [],
     "appearances": [
       {
         "id": "222c43b6"
       }
     ],
-    "organizations": []
+    "skills": [],
+    "appearance": "ボンズヘアーの頭頂部を渦巻き状に刈り込んだ髪型。",
+    "description": "ネオサイタマのヤクザニンジャ。\n会員制バーを根城に中立を維持している。\n第4部では地下バーを経営しているようだ。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%A9%E3%82%AF%E3%82%BA%E3%83%BC"
   },
   {
     "id": "fvknsu2z",
@@ -30433,19 +30488,19 @@
       "name": "",
       "grade": "等級不明"
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "20d3a4ce"
+      }
+    ],
     "skills": [
       "毒液"
     ],
     "appearance": "長身。ツヤのある紫色のニンジャ装束。蛍光色の液体の流れるチューブ。",
     "description": "キングピンに加担していた野良ニンジャ。\nチューブに流れる毒液を利用してカラテする。",
     "status": "unknown",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%80%E3%83%81%E3%83%A5%E3%83%A9",
-    "appearances": [
-      {
-        "id": "20d3a4ce"
-      }
-    ],
-    "organizations": []
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%80%E3%83%81%E3%83%A5%E3%83%A9"
   },
   {
     "id": "os5ie3re",
@@ -30458,18 +30513,18 @@
       "grade": "レッサー級",
       "clan": "ハチ・ニンジャクラン"
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "20d3a4ce"
+      }
+    ],
     "skills": [
       "麻痺毒ニードル"
     ],
     "appearance": "黄色と黒の警戒色ニンジャ装束。両膝、肘にニードル。",
     "description": "キングピンとつるんでいた野良ニンジャ。\nニードルには麻痺毒が塗られている。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9D%E3%83%AA%E3%82%B9%E3%83%86%E3%82%A3%E3%83%8A%E3%82%A8",
-    "appearances": [
-      {
-        "id": "20d3a4ce"
-      }
-    ],
-    "organizations": []
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9D%E3%83%AA%E3%82%B9%E3%83%86%E3%82%A3%E3%83%8A%E3%82%A8"
   }
 ]
