@@ -30422,5 +30422,54 @@
       }
     ],
     "organizations": []
+  },
+  {
+    "id": "fvknsu2z",
+    "name": "ダチュラ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "raeib42i",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "毒液"
+    ],
+    "appearance": "長身。ツヤのある紫色のニンジャ装束。蛍光色の液体の流れるチューブ。",
+    "description": "キングピンに加担していた野良ニンジャ。\nチューブに流れる毒液を利用してカラテする。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%80%E3%83%81%E3%83%A5%E3%83%A9",
+    "appearances": [
+      {
+        "id": "20d3a4ce"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "os5ie3re",
+    "name": "ポリスティナエ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "tcgpjpru",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "ハチ・ニンジャクラン"
+    },
+    "skills": [
+      "麻痺毒ニードル"
+    ],
+    "appearance": "黄色と黒の警戒色ニンジャ装束。両膝、肘にニードル。",
+    "description": "キングピンとつるんでいた野良ニンジャ。\nニードルには麻痺毒が塗られている。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9D%E3%83%AA%E3%82%B9%E3%83%86%E3%82%A3%E3%83%8A%E3%82%A8",
+    "appearances": [
+      {
+        "id": "20d3a4ce"
+      }
+    ],
+    "organizations": []
   }
 ]
