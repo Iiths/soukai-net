@@ -17467,50 +17467,125 @@
   {
     "id": "76dce26d",
     "name": "ディスポイラー",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "fzjrio99",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "コブラ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "軍旗槍"
+    ],
+    "appearance": "背中に禍々しい4本のペナント軍旗槍。\n蛇を象った青銅のメンポ。",
+    "description": "アマクダリの衛星組織「スネイクピット」の首領。\n情け容赦ない地上げヤクザ。高いカラテ実力を持つ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%9D%E3%82%A4%E3%83%A9%E3%83%BC",
+    "appearances": [
+      {
+        "id": "99d1ba29"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%9D%E3%82%A4%E3%83%A9%E3%83%BC"
+    ]
   },
   {
     "id": "d0022d47",
     "name": "サーペンタイン",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "29xg1fz9",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "ヘビニンジャ・クラン",
+      "origin": ""
+    },
+    "skills": [
+      "ヘビ・カラテ",
+      "チドク・ジツ"
+    ],
+    "appearance": "狡猾な切れ長の目。黒く長い頭髪。唇に刃物の傷痕。\n白カンフーニンジャ装束。両手に白手袋。蛇を象った青銅のメンポ。",
+    "description": "スネイクピットの所属ニンジャ。\n冷静沈着で計算高い。ヘビ・カラテを使う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%BC%E3%83%9A%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3",
+    "appearances": [
+      {
+        "id": "99d1ba29"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%BC%E3%83%9A%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3"
+    ]
   },
   {
     "id": "a19f07f3",
     "name": "スティールバイト",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "uwx7rqwp",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "ムカデ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "ムカデ・カラテ",
+      "スリケン"
+    ],
+    "appearance": "アマクダリ紋の入った茶色のニンジャ装束。\n親指以外の指に爪を装備。",
+    "description": "スネイクピットのニンジャ。\n噛みつくようなムカデ・カラテの使い手。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%90%E3%82%A4%E3%83%88",
+    "appearances": [
+      {
+        "id": "99d1ba29"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%90%E3%82%A4%E3%83%88"
+    ]
   },
   {
     "id": "731c1a36",
     "name": "ホワイトパイソン",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "1slkm52o",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "コブラニンジャ・クラン",
+      "origin": ""
+    },
+    "skills": [
+      "フランベルジュ",
+      "ヘンゲヨーカイ・ジツ"
+    ],
+    "appearance": "病的に白い逞しい肉体。上半身裸に黒ハカマ。\n黒く波打く頭髪。顎には野蛮な長い黒髭。\n赤い目。口元を蛇を象った青銅。",
+    "description": "スネイクピット所属のニンジャ。\n元アンタイブディストの狂戦士。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%91%E3%82%A4%E3%82%BD%E3%83%B3",
+    "appearances": [
+      {
+        "id": "99d1ba29"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%91%E3%82%A4%E3%82%BD%E3%83%B3"
+    ]
   },
   {
     "id": "d31855e0",
@@ -17802,6 +17877,16 @@
       "clan": "アクマ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "cd4744be"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "a72113c1"
+      }
+    ],
     "skills": [
       "アクマ変身",
       "ダブル・アクマ・ポン・パンチ"
@@ -17809,17 +17894,7 @@
     "appearance": "暗鉛色のニンジャ装束。メンポ。スーツ姿に擬態していた。\n大柄で屈強な体格。三白眼。",
     "description": "アマクダリのニンジャ。サラカイカ・ヘクト社の護衛をしていた。\nアクマ変身して強大な力を発揮する。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%82%B3%E3%83%87%E3%83%A2%E3%83%B3",
-    "appearances": [
-      {
-        "id": "a72113c1"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "cd4744be"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%82%B3%E3%83%87%E3%83%A2%E3%83%B3"
   },
   {
     "id": "2d0ef9d5",
@@ -17885,6 +17960,16 @@
       "clan": "ケムリ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "cd4744be"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "a72113c1"
+      }
+    ],
     "skills": [
       "キセル",
       "毒ガス"
@@ -17892,17 +17977,7 @@
     "appearance": "濃紺のニンジャ装束。全長1m以上の鋼鉄キセル。",
     "description": "アマクダリの下級ニンジャ。\n鋼鉄キセルは毒ガスを放つほか、打撃武器としても優秀。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%A8%E3%83%AB%E3%82%A2%E3%82%A4%E3%82%A2%E3%83%B3",
-    "appearances": [
-      {
-        "id": "a72113c1"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "cd4744be"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%A8%E3%83%AB%E3%82%A2%E3%82%A4%E3%82%A2%E3%83%B3"
   },
   {
     "id": "45b6bf5b",
@@ -18228,23 +18303,23 @@
       "clan": "ジャガー・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "cd4744be"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "a72113c1"
+      }
+    ],
     "skills": [
       "爪"
     ],
     "appearance": "両手に凶悪な爪状武器を展開する機構を持つ。",
     "description": "アマクダリの下級ニンジャ。\n両手の爪で引き裂き攻撃をする。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8A%E3%82%A4%E3%83%88%E3%82%B5%E3%83%BC%E3%83%90%E3%83%B3%E3%83%88",
-    "appearances": [
-      {
-        "id": "a72113c1"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "cd4744be"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8A%E3%82%A4%E3%83%88%E3%82%B5%E3%83%BC%E3%83%90%E3%83%B3%E3%83%88"
   },
   {
     "id": "a95b4a4c",
@@ -30526,5 +30601,36 @@
     "description": "キングピンとつるんでいた野良ニンジャ。\nニードルには麻痺毒が塗られている。",
     "status": "dead",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9D%E3%83%AA%E3%82%B9%E3%83%86%E3%82%A3%E3%83%8A%E3%82%A8"
+  },
+  {
+    "id": "trnmujmi",
+    "name": "オウガパピー ",
+    "realName": "ジェット・ヤマガタ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "unnhpve5",
+      "name": "",
+      "grade": "アーチ級"
+    },
+    "skills": [
+      "オウガ・オメーン",
+      "ゴースト・オメーン",
+      "ウェポンマスター・オメーン",
+      "デス・オメーン"
+    ],
+    "appearance": "黒いニンジャ装束。様々なチャイニーズ・オメーンを切り替える。",
+    "description": "若手アクション俳優に謎めいたニンジャソウルが憑依。\n複数のオメーンでフォームチェンジするが、素顔を見られるとセプクしてしまう。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E3%83%BB%E3%83%A4%E3%83%9E%E3%82%AC%E3%82%BF",
+    "appearances": [
+      {
+        "id": "99d1ba29"
+      },
+      {
+        "id": "8fffe24e"
+      }
+    ],
+    "organizations": []
   }
 ]
