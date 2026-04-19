@@ -443,15 +443,11 @@
       "モーターユンコ"
     ],
     "ninjaType": "非ニンジャ",
-    "skills": [
-      "テクノカラテ",
-      "各種武装",
-      "ヤブサメスタイル"
+    "organizations": [
+      {
+        "id": "a91ea54d"
+      }
     ],
-    "appearance": "身長162cm。サイバーゴスヘア。\nバーコード状の眉毛。サイバーゴスウェア。黒いゴーグル。アームカバー。厚底強化ゴスブーツ。\n第4部では上からオーバーサイズ気味の白衣コートを羽織る。",
-    "description": "オイランドロイドの身体で蘇ったサイバーゴス少女。\n父の遺した身体に誇りを持ち、アマクダリと戦った。\n第4部ではネオサイタマ第二大学で客員講師を務めている。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A6%E3%83%B3%E3%82%B3%E3%83%BB%E3%82%B9%E3%82%BA%E3%82%AD",
     "appearances": [
       {
         "id": "12216e23"
@@ -502,11 +498,15 @@
         "id": "6dcsfo7u"
       }
     ],
-    "organizations": [
-      {
-        "id": "a91ea54d"
-      }
-    ]
+    "skills": [
+      "テクノカラテ",
+      "各種武装",
+      "ヤブサメスタイル"
+    ],
+    "appearance": "身長162cm。サイバーゴスヘア。\nバーコード状の眉毛。サイバーゴスウェア。黒いゴーグル。アームカバー。厚底強化ゴスブーツ。\n第4部では上からオーバーサイズ気味の白衣コートを羽織る。",
+    "description": "オイランドロイドの身体で蘇ったサイバーゴス少女。\n父の遺した身体に誇りを持ち、アマクダリと戦った。\n第4部ではネオサイタマ第二大学で客員講師を務めている。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A6%E3%83%B3%E3%82%B3%E3%83%BB%E3%82%B9%E3%82%BA%E3%82%AD"
   },
   {
     "id": "1775455911",
@@ -15333,13 +15333,36 @@
   {
     "id": "535fa785",
     "name": "エルダーコング",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "zpy4tzrf",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ビッグカラテ"
+    ],
+    "role": "アマクダリ・アクシス",
+    "appearance": "プロテクタースーツ。巨漢。試作型白色バイオサイバネゴリラボディ。\n近未来的なサイボーグゴリラめいた姿。",
+    "description": "アマクダリのニンジャ。\n暴力的ビッグカラテを振るう。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%83%AB%E3%83%80%E3%83%BC%E3%82%B3%E3%83%B3%E3%82%B0",
+    "appearances": [
+      {
+        "id": "12216e23"
+      },
+      {
+        "id": "vr3fq73p"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "c0d3ed44",
@@ -15421,13 +15444,42 @@
   {
     "id": "4ae9f05d",
     "name": "シズケサ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "i2negd27",
+      "name": "トザマ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "シノビニンジャ・クラン",
+      "origin": ""
+    },
+    "skills": [
+      "シニフリ・ジツ",
+      "ステルス・ジツ",
+      "絞殺モノフィラメントワイヤー",
+      "ドス・ダガー"
+    ],
+    "role": "アマクダリ・アクシス",
+    "appearance": "光学迷彩ニンジャ装束。",
+    "description": "アマクダリ・アクシスのニンジャ。チバが潜り込ませた密偵。\n心音さえ止めて気配を消し、ワイヤーで絞殺する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%82%BA%E3%82%B1%E3%82%B5",
+    "appearances": [
+      {
+        "id": "13f93080"
+      },
+      {
+        "id": "12216e23"
+      },
+      {
+        "id": "180a24b4"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "f2a66b4e",
@@ -17009,13 +17061,34 @@
   {
     "id": "02e98622",
     "name": "ターボアサシン",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "viirc4pi",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ヒキャク・マニューバ",
+      "ブースター・カラテ",
+      "振動ダガーナイフ"
+    ],
+    "appearance": "機械的なメンポ。小型の偏向スラスター。両肘、両手首に小型のブースターをインプラント。",
+    "description": "アマクダリのニンジャ。\nブースターの推進力を利用して戦う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%83%BC%E3%83%9C%E3%82%A2%E3%82%B5%E3%82%B7%E3%83%B3",
+    "appearances": [
+      {
+        "id": "12216e23"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "9eb390bc",
