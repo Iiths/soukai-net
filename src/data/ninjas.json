@@ -15626,13 +15626,35 @@
   {
     "id": "23f377d4",
     "name": "パンデモニウム",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "05u2mnnj",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "イカルガ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "カラテミサイル"
+    ],
+    "appearance": "何の特徴もないボロボロのフード付き装束。隠者めいた出で立ち。",
+    "description": "アマクダリのニンジャ。恐らくアクシス所属。\nカラテミサイルを周囲に展開して戦う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%91%E3%83%B3%E3%83%87%E3%83%A2%E3%83%8B%E3%82%A6%E3%83%A0",
+    "appearances": [
+      {
+        "id": "13f93080"
+      },
+      {
+        "id": "12216e23"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "1b189076",
@@ -15814,13 +15836,27 @@
   {
     "id": "f5cd7863",
     "name": "ホットショット",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "skills": [
+      "カトン・スリケン",
+      "カトン・ウィップ",
+      "アイクチ・ダガー"
+    ],
+    "role": "アマクダリ・アクシス",
+    "description": "アマクダリ・アクシスのニンジャ。\nカトン・ウェポンを生成して戦う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9B%E3%83%83%E3%83%88%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88",
+    "appearances": [
+      {
+        "id": "13f93080"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "839656e6",
@@ -17434,35 +17470,91 @@
   {
     "id": "73da19a5",
     "name": "トワイライト",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "cdasr4qx",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": "ヒカリ・ニンジャクランではない"
+    },
+    "skills": [],
+    "description": "サーカディアン・スリーのニンジャ。\n周囲の空間から光量を奪い取るジツを持つ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%88%E3%83%AF%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%88",
+    "appearances": [
+      {
+        "id": "13f93080"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "18d82f60",
     "name": "ムーンビーム",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "r0qd9cbu",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "ヒカリ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "イザヨイ・ジツ",
+      "ツカハラ回転",
+      "ムーングンバイ"
+    ],
+    "appearance": "青色のニンジャ装束。月飾りの武者兜。",
+    "description": "サーカディアン・スリーのニンジャ。\n蓄積した月光をビーム放射するイザヨイ・ジツの使い手。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A0%E3%83%BC%E3%83%B3%E3%83%93%E3%83%BC%E3%83%A0",
+    "appearances": [
+      {
+        "id": "99d1ba29"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "c0ed6701",
     "name": "レイディアンス",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "xqzcqibu",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "ヒカリ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "ヒカリ・ジツ"
+    ],
+    "appearance": "黄色いニンジャ装束。太陽飾りの武者兜。",
+    "description": "アマクダリ衛星組織「サーカディアン・スリー」のニンジャ。\n凄まじい閃光で敵の視界を奪うヒカリ・ジツの使い手。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%82%A4%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E3%82%B9",
+    "appearances": [
+      {
+        "id": "13f93080"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "76dce26d",
@@ -30629,6 +30721,32 @@
       },
       {
         "id": "8fffe24e"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "qq6u4a9e",
+    "name": "シュリーカー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "yh32vpso",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "モズニンジャ・クラン"
+    },
+    "skills": [
+      "ジェットパック飛行",
+      "サスマタ"
+    ],
+    "appearance": "中世ペスト医者めいたメンポ。",
+    "description": "ジェットパンクス・ギャングのニンジャ。\n耳をつんざくほど凄まじい音波を放ちながら飛翔する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%A5%E3%83%AA%E3%83%BC%E3%82%AB%E3%83%BC",
+    "appearances": [
+      {
+        "id": "13f93080"
       }
     ],
     "organizations": []
