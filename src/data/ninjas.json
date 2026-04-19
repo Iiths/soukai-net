@@ -20491,6 +20491,24 @@
   {
     "id": "4ee5b2",
     "name": "ミルメコレオ",
+    "aliases": [],
+    "ninjaType": "バイオニンジャ",
+    "ninjaSoul": {
+      "id": "qzq9f5rc",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "description": "サヴァイヴァー・ドージョーに所属していたバイオニンジャ。\n自分勝手な性格だったらしい。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9F%E3%83%AB%E3%83%A1%E3%82%B3%E3%83%AC%E3%82%AA",
+    "appearances": [
+      {
+        "id": "8bf115a4"
+      }
+    ],
     "organizations": [
       {
         "id": "8e0630be"
@@ -20498,9 +20516,7 @@
       {
         "id": "y8yzi8su"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9F%E3%83%AB%E3%83%A1%E3%82%B3%E3%83%AC%E3%82%AA"
+    ]
   },
   {
     "id": "b1f73a",
@@ -22526,13 +22542,31 @@
   {
     "id": "cdfc2b",
     "name": "エルトリアト",
+    "aliases": [],
+    "ninjaType": "バイオニンジャ",
+    "ninjaSoul": {
+      "id": "4doqepjl",
+      "name": "",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ブラッドサッカー・クナイ"
+    ],
+    "appearance": "逞しい体躯。西部保安官めいたハットとコート。立派な髭。\nバイオなめし革製の医療鞄に対バイオニンジャ用の七つ道具を入れている。",
+    "description": "ヨロシサン製薬の企業ニンジャ。\nバイオニンジャ専門の掃除屋。ナイフにバイオインゴットを失わせる効果がある。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%83%AB%E3%83%88%E3%83%AA%E3%82%A2%E3%83%88",
+    "appearances": [
+      {
+        "id": "8bf115a4"
+      }
+    ],
     "organizations": [
       {
         "id": "y8yzi8su"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%83%AB%E3%83%88%E3%83%AA%E3%82%A2%E3%83%88"
+    ]
   },
   {
     "id": "e56bf4",
