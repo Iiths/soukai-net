@@ -1,0 +1,362 @@
+.page {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+/* ---- トップバー ---- */
+.topBar {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.btnBack {
+  padding: 0.4rem 0.9rem;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  background: var(--color-surface);
+  color: var(--color-text-muted);
+  cursor: pointer;
+  font-size: 0.85rem;
+  transition: all 0.2s ease;
+}
+
+.btnBack:hover {
+  color: var(--color-text);
+  border-color: var(--color-primary);
+}
+
+.pageTitle {
+  margin: 0;
+  font-size: 1.35rem;
+  color: var(--color-primary);
+  font-weight: 700;
+}
+
+.loading {
+  text-align: center;
+  padding: 3rem 1.5rem;
+  background: var(--color-surface);
+  border-radius: var(--radius-md);
+  border: 1px solid var(--color-border);
+  color: var(--color-text-muted);
+}
+
+/* ---- 注意書き ---- */
+.note {
+  margin: 0;
+  padding: 0.75rem 1rem;
+  background: rgba(0, 217, 146, 0.06);
+  border-left: 3px solid var(--color-primary);
+  border-radius: var(--radius-sm);
+  color: var(--color-text-muted);
+  font-size: 0.85rem;
+  line-height: 1.6;
+}
+
+.note code {
+  background: rgba(255, 255, 255, 0.06);
+  padding: 0.1rem 0.4rem;
+  border-radius: 3px;
+  font-family: var(--font-mono, monospace);
+  font-size: 0.82em;
+}
+
+/* ---- 保存バー ---- */
+.saveBar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  padding: 0.75rem 1rem;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+}
+
+.saveBarInfo {
+  color: var(--color-text-muted);
+  font-size: 0.85rem;
+}
+
+.saveBarInfo strong {
+  color: var(--color-text);
+  font-weight: 700;
+}
+
+.saveBarActions {
+  display: flex;
+  gap: 0.6rem;
+}
+
+.btnAddNew {
+  padding: 0.45rem 1rem;
+  border: 1px solid rgba(0, 217, 146, 0.35);
+  border-radius: var(--radius-sm);
+  background: transparent;
+  color: var(--color-primary-mint, var(--color-primary));
+  cursor: pointer;
+  font-size: 0.85rem;
+  font-weight: 600;
+  transition: all 0.2s ease;
+}
+
+.btnAddNew:hover {
+  background: rgba(0, 217, 146, 0.08);
+  border-color: var(--color-primary);
+}
+
+.btnDownload {
+  padding: 0.45rem 1rem;
+  border: 1px solid var(--color-primary);
+  border-radius: var(--radius-sm);
+  background: var(--color-primary);
+  color: #0d1117;
+  cursor: pointer;
+  font-size: 0.85rem;
+  font-weight: 700;
+  transition: opacity 0.2s ease;
+}
+
+.btnDownload:hover:not(:disabled) {
+  opacity: 0.88;
+}
+
+.btnDownload:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+/* ---- 検索 ---- */
+.searchBarWrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  padding: 0.4rem 0;
+}
+
+.searchInput {
+  flex: 1;
+  max-width: 420px;
+  padding: 0.45rem 0.75rem;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  color: var(--color-text);
+  font-size: 0.9rem;
+  font-family: var(--font-body);
+}
+
+.searchInput:focus {
+  outline: none;
+  border-color: var(--color-primary);
+}
+
+.searchCount {
+  color: var(--color-text-muted);
+  font-size: 0.82rem;
+}
+
+/* ---- テーブル ---- */
+.tableWrapper {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  overflow-x: auto;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.88rem;
+}
+
+.table thead th {
+  position: sticky;
+  top: 0;
+  background: var(--color-surface);
+  z-index: 1;
+  padding: 0.7rem 0.8rem;
+  text-align: left;
+  color: var(--color-text-muted);
+  font-weight: 600;
+  font-size: 0.78rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.thId      { width: 18%; }
+.thName    { width: 62%; }
+.thActions { width: 20%; }
+
+.table tbody tr {
+  border-bottom: 1px solid var(--color-border);
+}
+
+.table tbody tr:last-child {
+  border-bottom: none;
+}
+
+.row {
+  transition: background 0.15s ease;
+}
+
+.row:hover {
+  background: rgba(255, 255, 255, 0.02);
+}
+
+.rowModified          { background: rgba(0, 217, 146, 0.04); }
+.rowModified:hover    { background: rgba(0, 217, 146, 0.07); }
+.rowNewDraft          { background: rgba(246, 173, 85, 0.06); }
+.rowNewDraft:hover    { background: rgba(246, 173, 85, 0.10); }
+.rowNewCommitted      { background: rgba(99, 179, 237, 0.05); }
+.rowNewCommitted:hover{ background: rgba(99, 179, 237, 0.09); }
+
+.rowDeleted {
+  background: rgba(245, 101, 101, 0.06);
+  opacity: 0.72;
+}
+
+.rowDeleted .input {
+  text-decoration: line-through;
+  color: var(--color-text-muted);
+}
+
+.table td {
+  padding: 0.45rem 0.7rem;
+  vertical-align: middle;
+}
+
+/* ---- セル ---- */
+.cellId {
+  white-space: nowrap;
+  font-family: var(--font-mono, monospace);
+  font-size: 0.78rem;
+  color: var(--color-text-muted);
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  flex-wrap: wrap;
+}
+
+.id {
+  background: rgba(255, 255, 255, 0.05);
+  padding: 0.1rem 0.4rem;
+  border-radius: 3px;
+}
+
+.cellName { }
+
+.cellActions {
+  white-space: nowrap;
+  display: flex;
+  gap: 0.35rem;
+  align-items: center;
+}
+
+/* ---- 入力 ---- */
+.input {
+  width: 100%;
+  padding: 0.35rem 0.55rem;
+  background: var(--color-bg);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  color: var(--color-text);
+  font-size: 0.85rem;
+  font-family: var(--font-body);
+  box-sizing: border-box;
+}
+
+.input:focus {
+  outline: none;
+  border-color: var(--color-primary);
+}
+
+.input:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+/* ---- 行ボタン ---- */
+.btnUpdate,
+.btnDelete,
+.btnUndoDelete {
+  padding: 0.3rem 0.7rem;
+  border-radius: var(--radius-sm);
+  font-size: 0.78rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  white-space: nowrap;
+  line-height: 1;
+}
+
+.btnUpdate {
+  border: 1px solid rgba(0, 217, 146, 0.5);
+  background: transparent;
+  color: var(--color-primary-mint, var(--color-primary));
+  min-width: 3rem;
+}
+
+.btnUpdate:hover:not(:disabled) {
+  background: rgba(0, 217, 146, 0.12);
+  border-color: var(--color-primary);
+}
+
+.btnUpdate:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.btnUpdateDone {
+  background: var(--color-primary);
+  color: #0d1117;
+  border-color: var(--color-primary);
+}
+
+.btnDelete {
+  border: 1px solid rgba(245, 101, 101, 0.45);
+  background: transparent;
+  color: #f56565;
+}
+
+.btnDelete:hover {
+  background: rgba(245, 101, 101, 0.1);
+  border-color: #f56565;
+}
+
+.btnUndoDelete {
+  border: 1px solid var(--color-border);
+  background: var(--color-surface);
+  color: var(--color-text-muted);
+}
+
+.btnUndoDelete:hover {
+  color: var(--color-text);
+  border-color: var(--color-primary);
+}
+
+/* ---- バッジ ---- */
+.badgeModified,
+.badgeNew,
+.badgeNewCommitted,
+.badgeDeleted {
+  display: inline-block;
+  padding: 0.08rem 0.4rem;
+  border-radius: 3px;
+  font-size: 0.68rem;
+  font-weight: 700;
+  font-family: var(--font-body);
+  letter-spacing: 0.02em;
+  line-height: 1.2;
+  white-space: nowrap;
+}
+
+.badgeModified       { background: rgba(0, 217, 146, 0.18); color: var(--color-primary-mint, var(--color-primary)); }
+.badgeNew            { background: rgba(246, 173, 85, 0.2); color: #f6ad55; }
+.badgeNewCommitted   { background: rgba(99, 179, 237, 0.2); color: #63b3ed; }
+.badgeDeleted        { background: rgba(245, 101, 101, 0.2); color: #f56565; }

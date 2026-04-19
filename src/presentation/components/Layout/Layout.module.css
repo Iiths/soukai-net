@@ -115,6 +115,11 @@
   color: var(--color-text);
 }
 
+.navButtonActive {
+  border-color: var(--color-primary);
+  color: var(--color-primary);
+}
+
 .navButtonSave {
   border-color: rgba(0, 217, 146, 0.35);
   color: var(--color-primary-mint);

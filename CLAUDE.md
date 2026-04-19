@@ -4,7 +4,7 @@
 > `wiki_crawler.py`（737行）などの大ファイルの再読を省略し、作業を即開始できるようにする。
 >
 > **更新方針**: 新しいスクリプトを作成した・スキーマを変更した・ハマった知見があれば追記する。
-> 最終更新: 2026-04-15
+> 最終更新: 2026-04-20
 
 ---
 
@@ -211,6 +211,13 @@ wiki_crawler.py を読まずに済むよう要点をまとめる。
 ### パターンC: UIの修正・追加
 1. `src/presentation/` 配下の該当コンポーネントを編集
 2. `src/domain/entities/Ninja.ts` の型定義も必要に応じて変更
+
+### パターンD: episodes.json / organizations.json を画面から編集したい
+- ローカル開発時（`http://localhost:5173`）のみヘッダーに「📝 エピソード編集」「📝 組織編集」ボタンが出る（issue#15で追加）
+- それぞれ `/edit/episodes` と `/edit/organizations` に遷移する
+- 各行の「更新」ボタンで in-memory の override に反映、「削除」ボタンでソフト削除マーク
+- 「📥 episodes.json を保存」/「📥 organizations.json を保存」で全体をダウンロードし、`src/data/*.json` に上書きする運用
+- 実装: `src/presentation/pages/EpisodesEditPage/`, `src/presentation/pages/OrganizationsEditPage/`, `src/presentation/context/EpisodeEditContext.tsx`, `src/presentation/context/OrganizationEditContext.tsx`
 
 ---
 

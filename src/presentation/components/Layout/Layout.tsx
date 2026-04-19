@@ -1,5 +1,7 @@
 import { Link, useLocation, useNavigate } from 'react-router-dom';
 import { useNinjaEditContext } from '../../context/NinjaEditContext';
+import { useEpisodeEditContext } from '../../context/EpisodeEditContext';
+import { useOrganizationEditContext } from '../../context/OrganizationEditContext';
 import { useIsLocalDev } from '../../hooks/useIsLocalDev';
 import styles from './Layout.module.css';
 
@@ -12,8 +14,14 @@ export function Layout({ children }: LayoutProps) {
   const navigate = useNavigate();
   const isLocalDev = useIsLocalDev();
   const { downloadNinjas, overrideCount } = useNinjaEditContext();
+  const { overrideCount: epOverrideCount, deletionCount: epDeletionCount } =
+    useEpisodeEditContext();
+  const { overrideCount: orgOverrideCount, deletionCount: orgDeletionCount } =
+    useOrganizationEditContext();
 
   const isActive = (path: string) => location.pathname === path;
+  const epEditCount = epOverrideCount + epDeletionCount;
+  const orgEditCount = orgOverrideCount + orgDeletionCount;
 
   return (
     <div className={styles.wrapper}>
@@ -49,6 +57,26 @@ export function Layout({ children }: LayoutProps) {
                 {overrideCount > 0 && (
                   <span className={styles.navBadge}>{overrideCount}</span>
                 )}
+              </button>
+            )}
+            {isLocalDev && (
+              <button
+                className={`${styles.navButton} ${isActive('/edit/episodes') ? styles.navButtonActive : ''}`}
+                onClick={() => navigate('/edit/episodes')}
+                title="episodes.json を編集する"
+              >
+                📝 エピソード編集
+                {epEditCount > 0 && <span className={styles.navBadge}>{epEditCount}</span>}
+              </button>
+            )}
+            {isLocalDev && (
+              <button
+                className={`${styles.navButton} ${isActive('/edit/organizations') ? styles.navButtonActive : ''}`}
+                onClick={() => navigate('/edit/organizations')}
+                title="organizations.json を編集する"
+              >
+                📝 組織編集
+                {orgEditCount > 0 && <span className={styles.navBadge}>{orgEditCount}</span>}
               </button>
             )}
           </nav>
