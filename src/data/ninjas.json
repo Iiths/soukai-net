@@ -17059,6 +17059,16 @@
       "clan": "ナイト・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "cd4744be"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "180a24b4"
+      }
+    ],
     "skills": [
       "サイバー馬",
       "ランス",
@@ -17067,17 +17077,7 @@
     "appearance": "黒いニンジャ装束。十字のスリットがついたバケツ型ニンジャヘルム。",
     "description": "アマクダリのニンジャ。\nサイバー馬に騎乗し騎乗槍を振るう騎士ニンジャ。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%AB%E3%82%BB%E3%82%A4%E3%83%80%E3%83%BC",
-    "appearances": [
-      {
-        "id": "180a24b4"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "cd4744be"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%AB%E3%82%BB%E3%82%A4%E3%83%80%E3%83%BC"
   },
   {
     "id": "02e98622",
@@ -17124,6 +17124,19 @@
       "clan": "イタミ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      },
+      {
+        "id": "cd4744be"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "st6b9q7x"
+      }
+    ],
     "skills": [
       "イタミ・ジツ",
       "フック付き鎖",
@@ -17132,20 +17145,7 @@
     "appearance": "紺のニンジャ装束。筋骨隆々の異常巨体。身長250㎝超。\n両腕に鎖。背中に鋼鉄カンオケ。",
     "description": "アマクダリのニンジャ。\nカンオケ内に入れた敵の痛みを自らにも与えイタミ・ジツに変える。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%A3%E3%82%B9%E3%82%A8%E3%82%A4%E3%83%96%E3%83%A9%E3%83%BC",
-    "appearances": [
-      {
-        "id": "st6b9q7x"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "soukaiya-p1"
-      },
-      {
-        "id": "cd4744be"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%A3%E3%82%B9%E3%82%A8%E3%82%A4%E3%83%96%E3%83%A9%E3%83%BC"
   },
   {
     "id": "1a7a20d8",
@@ -17159,19 +17159,6 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "ドク・ジツ",
-      "アンキ・ウェポン"
-    ],
-    "appearance": "長身。片方を剃り上げた長い黒髪。ロングコート・ニンジャ装束。\nガスマスク的なメンポ。",
-    "description": "アマクダリのニンジャ。元リロン・ケミカル社員。\n毒薬に精通。カラテは乏しい。\nアマクダリ崩壊後も生き延びている。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%89%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%B3%E3%83%BC%E3%83%9E",
-    "appearances": [
-      {
-        "id": "180a24b4"
-      }
-    ],
     "organizations": [
       {
         "id": "cd4744be"
@@ -17179,7 +17166,20 @@
       {
         "id": "1ede41ee"
       }
-    ]
+    ],
+    "appearances": [
+      {
+        "id": "180a24b4"
+      }
+    ],
+    "skills": [
+      "ドク・ジツ",
+      "アンキ・ウェポン"
+    ],
+    "appearance": "長身。片方を剃り上げた長い黒髪。ロングコート・ニンジャ装束。\nガスマスク的なメンポ。",
+    "description": "アマクダリのニンジャ。元リロン・ケミカル社員。\n毒薬に精通。カラテは乏しい。\nアマクダリ崩壊後も生き延びている。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%89%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%B3%E3%83%BC%E3%83%9E"
   },
   {
     "id": "62d26f7f",
@@ -17224,23 +17224,23 @@
       "clan": "",
       "origin": "ボックス・カラテに関連するクラン"
     },
+    "organizations": [
+      {
+        "id": "cd4744be"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "180a24b4"
+      }
+    ],
     "skills": [
       "ボックス・カラテ"
     ],
     "appearance": "白いニンジャ装束。上半身は頭巾とメンポを除き裸。\n細身の筋肉質。腰にブラックベルト。",
     "description": "アマクダリのニンジャ。\nソウル由来の古式ボックス・カラテで戦う。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%99%E3%82%A2%E3%83%8A%E3%83%83%E3%82%AF%E3%83%AB",
-    "appearances": [
-      {
-        "id": "180a24b4"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "cd4744be"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%99%E3%82%A2%E3%83%8A%E3%83%83%E3%82%AF%E3%83%AB"
   },
   {
     "id": "0937bb67",
@@ -19643,9 +19643,36 @@
   {
     "id": "15cd5e",
     "name": "バックラッシュ",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%83%83%E3%82%AF%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5"
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "2mtao49l",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "appearance": "体格に恵まれたニンジャ。頭に「身勝手」のハチマキ。",
+    "description": "ソウカイヤの残党組織ネオソウカイ・シンジケートを指揮したニンジャ。\nアマクダリの秘密会合を嗅ぎつけ襲撃を行った。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%83%83%E3%82%AF%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5",
+    "appearances": [
+      {
+        "id": "x9g18jha"
+      },
+      {
+        "id": "z7rgd0bm"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      },
+      {
+        "id": "po2io281"
+      }
+    ]
   },
   {
     "id": "d09f8a38",
@@ -19664,44 +19691,191 @@
   {
     "id": "a823d9",
     "name": "アントライオン",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%B3%E3%83%88%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3"
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "z3ankobs",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "appearance": "サイバネ外骨格。",
+    "description": "ネオソウカイ・シンジケートのニンジャ。\nアントライオンとはウスバカゲロウの意。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%B3%E3%83%88%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3",
+    "appearances": [
+      {
+        "id": "x9g18jha"
+      },
+      {
+        "id": "z7rgd0bm"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      },
+      {
+        "id": "po2io281"
+      }
+    ]
   },
   {
     "id": "dca2751b",
     "name": "エンフォーサー",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B5%E3%83%BC%EF%BC%8F%E3%82%AC%E3%83%8B%E3%83%A1%E3%83%87%EF%BC%8F%E3%82%BC%E3%83%96%E3%83%A9%E3%83%91%E3%83%B3%E3%82%B5%E3%83%BC%EF%BC%8F%E3%83%91%E3%83%AB%E3%82%B9%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%AC%E3%83%BC%EF%BC%8F%E3%83%88%E3%83%9E%E3%83%9B%E3%83%BC%E3%82%AF"
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "2j8c3qsz",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "appearance": "頭に「身勝手」のハチマキ。",
+    "description": "ネオソウカイ・シンジケートのニンジャ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B5%E3%83%BC%EF%BC%8F%E3%82%AC%E3%83%8B%E3%83%A1%E3%83%87%EF%BC%8F%E3%82%BC%E3%83%96%E3%83%A9%E3%83%91%E3%83%B3%E3%82%B5%E3%83%BC%EF%BC%8F%E3%83%91%E3%83%AB%E3%82%B9%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%AC%E3%83%BC%EF%BC%8F%E3%83%88%E3%83%9E%E3%83%9B%E3%83%BC%E3%82%AF",
+    "appearances": [
+      {
+        "id": "x9g18jha"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      },
+      {
+        "id": "po2io281"
+      }
+    ]
   },
   {
     "id": "5d03e264",
     "name": "ガニメデ",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B5%E3%83%BC%EF%BC%8F%E3%82%AC%E3%83%8B%E3%83%A1%E3%83%87%EF%BC%8F%E3%82%BC%E3%83%96%E3%83%A9%E3%83%91%E3%83%B3%E3%82%B5%E3%83%BC%EF%BC%8F%E3%83%91%E3%83%AB%E3%82%B9%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%AC%E3%83%BC%EF%BC%8F%E3%83%88%E3%83%9E%E3%83%9B%E3%83%BC%E3%82%AF"
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "vi3j07n6",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "appearance": "頭に「身勝手」のハチマキ。",
+    "description": "ネオソウカイ・シンジケートのニンジャ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B5%E3%83%BC%EF%BC%8F%E3%82%AC%E3%83%8B%E3%83%A1%E3%83%87%EF%BC%8F%E3%82%BC%E3%83%96%E3%83%A9%E3%83%91%E3%83%B3%E3%82%B5%E3%83%BC%EF%BC%8F%E3%83%91%E3%83%AB%E3%82%B9%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%AC%E3%83%BC%EF%BC%8F%E3%83%88%E3%83%9E%E3%83%9B%E3%83%BC%E3%82%AF",
+    "appearances": [
+      {
+        "id": "x9g18jha"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      },
+      {
+        "id": "po2io281"
+      }
+    ]
   },
   {
     "id": "c3812beb",
     "name": "ゼブラパンサー",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B5%E3%83%BC%EF%BC%8F%E3%82%AC%E3%83%8B%E3%83%A1%E3%83%87%EF%BC%8F%E3%82%BC%E3%83%96%E3%83%A9%E3%83%91%E3%83%B3%E3%82%B5%E3%83%BC%EF%BC%8F%E3%83%91%E3%83%AB%E3%82%B9%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%AC%E3%83%BC%EF%BC%8F%E3%83%88%E3%83%9E%E3%83%9B%E3%83%BC%E3%82%AF"
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "1qhxaxkw",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "appearance": "頭に「身勝手」のハチマキ。",
+    "description": "ネオソウカイ・シンジケートのニンジャ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B5%E3%83%BC%EF%BC%8F%E3%82%AC%E3%83%8B%E3%83%A1%E3%83%87%EF%BC%8F%E3%82%BC%E3%83%96%E3%83%A9%E3%83%91%E3%83%B3%E3%82%B5%E3%83%BC%EF%BC%8F%E3%83%91%E3%83%AB%E3%82%B9%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%AC%E3%83%BC%EF%BC%8F%E3%83%88%E3%83%9E%E3%83%9B%E3%83%BC%E3%82%AF",
+    "appearances": [
+      {
+        "id": "x9g18jha"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      },
+      {
+        "id": "po2io281"
+      }
+    ]
   },
   {
     "id": "3213c360",
     "name": "パルススティンガー",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B5%E3%83%BC%EF%BC%8F%E3%82%AC%E3%83%8B%E3%83%A1%E3%83%87%EF%BC%8F%E3%82%BC%E3%83%96%E3%83%A9%E3%83%91%E3%83%B3%E3%82%B5%E3%83%BC%EF%BC%8F%E3%83%91%E3%83%AB%E3%82%B9%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%AC%E3%83%BC%EF%BC%8F%E3%83%88%E3%83%9E%E3%83%9B%E3%83%BC%E3%82%AF"
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "kmh4prdh",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "appearance": "頭に「身勝手」のハチマキ。",
+    "description": "ネオソウカイ・シンジケートのニンジャ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B5%E3%83%BC%EF%BC%8F%E3%82%AC%E3%83%8B%E3%83%A1%E3%83%87%EF%BC%8F%E3%82%BC%E3%83%96%E3%83%A9%E3%83%91%E3%83%B3%E3%82%B5%E3%83%BC%EF%BC%8F%E3%83%91%E3%83%AB%E3%82%B9%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%AC%E3%83%BC%EF%BC%8F%E3%83%88%E3%83%9E%E3%83%9B%E3%83%BC%E3%82%AF",
+    "appearances": [
+      {
+        "id": "x9g18jha"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      },
+      {
+        "id": "po2io281"
+      }
+    ]
   },
   {
     "id": "a0f2ed98",
     "name": "トマホーク",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B5%E3%83%BC%EF%BC%8F%E3%82%AC%E3%83%8B%E3%83%A1%E3%83%87%EF%BC%8F%E3%82%BC%E3%83%96%E3%83%A9%E3%83%91%E3%83%B3%E3%82%B5%E3%83%BC%EF%BC%8F%E3%83%91%E3%83%AB%E3%82%B9%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%AC%E3%83%BC%EF%BC%8F%E3%83%88%E3%83%9E%E3%83%9B%E3%83%BC%E3%82%AF"
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "lzliyjhp",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "appearance": "頭に「身勝手」のハチマキ。",
+    "description": "ネオソウカイ・シンジケートのニンジャ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B5%E3%83%BC%EF%BC%8F%E3%82%AC%E3%83%8B%E3%83%A1%E3%83%87%EF%BC%8F%E3%82%BC%E3%83%96%E3%83%A9%E3%83%91%E3%83%B3%E3%82%B5%E3%83%BC%EF%BC%8F%E3%83%91%E3%83%AB%E3%82%B9%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%AC%E3%83%BC%EF%BC%8F%E3%83%88%E3%83%9E%E3%83%9B%E3%83%BC%E3%82%AF",
+    "appearances": [
+      {
+        "id": "x9g18jha"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      },
+      {
+        "id": "po2io281"
+      }
+    ]
   },
   {
     "id": "90d83d8d",
@@ -19727,51 +19901,225 @@
   {
     "id": "8fac23",
     "name": "グレムリン",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B0%E3%83%AC%E3%83%A0%E3%83%AA%E3%83%B3"
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "nlccyssk",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "appearance": "小柄。ラバーめいたニンジャ装束。",
+    "description": "ネオソウカイ・シンジケートのニンジャ。\n俊敏さが売り。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B0%E3%83%AC%E3%83%A0%E3%83%AA%E3%83%B3",
+    "appearances": [
+      {
+        "id": "x9g18jha"
+      },
+      {
+        "id": "z7rgd0bm"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      },
+      {
+        "id": "po2io281"
+      }
+    ]
   },
   {
     "id": "e4a22370",
     "name": "ハマシオン",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%83%9E%E3%82%B7%E3%82%AA%E3%83%B3%EF%BC%8F%E3%82%B2%E3%83%BC%E3%83%AA%E3%83%A5%E3%82%AA%E3%83%B3%EF%BC%8F%E3%83%9E%E3%83%AB%E3%82%B3%E3%82%B7%E3%82%A2%E3%82%B9"
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "iq8qvjr2",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "appearance": "ソウカイヤのエンブレムが刺繍されたマフラー。",
+    "description": "ネオソウカイ・シンジケートのニンジャ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%83%9E%E3%82%B7%E3%82%AA%E3%83%B3%EF%BC%8F%E3%82%B2%E3%83%BC%E3%83%AA%E3%83%A5%E3%82%AA%E3%83%B3%EF%BC%8F%E3%83%9E%E3%83%AB%E3%82%B3%E3%82%B7%E3%82%A2%E3%82%B9",
+    "appearances": [
+      {
+        "id": "x9g18jha"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      },
+      {
+        "id": "po2io281"
+      }
+    ]
   },
   {
     "id": "a2250dd5",
     "name": "ゲーリュオン",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%83%9E%E3%82%B7%E3%82%AA%E3%83%B3%EF%BC%8F%E3%82%B2%E3%83%BC%E3%83%AA%E3%83%A5%E3%82%AA%E3%83%B3%EF%BC%8F%E3%83%9E%E3%83%AB%E3%82%B3%E3%82%B7%E3%82%A2%E3%82%B9"
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "ud69i8qs",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "appearance": "ソウカイヤのエンブレムが刺繍されたマフラー。",
+    "description": "ネオソウカイ・シンジケートのニンジャ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%83%9E%E3%82%B7%E3%82%AA%E3%83%B3%EF%BC%8F%E3%82%B2%E3%83%BC%E3%83%AA%E3%83%A5%E3%82%AA%E3%83%B3%EF%BC%8F%E3%83%9E%E3%83%AB%E3%82%B3%E3%82%B7%E3%82%A2%E3%82%B9",
+    "appearances": [
+      {
+        "id": "x9g18jha"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      },
+      {
+        "id": "po2io281"
+      }
+    ]
   },
   {
     "id": "308667c7",
     "name": "マルコシアス",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%83%9E%E3%82%B7%E3%82%AA%E3%83%B3%EF%BC%8F%E3%82%B2%E3%83%BC%E3%83%AA%E3%83%A5%E3%82%AA%E3%83%B3%EF%BC%8F%E3%83%9E%E3%83%AB%E3%82%B3%E3%82%B7%E3%82%A2%E3%82%B9"
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "lfo582q0",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "description": "ネオソウカイ・シンジケートのニンジャ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%83%9E%E3%82%B7%E3%82%AA%E3%83%B3%EF%BC%8F%E3%82%B2%E3%83%BC%E3%83%AA%E3%83%A5%E3%82%AA%E3%83%B3%EF%BC%8F%E3%83%9E%E3%83%AB%E3%82%B3%E3%82%B7%E3%82%A2%E3%82%B9",
+    "appearances": [
+      {
+        "id": "x9g18jha"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      },
+      {
+        "id": "po2io281"
+      }
+    ]
   },
   {
     "id": "8321f5",
     "name": "スカルダッジャリー",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%80%E3%83%83%E3%82%B8%E3%83%A3%E3%83%AA%E3%83%BC"
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "ecz05qis",
+      "name": "",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ダガー"
+    ],
+    "appearance": "金糸縁取りが施されたフード付きニンジャ装束。両手にダガー。",
+    "description": "ネオソウカイ・シンジケートのニンジャ。\n武器はダガー。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%80%E3%83%83%E3%82%B8%E3%83%A3%E3%83%AA%E3%83%BC",
+    "appearances": [
+      {
+        "id": "x9g18jha"
+      },
+      {
+        "id": "z7rgd0bm"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      },
+      {
+        "id": "po2io281"
+      }
+    ]
   },
   {
     "id": "1cce7d20",
     "name": "スケアクロウ",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%B1%E3%82%A2%E3%82%AF%E3%83%AD%E3%82%A6%EF%BC%8F%E3%83%91%E3%82%A4%E3%82%AF%E3%83%9E%E3%83%B3"
+    "aliases": [],
+    "ninjaSoul": {
+      "id": "vmkulvip",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "appearance": "ひょろ長い。暗黒タケウマに乗る。",
+    "description": "ネオソウカイ・シンジケートのニンジャ。\n暗黒タケウマによって高所をキープする。",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%B1%E3%82%A2%E3%82%AF%E3%83%AD%E3%82%A6%EF%BC%8F%E3%83%91%E3%82%A4%E3%82%AF%E3%83%9E%E3%83%B3",
+    "appearances": [
+      {
+        "id": "x9g18jha"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      },
+      {
+        "id": "po2io281"
+      }
+    ]
   },
   {
     "id": "733c75f9",
     "name": "パイクマン",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%B1%E3%82%A2%E3%82%AF%E3%83%AD%E3%82%A6%EF%BC%8F%E3%83%91%E3%82%A4%E3%82%AF%E3%83%9E%E3%83%B3"
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "eyybr31w",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "タケヤリ"
+    ],
+    "appearance": "小柄な体躯。タケヤリを持つ。",
+    "description": "ネオソウカイ・シンジケートのニンジャ。\nタケヤリでリーチを活かした攻撃をする。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%B1%E3%82%A2%E3%82%AF%E3%83%AD%E3%82%A6%EF%BC%8F%E3%83%91%E3%82%A4%E3%82%AF%E3%83%9E%E3%83%B3",
+    "appearances": [
+      {
+        "id": "x9g18jha"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      },
+      {
+        "id": "po2io281"
+      }
+    ]
   },
   {
     "id": "d892f4",
@@ -19783,30 +20131,143 @@
   {
     "id": "9d4004",
     "name": "テンラピッド",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%86%E3%83%B3%E3%83%A9%E3%83%94%E3%83%83%E3%83%89"
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "rlqmuocr",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ボックス・カラテ"
+    ],
+    "appearance": "ヤクザスーツ。",
+    "description": "ネオソウカイ・シンジケートのニンジャ。\nヤクザめいたボックス・カラテの使い手。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%86%E3%83%B3%E3%83%A9%E3%83%94%E3%83%83%E3%83%89",
+    "appearances": [
+      {
+        "id": "x9g18jha"
+      },
+      {
+        "id": "z7rgd0bm"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      },
+      {
+        "id": "po2io281"
+      }
+    ]
   },
   {
     "id": "5b3748",
     "name": "ドリアード",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%89%E3%83%AA%E3%82%A2%E3%83%BC%E3%83%89"
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "78os4zkk",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "リインカーネイション・カース"
+    ],
+    "appearance": "奇怪な木彫りメンポ。",
+    "description": "ネオソウカイ・シンジケートのニンジャ。\n暴走によって奇怪な肉の樹を大地から表出させる。\n通常時は根を生やして鞭めいて攻撃すると思われる。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%89%E3%83%AA%E3%82%A2%E3%83%BC%E3%83%89",
+    "appearances": [
+      {
+        "id": "x9g18jha"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      },
+      {
+        "id": "po2io281"
+      }
+    ]
   },
   {
     "id": "6868ea",
     "name": "ヒルビリー",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%92%E3%83%AB%E3%83%93%E3%83%AA%E3%83%BC"
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "kt1wbt51",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "リボルバー銃"
+    ],
+    "appearance": "腰に二丁のリボルバー銃を吊るしている。",
+    "description": "ネオソウカイ・シンジケートのニンジャ。\n二丁のリボルバー銃を高速乱射する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%92%E3%83%AB%E3%83%93%E3%83%AA%E3%83%BC",
+    "appearances": [
+      {
+        "id": "x9g18jha"
+      },
+      {
+        "id": "z7rgd0bm"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      },
+      {
+        "id": "po2io281"
+      }
+    ]
   },
   {
     "id": "3f0f09",
     "name": "メギンギョルズ",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A1%E3%82%AE%E3%83%B3%E3%82%AE%E3%83%A7%E3%83%AB%E3%82%BA"
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "jvvhqyyr",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "チカラ・ジツ"
+    ],
+    "appearance": "赤熱した目。",
+    "description": "ネオソウカイ・シンジケートのニンジャ。\nノージツ、ノーカラテを提唱。チカラ・ジツで一時的に凄まじいパワーを得る。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A1%E3%82%AE%E3%83%B3%E3%82%AE%E3%83%A7%E3%83%AB%E3%82%BA",
+    "appearances": [
+      {
+        "id": "x9g18jha"
+      },
+      {
+        "id": "z7rgd0bm"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      },
+      {
+        "id": "po2io281"
+      }
+    ]
   },
   {
     "id": "0d28c3",
@@ -20285,13 +20746,14 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "肘骨ブレード"
+    "organizations": [
+      {
+        "id": "8e0630be"
+      },
+      {
+        "id": "y8yzi8su"
+      }
     ],
-    "appearance": "身長156cm。猫めいた縦長の瞳孔。人間に近い外見。\n肘骨がブレードになっている。",
-    "description": "サヴァイヴァー・ドージョーの若いバイオニンジャ。\n俊敏に動き回り、肋骨のブレードで攻撃する。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%83%9E%E3%82%A4%E3%82%BF%E3%83%81",
     "appearances": [
       {
         "id": "8bf115a4"
@@ -20306,14 +20768,13 @@
         "id": "08f2e3c4"
       }
     ],
-    "organizations": [
-      {
-        "id": "8e0630be"
-      },
-      {
-        "id": "y8yzi8su"
-      }
-    ]
+    "skills": [
+      "肘骨ブレード"
+    ],
+    "appearance": "身長156cm。猫めいた縦長の瞳孔。人間に近い外見。\n肘骨がブレードになっている。",
+    "description": "サヴァイヴァー・ドージョーの若いバイオニンジャ。\n俊敏に動き回り、肋骨のブレードで攻撃する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%83%9E%E3%82%A4%E3%82%BF%E3%83%81"
   },
   {
     "id": "1ed979",
@@ -20500,15 +20961,6 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "description": "サヴァイヴァー・ドージョーに所属していたバイオニンジャ。\n自分勝手な性格だったらしい。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9F%E3%83%AB%E3%83%A1%E3%82%B3%E3%83%AC%E3%82%AA",
-    "appearances": [
-      {
-        "id": "8bf115a4"
-      }
-    ],
     "organizations": [
       {
         "id": "8e0630be"
@@ -20516,7 +20968,16 @@
       {
         "id": "y8yzi8su"
       }
-    ]
+    ],
+    "appearances": [
+      {
+        "id": "8bf115a4"
+      }
+    ],
+    "skills": [],
+    "description": "サヴァイヴァー・ドージョーに所属していたバイオニンジャ。\n自分勝手な性格だったらしい。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9F%E3%83%AB%E3%83%A1%E3%82%B3%E3%83%AC%E3%82%AA"
   },
   {
     "id": "b1f73a",
@@ -21142,23 +21603,23 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "09afd629"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "180a24b4"
+      }
+    ],
     "skills": [
       "巨大芝刈り機"
     ],
     "appearance": "体長9フィート。腹部に錆び付いた巨大芝刈り機を埋め込んでいる。",
     "description": "INWが生みだしたゾンビーニンジャ。\nニンジャ耐久力で攻撃を耐え、鷲掴みにした敵を腹の芝刈り機でネギトロにする。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AC%E3%83%BC%E3%83%87%E3%83%8A%E3%83%BC",
-    "appearances": [
-      {
-        "id": "180a24b4"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "09afd629"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AC%E3%83%BC%E3%83%87%E3%83%8A%E3%83%BC"
   },
   {
     "id": "4ac02d",
@@ -22550,23 +23011,23 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "y8yzi8su"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "8bf115a4"
+      }
+    ],
     "skills": [
       "ブラッドサッカー・クナイ"
     ],
     "appearance": "逞しい体躯。西部保安官めいたハットとコート。立派な髭。\nバイオなめし革製の医療鞄に対バイオニンジャ用の七つ道具を入れている。",
     "description": "ヨロシサン製薬の企業ニンジャ。\nバイオニンジャ専門の掃除屋。ナイフにバイオインゴットを失わせる効果がある。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%83%AB%E3%83%88%E3%83%AA%E3%82%A2%E3%83%88",
-    "appearances": [
-      {
-        "id": "8bf115a4"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "y8yzi8su"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%83%AB%E3%83%88%E3%83%AA%E3%82%A2%E3%83%88"
   },
   {
     "id": "e56bf4",
