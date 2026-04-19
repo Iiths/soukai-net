@@ -4687,10 +4687,36 @@
     "name": "サイサムライ",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "organizations": [],
-    "appearances": [],
+    "ninjaSoul": {
+      "id": "52txr58o",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "ヨロイ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "サイサムライケン",
+      "サイサムライシステム"
+    ],
+    "appearance": "黒い武者鎧めいた甲冑「サイアーマー」。隙間が七色に脈打っている。\n鎧の両肩に「賽」のショドー。半月型の前立を戴く武者兜。顔全体を覆う恐ろしげなサムライメンポ。",
+    "description": "ネオサイタマのフリーランス賞金稼ぎニンジャ。\n息子が設計・開発した総合サイバネ外骨格運用技術「サイシステム」を運用する。",
     "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%82%A4%E3%82%B5%E3%83%A0%E3%83%A9%E3%82%A4"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%82%A4%E3%82%B5%E3%83%A0%E3%83%A9%E3%82%A4",
+    "appearances": [
+      {
+        "id": "222c43b6"
+      },
+      {
+        "id": "ryr9czzl"
+      },
+      {
+        "id": "996b5766"
+      },
+      {
+        "id": "8r8ibb8m"
+      }
+    ],
+    "organizations": []
   },
   {
     "id": "17754559226",
@@ -17867,13 +17893,28 @@
   {
     "id": "8a239848",
     "name": "ゴーゴン",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "organizations": [
+    "ninjaSoul": {
+      "id": "vxbsjj2b",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "コブラ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "イシ・ジツ"
+    ],
+    "appearance": "光沢のある黒みがかった紫の装束。ギラギラと光る目。\n開口式メンポの下に長い舌。",
+    "description": "ネオサイタマのフリーランス傭兵ニンジャ。\nフドウカナシバリ・ジツの一種で相手を石化させてしまう。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B4%E3%83%BC%E3%82%B4%E3%83%B3",
+    "appearances": [
       {
-        "id": "cd4744be"
+        "id": "222c43b6"
       }
     ],
-    "appearances": []
+    "organizations": []
   },
   {
     "id": "1ddab1ca",
@@ -30356,6 +30397,28 @@
     "appearances": [
       {
         "id": "9581c315"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "nq2nutep",
+    "name": "クラクズー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "ot7kyv5m",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [],
+    "appearance": "ボンズヘアーの頭頂部を渦巻き状に刈り込んだ髪型。",
+    "description": "ネオサイタマのヤクザニンジャ。\n会員制バーを根城に中立を維持している。\n第4部では地下バーを経営しているようだ。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%A9%E3%82%AF%E3%82%BA%E3%83%BC",
+    "appearances": [
+      {
+        "id": "222c43b6"
       }
     ],
     "organizations": []
