@@ -14303,6 +14303,16 @@
       "clan": "ヤマイヌ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "vrg4755o"
+      }
+    ],
     "skills": [
       "常人の三倍の脚力"
     ],
@@ -14310,17 +14320,7 @@
     "appearance": "砂色のニンジャ装束。鎖骨にサイバネインプラント。\nグラマラス・キラーズでは眼鏡。",
     "description": "ザイバツの若いニンジャ。\n同期のドモボーイとはイサオシを競うライバル関係。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%82%A2%E3%83%BC%E3%82%B9",
-    "appearances": [
-      {
-        "id": "vrg4755o"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "zaibatsu-p3p4"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%82%A2%E3%83%BC%E3%82%B9"
   },
   {
     "id": "c472d180",
@@ -14370,17 +14370,11 @@
       "clan": "マンジ・ニンジャクラン",
       "origin": "高位ソウル"
     },
-    "skills": [
-      "短剣",
-      "円月刀",
-      "黒曜石のダガー",
-      "サマーソルトキック"
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4"
+      }
     ],
-    "role": "マスター位階",
-    "appearance": "小柄な体格の若い女性ニンジャ。\n黒灰色の装束。短剣を収めたベルト。典型的なくノ一装束。\n黒紫の襤褸マント。",
-    "description": "新生ザイバツの若いニンジャ。アデプト位階からマスターに昇進。\n俊敏さを活かした短剣二刀流で戦う。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%A3%E3%83%9F%E3%83%8C%E3%82%A8%E3%83%B3%E3%83%89",
     "appearances": [
       {
         "id": "vrg4755o"
@@ -14401,11 +14395,17 @@
         "id": "6dcsfo7u"
       }
     ],
-    "organizations": [
-      {
-        "id": "zaibatsu-p3p4"
-      }
-    ]
+    "skills": [
+      "短剣",
+      "円月刀",
+      "黒曜石のダガー",
+      "サマーソルトキック"
+    ],
+    "role": "マスター位階",
+    "appearance": "小柄な体格の若い女性ニンジャ。\n黒灰色の装束。短剣を収めたベルト。典型的なくノ一装束。\n黒紫の襤褸マント。",
+    "description": "新生ザイバツの若いニンジャ。アデプト位階からマスターに昇進。\n俊敏さを活かした短剣二刀流で戦う。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%A3%E3%83%9F%E3%83%8C%E3%82%A8%E3%83%B3%E3%83%89"
   },
   {
     "id": "0da05442",
@@ -14443,14 +14443,11 @@
       "clan": "アスラ・ニンジャクラン",
       "origin": ""
     },
-    "skills": [
-      "常人の三倍の脚力",
-      "クエスターの義手"
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4"
+      }
     ],
-    "appearance": "第3部：群青色の装束。「ヤング・チーム」以降はサイバネ義手。\n第4部：第3部より伸びた背丈。長い髪。右耳から眉間にかけて目立つ傷痕。有機的なサイバネ義手。",
-    "description": "新生ザイバツの若いニンジャ。\n後にヌケニンしたが、謎めいたクエスターの呪いをうけ生還。\n現在はクエスター・メニイのクエストをこなしている。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%89%E3%83%A2%E3%83%9C%E3%83%BC%E3%82%A4",
     "appearances": [
       {
         "id": "vrg4755o"
@@ -14468,11 +14465,14 @@
         "id": "8fffe24e"
       }
     ],
-    "organizations": [
-      {
-        "id": "zaibatsu-p3p4"
-      }
-    ]
+    "skills": [
+      "常人の三倍の脚力",
+      "クエスターの義手"
+    ],
+    "appearance": "第3部：群青色の装束。「ヤング・チーム」以降はサイバネ義手。\n第4部：第3部より伸びた背丈。長い髪。右耳から眉間にかけて目立つ傷痕。有機的なサイバネ義手。",
+    "description": "新生ザイバツの若いニンジャ。\n後にヌケニンしたが、謎めいたクエスターの呪いをうけ生還。\n現在はクエスター・メニイのクエストをこなしている。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%89%E3%83%A2%E3%83%9C%E3%83%BC%E3%82%A4"
   },
   {
     "id": "87ff1ba6",
@@ -22239,13 +22239,32 @@
   {
     "id": "2a6a59",
     "name": "クラーケン",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "sc0rzvlf",
+      "name": "イカ・ニンジャクラン",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ゾンビーイカ触手"
+    ],
+    "appearance": "大型の肉塊。イカめいた複数の触手を生やす。",
+    "description": "INWが生みだした肉塊ゾンビーニンジャ。\n十数メートルの触手で攻撃。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%A9%E3%83%BC%E3%82%B1%E3%83%B3",
+    "appearances": [
+      {
+        "id": "zt9pvzah"
+      }
+    ],
     "organizations": [
       {
         "id": "09afd629"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%A9%E3%83%BC%E3%82%B1%E3%83%B3"
+    ]
   },
   {
     "id": "d0cd20",
@@ -22402,13 +22421,36 @@
   {
     "id": "4ac02d",
     "name": "カラテゾンビ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "2hbrbeoe",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": "強大なニンジャソウル"
+    },
+    "skills": [
+      "ネクロ・カラテ",
+      "隠し刃"
+    ],
+    "appearance": "所々がヒビ割れた腐肉の身体。真新しい袖無しニンジャ装束。",
+    "description": "リー先生が生みだしたゾンビーニンジャ。\n名前に反し強大なニンジャソウルを移植されている。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%83%A9%E3%83%86%E3%82%BE%E3%83%B3%E3%83%93",
+    "appearances": [
+      {
+        "id": "zt9pvzah"
+      },
+      {
+        "id": "f0q6hbvy"
+      }
+    ],
     "organizations": [
       {
         "id": "09afd629"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%83%A9%E3%83%86%E3%82%BE%E3%83%B3%E3%83%93"
+    ]
   },
   {
     "id": "5056dd",
@@ -22509,13 +22551,32 @@
   {
     "id": "a1f63b",
     "name": "リフリジレイター",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "vg8ppv7g",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "コリ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "コリ・ジツの冷気"
+    ],
+    "appearance": "合成腐肉巨漢ニンジャと称される外見。",
+    "description": "INWが生みだしたビッグゾンビーニンジャ。\nコリ・ニンジャクランのソウルを宿し、冷気で攻撃する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AA%E3%83%95%E3%83%AA%E3%82%B8%E3%83%AC%E3%82%A4%E3%82%BF%E3%83%BC",
+    "appearances": [
+      {
+        "id": "zt9pvzah"
+      }
+    ],
     "organizations": [
       {
         "id": "09afd629"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AA%E3%83%95%E3%83%AA%E3%82%B8%E3%83%AC%E3%82%A4%E3%82%BF%E3%83%BC"
+    ]
   },
   {
     "id": "b9b102",
@@ -25564,13 +25625,34 @@
   {
     "id": "610ef2",
     "name": "アンドリュー・ワニ",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "skills": [
+      "ハッカー"
+    ],
+    "appearance": "清潔感のある丸刈りの髪。首からモデストなアクセサリー。\n首筋に違法生体LANポート。厚手のガウンやスーツ。\n電子接続したサイバーサングラス。その下の双眼は空虚。",
+    "description": "ペケロッパ・カルトの導師。非ニンジャ。\nナンシーを圧倒するハッカースキルを持つ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%BB%E3%83%AF%E3%83%8B",
+    "appearances": [
+      {
+        "id": "tqlc7ayk"
+      },
+      {
+        "id": "12ml6hmz"
+      },
+      {
+        "id": "7ngj3zv7"
+      },
+      {
+        "id": "80a12ccc"
+      }
+    ],
     "organizations": [
       {
         "id": "2e0b3b2d"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%BB%E3%83%AF%E3%83%8B"
+    ]
   },
   {
     "id": "66c7c8",
@@ -30439,6 +30521,12 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "vrg4755o"
+      }
+    ],
     "skills": [
       "歪み者化",
       "カトン・ジツ",
@@ -30447,13 +30535,7 @@
     "appearance": "グラマラス・キラーズ：長い爪。角髪。古代貴族めいたニンジャ装束と宝飾品。",
     "description": "長い眠りから目覚めた古代リアルニンジャ。元ワンソー派。\n体内に燃え盛る炎の炉を宿し、傷口から炎を吹き出す。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%82%A3%E3%83%83%E3%82%AB%E3%83%BC%E3%83%9E%E3%83%B3",
-    "appearances": [
-      {
-        "id": "vrg4755o"
-      }
-    ],
-    "organizations": []
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%82%A3%E3%83%83%E3%82%AB%E3%83%BC%E3%83%9E%E3%83%B3"
   },
   {
     "id": "7580053a",
