@@ -10024,18 +10024,9 @@
       "id": "56fi62cw",
       "name": "",
       "clan": "",
-      "origin": ""
+      "origin": "",
+      "grade": "等級不明"
     },
-    "organizations": [
-      {
-        "id": "zaibatsu-p2"
-      }
-    ],
-    "appearances": [
-      {
-        "id": "12ml6hmz"
-      }
-    ],
     "skills": [
       "へカトン・ジツ",
       "アースクエイク・シコ"
@@ -10044,7 +10035,17 @@
     "appearance": "筋肉で覆われた240センチの巨躯。六つの瞳と六本の腕。\n丸太めいた二本の脚。",
     "description": "ザイバツのマスター位階ニンジャ。\nその正体はブリアレウス、コットゥス、ガイギスの合体ニンジャ。\nグランドマスター級のカラテを発揮するが、3分に1度合体を解かなければならない。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%AA%E3%82%A2%E3%83%AC%E3%82%A6%E3%82%B9%EF%BC%8F%E3%82%B3%E3%83%83%E3%83%88%E3%82%A5%E3%82%B9%EF%BC%8F%E3%82%AC%E3%82%A4%E3%82%AE%E3%82%B9#a2f7a59d"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%AA%E3%82%A2%E3%83%AC%E3%82%A6%E3%82%B9%EF%BC%8F%E3%82%B3%E3%83%83%E3%83%88%E3%82%A5%E3%82%B9%EF%BC%8F%E3%82%AC%E3%82%A4%E3%82%AE%E3%82%B9#a2f7a59d",
+    "appearances": [
+      {
+        "id": "12ml6hmz"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "zaibatsu-p2"
+      }
+    ]
   },
   {
     "id": "efbb5889",
@@ -12886,14 +12887,9 @@
       "id": "szdet021",
       "name": "",
       "clan": "",
-      "origin": ""
+      "origin": "",
+      "grade": "等級不明"
     },
-    "organizations": [
-      {
-        "id": "zaibatsu-p2"
-      }
-    ],
-    "appearances": [],
     "skills": [
       "ヘカトン・ジツ"
     ],
@@ -12901,7 +12897,17 @@
     "appearance": "コットゥス、ガイギスと似たような体格。",
     "description": "ザイバツのアデプトニンジャ。\n他のニンジャと合体しヘカトンケイルに変化する。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%AA%E3%82%A2%E3%83%AC%E3%82%A6%E3%82%B9%EF%BC%8F%E3%82%B3%E3%83%83%E3%83%88%E3%82%A5%E3%82%B9%EF%BC%8F%E3%82%AC%E3%82%A4%E3%82%AE%E3%82%B9"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%AA%E3%82%A2%E3%83%AC%E3%82%A6%E3%82%B9%EF%BC%8F%E3%82%B3%E3%83%83%E3%83%88%E3%82%A5%E3%82%B9%EF%BC%8F%E3%82%AC%E3%82%A4%E3%82%AE%E3%82%B9",
+    "appearances": [
+      {
+        "id": "12ml6hmz"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "zaibatsu-p2"
+      }
+    ]
   },
   {
     "id": "51aad3a2",
@@ -14233,14 +14239,34 @@
   {
     "id": "6087eb9a",
     "name": "エンブレイス",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "ixwqhxyb",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "スリケン"
+    ],
+    "description": "新生ザイバツのニンジャ。\nキャプスタンと親交が深かった。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%83%B3%E3%83%96%E3%83%AC%E3%82%A4%E3%82%B9",
+    "appearances": [
+      {
+        "id": "vyhgnuh0"
+      }
+    ],
     "organizations": [
+      {
+        "id": "zaibatsu-p2"
+      },
       {
         "id": "zaibatsu-p3p4"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%83%B3%E3%83%96%E3%83%AC%E3%82%A4%E3%82%B9"
+    ]
   },
   {
     "id": "864f2e90",
@@ -14257,14 +14283,29 @@
   {
     "id": "cb6a745e",
     "name": "オウルセンス",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "ck459p5g",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "description": "新生ザイバツのニンジャ。\n確かな伸び代をもつ若いニンジャであった。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AA%E3%82%A6%E3%83%AB%E3%82%BB%E3%83%B3%E3%82%B9",
+    "appearances": [
+      {
+        "id": "vyhgnuh0"
+      }
+    ],
     "organizations": [
       {
         "id": "zaibatsu-p3p4"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AA%E3%82%A6%E3%83%AB%E3%82%BB%E3%83%B3%E3%82%B9"
+    ]
   },
   {
     "id": "c2d3fb0a",
@@ -14284,13 +14325,29 @@
   {
     "id": "beda02f1",
     "name": "オロバス",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "6yv6jm9s",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "description": "新生ザイバツのニンジャ。\nドラゴン・ニンジャの捜索任務にあたっていた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%AB%E3%82%B3%E3%83%A9%E3%82%AF%EF%BC%8F%E3%83%A9%E3%83%B3%E3%83%89%E3%82%AF%E3%83%A9%E3%83%96%EF%BC%8F%E3%82%AA%E3%83%AD%E3%83%90%E3%82%B9",
+    "appearances": [
+      {
+        "id": "vyhgnuh0"
+      }
+    ],
     "organizations": [
       {
         "id": "zaibatsu-p3p4"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "8aa4edf8",
@@ -14307,14 +14364,36 @@
   {
     "id": "9c55cc0c",
     "name": "キャプスタン",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "organizations": [
+    "ninjaSoul": {
+      "id": "ychvao8o",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "appearance": "ある程度年のいった男のニンジャ。",
+    "description": "新生ザイバツのニンジャ。\n災禍忍軍の間諜であった。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AD%E3%83%A3%E3%83%97%E3%82%B9%E3%82%BF%E3%83%B3",
+    "appearances": [
       {
-        "id": "zaibatsu-p3p4"
+        "id": "vyhgnuh0"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AD%E3%83%A3%E3%83%97%E3%82%B9%E3%82%BF%E3%83%B3"
+    "organizations": [
+      {
+        "id": "zaibatsu-p2"
+      },
+      {
+        "id": "zaibatsu-p3p4"
+      },
+      {
+        "id": "307o3nfg"
+      }
+    ]
   },
   {
     "id": "374cf4e9",
@@ -14575,13 +14654,29 @@
   {
     "id": "31e4e8f6",
     "name": "ブルコラク",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "jokdzbt0",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "description": "新生ザイバツのニンジャ。\nディミヌエンドを含めた部隊の隊長を務めていた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%AB%E3%82%B3%E3%83%A9%E3%82%AF%EF%BC%8F%E3%83%A9%E3%83%B3%E3%83%89%E3%82%AF%E3%83%A9%E3%83%96%EF%BC%8F%E3%82%AA%E3%83%AD%E3%83%90%E3%82%B9",
+    "appearances": [
+      {
+        "id": "vyhgnuh0"
+      }
+    ],
     "organizations": [
       {
         "id": "zaibatsu-p3p4"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "5176cefa",
@@ -14664,13 +14759,28 @@
   {
     "id": "7e7b57ac",
     "name": "ランドクラブ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "d3xxb1le",
+      "name": "",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "description": "新生ザイバツのニンジャ。\nドラゴン・ニンジャの捜索任務にあたっていた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%AB%E3%82%B3%E3%83%A9%E3%82%AF%EF%BC%8F%E3%83%A9%E3%83%B3%E3%83%89%E3%82%AF%E3%83%A9%E3%83%96%EF%BC%8F%E3%82%AA%E3%83%AD%E3%83%90%E3%82%B9",
+    "appearances": [
+      {
+        "id": "vyhgnuh0"
+      }
+    ],
     "organizations": [
       {
         "id": "zaibatsu-p3p4"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "410a044e",
@@ -21224,20 +21334,6 @@
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%AB%E3%82%B3%E3%83%A9%E3%82%AF%EF%BC%8F%E3%83%A9%E3%83%B3%E3%83%89%E3%82%AF%E3%83%A9%E3%83%96%EF%BC%8F%E3%82%AA%E3%83%AD%E3%83%90%E3%82%B9"
   },
   {
-    "id": "abd3cdd5",
-    "name": "ランドクラブ",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%AB%E3%82%B3%E3%83%A9%E3%82%AF%EF%BC%8F%E3%83%A9%E3%83%B3%E3%83%89%E3%82%AF%E3%83%A9%E3%83%96%EF%BC%8F%E3%82%AA%E3%83%AD%E3%83%90%E3%82%B9"
-  },
-  {
-    "id": "38fac03e",
-    "name": "オロバス",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%AB%E3%82%B3%E3%83%A9%E3%82%AF%EF%BC%8F%E3%83%A9%E3%83%B3%E3%83%89%E3%82%AF%E3%83%A9%E3%83%96%EF%BC%8F%E3%82%AA%E3%83%AD%E3%83%90%E3%82%B9"
-  },
-  {
     "id": "9b2b0a24",
     "name": "プリースト",
     "organizations": [],
@@ -21500,6 +21596,9 @@
       }
     ],
     "organizations": [
+      {
+        "id": "zaibatsu-p2"
+      },
       {
         "id": "307o3nfg"
       }
