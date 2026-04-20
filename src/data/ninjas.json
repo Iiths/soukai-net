@@ -15544,13 +15544,40 @@
   {
     "id": "4a7980fa",
     "name": "ガルーダ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "yaw72q2e",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "ホウオウ・ニンジャクラン",
+      "origin": "グレーター級以上"
+    },
+    "skills": [
+      "燃える翼",
+      "フェザースリケン"
+    ],
+    "role": "アマクダリ・アクシス",
+    "appearance": "両肩から燃える翼を生成する。",
+    "description": "アマクダリ・アクシスのニンジャ。\n燃える翼で飛翔し、羽根をスリケンとして放つ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AC%E3%83%AB%E3%83%BC%E3%83%80#:hl:word=%E3%82%AC%E3%83%AB%E3%83%BC%E3%83%80",
+    "appearances": [
+      {
+        "id": "x9g18jha"
+      },
+      {
+        "id": "z7rgd0bm"
+      },
+      {
+        "id": "qeenefau"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "1763bf6c",
@@ -22969,13 +22996,26 @@
   {
     "id": "d2b5be",
     "name": "ミコシ・ユウコ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "skills": [],
+    "appearance": "女性。",
+    "description": "カブキ・フォースの研究主任。\nマジック・モンキー計画の主導者。ニンジャに対し優位を疑わない。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9F%E3%82%B3%E3%82%B7%E3%83%BB%E3%83%A6%E3%82%A6%E3%82%B3",
+    "appearances": [
+      {
+        "id": "635624e9"
+      },
+      {
+        "id": "xh9n74xs"
+      }
+    ],
     "organizations": [
       {
         "id": "83982ced"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9F%E3%82%B3%E3%82%B7%E3%83%BB%E3%83%A6%E3%82%A6%E3%82%B3"
+    ]
   },
   {
     "id": "58c5d4",
