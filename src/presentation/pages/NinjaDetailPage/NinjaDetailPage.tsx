@@ -189,28 +189,28 @@ export function NinjaDetailPage() {
         )}
 
         {/* 所属組織 */}
-        <section className={styles.section}>
-          <h2 className={styles.sectionTitle}>所属組織</h2>
-          {organizations.length > 0 ? (
+        {organizations.length > 0 && (
+          <section className={styles.section}>
+            <h2 className={styles.sectionTitle}>所属組織</h2>
             <div className={styles.tagRow}>
               {organizations.map((org) => (
                 <Badge key={org.id} variant="org" text={org.name} />
               ))}
             </div>
-          ) : <Empty label="所属組織" />}
-        </section>
+          </section>
+        )}
 
         {/* ジツ・カラテなど */}
-        <section className={styles.section}>
-          <h2 className={styles.sectionTitle}>ジツ・カラテなど</h2>
-          {hasValue(ninja.skills) ? (
+        {hasValue(ninja.skills) && (
+          <section className={styles.section}>
+            <h2 className={styles.sectionTitle}>ジツ・カラテなど</h2>
             <ul className={styles.skillList}>
               {ninja.skills!.map((skill, i) => (
                 <li key={i}>{skill}</li>
               ))}
             </ul>
-          ) : <Empty label="スキル" />}
-        </section>
+          </section>
+        )}
 
         {/* 登場エピソード */}
         <section className={styles.section}>

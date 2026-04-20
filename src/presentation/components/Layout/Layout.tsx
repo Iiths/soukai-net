@@ -40,6 +40,26 @@ export function Layout({ children }: LayoutProps) {
             </Link>
             {isLocalDev && (
               <button
+                className={`${styles.navButton} ${isActive('/edit/episodes') ? styles.navButtonActive : ''}`}
+                onClick={() => navigate('/edit/episodes')}
+                title="episodes.json を編集する"
+              >
+                📝 エピソード編集
+                {epEditCount > 0 && <span className={styles.navBadge}>{epEditCount}</span>}
+              </button>
+            )}
+            {isLocalDev && (
+              <button
+                className={`${styles.navButton} ${isActive('/edit/organizations') ? styles.navButtonActive : ''}`}
+                onClick={() => navigate('/edit/organizations')}
+                title="organizations.json を編集する"
+              >
+                📝 組織編集
+                {orgEditCount > 0 && <span className={styles.navBadge}>{orgEditCount}</span>}
+              </button>
+            )}
+            {isLocalDev && (
+              <button
                 className={styles.navButton}
                 onClick={() => navigate('/ninja/new/edit')}
                 title="新しいニンジャを追加する"
@@ -57,26 +77,6 @@ export function Layout({ children }: LayoutProps) {
                 {overrideCount > 0 && (
                   <span className={styles.navBadge}>{overrideCount}</span>
                 )}
-              </button>
-            )}
-            {isLocalDev && (
-              <button
-                className={`${styles.navButton} ${isActive('/edit/episodes') ? styles.navButtonActive : ''}`}
-                onClick={() => navigate('/edit/episodes')}
-                title="episodes.json を編集する"
-              >
-                📝 エピソード編集
-                {epEditCount > 0 && <span className={styles.navBadge}>{epEditCount}</span>}
-              </button>
-            )}
-            {isLocalDev && (
-              <button
-                className={`${styles.navButton} ${isActive('/edit/organizations') ? styles.navButtonActive : ''}`}
-                onClick={() => navigate('/edit/organizations')}
-                title="organizations.json を編集する"
-              >
-                📝 組織編集
-                {orgEditCount > 0 && <span className={styles.navBadge}>{orgEditCount}</span>}
               </button>
             )}
           </nav>
