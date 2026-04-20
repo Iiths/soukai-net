@@ -213,7 +213,7 @@ wiki_crawler.py を読まずに済むよう要点をまとめる。
 2. `src/domain/entities/Ninja.ts` の型定義も必要に応じて変更
 
 ### パターンD: episodes.json / organizations.json を画面から編集したい
-- ローカル開発時（`http://localhost:5173`）のみヘッダーに「📝 エピソード編集」「📝 組織編集」ボタンが出る（issue#15で追加）
+- ローカル開発時（`http://localhost:5173`）のみヘッダーに「📝 エピソード編集」「📝 組織編集」「＋ 新規追加」「📥 ninjas.json 保存」ボタンが出る（issue#15で追加、issue#16で並び順修正）
 - それぞれ `/edit/episodes` と `/edit/organizations` に遷移する
 - 各行の「更新」ボタンで in-memory の override に反映、「削除」ボタンでソフト削除マーク
 - 「📥 episodes.json を保存」/「📥 organizations.json を保存」で全体をダウンロードし、`src/data/*.json` に上書きする運用
