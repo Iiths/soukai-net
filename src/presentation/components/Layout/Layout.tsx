@@ -92,6 +92,9 @@ export function Layout({ children }: LayoutProps) {
           <p className={styles.credit}>
             SOUKAI.NET - ニンジャデータベース
           </p>
+          <p className={styles.disclaimer}>
+            ※このサイトは非公式のデータベースな
+          </p>
         </div>
       </footer>
     </div>

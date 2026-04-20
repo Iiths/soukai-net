@@ -170,3 +170,11 @@
   text-align: center;
   letter-spacing: 0.03em;
 }
+
+.disclaimer {
+  margin: 0.75rem 0 0;
+  color: var(--color-text-muted);
+  font-size: 0.75rem;
+  text-align: center;
+  opacity: 0.6;
+}
