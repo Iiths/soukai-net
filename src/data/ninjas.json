@@ -14196,14 +14196,39 @@
   {
     "id": "f1592be1",
     "name": "ランチハンド",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "2p1mrm8t",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "アカイヌ・ジツ",
+      "カトン・ウケミ",
+      "メイアルーアジコンパッソ",
+      "アルマーダ・マテーロ"
+    ],
+    "role": "マスター位階",
+    "appearance": "ダークイエローのニンジャ装束。",
+    "description": "新生ザイバツのニンジャ。イグナイトの師であった。\n虚空から炎の魔犬を呼び出し使役する。カラテも強い。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%83%B3%E3%83%81%E3%83%8F%E3%83%B3%E3%83%89",
+    "appearances": [
+      {
+        "id": "6e95e58d"
+      },
+      {
+        "id": "vyhgnuh0"
+      }
+    ],
     "organizations": [
       {
         "id": "zaibatsu-p3p4"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%83%B3%E3%83%81%E3%83%8F%E3%83%B3%E3%83%89"
+    ]
   },
   {
     "id": "6087eb9a",
@@ -14325,14 +14350,34 @@
   {
     "id": "c472d180",
     "name": "グリフォン",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "rj2ozq76",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ヴァジュラ",
+      "跳躍攻撃"
+    ],
+    "role": "アデプト位階",
+    "appearance": "猛禽めいたフルフェイス・メンポ。残忍な眼光を宿す瞳。",
+    "description": "新生ザイバツのニンジャ。\n恐らくソウル由来の跳躍力を活かした落下攻撃が得意。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B0%E3%83%AA%E3%83%95%E3%82%A9%E3%83%B3",
+    "appearances": [
+      {
+        "id": "6e95e58d"
+      }
+    ],
     "organizations": [
       {
         "id": "zaibatsu-p3p4"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B0%E3%83%AA%E3%83%95%E3%82%A9%E3%83%B3"
+    ]
   },
   {
     "id": "008e0810",
@@ -14410,14 +14455,32 @@
   {
     "id": "0da05442",
     "name": "ディムライト",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "x7rprilf",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "キノコ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "霊薬"
+    ],
+    "appearance": "背にキノコを生やす。軟体じみて伸びた首。ヒカリゴケめいた濁った目。\n長い手足の巨躯と半獣めいた容貌。メンポ。",
+    "description": "新生ザイバツのキノコニンジャ。\nキノコには回復効果がある。\n自我を失っていたが、4部で取り戻した。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%A3%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%88",
+    "appearances": [
+      {
+        "id": "6e95e58d"
+      }
+    ],
     "organizations": [
       {
         "id": "zaibatsu-p3p4"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%A3%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%88"
+    ]
   },
   {
     "id": "12268aac",
@@ -14535,14 +14598,33 @@
   {
     "id": "b3deceff",
     "name": "ベオウルフ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "5ncte4ar",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ニンジャ大剣"
+    ],
+    "role": "アデプト位階",
+    "appearance": "大柄なニンジャ。",
+    "description": "新生ザイバツのニンジャ。マスター位階にも匹敵する強者。\n合体大剣は分割して二本のニンジャソードとしても利用可能。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%99%E3%82%AA%E3%82%A6%E3%83%AB%E3%83%95",
+    "appearances": [
+      {
+        "id": "6e95e58d"
+      }
+    ],
     "organizations": [
       {
         "id": "zaibatsu-p3p4"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%99%E3%82%AA%E3%82%A6%E3%83%AB%E3%83%95"
+    ]
   },
   {
     "id": "94aba3b8",
