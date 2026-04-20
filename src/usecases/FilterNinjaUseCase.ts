@@ -81,12 +81,10 @@ export class FilterNinjaUseCase {
         }
       }
 
-      // ニンジャクランフィルター（部分一致）
+      // ニンジャクランフィルター（完全一致）
       if (criteria.ninjaSoulClan) {
         if (
-          !ninja.ninjaSoul?.clan
-            ?.toLowerCase()
-            .includes(criteria.ninjaSoulClan.toLowerCase())
+          ninja.ninjaSoul?.clan?.toLowerCase() !== criteria.ninjaSoulClan.toLowerCase()
         ) {
           return false;
         }
