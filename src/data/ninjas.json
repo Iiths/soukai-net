@@ -21254,79 +21254,352 @@
   {
     "id": "d43b93",
     "name": "メイルシュトロム",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A1%E3%82%A4%E3%83%AB%E3%82%B7%E3%83%A5%E3%83%88%E3%83%AD%E3%83%A0"
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "lr2zo44w",
+      "name": "",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ゲニン使役",
+      "インロウ・オブ・パワー",
+      "再生能力"
+    ],
+    "appearance": "妖しく光る眼。霧や泥を連想させる01ノイズに泡立つ肌。\n不明瞭な身体。コトダマ空間では山のような巨体。",
+    "description": "反ダークニンジャ派の旧ザイバツ残党「災禍忍軍」の頭目。\n凄まじいコトダマ能力を持つ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A1%E3%82%A4%E3%83%AB%E3%82%B7%E3%83%A5%E3%83%88%E3%83%AD%E3%83%A0",
+    "appearances": [
+      {
+        "id": "vyhgnuh0"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "307o3nfg"
+      }
+    ]
   },
   {
     "id": "779603",
     "name": "ナヤミ",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8A%E3%83%A4%E3%83%9F"
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "m6i94cky",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "タナカ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "キネシス・ジツ"
+    ],
+    "description": "災禍忍軍のニンジャ。旧ザイバツではパラゴン派閥。\n遠距離から相手を捉えるテレキネシスの使い手。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8A%E3%83%A4%E3%83%9F",
+    "appearances": [
+      {
+        "id": "vyhgnuh0"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "zaibatsu-p2"
+      },
+      {
+        "id": "307o3nfg"
+      }
+    ]
   },
   {
     "id": "6657bd",
     "name": "ヴァストバルク",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%B4%E3%82%A1%E3%82%B9%E3%83%88%E3%83%90%E3%83%AB%E3%82%AF"
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "f62ujy9j",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "ビッグ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "ビッグカラテ"
+    ],
+    "appearance": "巨体に丸太めいた腕。",
+    "description": "災禍忍軍のビッグニンジャ。旧ザイバツではケイビイン派閥。\nビッグカラテトーキック、ビッグケリ・キックなど意外に多芸。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%B4%E3%82%A1%E3%82%B9%E3%83%88%E3%83%90%E3%83%AB%E3%82%AF",
+    "appearances": [
+      {
+        "id": "vyhgnuh0"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "zaibatsu-p2"
+      },
+      {
+        "id": "307o3nfg"
+      }
+    ]
   },
   {
     "id": "97e286",
     "name": "サイズマスター",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%82%A4%E3%82%BA%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC"
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "suk4u3jd",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "カラテ大鎌"
+    ],
+    "description": "災禍忍軍のニンジャ。旧ザイバツではイグゾーション派閥。\nカラテ粒子から大鎌を作り出し振るう。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%82%A4%E3%82%BA%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC",
+    "appearances": [
+      {
+        "id": "vyhgnuh0"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "zaibatsu-p2"
+      },
+      {
+        "id": "307o3nfg"
+      }
+    ]
   },
   {
     "id": "f364ae",
     "name": "ディストーショナー",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%88%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC"
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "mnif9v4u",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "ヒズミ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "ヒズミ・ジツ"
+    ],
+    "description": "災禍忍軍のニンジャ。旧ザイバツではイグゾーション派閥。\n触れた相手を劣化分解させる危険なジツの使い手。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%88%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC",
+    "appearances": [
+      {
+        "id": "vyhgnuh0"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "zaibatsu-p2"
+      },
+      {
+        "id": "307o3nfg"
+      }
+    ]
   },
   {
     "id": "5e7f96",
     "name": "ピットクロウラー",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%94%E3%83%83%E3%83%88%E3%82%AF%E3%83%AD%E3%82%A6%E3%83%A9%E3%83%BC"
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "hb6vni44",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "description": "災禍忍軍のニンジャ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%94%E3%83%83%E3%83%88%E3%82%AF%E3%83%AD%E3%82%A6%E3%83%A9%E3%83%BC",
+    "appearances": [
+      {
+        "id": "vyhgnuh0"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "zaibatsu-p2"
+      },
+      {
+        "id": "307o3nfg"
+      }
+    ]
   },
   {
     "id": "6ca0ed",
     "name": "ペイルシャーク",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9A%E3%82%A4%E3%83%AB%E3%82%B7%E3%83%A3%E3%83%BC%E3%82%AF"
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "7fov7pia",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "サメ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "噛みつき"
+    ],
+    "appearance": "鋭い多層牙の生えた顎機構のメンポ。",
+    "description": "災禍忍軍のニンジャ。旧ザイバツではケイビイン派閥。\nスリケンを受け止め砕くほどの顎が持ち味。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9A%E3%82%A4%E3%83%AB%E3%82%B7%E3%83%A3%E3%83%BC%E3%82%AF",
+    "appearances": [
+      {
+        "id": "vyhgnuh0"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "zaibatsu-p2"
+      },
+      {
+        "id": "307o3nfg"
+      }
+    ]
   },
   {
     "id": "8f73ba",
     "name": "ポイズンフィスト",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9D%E3%82%A4%E3%82%BA%E3%83%B3%E3%83%95%E3%82%A3%E3%82%B9%E3%83%88"
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "e7irfzk8",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "コドク・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "ドク・ジツ",
+      "ケムリ・ダマ"
+    ],
+    "appearance": "ヒョロリと背の高いニンジャ。",
+    "description": "災禍忍軍のニンジャ。旧ザイバツではイグゾーション派閥。\n紫色の毒液を両腕から生じさせカラテを振るう。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9D%E3%82%A4%E3%82%BA%E3%83%B3%E3%83%95%E3%82%A3%E3%82%B9%E3%83%88",
+    "appearances": [
+      {
+        "id": "vyhgnuh0"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "307o3nfg"
+      }
+    ]
   },
   {
     "id": "00558a",
     "name": "ホワイトノイズ",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%8E%E3%82%A4%E3%82%BA"
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "mroeyz45",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "ランパ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "ボガイ・ジツ",
+      "索敵のジツ"
+    ],
+    "appearance": "奇妙な杖を懐に所持。",
+    "description": "災禍忍軍のニンジャ。旧ザイバツではスローハンド派閥。\n杖を使って探知する他、苦悶の霧で周囲を包むジツを使う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%8E%E3%82%A4%E3%82%BA",
+    "appearances": [
+      {
+        "id": "vyhgnuh0"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "zaibatsu-p2"
+      },
+      {
+        "id": "307o3nfg"
+      }
+    ]
   },
   {
     "id": "cb6387",
     "name": "ライノハイド",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%82%A4%E3%83%8E%E3%83%8F%E3%82%A4%E3%83%89"
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "suw6r5im",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "クナイ・ダート"
+    ],
+    "description": "災禍忍軍のニンジャ。\nクナイ・ダート派。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%82%A4%E3%83%8E%E3%83%8F%E3%82%A4%E3%83%89",
+    "appearances": [
+      {
+        "id": "vyhgnuh0"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "zaibatsu-p2"
+      },
+      {
+        "id": "307o3nfg"
+      }
+    ]
   },
   {
     "id": "0ad768",
     "name": "レッドオセロット",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%83%83%E3%83%89%E3%82%AA%E3%82%BB%E3%83%AD%E3%83%83%E3%83%88"
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "8beblbt7",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "description": "災禍忍軍のニンジャ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%83%83%E3%83%89%E3%82%AA%E3%82%BB%E3%83%AD%E3%83%83%E3%83%88",
+    "appearances": [
+      {
+        "id": "vyhgnuh0"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "zaibatsu-p2"
+      },
+      {
+        "id": "307o3nfg"
+      }
+    ]
   },
   {
     "id": "18d7b5",
