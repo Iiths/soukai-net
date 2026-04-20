@@ -10027,6 +10027,16 @@
       "origin": "",
       "grade": "等級不明"
     },
+    "organizations": [
+      {
+        "id": "zaibatsu-p2"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "12ml6hmz"
+      }
+    ],
     "skills": [
       "へカトン・ジツ",
       "アースクエイク・シコ"
@@ -10035,17 +10045,7 @@
     "appearance": "筋肉で覆われた240センチの巨躯。六つの瞳と六本の腕。\n丸太めいた二本の脚。",
     "description": "ザイバツのマスター位階ニンジャ。\nその正体はブリアレウス、コットゥス、ガイギスの合体ニンジャ。\nグランドマスター級のカラテを発揮するが、3分に1度合体を解かなければならない。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%AA%E3%82%A2%E3%83%AC%E3%82%A6%E3%82%B9%EF%BC%8F%E3%82%B3%E3%83%83%E3%83%88%E3%82%A5%E3%82%B9%EF%BC%8F%E3%82%AC%E3%82%A4%E3%82%AE%E3%82%B9#a2f7a59d",
-    "appearances": [
-      {
-        "id": "12ml6hmz"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "zaibatsu-p2"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%AA%E3%82%A2%E3%83%AC%E3%82%A6%E3%82%B9%EF%BC%8F%E3%82%B3%E3%83%83%E3%83%88%E3%82%A5%E3%82%B9%EF%BC%8F%E3%82%AC%E3%82%A4%E3%82%AE%E3%82%B9#a2f7a59d"
   },
   {
     "id": "efbb5889",
@@ -12890,6 +12890,16 @@
       "origin": "",
       "grade": "等級不明"
     },
+    "organizations": [
+      {
+        "id": "zaibatsu-p2"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "12ml6hmz"
+      }
+    ],
     "skills": [
       "ヘカトン・ジツ"
     ],
@@ -12897,17 +12907,7 @@
     "appearance": "コットゥス、ガイギスと似たような体格。",
     "description": "ザイバツのアデプトニンジャ。\n他のニンジャと合体しヘカトンケイルに変化する。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%AA%E3%82%A2%E3%83%AC%E3%82%A6%E3%82%B9%EF%BC%8F%E3%82%B3%E3%83%83%E3%83%88%E3%82%A5%E3%82%B9%EF%BC%8F%E3%82%AC%E3%82%A4%E3%82%AE%E3%82%B9",
-    "appearances": [
-      {
-        "id": "12ml6hmz"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "zaibatsu-p2"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%AA%E3%82%A2%E3%83%AC%E3%82%A6%E3%82%B9%EF%BC%8F%E3%82%B3%E3%83%83%E3%83%88%E3%82%A5%E3%82%B9%EF%BC%8F%E3%82%AC%E3%82%A4%E3%82%AE%E3%82%B9"
   },
   {
     "id": "51aad3a2",
@@ -14211,6 +14211,19 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "6e95e58d"
+      },
+      {
+        "id": "vyhgnuh0"
+      }
+    ],
     "skills": [
       "アカイヌ・ジツ",
       "カトン・ウケミ",
@@ -14221,20 +14234,7 @@
     "appearance": "ダークイエローのニンジャ装束。",
     "description": "新生ザイバツのニンジャ。イグナイトの師であった。\n虚空から炎の魔犬を呼び出し使役する。カラテも強い。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%83%B3%E3%83%81%E3%83%8F%E3%83%B3%E3%83%89",
-    "appearances": [
-      {
-        "id": "6e95e58d"
-      },
-      {
-        "id": "vyhgnuh0"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "zaibatsu-p3p4"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%83%B3%E3%83%81%E3%83%8F%E3%83%B3%E3%83%89"
   },
   {
     "id": "6087eb9a",
@@ -14248,17 +14248,6 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "スリケン"
-    ],
-    "description": "新生ザイバツのニンジャ。\nキャプスタンと親交が深かった。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%83%B3%E3%83%96%E3%83%AC%E3%82%A4%E3%82%B9",
-    "appearances": [
-      {
-        "id": "vyhgnuh0"
-      }
-    ],
     "organizations": [
       {
         "id": "zaibatsu-p2"
@@ -14266,7 +14255,18 @@
       {
         "id": "zaibatsu-p3p4"
       }
-    ]
+    ],
+    "appearances": [
+      {
+        "id": "vyhgnuh0"
+      }
+    ],
+    "skills": [
+      "スリケン"
+    ],
+    "description": "新生ザイバツのニンジャ。\nキャプスタンと親交が深かった。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%83%B3%E3%83%96%E3%83%AC%E3%82%A4%E3%82%B9"
   },
   {
     "id": "864f2e90",
@@ -14292,20 +14292,20 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "description": "新生ザイバツのニンジャ。\n確かな伸び代をもつ若いニンジャであった。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AA%E3%82%A6%E3%83%AB%E3%82%BB%E3%83%B3%E3%82%B9",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4"
+      }
+    ],
     "appearances": [
       {
         "id": "vyhgnuh0"
       }
     ],
-    "organizations": [
-      {
-        "id": "zaibatsu-p3p4"
-      }
-    ]
+    "skills": [],
+    "description": "新生ザイバツのニンジャ。\n確かな伸び代をもつ若いニンジャであった。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AA%E3%82%A6%E3%83%AB%E3%82%BB%E3%83%B3%E3%82%B9"
   },
   {
     "id": "c2d3fb0a",
@@ -14334,20 +14334,20 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "description": "新生ザイバツのニンジャ。\nドラゴン・ニンジャの捜索任務にあたっていた。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%AB%E3%82%B3%E3%83%A9%E3%82%AF%EF%BC%8F%E3%83%A9%E3%83%B3%E3%83%89%E3%82%AF%E3%83%A9%E3%83%96%EF%BC%8F%E3%82%AA%E3%83%AD%E3%83%90%E3%82%B9",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4"
+      }
+    ],
     "appearances": [
       {
         "id": "vyhgnuh0"
       }
     ],
-    "organizations": [
-      {
-        "id": "zaibatsu-p3p4"
-      }
-    ]
+    "skills": [],
+    "description": "新生ザイバツのニンジャ。\nドラゴン・ニンジャの捜索任務にあたっていた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%AB%E3%82%B3%E3%83%A9%E3%82%AF%EF%BC%8F%E3%83%A9%E3%83%B3%E3%83%89%E3%82%AF%E3%83%A9%E3%83%96%EF%BC%8F%E3%82%AA%E3%83%AD%E3%83%90%E3%82%B9"
   },
   {
     "id": "8aa4edf8",
@@ -14373,16 +14373,6 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "appearance": "ある程度年のいった男のニンジャ。",
-    "description": "新生ザイバツのニンジャ。\n災禍忍軍の間諜であった。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AD%E3%83%A3%E3%83%97%E3%82%B9%E3%82%BF%E3%83%B3",
-    "appearances": [
-      {
-        "id": "vyhgnuh0"
-      }
-    ],
     "organizations": [
       {
         "id": "zaibatsu-p2"
@@ -14393,7 +14383,17 @@
       {
         "id": "307o3nfg"
       }
-    ]
+    ],
+    "appearances": [
+      {
+        "id": "vyhgnuh0"
+      }
+    ],
+    "skills": [],
+    "appearance": "ある程度年のいった男のニンジャ。",
+    "description": "新生ザイバツのニンジャ。\n災禍忍軍の間諜であった。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AD%E3%83%A3%E3%83%97%E3%82%B9%E3%82%BF%E3%83%B3"
   },
   {
     "id": "374cf4e9",
@@ -14438,6 +14438,16 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "6e95e58d"
+      }
+    ],
     "skills": [
       "ヴァジュラ",
       "跳躍攻撃"
@@ -14446,17 +14456,7 @@
     "appearance": "猛禽めいたフルフェイス・メンポ。残忍な眼光を宿す瞳。",
     "description": "新生ザイバツのニンジャ。\n恐らくソウル由来の跳躍力を活かした落下攻撃が得意。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B0%E3%83%AA%E3%83%95%E3%82%A9%E3%83%B3",
-    "appearances": [
-      {
-        "id": "6e95e58d"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "zaibatsu-p3p4"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B0%E3%83%AA%E3%83%95%E3%82%A9%E3%83%B3"
   },
   {
     "id": "008e0810",
@@ -14543,23 +14543,23 @@
       "clan": "キノコ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "6e95e58d"
+      }
+    ],
     "skills": [
       "霊薬"
     ],
     "appearance": "背にキノコを生やす。軟体じみて伸びた首。ヒカリゴケめいた濁った目。\n長い手足の巨躯と半獣めいた容貌。メンポ。",
     "description": "新生ザイバツのキノコニンジャ。\nキノコには回復効果がある。\n自我を失っていたが、4部で取り戻した。",
     "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%A3%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%88",
-    "appearances": [
-      {
-        "id": "6e95e58d"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "zaibatsu-p3p4"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%A3%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%88"
   },
   {
     "id": "12268aac",
@@ -14663,20 +14663,20 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "description": "新生ザイバツのニンジャ。\nディミヌエンドを含めた部隊の隊長を務めていた。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%AB%E3%82%B3%E3%83%A9%E3%82%AF%EF%BC%8F%E3%83%A9%E3%83%B3%E3%83%89%E3%82%AF%E3%83%A9%E3%83%96%EF%BC%8F%E3%82%AA%E3%83%AD%E3%83%90%E3%82%B9",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4"
+      }
+    ],
     "appearances": [
       {
         "id": "vyhgnuh0"
       }
     ],
-    "organizations": [
-      {
-        "id": "zaibatsu-p3p4"
-      }
-    ]
+    "skills": [],
+    "description": "新生ザイバツのニンジャ。\nディミヌエンドを含めた部隊の隊長を務めていた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%AB%E3%82%B3%E3%83%A9%E3%82%AF%EF%BC%8F%E3%83%A9%E3%83%B3%E3%83%89%E3%82%AF%E3%83%A9%E3%83%96%EF%BC%8F%E3%82%AA%E3%83%AD%E3%83%90%E3%82%B9"
   },
   {
     "id": "5176cefa",
@@ -14702,6 +14702,16 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "6e95e58d"
+      }
+    ],
     "skills": [
       "ニンジャ大剣"
     ],
@@ -14709,17 +14719,7 @@
     "appearance": "大柄なニンジャ。",
     "description": "新生ザイバツのニンジャ。マスター位階にも匹敵する強者。\n合体大剣は分割して二本のニンジャソードとしても利用可能。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%99%E3%82%AA%E3%82%A6%E3%83%AB%E3%83%95",
-    "appearances": [
-      {
-        "id": "6e95e58d"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "zaibatsu-p3p4"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%99%E3%82%AA%E3%82%A6%E3%83%AB%E3%83%95"
   },
   {
     "id": "94aba3b8",
@@ -14767,20 +14767,20 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "description": "新生ザイバツのニンジャ。\nドラゴン・ニンジャの捜索任務にあたっていた。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%AB%E3%82%B3%E3%83%A9%E3%82%AF%EF%BC%8F%E3%83%A9%E3%83%B3%E3%83%89%E3%82%AF%E3%83%A9%E3%83%96%EF%BC%8F%E3%82%AA%E3%83%AD%E3%83%90%E3%82%B9",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4"
+      }
+    ],
     "appearances": [
       {
         "id": "vyhgnuh0"
       }
     ],
-    "organizations": [
-      {
-        "id": "zaibatsu-p3p4"
-      }
-    ]
+    "skills": [],
+    "description": "新生ザイバツのニンジャ。\nドラゴン・ニンジャの捜索任務にあたっていた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%AB%E3%82%B3%E3%83%A9%E3%82%AF%EF%BC%8F%E3%83%A9%E3%83%B3%E3%83%89%E3%82%AF%E3%83%A9%E3%83%96%EF%BC%8F%E3%82%AA%E3%83%AD%E3%83%90%E3%82%B9"
   },
   {
     "id": "410a044e",
@@ -19555,13 +19555,34 @@
   {
     "id": "bedeb86b",
     "name": "ペイバック",
+    "realName": "ワタリ・ジロチョ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "najlzaur",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ソクシ・ジツ",
+      "スリケン"
+    ],
+    "appearance": "襟を立てたサイバー・ピーコートにギャング帽。\nコートの下にニンジャ装束。",
+    "description": "アマクダリの末端ニンジャ。\nフリーランス・ヤクザとして通っている。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9A%E3%82%A4%E3%83%90%E3%83%83%E3%82%AF",
+    "appearances": [
+      {
+        "id": "9a242038"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "4c4b62c6",
@@ -21358,6 +21379,16 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "307o3nfg"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "vyhgnuh0"
+      }
+    ],
     "skills": [
       "ゲニン使役",
       "インロウ・オブ・パワー",
@@ -21366,17 +21397,7 @@
     "appearance": "妖しく光る眼。霧や泥を連想させる01ノイズに泡立つ肌。\n不明瞭な身体。コトダマ空間では山のような巨体。",
     "description": "反ダークニンジャ派の旧ザイバツ残党「災禍忍軍」の頭目。\n凄まじいコトダマ能力を持つ。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A1%E3%82%A4%E3%83%AB%E3%82%B7%E3%83%A5%E3%83%88%E3%83%AD%E3%83%A0",
-    "appearances": [
-      {
-        "id": "vyhgnuh0"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "307o3nfg"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A1%E3%82%A4%E3%83%AB%E3%82%B7%E3%83%A5%E3%83%88%E3%83%AD%E3%83%A0"
   },
   {
     "id": "779603",
@@ -21390,17 +21411,6 @@
       "clan": "タナカ・ニンジャクラン",
       "origin": ""
     },
-    "skills": [
-      "キネシス・ジツ"
-    ],
-    "description": "災禍忍軍のニンジャ。旧ザイバツではパラゴン派閥。\n遠距離から相手を捉えるテレキネシスの使い手。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8A%E3%83%A4%E3%83%9F",
-    "appearances": [
-      {
-        "id": "vyhgnuh0"
-      }
-    ],
     "organizations": [
       {
         "id": "zaibatsu-p2"
@@ -21408,7 +21418,18 @@
       {
         "id": "307o3nfg"
       }
-    ]
+    ],
+    "appearances": [
+      {
+        "id": "vyhgnuh0"
+      }
+    ],
+    "skills": [
+      "キネシス・ジツ"
+    ],
+    "description": "災禍忍軍のニンジャ。旧ザイバツではパラゴン派閥。\n遠距離から相手を捉えるテレキネシスの使い手。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8A%E3%83%A4%E3%83%9F"
   },
   {
     "id": "6657bd",
@@ -21422,18 +21443,6 @@
       "clan": "ビッグ・ニンジャクラン",
       "origin": ""
     },
-    "skills": [
-      "ビッグカラテ"
-    ],
-    "appearance": "巨体に丸太めいた腕。",
-    "description": "災禍忍軍のビッグニンジャ。旧ザイバツではケイビイン派閥。\nビッグカラテトーキック、ビッグケリ・キックなど意外に多芸。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%B4%E3%82%A1%E3%82%B9%E3%83%88%E3%83%90%E3%83%AB%E3%82%AF",
-    "appearances": [
-      {
-        "id": "vyhgnuh0"
-      }
-    ],
     "organizations": [
       {
         "id": "zaibatsu-p2"
@@ -21441,7 +21450,19 @@
       {
         "id": "307o3nfg"
       }
-    ]
+    ],
+    "appearances": [
+      {
+        "id": "vyhgnuh0"
+      }
+    ],
+    "skills": [
+      "ビッグカラテ"
+    ],
+    "appearance": "巨体に丸太めいた腕。",
+    "description": "災禍忍軍のビッグニンジャ。旧ザイバツではケイビイン派閥。\nビッグカラテトーキック、ビッグケリ・キックなど意外に多芸。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%B4%E3%82%A1%E3%82%B9%E3%83%88%E3%83%90%E3%83%AB%E3%82%AF"
   },
   {
     "id": "97e286",
@@ -21455,17 +21476,6 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "カラテ大鎌"
-    ],
-    "description": "災禍忍軍のニンジャ。旧ザイバツではイグゾーション派閥。\nカラテ粒子から大鎌を作り出し振るう。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%82%A4%E3%82%BA%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC",
-    "appearances": [
-      {
-        "id": "vyhgnuh0"
-      }
-    ],
     "organizations": [
       {
         "id": "zaibatsu-p2"
@@ -21473,7 +21483,18 @@
       {
         "id": "307o3nfg"
       }
-    ]
+    ],
+    "appearances": [
+      {
+        "id": "vyhgnuh0"
+      }
+    ],
+    "skills": [
+      "カラテ大鎌"
+    ],
+    "description": "災禍忍軍のニンジャ。旧ザイバツではイグゾーション派閥。\nカラテ粒子から大鎌を作り出し振るう。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%82%A4%E3%82%BA%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC"
   },
   {
     "id": "f364ae",
@@ -21487,17 +21508,6 @@
       "clan": "ヒズミ・ニンジャクラン",
       "origin": ""
     },
-    "skills": [
-      "ヒズミ・ジツ"
-    ],
-    "description": "災禍忍軍のニンジャ。旧ザイバツではイグゾーション派閥。\n触れた相手を劣化分解させる危険なジツの使い手。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%88%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC",
-    "appearances": [
-      {
-        "id": "vyhgnuh0"
-      }
-    ],
     "organizations": [
       {
         "id": "zaibatsu-p2"
@@ -21505,7 +21515,18 @@
       {
         "id": "307o3nfg"
       }
-    ]
+    ],
+    "appearances": [
+      {
+        "id": "vyhgnuh0"
+      }
+    ],
+    "skills": [
+      "ヒズミ・ジツ"
+    ],
+    "description": "災禍忍軍のニンジャ。旧ザイバツではイグゾーション派閥。\n触れた相手を劣化分解させる危険なジツの使い手。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%88%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC"
   },
   {
     "id": "5e7f96",
@@ -21519,15 +21540,6 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "description": "災禍忍軍のニンジャ。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%94%E3%83%83%E3%83%88%E3%82%AF%E3%83%AD%E3%82%A6%E3%83%A9%E3%83%BC",
-    "appearances": [
-      {
-        "id": "vyhgnuh0"
-      }
-    ],
     "organizations": [
       {
         "id": "zaibatsu-p2"
@@ -21535,7 +21547,16 @@
       {
         "id": "307o3nfg"
       }
-    ]
+    ],
+    "appearances": [
+      {
+        "id": "vyhgnuh0"
+      }
+    ],
+    "skills": [],
+    "description": "災禍忍軍のニンジャ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%94%E3%83%83%E3%83%88%E3%82%AF%E3%83%AD%E3%82%A6%E3%83%A9%E3%83%BC"
   },
   {
     "id": "6ca0ed",
@@ -21549,18 +21570,6 @@
       "clan": "サメ・ニンジャクラン",
       "origin": ""
     },
-    "skills": [
-      "噛みつき"
-    ],
-    "appearance": "鋭い多層牙の生えた顎機構のメンポ。",
-    "description": "災禍忍軍のニンジャ。旧ザイバツではケイビイン派閥。\nスリケンを受け止め砕くほどの顎が持ち味。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9A%E3%82%A4%E3%83%AB%E3%82%B7%E3%83%A3%E3%83%BC%E3%82%AF",
-    "appearances": [
-      {
-        "id": "vyhgnuh0"
-      }
-    ],
     "organizations": [
       {
         "id": "zaibatsu-p2"
@@ -21568,7 +21577,19 @@
       {
         "id": "307o3nfg"
       }
-    ]
+    ],
+    "appearances": [
+      {
+        "id": "vyhgnuh0"
+      }
+    ],
+    "skills": [
+      "噛みつき"
+    ],
+    "appearance": "鋭い多層牙の生えた顎機構のメンポ。",
+    "description": "災禍忍軍のニンジャ。旧ザイバツではケイビイン派閥。\nスリケンを受け止め砕くほどの顎が持ち味。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9A%E3%82%A4%E3%83%AB%E3%82%B7%E3%83%A3%E3%83%BC%E3%82%AF"
   },
   {
     "id": "8f73ba",
@@ -21582,19 +21603,6 @@
       "clan": "コドク・ニンジャクラン",
       "origin": ""
     },
-    "skills": [
-      "ドク・ジツ",
-      "ケムリ・ダマ"
-    ],
-    "appearance": "ヒョロリと背の高いニンジャ。",
-    "description": "災禍忍軍のニンジャ。旧ザイバツではイグゾーション派閥。\n紫色の毒液を両腕から生じさせカラテを振るう。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9D%E3%82%A4%E3%82%BA%E3%83%B3%E3%83%95%E3%82%A3%E3%82%B9%E3%83%88",
-    "appearances": [
-      {
-        "id": "vyhgnuh0"
-      }
-    ],
     "organizations": [
       {
         "id": "zaibatsu-p2"
@@ -21602,7 +21610,20 @@
       {
         "id": "307o3nfg"
       }
-    ]
+    ],
+    "appearances": [
+      {
+        "id": "vyhgnuh0"
+      }
+    ],
+    "skills": [
+      "ドク・ジツ",
+      "ケムリ・ダマ"
+    ],
+    "appearance": "ヒョロリと背の高いニンジャ。",
+    "description": "災禍忍軍のニンジャ。旧ザイバツではイグゾーション派閥。\n紫色の毒液を両腕から生じさせカラテを振るう。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9D%E3%82%A4%E3%82%BA%E3%83%B3%E3%83%95%E3%82%A3%E3%82%B9%E3%83%88"
   },
   {
     "id": "00558a",
@@ -21616,19 +21637,6 @@
       "clan": "ランパ・ニンジャクラン",
       "origin": ""
     },
-    "skills": [
-      "ボガイ・ジツ",
-      "索敵のジツ"
-    ],
-    "appearance": "奇妙な杖を懐に所持。",
-    "description": "災禍忍軍のニンジャ。旧ザイバツではスローハンド派閥。\n杖を使って探知する他、苦悶の霧で周囲を包むジツを使う。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%8E%E3%82%A4%E3%82%BA",
-    "appearances": [
-      {
-        "id": "vyhgnuh0"
-      }
-    ],
     "organizations": [
       {
         "id": "zaibatsu-p2"
@@ -21636,7 +21644,20 @@
       {
         "id": "307o3nfg"
       }
-    ]
+    ],
+    "appearances": [
+      {
+        "id": "vyhgnuh0"
+      }
+    ],
+    "skills": [
+      "ボガイ・ジツ",
+      "索敵のジツ"
+    ],
+    "appearance": "奇妙な杖を懐に所持。",
+    "description": "災禍忍軍のニンジャ。旧ザイバツではスローハンド派閥。\n杖を使って探知する他、苦悶の霧で周囲を包むジツを使う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%8E%E3%82%A4%E3%82%BA"
   },
   {
     "id": "cb6387",
@@ -21650,17 +21671,6 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "クナイ・ダート"
-    ],
-    "description": "災禍忍軍のニンジャ。\nクナイ・ダート派。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%82%A4%E3%83%8E%E3%83%8F%E3%82%A4%E3%83%89",
-    "appearances": [
-      {
-        "id": "vyhgnuh0"
-      }
-    ],
     "organizations": [
       {
         "id": "zaibatsu-p2"
@@ -21668,7 +21678,18 @@
       {
         "id": "307o3nfg"
       }
-    ]
+    ],
+    "appearances": [
+      {
+        "id": "vyhgnuh0"
+      }
+    ],
+    "skills": [
+      "クナイ・ダート"
+    ],
+    "description": "災禍忍軍のニンジャ。\nクナイ・ダート派。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%82%A4%E3%83%8E%E3%83%8F%E3%82%A4%E3%83%89"
   },
   {
     "id": "0ad768",
@@ -21682,15 +21703,6 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "description": "災禍忍軍のニンジャ。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%83%83%E3%83%89%E3%82%AA%E3%82%BB%E3%83%AD%E3%83%83%E3%83%88",
-    "appearances": [
-      {
-        "id": "vyhgnuh0"
-      }
-    ],
     "organizations": [
       {
         "id": "zaibatsu-p2"
@@ -21698,7 +21710,16 @@
       {
         "id": "307o3nfg"
       }
-    ]
+    ],
+    "appearances": [
+      {
+        "id": "vyhgnuh0"
+      }
+    ],
+    "skills": [],
+    "description": "災禍忍軍のニンジャ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%83%83%E3%83%89%E3%82%AA%E3%82%BB%E3%83%AD%E3%83%83%E3%83%88"
   },
   {
     "id": "18d7b5",
@@ -22702,23 +22723,23 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "09afd629"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "zt9pvzah"
+      }
+    ],
     "skills": [
       "ゾンビーイカ触手"
     ],
     "appearance": "大型の肉塊。イカめいた複数の触手を生やす。",
     "description": "INWが生みだした肉塊ゾンビーニンジャ。\n十数メートルの触手で攻撃。",
     "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%A9%E3%83%BC%E3%82%B1%E3%83%B3",
-    "appearances": [
-      {
-        "id": "zt9pvzah"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "09afd629"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%A9%E3%83%BC%E3%82%B1%E3%83%B3"
   },
   {
     "id": "d0cd20",
@@ -22884,14 +22905,11 @@
       "clan": "",
       "origin": "強大なニンジャソウル"
     },
-    "skills": [
-      "ネクロ・カラテ",
-      "隠し刃"
+    "organizations": [
+      {
+        "id": "09afd629"
+      }
     ],
-    "appearance": "所々がヒビ割れた腐肉の身体。真新しい袖無しニンジャ装束。",
-    "description": "リー先生が生みだしたゾンビーニンジャ。\n名前に反し強大なニンジャソウルを移植されている。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%83%A9%E3%83%86%E3%82%BE%E3%83%B3%E3%83%93",
     "appearances": [
       {
         "id": "zt9pvzah"
@@ -22900,11 +22918,14 @@
         "id": "f0q6hbvy"
       }
     ],
-    "organizations": [
-      {
-        "id": "09afd629"
-      }
-    ]
+    "skills": [
+      "ネクロ・カラテ",
+      "隠し刃"
+    ],
+    "appearance": "所々がヒビ割れた腐肉の身体。真新しい袖無しニンジャ装束。",
+    "description": "リー先生が生みだしたゾンビーニンジャ。\n名前に反し強大なニンジャソウルを移植されている。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%83%A9%E3%83%86%E3%82%BE%E3%83%B3%E3%83%93"
   },
   {
     "id": "5056dd",
@@ -23014,23 +23035,23 @@
       "clan": "コリ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "09afd629"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "zt9pvzah"
+      }
+    ],
     "skills": [
       "コリ・ジツの冷気"
     ],
     "appearance": "合成腐肉巨漢ニンジャと称される外見。",
     "description": "INWが生みだしたビッグゾンビーニンジャ。\nコリ・ニンジャクランのソウルを宿し、冷気で攻撃する。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AA%E3%83%95%E3%83%AA%E3%82%B8%E3%83%AC%E3%82%A4%E3%82%BF%E3%83%BC",
-    "appearances": [
-      {
-        "id": "zt9pvzah"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "09afd629"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AA%E3%83%95%E3%83%AA%E3%82%B8%E3%83%AC%E3%82%A4%E3%82%BF%E3%83%BC"
   },
   {
     "id": "b9b102",
@@ -26081,13 +26102,11 @@
     "name": "アンドリュー・ワニ",
     "aliases": [],
     "ninjaType": "非ニンジャ",
-    "skills": [
-      "ハッカー"
+    "organizations": [
+      {
+        "id": "2e0b3b2d"
+      }
     ],
-    "appearance": "清潔感のある丸刈りの髪。首からモデストなアクセサリー。\n首筋に違法生体LANポート。厚手のガウンやスーツ。\n電子接続したサイバーサングラス。その下の双眼は空虚。",
-    "description": "ペケロッパ・カルトの導師。非ニンジャ。\nナンシーを圧倒するハッカースキルを持つ。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%BB%E3%83%AF%E3%83%8B",
     "appearances": [
       {
         "id": "tqlc7ayk"
@@ -26102,11 +26121,13 @@
         "id": "80a12ccc"
       }
     ],
-    "organizations": [
-      {
-        "id": "2e0b3b2d"
-      }
-    ]
+    "skills": [
+      "ハッカー"
+    ],
+    "appearance": "清潔感のある丸刈りの髪。首からモデストなアクセサリー。\n首筋に違法生体LANポート。厚手のガウンやスーツ。\n電子接続したサイバーサングラス。その下の双眼は空虚。",
+    "description": "ペケロッパ・カルトの導師。非ニンジャ。\nナンシーを圧倒するハッカースキルを持つ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%BB%E3%83%AF%E3%83%8B"
   },
   {
     "id": "66c7c8",
@@ -26144,35 +26165,78 @@
   {
     "id": "32bd9a5a",
     "name": "アシガル・リョウヘイ",
-    "organizations": [
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "94ejtr9a",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "チャカ"
+    ],
+    "appearance": "大柄な体格。オレンジ光のサイバーサングラス。",
+    "description": "問題事の調停に送り込まれたヤクザニンジャ。\nチャカが武器。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%B7%E3%82%AC%E3%83%AB%E3%83%BB%E3%83%AA%E3%83%A7%E3%82%A6%E3%83%98%E3%82%A4%EF%BC%8F%E3%83%A4%E3%82%B9%E3%82%B7%EF%BC%8F%E3%82%AF%E3%83%AD%E3%82%A4%E3%83%A2%E3%83%AA",
+    "appearances": [
       {
-        "id": "2e0b3b2d"
+        "id": "9a242038"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%B7%E3%82%AC%E3%83%AB%E3%83%BB%E3%83%AA%E3%83%A7%E3%82%A6%E3%83%98%E3%82%A4%EF%BC%8F%E3%83%A4%E3%82%B9%E3%82%B7%EF%BC%8F%E3%82%AF%E3%83%AD%E3%82%A4%E3%83%A2%E3%83%AA"
+    "organizations": []
   },
   {
     "id": "0bd84b08",
     "name": "ヤスシ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "64a1faji",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "description": "問題事の調停に送り込まれたハッカー・カルトニンジャ。\n何らかの非道サイバネ武器をインプラントしていたと思われる。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%B7%E3%82%AC%E3%83%AB%E3%83%BB%E3%83%AA%E3%83%A7%E3%82%A6%E3%83%98%E3%82%A4%EF%BC%8F%E3%83%A4%E3%82%B9%E3%82%B7%EF%BC%8F%E3%82%AF%E3%83%AD%E3%82%A4%E3%83%A2%E3%83%AA",
+    "appearances": [
+      {
+        "id": "9a242038"
+      }
+    ],
     "organizations": [
       {
         "id": "2e0b3b2d"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%B7%E3%82%AC%E3%83%AB%E3%83%BB%E3%83%AA%E3%83%A7%E3%82%A6%E3%83%98%E3%82%A4%EF%BC%8F%E3%83%A4%E3%82%B9%E3%82%B7%EF%BC%8F%E3%82%AF%E3%83%AD%E3%82%A4%E3%83%A2%E3%83%AA"
+    ]
   },
   {
     "id": "c7f68f02",
     "name": "クロイモリ",
-    "organizations": [
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "ha3w1qpw",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "description": "問題事の調停に送り込まれたギャングスタニンジャ。\n鉄パイプを持ちこんでいた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%B7%E3%82%AC%E3%83%AB%E3%83%BB%E3%83%AA%E3%83%A7%E3%82%A6%E3%83%98%E3%82%A4%EF%BC%8F%E3%83%A4%E3%82%B9%E3%82%B7%EF%BC%8F%E3%82%AF%E3%83%AD%E3%82%A4%E3%83%A2%E3%83%AA",
+    "appearances": [
       {
-        "id": "2e0b3b2d"
+        "id": "9a242038"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%B7%E3%82%AC%E3%83%AB%E3%83%BB%E3%83%AA%E3%83%A7%E3%82%A6%E3%83%98%E3%82%A4%EF%BC%8F%E3%83%A4%E3%82%B9%E3%82%B7%EF%BC%8F%E3%82%AF%E3%83%AD%E3%82%A4%E3%83%A2%E3%83%AA"
+    "organizations": []
   },
   {
     "id": "ff1bc2",
@@ -33185,5 +33249,29 @@
     "description": "キョートの黒魔術的ニンジャ。\nオイランやゲイシャを次々と惨殺したブラック・ハイク・マーダー事件を引き起こした。",
     "status": "dead",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%82%B0%E3%82%B6%E3%83%AB%E3%83%86%E3%83%83%E3%83%89"
+  },
+  {
+    "id": "5di999ee",
+    "name": "ヒートシーカー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "y2ju13pi",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "スリケン"
+    ],
+    "appearance": "ブロンズ色のニンジャ装束。バラクラバめいたマスクの上にメンポ。",
+    "description": "ヨタモノたちの集い、ブラッドバス・シアターを支配するニンジャ。\nオイランドロイドの秘密を知り、荒稼ぎを目論んでいた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%92%E3%83%BC%E3%83%88%E3%82%B7%E3%83%BC%E3%82%AB%E3%83%BC",
+    "appearances": [
+      {
+        "id": "db537b3e"
+      }
+    ],
+    "organizations": []
   }
 ]
