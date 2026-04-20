@@ -31523,5 +31523,293 @@
     "description": "モーターサスガ、スゴサ、カナリの三天使が合体した殲滅形態。\n各機体が装備していた火力に加え、外見からは想像もできない機動力、カラテを誇る。",
     "status": "dead",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B5%E3%82%B9%E3%82%AC%EF%BC%8F%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B9%E3%82%B4%E3%82%B5%EF%BC%8F%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%AB%E3%83%8A%E3%83%AA#h216f30e"
+  },
+  {
+    "id": "mg8jyx80",
+    "name": "スコーチャー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "dlyrvsgm",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "サソリ・ニンジャクラン"
+    },
+    "organizations": [
+      {
+        "id": "9fd6aaf4"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "a26d6fd0"
+      }
+    ],
+    "skills": [
+      "サイバネティック・カトン・ジツ"
+    ],
+    "appearance": "円柱の重なったサイバネティック・ニンジャヘルム。\n両眼はLEDアイ。",
+    "description": "オムラ・インダストリの残党企業ニンジャ。\n火炎放射装置を使ったカトン・ジツを使う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC"
+  },
+  {
+    "id": "71d4dq8e",
+    "name": "クロームドルフィン",
+    "realName": "ケンザ・キシオミ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "u76knuyn",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "ヤブサメ・ニンジャクラン"
+    },
+    "organizations": [
+      {
+        "id": "cd4744be"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "gba0awyv"
+      }
+    ],
+    "skills": [
+      "インテリジェント・エアロバイク「イルカクロイ」 "
+    ],
+    "appearance": "銀ラインの入った有機的シルエットのクローム・ニンジャアーマー。\n鋭角流線形のフルフェイス・ニンジャヘルム。青い眼光。サイボーグ兵士めいた外見。",
+    "description": "ネオサイタマの夜の路上を徘徊する謎のライダーニンジャ。\nエアロバイク「イルカクロイ」と一体化して疾り続ける。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%A0%E3%83%89%E3%83%AB%E3%83%95%E3%82%A3%E3%83%B3"
+  },
+  {
+    "id": "u4kr89sh",
+    "name": "ロックイーター",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "a0b39puf",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "5041abcf"
+      }
+    ],
+    "skills": [
+      "ドトン・ジツ"
+    ],
+    "appearance": "焦茶色のニンジャ装束。",
+    "description": "フリーランスの始末屋ニンジャ。\nマントラップは実の弟であり相棒。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AD%E3%83%83%E3%82%AF%E3%82%A4%E3%83%BC%E3%82%BF%E3%83%BC%EF%BC%8F%E3%83%9E%E3%83%B3%E3%83%88%E3%83%A9%E3%83%83%E3%83%97"
+  },
+  {
+    "id": "8wu4x3k7",
+    "name": "マントラップ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "0iwjuyi8",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "5041abcf"
+      }
+    ],
+    "skills": [],
+    "appearance": "深緑色のニンジャ装束。",
+    "description": "フリーランスの始末屋ニンジャ。\nロックイーターは実の兄であり相棒。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AD%E3%83%83%E3%82%AF%E3%82%A4%E3%83%BC%E3%82%BF%E3%83%BC%EF%BC%8F%E3%83%9E%E3%83%B3%E3%83%88%E3%83%A9%E3%83%83%E3%83%97"
+  },
+  {
+    "id": "r6zk9znc",
+    "name": "ミョルニール",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "wleythgt",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "マグネ・ニンジャクラン"
+    },
+    "organizations": [
+      {
+        "id": "cd4744be"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "5041abcf"
+      }
+    ],
+    "skills": [
+      "小型磁力弾丸射出銃",
+      "デン・カラテ"
+    ],
+    "appearance": "サイバネ左腕に小型磁力弾丸射出銃を格納。",
+    "description": "アマクダリのニンジャ。元賞金稼ぎ。\n左腕のサイバネ機構から磁力弾丸を発射する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9F%E3%83%A7%E3%83%AB%E3%83%8B%E3%83%BC%E3%83%AB"
+  },
+  {
+    "id": "jr8cw4ko",
+    "name": "バッカス",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "oh1w7t2t",
+      "name": "ダイモン・ニンジャ",
+      "grade": "アーチ級"
+    },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "9581c315"
+      }
+    ],
+    "skills": [
+      "酩酊の世界",
+      "クナイ・ダート"
+    ],
+    "appearance": "超自然のメンポ。煮えたぎる混沌めいた顔面を持つ人間離れした風貌。",
+    "description": "酩酊者の前に姿を現す超自然的ニンジャ。\n嘔吐寸前の状態で闘わなければならず、意外とキケン。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%83%83%E3%82%AB%E3%82%B9"
+  },
+  {
+    "id": "nq2nutep",
+    "name": "クラクズー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "ot7kyv5m",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "222c43b6"
+      }
+    ],
+    "skills": [],
+    "appearance": "ボンズヘアーの頭頂部を渦巻き状に刈り込んだ髪型。",
+    "description": "ネオサイタマのヤクザニンジャ。\n会員制バーを根城に中立を維持している。\n第4部では地下バーを経営しているようだ。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%A9%E3%82%AF%E3%82%BA%E3%83%BC"
+  },
+  {
+    "id": "fvknsu2z",
+    "name": "ダチュラ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "raeib42i",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "20d3a4ce"
+      }
+    ],
+    "skills": [
+      "毒液"
+    ],
+    "appearance": "長身。ツヤのある紫色のニンジャ装束。蛍光色の液体の流れるチューブ。",
+    "description": "キングピンに加担していた野良ニンジャ。\nチューブに流れる毒液を利用してカラテする。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%80%E3%83%81%E3%83%A5%E3%83%A9"
+  },
+  {
+    "id": "os5ie3re",
+    "name": "ポリスティナエ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "tcgpjpru",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "ハチ・ニンジャクラン"
+    },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "20d3a4ce"
+      }
+    ],
+    "skills": [
+      "麻痺毒ニードル"
+    ],
+    "appearance": "黄色と黒の警戒色ニンジャ装束。両膝、肘にニードル。",
+    "description": "キングピンとつるんでいた野良ニンジャ。\nニードルには麻痺毒が塗られている。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9D%E3%83%AA%E3%82%B9%E3%83%86%E3%82%A3%E3%83%8A%E3%82%A8"
+  },
+  {
+    "id": "trnmujmi",
+    "name": "オウガパピー ",
+    "realName": "ジェット・ヤマガタ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "unnhpve5",
+      "name": "",
+      "grade": "アーチ級"
+    },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "99d1ba29"
+      },
+      {
+        "id": "8fffe24e"
+      }
+    ],
+    "skills": [
+      "オウガ・オメーン",
+      "ゴースト・オメーン",
+      "ウェポンマスター・オメーン",
+      "デス・オメーン"
+    ],
+    "appearance": "黒いニンジャ装束。様々なチャイニーズ・オメーンを切り替える。",
+    "description": "若手アクション俳優に謎めいたニンジャソウルが憑依。\n複数のオメーンでフォームチェンジするが、素顔を見られるとセプクしてしまう。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E3%83%BB%E3%83%A4%E3%83%9E%E3%82%AC%E3%82%BF"
+  },
+  {
+    "id": "qq6u4a9e",
+    "name": "シュリーカー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "yh32vpso",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "モズニンジャ・クラン"
+    },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "13f93080"
+      }
+    ],
+    "skills": [
+      "ジェットパック飛行",
+      "サスマタ"
+    ],
+    "appearance": "中世ペスト医者めいたメンポ。",
+    "description": "ジェットパンクス・ギャングのニンジャ。\n耳をつんざくほど凄まじい音波を放ちながら飛翔する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%A5%E3%83%AA%E3%83%BC%E3%82%AB%E3%83%BC"
   }
 ]
