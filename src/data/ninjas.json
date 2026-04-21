@@ -16333,13 +16333,33 @@
   {
     "id": "bc382e4d",
     "name": "ダイアウルフ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "xgwy2ad6",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "オオカミ・ニンジャクラン",
+      "origin": "グレーター以上"
+    },
+    "skills": [
+      "ミリタリー・カラテ",
+      "ヘンゲヨーカイ・ジツ"
+    ],
+    "appearance": "特殊部隊めいた黒ミリタリー装束。コンバットブーツ。ベレー帽。\n右眼は裂傷痕で潰れている。",
+    "description": "アマクダリの軍人ニンジャ。ハーヴェスター配下。\nオオカミ・ニンジャクランに由来するヘンゲの使い手。新月の日は無気力化。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%80%E3%82%A4%E3%82%A2%E3%82%A6%E3%83%AB%E3%83%95",
+    "appearances": [
+      {
+        "id": "7ngj3zv7"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "cb89caf8",
@@ -17715,13 +17735,35 @@
   {
     "id": "702b39cf",
     "name": "ベアハンター",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "h3atldce",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "クマ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "両刃斧",
+      "野良バイオグリズリー",
+      "ヘンゲヨーカイ・ジツ"
+    ],
+    "role": "アマクダリ・アクシス",
+    "appearance": "ニンジャ頭巾の上から熊の毛皮を被る。",
+    "description": "アマクダリのニンジャ。元ソウカイヤ。\n執念強く生き残り、巨大なワーベアに変身するジツを得た。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%99%E3%82%A2%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC",
+    "appearances": [
+      {
+        "id": "7ngj3zv7"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "4c843cf9",
@@ -19289,13 +19331,34 @@
   {
     "id": "1ddab1ca",
     "name": "コールドホワイト",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "kmvpzk84",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "オーロラ・ニンジャクラン",
+      "origin": "グレーター以上"
+    },
+    "skills": [
+      "違法改造スノーモービル",
+      "カタナ",
+      "オーロラ・スクリーン・ジツ"
+    ],
+    "appearance": "オーロラめいて輝く白いニンジャ装束。ニンジャブーツ。",
+    "description": "アマクダリのニンジャ。元ソウカイヤ。\nUNIXを乱すオーロラのジツを使う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88",
+    "appearances": [
+      {
+        "id": "7ngj3zv7"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "8f615a2a",
@@ -20070,13 +20133,33 @@
   {
     "id": "1ffde9b8",
     "name": "リマーカブル",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "s00gpwde",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "appearance": "生体LAN端子。",
+    "description": "アマクダリのニンジャ。元ソウカイヤ。\nクローンヤクザの指揮能力や隠密に長ける。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AA%E3%83%9E%E3%83%BC%E3%82%AB%E3%83%96%E3%83%AB",
+    "appearances": [
+      {
+        "id": "7ngj3zv7"
+      }
+    ],
     "organizations": [
+      {
+        "id": "soukaiya-p1"
+      },
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "6a0789e4",
@@ -26394,13 +26477,35 @@
   {
     "id": "e3d370",
     "name": "アズドゥフ",
+    "aliases": [
+      "アズドゥフェル"
+    ],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "68v1vepm",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "appearance": "ローブ姿。後頭部に16個の生体LAN端子。\n頭髪めいたLANケーブルで左眼を隠す。右眼は4つのサイバネアイ。",
+    "description": "ペケロッパ・カルトの高位司祭。\n後に論理正教会の大司教となった。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%BA%E3%83%89%E3%82%A5%E3%83%95",
+    "appearances": [
+      {
+        "id": "12ml6hmz"
+      }
+    ],
     "organizations": [
       {
         "id": "2e0b3b2d"
+      },
+      {
+        "id": "78e9cbba"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%BA%E3%83%89%E3%82%A5%E3%83%95"
+    ]
   },
   {
     "id": "610ef2",
@@ -26437,35 +26542,95 @@
   {
     "id": "66c7c8",
     "name": "キルナイン",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "dpl6bnpj",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "appearance": "身長2メートル近い巨体。ヘルメットと一体化した汚染物質処理服のようなニンジャ装束。\n口が四角いスピーカー、目が丸いカメラアイに置換されている。\n左腕にサイバネ置換したガトリング銃。",
+    "description": "ペケロッパ・カルトが擁するロボットめいたニンジャ。\nその正体は自我調整ニンジャにバックアップを追体験させて生み出した産物である。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AD%E3%83%AB%E3%83%8A%E3%82%A4%E3%83%B3",
+    "appearances": [
+      {
+        "id": "7ngj3zv7"
+      },
+      {
+        "id": "8r8ibb8m"
+      }
+    ],
     "organizations": [
       {
         "id": "2e0b3b2d"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AD%E3%83%AB%E3%83%8A%E3%82%A4%E3%83%B3"
+    ]
   },
   {
     "id": "91fee9",
     "name": "シーカー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "hjxr6wiu",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ハッカー"
+    ],
+    "appearance": "頭部右側に七個の複眼カメラアイ。口元にマニピュレータ。\n身体のどこかにスピーカーをインプラント。生体LAN端子。",
+    "description": "ペケロッパ・カルトのニンジャ。\nアズドゥフの手足であるが、キルナイン同様に世代交代可能な部品である。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%BC%E3%82%AB%E3%83%BC",
+    "appearances": [
+      {
+        "id": "7ngj3zv7"
+      },
+      {
+        "id": "8r8ibb8m"
+      }
+    ],
     "organizations": [
       {
         "id": "2e0b3b2d"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%BC%E3%82%AB%E3%83%BC"
+    ]
   },
   {
     "id": "954278",
     "name": "ノーハイド",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "mcinsrx7",
+      "name": "",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ドンデンガエシ・ジツ"
+    ],
+    "appearance": "発声時に青く光るフルフェイスヘルメット。",
+    "description": "ペケロッパ・カルトのニンジャ。\nどんな壁を回転式扉にしてしまうドンデンガエシ・ジツの使い手。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8E%E3%83%BC%E3%83%8F%E3%82%A4%E3%83%89",
+    "appearances": [
+      {
+        "id": "7ngj3zv7"
+      }
+    ],
     "organizations": [
       {
         "id": "2e0b3b2d"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8E%E3%83%BC%E3%83%8F%E3%82%A4%E3%83%89"
+    ]
   },
   {
     "id": "32bd9a5a",
@@ -33643,6 +33808,35 @@
     "appearances": [
       {
         "id": "ef760022"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "n7g2242a",
+    "name": "グリーンゴースト",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "qu2uthx3",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "ハッカー",
+      "コトダマ空間引きずり込み",
+      "コトダマ空間覚醒"
+    ],
+    "appearance": "陽炎のように揺らめき、緑色をした人型の輪郭の形を取る、01で構成された意識体。\n01で構成された緑色の触手。",
+    "description": "コトダマ空間に出現した謎の電子亡霊ニンジャ。\n圧倒的な論理タイピング速度を持ち、一流ハッカーでも歯が立たない。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B4%E3%83%BC%E3%82%B9%E3%83%88",
+    "appearances": [
+      {
+        "id": "tqlc7ayk"
+      },
+      {
+        "id": "7ngj3zv7"
       }
     ],
     "organizations": []
