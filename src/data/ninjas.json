@@ -3088,21 +3088,47 @@
   },
   {
     "id": "17754559115",
-    "name": "ナカジマ",
-    "aliases": [
-      "スポイラー"
+    "name": "スポイラー",
+    "realName": "マコト・ナカジマ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "ml6aygha",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "デッカー・ガン",
+      "サイバネアーム"
+    ],
+    "appearance": "マッポニンジャ装束。スーツアーマーを下に着こんでいる。",
+    "description": "ネオサイタマ市警49課のニンジャ。\n新人だったが適応した。第4部ではキモンに所属。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8A%E3%82%AB%E3%82%B8%E3%83%9E",
+    "appearances": [
+      {
+        "id": "bymfyzzg"
+      },
+      {
+        "id": "rwd4t44a"
+      },
+      {
+        "id": "ztv7aco3"
+      },
+      {
+        "id": "7bd07f98"
+      }
     ],
     "organizations": [
       {
-        "id": "6a1597d1"
+        "id": "e5bcd27c"
       },
       {
-        "id": "e5bcd27c"
+        "id": "6a1597d1"
       }
-    ],
-    "appearances": [],
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8A%E3%82%AB%E3%82%B8%E3%83%9E"
+    ]
   },
   {
     "id": "17754559116",
@@ -3121,36 +3147,98 @@
   {
     "id": "17754559117",
     "name": "タフガイ",
+    "realName": "シゲル・ダイヤマ",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "organizations": [
+    "ninjaSoul": {
+      "id": "f0qncao8",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "武装オープンカー",
+      "ナックルダスター",
+      "大口径キモン・マグナム"
+    ],
+    "appearance": "角刈り。ティアドロップ型サングラス。\n第4部では素肌に革のジャケットを着用。キモンの腕章。",
+    "description": "ネオサイタマ市警49課のニンジャ。\n理屈屋を殴り飛ばす問題児だが正義感は強い。\n第4部ではキモンに所属している。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%83%95%E3%82%AC%E3%82%A4",
+    "appearances": [
       {
-        "id": "6a1597d1"
+        "id": "bymfyzzg"
       },
       {
-        "id": "e5bcd27c"
+        "id": "rwd4t44a"
+      },
+      {
+        "id": "ztv7aco3"
+      },
+      {
+        "id": "8m0jzogt"
       }
     ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%83%95%E3%82%AC%E3%82%A4"
+    "organizations": [
+      {
+        "id": "e5bcd27c"
+      },
+      {
+        "id": "6a1597d1"
+      }
+    ]
   },
   {
     "id": "17754559118",
     "name": "デッドエンド",
+    "realName": "アヤノ・クリーガー",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "organizations": [
+    "ninjaSoul": {
+      "id": "dc1dpfdy",
+      "name": "",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "バズーカ",
+      "強化警棒",
+      "ラッシュライト",
+      "大型マグナム銃"
+    ],
+    "appearance": "トマトのように真っ赤な唇。オレンジがかった短い金髪。豊満。\n威圧的なサイバーサングラス。タフなレザージャケット。ボロボロのジーンズ。\n第4部では革のジャケットに袖を通さず、肩に乗せている。",
+    "description": "ネオサイタマ市警49課のリーダー格ニンジャ。\n荒々しく犯人を殺してしまうがデッカーの誇りは確か。\n第4部ではキモンに所属。ネオサイタマの均衡を保っている。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%83%83%E3%83%89%E3%82%A8%E3%83%B3%E3%83%89",
+    "appearances": [
       {
-        "id": "6a1597d1"
+        "id": "g01g2lf0"
       },
       {
-        "id": "e5bcd27c"
+        "id": "bymfyzzg"
+      },
+      {
+        "id": "rwd4t44a"
+      },
+      {
+        "id": "ztv7aco3"
+      },
+      {
+        "id": "i1ad8xb2"
+      },
+      {
+        "id": "7bd07f98"
       }
     ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%83%83%E3%83%89%E3%82%A8%E3%83%B3%E3%83%89"
+    "organizations": [
+      {
+        "id": "e5bcd27c"
+      },
+      {
+        "id": "6a1597d1"
+      }
+    ]
   },
   {
     "id": "17754559119",
@@ -4902,9 +4990,29 @@
       "ホバタ・ジュンゴー"
     ],
     "ninjaType": "非ニンジャ",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%83%83%E3%83%81%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%B3%E3%82%B4%E3%83%BC"
+    "skills": [
+      "リボルバー",
+      "ヌンチャク"
+    ],
+    "appearance": "薄汚い時代遅れのファイアパターンのジャケットにブラックベルト。\n胸には保安官めいたスリケンバッジ。傾いたアナログ・サングラス。",
+    "description": "とある切っ掛けでニンジャハンターに目覚めた男。\n第4部現在も老朽マンションを守るシェリフとして活動している。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%83%83%E3%83%81%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%B3%E3%82%B4%E3%83%BC",
+    "appearances": [
+      {
+        "id": "ce494b66"
+      },
+      {
+        "id": "yrr4132n"
+      },
+      {
+        "id": "f0q6hbvy"
+      },
+      {
+        "id": "8fffe24e"
+      }
+    ],
+    "organizations": []
   },
   {
     "id": "17754559234",
@@ -16579,13 +16687,35 @@
   {
     "id": "567b87fc",
     "name": "フレイムタン",
+    "realName": "榮",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "gps8wokt",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "ヒツケ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "カトンカタナ",
+      "鉄扇"
+    ],
+    "role": "アマクダリ・アクシス",
+    "appearance": "足にはカンフーシューズ。アマクダリの紋章が透かし彫りされた黒い鉄扇。",
+    "description": "アマクダリ・アクシスのニンジャ。\nショートカタナにカトンをエンハウンスして戦う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%83%AC%E3%82%A4%E3%83%A0%E3%82%BF%E3%83%B3",
+    "appearances": [
+      {
+        "id": "bymfyzzg"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "f5cd7863",
@@ -18862,13 +18992,33 @@
   {
     "id": "440454c7",
     "name": "アックスソード",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "yqc38mpp",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ニンジャソード",
+      "ファイアアックス"
+    ],
+    "appearance": "右手にニンジャソード、左手にファイアアックス。",
+    "description": "アマクダリの末端ニンジャ。\n老マンションのヨウジンボーを引き受ける代わり非道なミカジメを要求した。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%83%E3%82%AF%E3%82%B9%E3%82%BD%E3%83%BC%E3%83%89",
+    "appearances": [
+      {
+        "id": "ce494b66"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "c2fa5ca5",
@@ -18906,13 +19056,29 @@
   {
     "id": "22fb922f",
     "name": "エミュレイター",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "bq64u89x",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "description": "アマクダリのニンジャ。\n筆致どころかハンコをも模倣する文書偽造のスペシャルゲスト。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%83%9F%E3%83%A5%E3%83%AC%E3%82%A4%E3%82%BF%E3%83%BC",
+    "appearances": [
+      {
+        "id": "5deb4197"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "bf0df6ea",
@@ -19472,13 +19638,32 @@
   {
     "id": "5b219654",
     "name": "フォートレス",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "wn5fp1oh",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "ビッグ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "アスリートカラテ"
+    ],
+    "appearance": "スモトリめいた巨体。ケンドーめいたフルフェイスヘルム。\n胴体部にアマクダリ紋があしらわれたスパイクプロテクター。ミットを右手に填めている。",
+    "description": "アマクダリのニンジャ。\n堕落アメフト選手だった。あらゆる暗黒スポーツに精通。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A9%E3%83%BC%E3%83%88%E3%83%AC%E3%82%B9",
+    "appearances": [
+      {
+        "id": "5deb4197"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "5313d8aa",
@@ -25405,9 +25590,36 @@
   {
     "id": "34e514",
     "name": "エシオ・カタリ",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%82%B7%E3%82%AA%E3%83%BB%E3%82%AB%E3%82%BF%E3%83%AA"
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "skills": [
+      "黄金の小径"
+    ],
+    "appearance": "サラリマンめいたアルビノの男。ストライプのスーツ。",
+    "description": "ピグマリオン・コシモト兄弟カンパニー社のエージェント兼CEO。\nメガトリイ社由来の極めて高度なAI技術を持つ。UNIX間を移動できる。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%82%B7%E3%82%AA%E3%83%BB%E3%82%AB%E3%82%BF%E3%83%AA",
+    "appearances": [
+      {
+        "id": "db537b3e"
+      },
+      {
+        "id": "xyi4nw8g"
+      },
+      {
+        "id": "a5aiu21s"
+      },
+      {
+        "id": "f4b20a02"
+      },
+      {
+        "id": "8140b365"
+      },
+      {
+        "id": "8r8ibb8m"
+      }
+    ],
+    "organizations": []
   },
   {
     "id": "4d62c4",
