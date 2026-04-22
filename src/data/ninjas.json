@@ -20539,8 +20539,7 @@
     "name": "ヤモト・コキ",
     "realName": "ヤモト・コキ",
     "aliases": [
-      "シキ・ニンジャ",
-      "シ・ニンジャ"
+      "シキ・ニンジャ"
     ],
     "ninjaType": "リアルニンジャ",
     "ninjaSoul": {
@@ -20550,14 +20549,14 @@
       "clan": "シ・ニンジャクラン",
       "origin": "シ・ニンジャ分離の際にカイデン"
     },
-    "organizations": [
-      {
-        "id": "a91ea54d"
-      },
-      {
-        "id": "gndew7o1"
-      }
+    "skills": [
+      "サクラ・エンハンスメント・ジツ",
+      "オリガミ・ミサイル",
+      "イアイドー"
     ],
+    "description": "元オリガミ部の女子高生ニンジャ。\n4部ではシ・ニンジャにまつわるニンジャから命を狙われていた。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A4%E3%83%A2%E3%83%88%E3%83%BB%E3%82%B3%E3%82%AD",
     "appearances": [
       {
         "id": "fmmj8ad1"
@@ -20638,14 +20637,14 @@
         "id": "emcygtsj"
       }
     ],
-    "skills": [
-      "サクラ・エンハンスメント・ジツ",
-      "オリガミ・ミサイル",
-      "イアイドー"
-    ],
-    "description": "元オリガミ部の女子高生ニンジャ。\n4部ではシ・ニンジャにまつわるニンジャから命を狙われていた。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A4%E3%83%A2%E3%83%88%E3%83%BB%E3%82%B3%E3%82%AD"
+    "organizations": [
+      {
+        "id": "a91ea54d"
+      },
+      {
+        "id": "gndew7o1"
+      }
+    ]
   },
   {
     "id": "d04d37",
@@ -27938,9 +27937,28 @@
   {
     "id": "059104",
     "name": "ゼウス・ニンジャ",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BC%E3%82%A6%E3%82%B9%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "wnokldfy",
+      "name": "ゼウス・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "ゼウス・ニンジャ",
+      "origin": ""
+    },
+    "skills": [
+      "デン・ジツ"
+    ],
+    "role": "オリュンポス12忍",
+    "description": "オリュンポス12忍の頂点に立つリアルニンジャ。デン・ジツの祖。\nアガメムノンの憑依ソウルであった。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BC%E3%82%A6%E3%82%B9%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
+    "appearances": [
+      {
+        "id": "0f424015"
+      }
+    ],
+    "organizations": []
   },
   {
     "id": "353957",
@@ -32207,9 +32225,45 @@
       "ハブ・ニンジャ"
     ],
     "ninjaType": "リアルニンジャ",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%B4%E3%82%A9%E3%83%BC%E3%83%91%E3%83%AB"
+    "ninjaSoul": {
+      "id": "2ayfzysz",
+      "name": "ハブ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "appearance": "白髪と黒髪の混じった短髪。痩せた体。爬虫類めいた皮膚。\n着流し姿とテヌギー、野球帽に古びたセーターなど。",
+    "description": "ニーズヘグやバジリスクを鍛えた師匠。\nフジキドに一方的にインストラクションを授け、カネをせびった。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%B4%E3%82%A9%E3%83%BC%E3%83%91%E3%83%AB",
+    "appearances": [
+      {
+        "id": "x9g18jha"
+      },
+      {
+        "id": "z7rgd0bm"
+      },
+      {
+        "id": "0f424015"
+      },
+      {
+        "id": "2v6e48gz"
+      },
+      {
+        "id": "93f8b0a5"
+      },
+      {
+        "id": "e9c2b6e2"
+      },
+      {
+        "id": "2d8b2a30"
+      },
+      {
+        "id": "nubhusa7"
+      }
+    ],
+    "organizations": []
   },
   {
     "id": "4497ee71",
@@ -32422,10 +32476,25 @@
   {
     "id": "6163cf5f",
     "name": "ワンバ・ニンジャ",
+    "aliases": [],
     "ninjaType": "リアルニンジャ",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AF%E3%83%B3%E3%83%90%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+    "ninjaSoul": {
+      "id": "x2hcz64b",
+      "name": "ワンバ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "description": "平安時代のグレーターダイカンニンジャ。\nモータルたちを火刑に処し、ナラク・ニンジャを目覚めさせた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AF%E3%83%B3%E3%83%90%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
+    "appearances": [
+      {
+        "id": "0f424015"
+      }
+    ],
+    "organizations": []
   },
   {
     "id": "4ac809ad",
@@ -34422,6 +34491,30 @@
       },
       {
         "id": "emcygtsj"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "pvkk9efs",
+    "name": "アクウェリアス",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "jf8oeybc",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "コトダマ空間認識"
+    ],
+    "appearance": "天井に頭がつくほどの巨体。鋼鉄のメンポ。",
+    "description": "地下構造物「エプタ・バロウ」を支配していたニンジャ。\n自我剝離させる危険なIRCドラッグを流通させていた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%AF%E3%82%A6%E3%82%A7%E3%83%AA%E3%82%A2%E3%82%B9",
+    "appearances": [
+      {
+        "id": "3a5c6230"
       }
     ],
     "organizations": []
