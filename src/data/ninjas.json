@@ -18588,26 +18588,62 @@
   {
     "id": "ef5b925c",
     "name": "アナンタ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "urydxxym",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "コブラニンジャ・クラン",
+      "origin": ""
+    },
+    "skills": [
+      "コブラ・カラテ",
+      "コイリング・ヘビ・カミツキ",
+      "ドッコ・クナイ"
+    ],
+    "role": "ブラックロータス純潔聖堂騎士団",
+    "appearance": "大理石の如き白く美しい肌。背中に呪文めいたブディズム神聖タトゥー。\n白目。",
+    "description": "アマクダリのニンジャ。純潔聖堂騎士団団長。\nコブラ・カラテのタツジン。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%8A%E3%83%B3%E3%82%BF",
+    "appearances": [],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%8A%E3%83%B3%E3%82%BF"
+    ]
   },
   {
     "id": "4e9a0b4b",
     "name": "テンプラー",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "hr9lfa99",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ブッダメイス"
+    ],
+    "role": "ブラックロータス純潔聖堂騎士団",
+    "appearance": "巨漢ボンズ。金属製ゴルゲット。瞳の無い白目。",
+    "description": "アマクダリのニンジャ。カスミガセキ・カテドラルの僧兵。\nブッダメイスを振るうたび功徳を得る邪悪ボンズ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%86%E3%83%B3%E3%83%97%E3%83%A9%E3%83%BC",
+    "appearances": [
+      {
+        "id": "7c7a172e"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%86%E3%83%B3%E3%83%97%E3%83%A9%E3%83%BC"
+    ]
   },
   {
     "id": "3bed8717",
@@ -34994,7 +35030,7 @@
     },
     "skills": [],
     "role": "テツノモン",
-    "description": "アマクダリの衛星組織テツノモンのリーダー。\n組織間の連携に優れ、彼自身も高いカラテを持つ。\n第4部ではソウカイヤに属している。",
+    "description": "アマクダリの衛星組織テツノモンのリーダー。\n組織間の連携に優れ、自身も高いカラテを持つ。\n第4部ではソウカイヤに属している。",
     "status": "alive",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%88",
     "appearances": [
