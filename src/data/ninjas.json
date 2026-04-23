@@ -8478,17 +8478,69 @@
   {
     "id": "6c38dda0",
     "name": "ヴァニティ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "organizations": [
+    "ninjaSoul": {
+      "id": "oqdvp5j1",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ニンジャ腕力"
+    ],
+    "role": "ソウカイ・シックスゲイツ",
+    "appearance": "身長182cm。黒いパンツスーツ。戦闘時はニンジャ装束に変形。メンポ。\n第4部ではダークヤクザスーツ。",
+    "description": "アマクダリの法務ニンジャ。\n異常なニンジャ腕力の持ち主。\n第4部ではソウカイ・シックスゲイツの一人。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%B4%E3%82%A1%E3%83%8B%E3%83%86%E3%82%A3",
+    "appearances": [
       {
-        "id": "soukaiya-p4"
+        "id": "3a5c6230"
       },
       {
-        "id": "cd4744be"
+        "id": "rwd4t44a"
+      },
+      {
+        "id": "8r8ibb8m"
+      },
+      {
+        "id": "1a2c92e1"
+      },
+      {
+        "id": "7n5yygr8"
+      },
+      {
+        "id": "v6sqo9jc"
+      },
+      {
+        "id": "0ssoqq7s"
+      },
+      {
+        "id": "kehqgsdx"
+      },
+      {
+        "id": "wjryt0u9"
+      },
+      {
+        "id": "typqvzha"
+      },
+      {
+        "id": "his9gvkp"
+      },
+      {
+        "id": "0hamcejv"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%B4%E3%82%A1%E3%83%8B%E3%83%86%E3%82%A3"
+    "organizations": [
+      {
+        "id": "cd4744be"
+      },
+      {
+        "id": "soukaiya-p4"
+      }
+    ]
   },
   {
     "id": "846a7668",
@@ -17387,13 +17439,38 @@
   {
     "id": "c4b119b2",
     "name": "サーヴィター",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "y1qjzn3r",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "ジョルリ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "クグツ・ジツ"
+    ],
+    "role": "アマクダリ・アクシス",
+    "description": "アマクダリ・アクシスのニンジャ。\nツェッペリン編隊をジツで操りカスミガセキを護衛する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%BC%E3%83%B4%E3%82%A3%E3%82%BF%E3%83%BC",
+    "appearances": [
+      {
+        "id": "rwd4t44a"
+      },
+      {
+        "id": "996b5766"
+      },
+      {
+        "id": "8r8ibb8m"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "b579563a",
@@ -18023,13 +18100,33 @@
   {
     "id": "7a71c994",
     "name": "マージナル",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "acnk7bfx",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "スリケン"
+    ],
+    "role": "アマクダリ・アクシス",
+    "appearance": "Y字切れ込みの入った装甲フルヘルメット。ハイデッカー・スーパーバイザーのマント。\nハンドヘルドUNIX。投げるスリケンが白い。",
+    "description": "アマクダリ・アクシスのニンジャ。\nハイデッカーのスーパーバイザーを務める。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%83%BC%E3%82%B8%E3%83%8A%E3%83%AB",
+    "appearances": [
+      {
+        "id": "rwd4t44a"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "013fc0a3",
@@ -19761,13 +19858,30 @@
   {
     "id": "6e335bfa",
     "name": "スクラピュラスエミッサリー",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "ebl3lkh1",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "appearance": "SPと同じダークスーツ姿。アガメムノンへの報国時はニンジャ装束。",
+    "description": "アマクダリのニンジャ。\nハナミ儀式出席のアガメムノンへの伝令を担当していた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%94%E3%83%A5%E3%83%A9%E3%82%B9%E3%82%A8%E3%83%9F%E3%83%83%E3%82%B5%E3%83%AA%E3%83%BC",
+    "appearances": [
+      {
+        "id": "rwd4t44a"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "958bc6a9",
@@ -22659,35 +22773,99 @@
   {
     "id": "69864b4e",
     "name": "スキピオ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "yeb02o5m",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "古代ローマカラテ",
+      "スリケン"
+    ],
+    "appearance": "トーガめいた古代ローマ拳闘士姿。",
+    "description": "アマクダリ古代ローマ三闘士の一人。\nスパルタカス以外で唯一馬の構えを習得している強者。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%AD%E3%83%94%E3%82%AA%EF%BC%8F%E3%83%A9%E3%82%AF%E3%82%A8%E3%83%AA%E3%82%A3%EF%BC%8F%E3%83%90%E3%83%AB%E3%83%90%E3%83%AD%E3%82%B9",
+    "appearances": [
+      {
+        "id": "rwd4t44a"
+      },
+      {
+        "id": "e9c2b6e2"
+      },
+      {
+        "id": "vr3fq73p"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%AD%E3%83%94%E3%82%AA%EF%BC%8F%E3%83%A9%E3%82%AF%E3%82%A8%E3%83%AA%E3%82%A3%EF%BC%8F%E3%83%90%E3%83%AB%E3%83%90%E3%83%AD%E3%82%B9"
+    ]
   },
   {
     "id": "af01449d",
     "name": "ラクエリィ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "skills": [
+      "古代ローマカラテ",
+      "投網"
+    ],
+    "appearance": "円眼鏡メンポ。",
+    "description": "アマクダリ古代ローマ三闘士の一人。\n刃を散りばめた投網を投擲する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%AD%E3%83%94%E3%82%AA%EF%BC%8F%E3%83%A9%E3%82%AF%E3%82%A8%E3%83%AA%E3%82%A3%EF%BC%8F%E3%83%90%E3%83%AB%E3%83%90%E3%83%AD%E3%82%B9",
+    "appearances": [
+      {
+        "id": "rwd4t44a"
+      },
+      {
+        "id": "e9c2b6e2"
+      },
+      {
+        "id": "vr3fq73p"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%AD%E3%83%94%E3%82%AA%EF%BC%8F%E3%83%A9%E3%82%AF%E3%82%A8%E3%83%AA%E3%82%A3%EF%BC%8F%E3%83%90%E3%83%AB%E3%83%90%E3%83%AD%E3%82%B9"
+    ]
   },
   {
     "id": "34bfa090",
     "name": "バルバロス",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "skills": [
+      "古代ローマカラテ",
+      "鎖",
+      "投槍"
+    ],
+    "description": "アマクダリ古代ローマ三闘士の一人。\n他の闘士と連携して戦う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%AD%E3%83%94%E3%82%AA%EF%BC%8F%E3%83%A9%E3%82%AF%E3%82%A8%E3%83%AA%E3%82%A3%EF%BC%8F%E3%83%90%E3%83%AB%E3%83%90%E3%83%AD%E3%82%B9",
+    "appearances": [
+      {
+        "id": "rwd4t44a"
+      },
+      {
+        "id": "e9c2b6e2"
+      },
+      {
+        "id": "vr3fq73p"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%AD%E3%83%94%E3%82%AA%EF%BC%8F%E3%83%A9%E3%82%AF%E3%82%A8%E3%83%AA%E3%82%A3%EF%BC%8F%E3%83%90%E3%83%AB%E3%83%90%E3%83%AD%E3%82%B9"
+    ]
   },
   {
     "id": "f09f68a2",
@@ -35046,5 +35224,27 @@
         "id": "soukaiya-p4"
       }
     ]
+  },
+  {
+    "id": "zis6kxgs",
+    "name": "ストールワーム",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "fhc40l15",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [],
+    "appearance": "ステルスニンジャ装束。",
+    "description": "ネオサイタマのヤクザニンジャ。\nアマクダリ傘下かもしれない。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%83%AF%E3%83%BC%E3%83%A0",
+    "appearances": [
+      {
+        "id": "rwd4t44a"
+      }
+    ],
+    "organizations": []
   }
 ]
