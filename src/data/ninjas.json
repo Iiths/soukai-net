@@ -8487,14 +8487,14 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "ニンジャ腕力"
+    "organizations": [
+      {
+        "id": "cd4744be"
+      },
+      {
+        "id": "soukaiya-p4"
+      }
     ],
-    "role": "ソウカイ・シックスゲイツ",
-    "appearance": "身長182cm。黒いパンツスーツ。戦闘時はニンジャ装束に変形。メンポ。\n第4部ではダークヤクザスーツ。",
-    "description": "アマクダリの法務ニンジャ。\n異常なニンジャ腕力の持ち主。\n第4部ではソウカイ・シックスゲイツの一人。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%B4%E3%82%A1%E3%83%8B%E3%83%86%E3%82%A3",
     "appearances": [
       {
         "id": "3a5c6230"
@@ -8533,14 +8533,14 @@
         "id": "0hamcejv"
       }
     ],
-    "organizations": [
-      {
-        "id": "cd4744be"
-      },
-      {
-        "id": "soukaiya-p4"
-      }
-    ]
+    "skills": [
+      "ニンジャ腕力"
+    ],
+    "role": "ソウカイ・シックスゲイツ",
+    "appearance": "身長182cm。黒いパンツスーツ。戦闘時はニンジャ装束に変形。メンポ。\n第4部ではダークヤクザスーツ。",
+    "description": "アマクダリの法務ニンジャ。\n異常なニンジャ腕力の持ち主。\n第4部ではソウカイ・シックスゲイツの一人。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%B4%E3%82%A1%E3%83%8B%E3%83%86%E3%82%A3"
   },
   {
     "id": "846a7668",
@@ -15598,17 +15598,11 @@
       "clan": "ヒカリ・ニンジャクラン",
       "origin": ""
     },
-    "skills": [
-      "ボー・カラテ",
-      "サイバネ翼",
-      "光の矢",
-      "光の輪"
+    "organizations": [
+      {
+        "id": "cd4744be"
+      }
     ],
-    "role": "アマクダリ12人",
-    "appearance": "身長180cm。二筋ほど白髪が混じる黒灰色の髪をシニヨンにまとめた髪型。\nオナタカミ・トルーパーズと同種の戦闘服。威厳あるマント。\n戦闘時は襟元が変形にフルフェイス・メンポになる。",
-    "description": "アマクダリ12人の一人。ハイデッカー長官。\nヒカリ・ジツを応用した殺人光線を放つ。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B8%E3%83%A3%E3%82%B9%E3%83%86%E3%82%A3%E3%82%B9",
     "appearances": [
       {
         "id": "3a5c6230"
@@ -15623,11 +15617,17 @@
         "id": "rwd4t44a"
       }
     ],
-    "organizations": [
-      {
-        "id": "cd4744be"
-      }
-    ]
+    "skills": [
+      "ボー・カラテ",
+      "サイバネ翼",
+      "光の矢",
+      "光の輪"
+    ],
+    "role": "アマクダリ12人",
+    "appearance": "身長180cm。二筋ほど白髪が混じる黒灰色の髪をシニヨンにまとめた髪型。\nオナタカミ・トルーパーズと同種の戦闘服。威厳あるマント。\n戦闘時は襟元が変形にフルフェイス・メンポになる。",
+    "description": "アマクダリ12人の一人。ハイデッカー長官。\nヒカリ・ジツを応用した殺人光線を放つ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B8%E3%83%A3%E3%82%B9%E3%83%86%E3%82%A3%E3%82%B9"
   },
   {
     "id": "6102bd80",
@@ -15816,17 +15816,11 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "サバット・ドー",
-      "ゼゲン・ジツ",
-      "オファリング・ジツ",
-      "異形化"
+    "organizations": [
+      {
+        "id": "cd4744be"
+      }
     ],
-    "role": "アマクダリ12人",
-    "appearance": "甘いマスク。顎髭。自己主張の強い伊達眼鏡。\n縦縞スーツにサスペンダー姿。",
-    "description": "アマクダリ12人の一人。実業家。\n強大なるサバトの力で秘書にカラテを蓄え、イクサ時に補給する。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3",
     "appearances": [
       {
         "id": "x9g18jha"
@@ -15838,11 +15832,17 @@
         "id": "5jvbtmyb"
       }
     ],
-    "organizations": [
-      {
-        "id": "cd4744be"
-      }
-    ]
+    "skills": [
+      "サバット・ドー",
+      "ゼゲン・ジツ",
+      "オファリング・ジツ",
+      "異形化"
+    ],
+    "role": "アマクダリ12人",
+    "appearance": "甘いマスク。顎髭。自己主張の強い伊達眼鏡。\n縦縞スーツにサスペンダー姿。",
+    "description": "アマクダリ12人の一人。実業家。\n強大なるサバトの力で秘書にカラテを蓄え、イクサ時に補給する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3"
   },
   {
     "id": "96f563c9",
@@ -15857,15 +15857,11 @@
       "clan": "",
       "origin": "INWにより移植"
     },
-    "skills": [
-      "ニンジャ用戦闘スーツ「アツモリ」",
-      "ブースター・カラテ"
+    "organizations": [
+      {
+        "id": "cd4744be"
+      }
     ],
-    "role": "アマクダリ12人",
-    "appearance": "身長185cm。黒に染められたオールバックの頭髪。日焼けしたシワの多い厳めしい顔。\n黒いアマクダリ紋ニンジャ装束。後頭部に生体LAN端子用の6つの穴が開いた黒いニンジャ頭巾。\n漆黒の装甲、黒いサムライヘルムが特徴的なニンジャアーマーを装備する。",
-    "description": "アマクダリ12人の一人。日本官房長官。\n軍師としての才覚に加え、自らもアツモリを装備し前線に立つ。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%9E%E3%82%A4%E3%83%B3%E3%83%89",
     "appearances": [
       {
         "id": "xyi4nw8g"
@@ -15883,11 +15879,15 @@
         "id": "a5aiu21s"
       }
     ],
-    "organizations": [
-      {
-        "id": "cd4744be"
-      }
-    ]
+    "skills": [
+      "ニンジャ用戦闘スーツ「アツモリ」",
+      "ブースター・カラテ"
+    ],
+    "role": "アマクダリ12人",
+    "appearance": "身長185cm。黒に染められたオールバックの頭髪。日焼けしたシワの多い厳めしい顔。\n黒いアマクダリ紋ニンジャ装束。後頭部に生体LAN端子用の6つの穴が開いた黒いニンジャ頭巾。\n漆黒の装甲、黒いサムライヘルムが特徴的なニンジャアーマーを装備する。",
+    "description": "アマクダリ12人の一人。日本官房長官。\n軍師としての才覚に加え、自らもアツモリを装備し前線に立つ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%9E%E3%82%A4%E3%83%B3%E3%83%89"
   },
   {
     "id": "a5255141",
@@ -16406,13 +16406,33 @@
   {
     "id": "e75c40c7",
     "name": "ソードフィッシュ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "qgjbe3pe",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "タナカ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "テレキネシス・ジツ",
+      "チュー・ノリ"
+    ],
+    "role": "アマクダリ・アクシス",
+    "description": "アマクダリ・アクシスのニンジャ。\nキネシスで浮かせたカタナに乗る戦法をとる。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BD%E3%83%BC%E3%83%89%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5#:hl:word=%E3%82%BD%E3%83%BC%E3%83%89%E3%83%95%E3%82%A3",
+    "appearances": [
+      {
+        "id": "1a4f68eb"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "d6bc7551",
@@ -17448,13 +17468,11 @@
       "clan": "ジョルリ・ニンジャクラン",
       "origin": ""
     },
-    "skills": [
-      "クグツ・ジツ"
+    "organizations": [
+      {
+        "id": "cd4744be"
+      }
     ],
-    "role": "アマクダリ・アクシス",
-    "description": "アマクダリ・アクシスのニンジャ。\nツェッペリン編隊をジツで操りカスミガセキを護衛する。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%BC%E3%83%B4%E3%82%A3%E3%82%BF%E3%83%BC",
     "appearances": [
       {
         "id": "rwd4t44a"
@@ -17466,11 +17484,13 @@
         "id": "8r8ibb8m"
       }
     ],
-    "organizations": [
-      {
-        "id": "cd4744be"
-      }
-    ]
+    "skills": [
+      "クグツ・ジツ"
+    ],
+    "role": "アマクダリ・アクシス",
+    "description": "アマクダリ・アクシスのニンジャ。\nツェッペリン編隊をジツで操りカスミガセキを護衛する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%BC%E3%83%B4%E3%82%A3%E3%82%BF%E3%83%BC"
   },
   {
     "id": "b579563a",
@@ -18109,6 +18129,16 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "cd4744be"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "rwd4t44a"
+      }
+    ],
     "skills": [
       "スリケン"
     ],
@@ -18116,17 +18146,7 @@
     "appearance": "Y字切れ込みの入った装甲フルヘルメット。ハイデッカー・スーパーバイザーのマント。\nハンドヘルドUNIX。投げるスリケンが白い。",
     "description": "アマクダリ・アクシスのニンジャ。\nハイデッカーのスーパーバイザーを務める。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%83%BC%E3%82%B8%E3%83%8A%E3%83%AB",
-    "appearances": [
-      {
-        "id": "rwd4t44a"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "cd4744be"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%83%BC%E3%82%B8%E3%83%8A%E3%83%AB"
   },
   {
     "id": "013fc0a3",
@@ -18694,6 +18714,12 @@
       "clan": "コブラニンジャ・クラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "cd4744be"
+      }
+    ],
+    "appearances": [],
     "skills": [
       "コブラ・カラテ",
       "コイリング・ヘビ・カミツキ",
@@ -18703,13 +18729,7 @@
     "appearance": "大理石の如き白く美しい肌。背中に呪文めいたブディズム神聖タトゥー。\n白目。",
     "description": "アマクダリのニンジャ。純潔聖堂騎士団団長。\nコブラ・カラテのタツジン。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%8A%E3%83%B3%E3%82%BF",
-    "appearances": [],
-    "organizations": [
-      {
-        "id": "cd4744be"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%8A%E3%83%B3%E3%82%BF"
   },
   {
     "id": "4e9a0b4b",
@@ -18723,6 +18743,16 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "cd4744be"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "7c7a172e"
+      }
+    ],
     "skills": [
       "ブッダメイス"
     ],
@@ -18730,17 +18760,7 @@
     "appearance": "巨漢ボンズ。金属製ゴルゲット。瞳の無い白目。",
     "description": "アマクダリのニンジャ。カスミガセキ・カテドラルの僧兵。\nブッダメイスを振るうたび功徳を得る邪悪ボンズ。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%86%E3%83%B3%E3%83%97%E3%83%A9%E3%83%BC",
-    "appearances": [
-      {
-        "id": "7c7a172e"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "cd4744be"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%86%E3%83%B3%E3%83%97%E3%83%A9%E3%83%BC"
   },
   {
     "id": "3bed8717",
@@ -19156,21 +19176,21 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "role": "テツノモン",
-    "description": "アマクダリの衛星組織テツノモンのニンジャ。\nおそらくカトンなどのジツの使い手だった。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%91%E3%82%A4%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B5%E3%83%BC",
+    "organizations": [
+      {
+        "id": "cd4744be"
+      }
+    ],
     "appearances": [
       {
         "id": "5jvbtmyb"
       }
     ],
-    "organizations": [
-      {
-        "id": "cd4744be"
-      }
-    ]
+    "skills": [],
+    "role": "テツノモン",
+    "description": "アマクダリの衛星組織テツノモンのニンジャ。\nおそらくカトンなどのジツの使い手だった。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%91%E3%82%A4%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B5%E3%83%BC"
   },
   {
     "id": "4fd91e9d",
@@ -19184,6 +19204,16 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "cd4744be"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "5jvbtmyb"
+      }
+    ],
     "skills": [
       "ノロイ・ジツ"
     ],
@@ -19191,17 +19221,7 @@
     "appearance": "細見の体つき。道化めいて爪先の尖った靴。",
     "description": "アマクダリの衛星組織テツノモンのニンジャ。\n相手のニューロンを攻撃するノロイ・ジツの使い手。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%83%BC%E3%82%B7%E3%83%95%E3%83%AB",
-    "appearances": [
-      {
-        "id": "5jvbtmyb"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "cd4744be"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%83%BC%E3%82%B7%E3%83%95%E3%83%AB"
   },
   {
     "id": "b65f28ec",
@@ -19837,23 +19857,23 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "cd4744be"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "5jvbtmyb"
+      }
+    ],
     "skills": [
       "電荷エンハンス",
       "カタナ"
     ],
     "description": "アマクダリのニンジャ。\n電荷を帯びたカタナで切りかかる。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%AD%E3%83%BC%E3%83%8B%E3%83%B3",
-    "appearances": [
-      {
-        "id": "5jvbtmyb"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "cd4744be"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%AD%E3%83%BC%E3%83%8B%E3%83%B3"
   },
   {
     "id": "6e335bfa",
@@ -19867,21 +19887,21 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "appearance": "SPと同じダークスーツ姿。アガメムノンへの報国時はニンジャ装束。",
-    "description": "アマクダリのニンジャ。\nハナミ儀式出席のアガメムノンへの伝令を担当していた。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%94%E3%83%A5%E3%83%A9%E3%82%B9%E3%82%A8%E3%83%9F%E3%83%83%E3%82%B5%E3%83%AA%E3%83%BC",
+    "organizations": [
+      {
+        "id": "cd4744be"
+      }
+    ],
     "appearances": [
       {
         "id": "rwd4t44a"
       }
     ],
-    "organizations": [
-      {
-        "id": "cd4744be"
-      }
-    ]
+    "skills": [],
+    "appearance": "SPと同じダークスーツ姿。アガメムノンへの報国時はニンジャ装束。",
+    "description": "アマクダリのニンジャ。\nハナミ儀式出席のアガメムノンへの伝令を担当していた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%94%E3%83%A5%E3%83%A9%E3%82%B9%E3%82%A8%E3%83%9F%E3%83%83%E3%82%B5%E3%83%AA%E3%83%BC"
   },
   {
     "id": "958bc6a9",
@@ -19895,6 +19915,16 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "cd4744be"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "5jvbtmyb"
+      }
+    ],
     "skills": [
       "スリケン",
       "タカ・ケン"
@@ -19902,17 +19932,7 @@
     "appearance": "サイバーサングラス。",
     "description": "アマクダリのニンジャ。\n相方のサンダーローニンをスリケンでサポートする。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%88%E3%83%BC%E3%83%A0%E3%83%9B%E3%83%BC%E3%82%AF",
-    "appearances": [
-      {
-        "id": "5jvbtmyb"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "cd4744be"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%88%E3%83%BC%E3%83%A0%E3%83%9B%E3%83%BC%E3%82%AF"
   },
   {
     "id": "72a293b6",
@@ -22782,6 +22802,22 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "cd4744be"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "rwd4t44a"
+      },
+      {
+        "id": "e9c2b6e2"
+      },
+      {
+        "id": "vr3fq73p"
+      }
+    ],
     "skills": [
       "古代ローマカラテ",
       "スリケン"
@@ -22789,7 +22825,18 @@
     "appearance": "トーガめいた古代ローマ拳闘士姿。",
     "description": "アマクダリ古代ローマ三闘士の一人。\nスパルタカス以外で唯一馬の構えを習得している強者。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%AD%E3%83%94%E3%82%AA%EF%BC%8F%E3%83%A9%E3%82%AF%E3%82%A8%E3%83%AA%E3%82%A3%EF%BC%8F%E3%83%90%E3%83%AB%E3%83%90%E3%83%AD%E3%82%B9",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%AD%E3%83%94%E3%82%AA%EF%BC%8F%E3%83%A9%E3%82%AF%E3%82%A8%E3%83%AA%E3%82%A3%EF%BC%8F%E3%83%90%E3%83%AB%E3%83%90%E3%83%AD%E3%82%B9"
+  },
+  {
+    "id": "af01449d",
+    "name": "ラクエリィ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "organizations": [
+      {
+        "id": "cd4744be"
+      }
+    ],
     "appearances": [
       {
         "id": "rwd4t44a"
@@ -22801,17 +22848,6 @@
         "id": "vr3fq73p"
       }
     ],
-    "organizations": [
-      {
-        "id": "cd4744be"
-      }
-    ]
-  },
-  {
-    "id": "af01449d",
-    "name": "ラクエリィ",
-    "aliases": [],
-    "ninjaType": "ニンジャソウル憑依者",
     "skills": [
       "古代ローマカラテ",
       "投網"
@@ -22819,7 +22855,18 @@
     "appearance": "円眼鏡メンポ。",
     "description": "アマクダリ古代ローマ三闘士の一人。\n刃を散りばめた投網を投擲する。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%AD%E3%83%94%E3%82%AA%EF%BC%8F%E3%83%A9%E3%82%AF%E3%82%A8%E3%83%AA%E3%82%A3%EF%BC%8F%E3%83%90%E3%83%AB%E3%83%90%E3%83%AD%E3%82%B9",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%AD%E3%83%94%E3%82%AA%EF%BC%8F%E3%83%A9%E3%82%AF%E3%82%A8%E3%83%AA%E3%82%A3%EF%BC%8F%E3%83%90%E3%83%AB%E3%83%90%E3%83%AD%E3%82%B9"
+  },
+  {
+    "id": "34bfa090",
+    "name": "バルバロス",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "organizations": [
+      {
+        "id": "cd4744be"
+      }
+    ],
     "appearances": [
       {
         "id": "rwd4t44a"
@@ -22831,17 +22878,6 @@
         "id": "vr3fq73p"
       }
     ],
-    "organizations": [
-      {
-        "id": "cd4744be"
-      }
-    ]
-  },
-  {
-    "id": "34bfa090",
-    "name": "バルバロス",
-    "aliases": [],
-    "ninjaType": "ニンジャソウル憑依者",
     "skills": [
       "古代ローマカラテ",
       "鎖",
@@ -22849,23 +22885,7 @@
     ],
     "description": "アマクダリ古代ローマ三闘士の一人。\n他の闘士と連携して戦う。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%AD%E3%83%94%E3%82%AA%EF%BC%8F%E3%83%A9%E3%82%AF%E3%82%A8%E3%83%AA%E3%82%A3%EF%BC%8F%E3%83%90%E3%83%AB%E3%83%90%E3%83%AD%E3%82%B9",
-    "appearances": [
-      {
-        "id": "rwd4t44a"
-      },
-      {
-        "id": "e9c2b6e2"
-      },
-      {
-        "id": "vr3fq73p"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "cd4744be"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%AD%E3%83%94%E3%82%AA%EF%BC%8F%E3%83%A9%E3%82%AF%E3%82%A8%E3%83%AA%E3%82%A3%EF%BC%8F%E3%83%90%E3%83%AB%E3%83%90%E3%83%AD%E3%82%B9"
   },
   {
     "id": "f09f68a2",
@@ -26317,14 +26337,11 @@
     "name": "シデムシ",
     "aliases": [],
     "ninjaType": "非ニンジャ",
-    "skills": [
-      "機械脚",
-      "ガトリング銃"
+    "organizations": [
+      {
+        "id": "eb889bf0"
+      }
     ],
-    "appearance": "タタミ一枚ほどの体節を何枚も繋ぎ合わせた機械昆虫。",
-    "description": "オナタカミ社の無人多脚戦車。\n足場を問わず走行できる。\n第4部ではリバースエンジニアリングにより多くのコーポが派生機を作った。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%87%E3%83%A0%E3%82%B7",
     "appearances": [
       {
         "id": "5jvbtmyb"
@@ -26351,11 +26368,14 @@
         "id": "aac95faa"
       }
     ],
-    "organizations": [
-      {
-        "id": "eb889bf0"
-      }
-    ]
+    "skills": [
+      "機械脚",
+      "ガトリング銃"
+    ],
+    "appearance": "タタミ一枚ほどの体節を何枚も繋ぎ合わせた機械昆虫。",
+    "description": "オナタカミ社の無人多脚戦車。\n足場を問わず走行できる。\n第4部ではリバースエンジニアリングにより多くのコーポが派生機を作った。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%87%E3%83%A0%E3%82%B7"
   },
   {
     "id": "7370fd",
@@ -26411,13 +26431,11 @@
     "name": "ハイタカ",
     "aliases": [],
     "ninjaType": "非ニンジャ",
-    "skills": [
-      "小型ガトリング"
+    "organizations": [
+      {
+        "id": "eb889bf0"
+      }
     ],
-    "appearance": "小型の装甲UNIX。四個の突起型バーニア。",
-    "description": "オナタカミ社の無人航空機。\n空中から小型ガトリングガンを掃射する。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%82%A4%E3%82%BF%E3%82%AB",
     "appearances": [
       {
         "id": "5jvbtmyb"
@@ -26438,11 +26456,13 @@
         "id": "8r8ibb8m"
       }
     ],
-    "organizations": [
-      {
-        "id": "eb889bf0"
-      }
-    ]
+    "skills": [
+      "小型ガトリング"
+    ],
+    "appearance": "小型の装甲UNIX。四個の突起型バーニア。",
+    "description": "オナタカミ社の無人航空機。\n空中から小型ガトリングガンを掃射する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%82%A4%E3%82%BF%E3%82%AB"
   },
   {
     "id": "3a7785",
@@ -35139,14 +35159,11 @@
     "name": "ホリイ・ムラカミ",
     "aliases": [],
     "ninjaType": "非ニンジャ",
-    "skills": [
-      "コードロジスト",
-      "ウィルス"
+    "organizations": [
+      {
+        "id": "v50pm4vm"
+      }
     ],
-    "appearance": "黒い眉。左網膜にサイバネアイ。\n第3部では様々に変装していた。",
-    "description": "ネオサイタマのコードロジスト。\n一般カチグミ企業に勤めていたが、アマクダリに追われるようになる。\n第4部ではデジ・プラーグのギルド「無限遠」で参謀を務めている。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9B%E3%83%AA%E3%82%A4%E3%83%BB%E3%83%A0%E3%83%A9%E3%82%AB%E3%83%9F",
     "appearances": [
       {
         "id": "m7ldwmab"
@@ -35161,11 +35178,14 @@
         "id": "8r8ibb8m"
       }
     ],
-    "organizations": [
-      {
-        "id": "v50pm4vm"
-      }
-    ]
+    "skills": [
+      "コードロジスト",
+      "ウィルス"
+    ],
+    "appearance": "黒い眉。左網膜にサイバネアイ。\n第3部では様々に変装していた。",
+    "description": "ネオサイタマのコードロジスト。\n一般カチグミ企業に勤めていたが、アマクダリに追われるようになる。\n第4部ではデジ・プラーグのギルド「無限遠」で参謀を務めている。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9B%E3%83%AA%E3%82%A4%E3%83%BB%E3%83%A0%E3%83%A9%E3%82%AB%E3%83%9F"
   },
   {
     "id": "mpsjk6uj",
@@ -35179,6 +35199,12 @@
       "grade": "等級不明",
       "clan": "コロス・ニンジャクラン"
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "5jvbtmyb"
+      }
+    ],
     "skills": [
       "拳銃",
       "プラズマ・カタナ",
@@ -35188,13 +35214,7 @@
     "appearance": "身長159cm。危ういほどに澄んだ目。\n装束の上からサイバーレインコート。メンポ。違法改造サイバーサングラス。",
     "description": "キツネ・ムレ・チイサイレディオのDJの養子にニンジャソウルが憑依。\nニンジャソウルの闇に苦しむも、父と共に無謀なイクサに挑む。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%83%AA%E3%83%B4%E3%82%A1%E3%83%A9%E3%83%BC",
-    "appearances": [
-      {
-        "id": "5jvbtmyb"
-      }
-    ],
-    "organizations": []
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%83%AA%E3%83%B4%E3%82%A1%E3%83%A9%E3%83%BC"
   },
   {
     "id": "utdsxmwn",
@@ -35206,16 +35226,6 @@
       "name": "",
       "grade": "等級不明"
     },
-    "skills": [],
-    "role": "テツノモン",
-    "description": "アマクダリの衛星組織テツノモンのリーダー。\n組織間の連携に優れ、自身も高いカラテを持つ。\n第4部ではソウカイヤに属している。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%88",
-    "appearances": [
-      {
-        "id": "5jvbtmyb"
-      }
-    ],
     "organizations": [
       {
         "id": "cd4744be"
@@ -35223,7 +35233,17 @@
       {
         "id": "soukaiya-p4"
       }
-    ]
+    ],
+    "appearances": [
+      {
+        "id": "5jvbtmyb"
+      }
+    ],
+    "skills": [],
+    "role": "テツノモン",
+    "description": "アマクダリの衛星組織テツノモンのリーダー。\n組織間の連携に優れ、自身も高いカラテを持つ。\n第4部ではソウカイヤに属している。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%88"
   },
   {
     "id": "zis6kxgs",
@@ -35235,16 +35255,16 @@
       "name": "",
       "grade": "等級不明"
     },
-    "skills": [],
-    "appearance": "ステルスニンジャ装束。",
-    "description": "ネオサイタマのヤクザニンジャ。\nアマクダリ傘下かもしれない。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%83%AF%E3%83%BC%E3%83%A0",
+    "organizations": [],
     "appearances": [
       {
         "id": "rwd4t44a"
       }
     ],
-    "organizations": []
+    "skills": [],
+    "appearance": "ステルスニンジャ装束。",
+    "description": "ネオサイタマのヤクザニンジャ。\nアマクダリ傘下かもしれない。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%83%AF%E3%83%BC%E3%83%A0"
   }
 ]
