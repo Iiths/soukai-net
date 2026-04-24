@@ -4967,14 +4967,30 @@
     "name": "レッドキャップ",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "vmrh7l8i",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "description": "アマクダリのニンジャ。\nニチョーム戦に参加した。\n第4部ではキョートでの賭け試合に参加する姿が見られた。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%83%83%E3%83%89%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97",
+    "appearances": [
+      {
+        "id": "2v6e48gz"
+      },
+      {
+        "id": "8fffe24e"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": [],
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%83%83%E3%83%89%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97"
+    ]
   },
   {
     "id": "17754559229",
@@ -17297,13 +17313,32 @@
   {
     "id": "a22d253b",
     "name": "ヴァルキリー",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "0hs7nmzh",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "ヴァルキリー・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "カラテ・ジャベリン"
+    ],
+    "appearance": "メンポ。女性。",
+    "description": "アマクダリのニンジャ。\nカラテ生成した槍を武器とする。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%B3%E3%83%89%EF%BC%8F%E3%83%B4%E3%82%A1%E3%83%AB%E3%82%AD%E3%83%AA%E3%83%BC",
+    "appearances": [
+      {
+        "id": "2v6e48gz"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "c3e32e80",
@@ -17716,13 +17751,33 @@
   {
     "id": "d39e289b",
     "name": "シヴァー",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "jgcytgcl",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "コリ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "コリ・スリケン"
+    ],
+    "role": "アマクダリ・アクシス",
+    "appearance": "白いニンジャ。隙間の開いたメンポ。腕に氷の爪を生成する。",
+    "description": "アマクダリ・アクシスのニンジャ。\nコリ・スリケンを同時に放つ。威力がある分連射は効かない。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%B4%E3%82%A1%E3%83%BC",
+    "appearances": [
+      {
+        "id": "2v6e48gz"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "ec1b6438",
@@ -17822,13 +17877,36 @@
   {
     "id": "5360712c",
     "name": "スリケニスト",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "2917un2h",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "スリケン連投"
+    ],
+    "role": "アマクダリ・アクシス",
+    "appearance": "両手に指を一本ずつだけサイバネ増設している。",
+    "description": "アマクダリ・アクシスのニンジャ。\nサイバネ6本指によりスリケン20発連射を実現した。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%AA%E3%82%B1%E3%83%8B%E3%82%B9%E3%83%88",
+    "appearances": [
+      {
+        "id": "2v6e48gz"
+      },
+      {
+        "id": "8r8ibb8m"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "61642002",
@@ -17895,21 +17973,22 @@
     "name": "セレニティ",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "organizations": [
-      {
-        "id": "cd4744be"
-      }
+    "skills": [
+      "二刀流サイ"
     ],
+    "description": "アマクダリ・セクトのニンジャ。\nニチョームを襲い、ヤモトを苦しめた。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BB%E3%83%AC%E3%83%8B%E3%83%86%E3%82%A3",
     "appearances": [
       {
         "id": "2v6e48gz"
       }
     ],
-    "skills": [
-      "二刀流サイ"
-    ],
-    "description": "アマクダリ・セクトのニンジャ。\nニチョームを襲い、ヤモトを苦しめた。",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BB%E3%83%AC%E3%83%8B%E3%83%86%E3%82%A3"
+    "organizations": [
+      {
+        "id": "cd4744be"
+      }
+    ]
   },
   {
     "id": "a4d3ac3d",
@@ -17969,24 +18048,59 @@
   {
     "id": "b16dc42e",
     "name": "ディヴァステイター",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "vjjfpd1q",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "マグロツェッペリン「ディヴァステイター」"
+    ],
+    "appearance": "両目だけを露出させた大型ガスマスクメンポ。十二個の生体LAN端子。\nサイバネニンジャらしい。",
+    "description": "アマクダリのニンジャ。\nLAN直結することでマグロツェッペリンと一体化する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%A3%E3%83%B4%E3%82%A1%E3%82%B9%E3%83%86%E3%82%A4%E3%82%BF%E3%83%BC",
+    "appearances": [
+      {
+        "id": "2v6e48gz"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "115b4c49",
     "name": "デキュリオン",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "r57q99ey",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "description": "アマクダリのニンジャ。\nニチョーム戦に参加。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%AD%E3%83%A5%E3%83%AA%E3%82%AA%E3%83%B3",
+    "appearances": [
+      {
+        "id": "2v6e48gz"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "4071c8b6",
@@ -18134,13 +18248,31 @@
   {
     "id": "f9bfb850",
     "name": "フォースカインド",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "kb69aes8",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "タナカ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "サイコキネティック・タナカ・ジツ"
+    ],
+    "description": "アマクダリのニンジャ。\n物体を投げつけるサイキック使い。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%B3%E3%83%89%EF%BC%8F%E3%83%B4%E3%82%A1%E3%83%AB%E3%82%AD%E3%83%AA%E3%83%BC",
+    "appearances": [
+      {
+        "id": "2v6e48gz"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "499de91a",
@@ -18221,13 +18353,34 @@
   {
     "id": "bd92c659",
     "name": "フロストデビル",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "nwsayopn",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "コリ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "コリ・テイ",
+      "ダイヤモンド・ダスト・ブレス"
+    ],
+    "role": "アマクダリ・アクシス",
+    "appearance": "白いニンジャ装束。",
+    "description": "アマクダリ・アクシスのコリ・ニンジャ。\n掌から冷気を出すのみならず、ブレスとして吐き出す。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%83%AD%E3%82%B9%E3%83%88%E3%83%87%E3%83%93%E3%83%AB",
+    "appearances": [
+      {
+        "id": "2v6e48gz"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "702b39cf",
@@ -18439,13 +18592,22 @@
   {
     "id": "3fc27247",
     "name": "レインメイカー",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "skills": [],
+    "description": "アマクダリのスナイパーニンジャ。\nニチョーム戦に参加した。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%82%A4%E3%83%B3%E3%83%A1%E3%82%A4%E3%82%AB%E3%83%BC",
+    "appearances": [
+      {
+        "id": "2v6e48gz"
+      }
+    ],
     "organizations": [
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "ad48aa2c",
@@ -26032,35 +26194,82 @@
   {
     "id": "bc4e0b90",
     "name": "リッパー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "mtir3yyi",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "description": "ヨロシサン製薬のニンジャ。\nニチョーム戦に参加した。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AA%E3%83%83%E3%83%91%E3%83%BC%EF%BC%8F%E3%83%91%E3%83%A9%E3%83%A9%E3%82%A4%E3%82%B6%E3%83%BC%EF%BC%8F%E3%82%AB%E3%83%BC%E3%83%9A%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%93%E3%83%BC",
+    "appearances": [
+      {
+        "id": "2v6e48gz"
+      }
+    ],
     "organizations": [
       {
         "id": "y8yzi8su"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AA%E3%83%83%E3%83%91%E3%83%BC%EF%BC%8F%E3%83%91%E3%83%A9%E3%83%A9%E3%82%A4%E3%82%B6%E3%83%BC%EF%BC%8F%E3%82%AB%E3%83%BC%E3%83%9A%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%93%E3%83%BC"
+    ]
   },
   {
     "id": "4bdb2cdb",
     "name": "パラライザー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "nci3p9fm",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "description": "ヨロシサン製薬のニンジャ。\nニチョーム戦に参加した。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AA%E3%83%83%E3%83%91%E3%83%BC%EF%BC%8F%E3%83%91%E3%83%A9%E3%83%A9%E3%82%A4%E3%82%B6%E3%83%BC%EF%BC%8F%E3%82%AB%E3%83%BC%E3%83%9A%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%93%E3%83%BC",
+    "appearances": [
+      {
+        "id": "2v6e48gz"
+      }
+    ],
     "organizations": [
       {
         "id": "y8yzi8su"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AA%E3%83%83%E3%83%91%E3%83%BC%EF%BC%8F%E3%83%91%E3%83%A9%E3%83%A9%E3%82%A4%E3%82%B6%E3%83%BC%EF%BC%8F%E3%82%AB%E3%83%BC%E3%83%9A%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%93%E3%83%BC"
+    ]
   },
   {
     "id": "42084438",
     "name": "カーペンタービー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "lq9h1lav",
+      "name": "",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "description": "ヨロシサン製薬のニンジャ。\nニチョーム戦に参加した。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AA%E3%83%83%E3%83%91%E3%83%BC%EF%BC%8F%E3%83%91%E3%83%A9%E3%83%A9%E3%82%A4%E3%82%B6%E3%83%BC%EF%BC%8F%E3%82%AB%E3%83%BC%E3%83%9A%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%93%E3%83%BC",
+    "appearances": [
+      {
+        "id": "2v6e48gz"
+      }
+    ],
     "organizations": [
       {
         "id": "y8yzi8su"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AA%E3%83%83%E3%83%91%E3%83%BC%EF%BC%8F%E3%83%91%E3%83%A9%E3%83%A9%E3%82%A4%E3%82%B6%E3%83%BC%EF%BC%8F%E3%82%AB%E3%83%BC%E3%83%9A%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%93%E3%83%BC"
+    ]
   },
   {
     "id": "e812fa",
@@ -26187,13 +26396,33 @@
   {
     "id": "61c2a4",
     "name": "ヴュー",
+    "aliases": [],
+    "ninjaType": "バイオニンジャ",
+    "ninjaSoul": {
+      "id": "gzyxe685",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "バイオアイ",
+      "テレパシー"
+    ],
+    "appearance": "剥き出しの頭部。、6種類の周波数に対応する18個のバイオアイ。\n背に冒涜的なヨロシ・バイオサイバネティカ社の意匠をあしらったニンジャ装束。",
+    "description": "ヨロシ・バイオサイバネティカ社のバイオニンジャ。\n18個ものバイオアイで周辺情報を探り、テレパスで仲間に伝達する。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%B4%E3%83%A5%E3%83%BC",
+    "appearances": [
+      {
+        "id": "2v6e48gz"
+      }
+    ],
     "organizations": [
       {
         "id": "y8yzi8su"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%B4%E3%83%A5%E3%83%BC"
+    ]
   },
   {
     "id": "b72089",
@@ -26209,24 +26438,61 @@
   {
     "id": "d6c941",
     "name": "ポリモーフ",
+    "aliases": [],
+    "ninjaType": "バイオニンジャ",
+    "ninjaSoul": {
+      "id": "t7zqro3r",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "変形能力"
+    ],
+    "appearance": "通常時は人型。戦闘時は不定形。\n背中にヨロシ・バイオサイバネティカ社の意匠",
+    "description": "ヨロシ・バイオサイバネティカ社のバイオニンジャ。\n変形能力を持ち、己の身体を刃に変えて攻撃する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9D%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%95",
+    "appearances": [
+      {
+        "id": "2v6e48gz"
+      }
+    ],
     "organizations": [
       {
         "id": "y8yzi8su"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9D%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%95"
+    ]
   },
   {
     "id": "8d8b56",
     "name": "マスモーフ",
+    "aliases": [],
+    "ninjaType": "バイオニンジャ",
+    "ninjaSoul": {
+      "id": "4wurzw8q",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ステルス・ジツ"
+    ],
+    "description": "ヨロシ・バイオサイバネティカ社のバイオニンジャ。\n他者にステルス・ジツを付与できる。透明クローンヤクザを生み出した。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%B9%E3%83%A2%E3%83%BC%E3%83%95",
+    "appearances": [
+      {
+        "id": "2v6e48gz"
+      }
+    ],
     "organizations": [
       {
         "id": "y8yzi8su"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%B9%E3%83%A2%E3%83%BC%E3%83%95"
+    ]
   },
   {
     "id": "cdfc2b",
