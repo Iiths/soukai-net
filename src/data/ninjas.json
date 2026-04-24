@@ -26427,13 +26427,34 @@
   {
     "id": "b72089",
     "name": "シケイダー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "90fachri",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "超音波",
+      "バイオ節足",
+      "スリケン"
+    ],
+    "appearance": "緑のニンジャ装束。頭部や胸部がセミめいたバイオ異形。\n頭部をニンジャ覆面と頭巾で覆っている。",
+    "description": "ヨロシサン製薬のバイオニンジャ。\nセミに由来する超音波を放つ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%82%B1%E3%82%A4%E3%83%80%E3%83%BC",
+    "appearances": [
+      {
+        "id": "2kk56muq"
+      }
+    ],
     "organizations": [
       {
         "id": "y8yzi8su"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%82%B1%E3%82%A4%E3%83%80%E3%83%BC"
+    ]
   },
   {
     "id": "d6c941",
