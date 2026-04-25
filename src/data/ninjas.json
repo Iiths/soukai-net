@@ -55,6 +55,180 @@
     "appearances": [
       {
         "id": "wkq7s6ie"
+      },
+      {
+        "id": "0f424015"
+      },
+      {
+        "id": "0rdbo5t6"
+      },
+      {
+        "id": "112e6f17"
+      },
+      {
+        "id": "12216e23"
+      },
+      {
+        "id": "12ml6hmz"
+      },
+      {
+        "id": "13f93080"
+      },
+      {
+        "id": "2aa88754"
+      },
+      {
+        "id": "370fffc1"
+      },
+      {
+        "id": "3c2cb74c"
+      },
+      {
+        "id": "3zn1rjr5"
+      },
+      {
+        "id": "43760984"
+      },
+      {
+        "id": "52947b71"
+      },
+      {
+        "id": "5b7a2175"
+      },
+      {
+        "id": "5jvbtmyb"
+      },
+      {
+        "id": "6b4d45cd"
+      },
+      {
+        "id": "6o0erlqp"
+      },
+      {
+        "id": "7a5b8225"
+      },
+      {
+        "id": "7a93891a"
+      },
+      {
+        "id": "7c7a172e"
+      },
+      {
+        "id": "7ngj3zv7"
+      },
+      {
+        "id": "8b7ceaa4"
+      },
+      {
+        "id": "8r8ibb8m"
+      },
+      {
+        "id": "92338646"
+      },
+      {
+        "id": "93f8b0a5"
+      },
+      {
+        "id": "9581c315"
+      },
+      {
+        "id": "9f397ad4"
+      },
+      {
+        "id": "9lclsu2q"
+      },
+      {
+        "id": "a5aiu21s"
+      },
+      {
+        "id": "aaa70fe2"
+      },
+      {
+        "id": "acb9wyjb"
+      },
+      {
+        "id": "b2f24cc3"
+      },
+      {
+        "id": "bc4c96e8"
+      },
+      {
+        "id": "db1b5ac6"
+      },
+      {
+        "id": "e9c2b6e2"
+      },
+      {
+        "id": "ef760022"
+      },
+      {
+        "id": "f4b20a02"
+      },
+      {
+        "id": "fmmj8ad1"
+      },
+      {
+        "id": "fwq12d1u"
+      },
+      {
+        "id": "g01g2lf0"
+      },
+      {
+        "id": "gba0awyv"
+      },
+      {
+        "id": "js9ejlo6"
+      },
+      {
+        "id": "ka6kath5"
+      },
+      {
+        "id": "kqp68e75"
+      },
+      {
+        "id": "oer10ykn"
+      },
+      {
+        "id": "qad20i3w"
+      },
+      {
+        "id": "qs1ghuk5"
+      },
+      {
+        "id": "rujnq8bg"
+      },
+      {
+        "id": "rwd4t44a"
+      },
+      {
+        "id": "ryr9czzl"
+      },
+      {
+        "id": "tqlc7ayk"
+      },
+      {
+        "id": "uduraffr"
+      },
+      {
+        "id": "w6ccm5qg"
+      },
+      {
+        "id": "x9g18jha"
+      },
+      {
+        "id": "xebveoef"
+      },
+      {
+        "id": "xl6ufucq"
+      },
+      {
+        "id": "yg4p8qly"
+      },
+      {
+        "id": "z7rgd0bm"
+      },
+      {
+        "id": "zqv40ass"
       }
     ],
     "skills": [
@@ -67,10 +241,9 @@
   },
   {
     "id": "177545592",
-    "name": "フジキド・ケンジ",
+    "name": "サツバツナイト",
     "realName": "フジキド・ケンジ",
     "aliases": [
-      "サツバツナイト",
       "ニンジャスレイヤー",
       "アイアンリング",
       "ダイ・ニンジャ"
@@ -100,6 +273,417 @@
       },
       {
         "id": "fmmj8ad1"
+      },
+      {
+        "id": "0aecbc8b"
+      },
+      {
+        "id": "0ij95wkj"
+      },
+      {
+        "id": "0rdbo5t6"
+      },
+      {
+        "id": "112e6f17"
+      },
+      {
+        "id": "12216e23"
+      },
+      {
+        "id": "12ml6hmz"
+      },
+      {
+        "id": "13f93080"
+      },
+      {
+        "id": "180a24b4"
+      },
+      {
+        "id": "1a4f68eb"
+      },
+      {
+        "id": "222c43b6"
+      },
+      {
+        "id": "2aa88754"
+      },
+      {
+        "id": "2kk56muq"
+      },
+      {
+        "id": "2v6e48gz"
+      },
+      {
+        "id": "2vw5k6fv"
+      },
+      {
+        "id": "37xaoefv"
+      },
+      {
+        "id": "3951d013"
+      },
+      {
+        "id": "3c2cb74c"
+      },
+      {
+        "id": "3cxcdqaf"
+      },
+      {
+        "id": "3rbo5xaf"
+      },
+      {
+        "id": "3zn1rjr5"
+      },
+      {
+        "id": "42ba7812"
+      },
+      {
+        "id": "43760984"
+      },
+      {
+        "id": "48pg2qdu"
+      },
+      {
+        "id": "4f7f71ff"
+      },
+      {
+        "id": "5041abcf"
+      },
+      {
+        "id": "52947b71"
+      },
+      {
+        "id": "5b7a2175"
+      },
+      {
+        "id": "5deb4197"
+      },
+      {
+        "id": "5jvbtmyb"
+      },
+      {
+        "id": "5yxs7jbc"
+      },
+      {
+        "id": "631a6gfp"
+      },
+      {
+        "id": "64543510"
+      },
+      {
+        "id": "68q536wv"
+      },
+      {
+        "id": "6b4d45cd"
+      },
+      {
+        "id": "6e95e58d"
+      },
+      {
+        "id": "6o0erlqp"
+      },
+      {
+        "id": "7a5b8225"
+      },
+      {
+        "id": "7a93891a"
+      },
+      {
+        "id": "7c7a172e"
+      },
+      {
+        "id": "7ngj3zv7"
+      },
+      {
+        "id": "7orkjubb"
+      },
+      {
+        "id": "8140b365"
+      },
+      {
+        "id": "817f294a"
+      },
+      {
+        "id": "8276c484"
+      },
+      {
+        "id": "8b7ceaa4"
+      },
+      {
+        "id": "8beef187"
+      },
+      {
+        "id": "8hejs1x6"
+      },
+      {
+        "id": "92338646"
+      },
+      {
+        "id": "9581c315"
+      },
+      {
+        "id": "9910422e"
+      },
+      {
+        "id": "99d1ba29"
+      },
+      {
+        "id": "9a242038"
+      },
+      {
+        "id": "9a7q6o48"
+      },
+      {
+        "id": "9a9c26f3"
+      },
+      {
+        "id": "9ba1a179"
+      },
+      {
+        "id": "9e965363"
+      },
+      {
+        "id": "9f397ad4"
+      },
+      {
+        "id": "9j0jnn2l"
+      },
+      {
+        "id": "9lclsu2q"
+      },
+      {
+        "id": "a1475ecf"
+      },
+      {
+        "id": "a26d6fd0"
+      },
+      {
+        "id": "a5aiu21s"
+      },
+      {
+        "id": "a72113c1"
+      },
+      {
+        "id": "aaa70fe2"
+      },
+      {
+        "id": "acb9wyjb"
+      },
+      {
+        "id": "b2f24cc3"
+      },
+      {
+        "id": "b504b250"
+      },
+      {
+        "id": "b66fd6y7"
+      },
+      {
+        "id": "ba3cbca6"
+      },
+      {
+        "id": "bc4c96e8"
+      },
+      {
+        "id": "bymfyzzg"
+      },
+      {
+        "id": "c03f3cb4"
+      },
+      {
+        "id": "cc57v76p"
+      },
+      {
+        "id": "ce494b66"
+      },
+      {
+        "id": "d05ef453"
+      },
+      {
+        "id": "d3b40e37"
+      },
+      {
+        "id": "d6eo1dkg"
+      },
+      {
+        "id": "d812e17e"
+      },
+      {
+        "id": "dawsncb4"
+      },
+      {
+        "id": "db1b5ac6"
+      },
+      {
+        "id": "db537b3e"
+      },
+      {
+        "id": "e4pwggow"
+      },
+      {
+        "id": "e9c2b6e2"
+      },
+      {
+        "id": "e9f0dd22"
+      },
+      {
+        "id": "ef760022"
+      },
+      {
+        "id": "f0psa406"
+      },
+      {
+        "id": "f4b20a02"
+      },
+      {
+        "id": "f7a9920d"
+      },
+      {
+        "id": "fwq12d1u"
+      },
+      {
+        "id": "g01g2lf0"
+      },
+      {
+        "id": "gb8b6euf"
+      },
+      {
+        "id": "gba0awyv"
+      },
+      {
+        "id": "gfdpfq4k"
+      },
+      {
+        "id": "gx89trl9"
+      },
+      {
+        "id": "hfcqzrkh"
+      },
+      {
+        "id": "js9ejlo6"
+      },
+      {
+        "id": "jx5eajyo"
+      },
+      {
+        "id": "k99nm6ll"
+      },
+      {
+        "id": "ka6kath5"
+      },
+      {
+        "id": "lnp1mmrk"
+      },
+      {
+        "id": "m1uefv3f"
+      },
+      {
+        "id": "n18b20ae"
+      },
+      {
+        "id": "nghu0pwd"
+      },
+      {
+        "id": "oer10ykn"
+      },
+      {
+        "id": "op22vpoh"
+      },
+      {
+        "id": "ot4lpixl"
+      },
+      {
+        "id": "puvu8a4v"
+      },
+      {
+        "id": "qad20i3w"
+      },
+      {
+        "id": "qhp0ncjm"
+      },
+      {
+        "id": "qs1ghuk5"
+      },
+      {
+        "id": "r3d5m4sz"
+      },
+      {
+        "id": "rujnq8bg"
+      },
+      {
+        "id": "rvx6izeb"
+      },
+      {
+        "id": "rwd4t44a"
+      },
+      {
+        "id": "st6b9q7x"
+      },
+      {
+        "id": "t2l0ugzn"
+      },
+      {
+        "id": "t3b3cjoh"
+      },
+      {
+        "id": "t4llx7ft"
+      },
+      {
+        "id": "t4m7hei5"
+      },
+      {
+        "id": "tde9kneb"
+      },
+      {
+        "id": "tqlc7ayk"
+      },
+      {
+        "id": "uduraffr"
+      },
+      {
+        "id": "v3fc0ycx"
+      },
+      {
+        "id": "vnhzwml6"
+      },
+      {
+        "id": "w1fu608s"
+      },
+      {
+        "id": "w1iu2r5k"
+      },
+      {
+        "id": "w6ccm5qg"
+      },
+      {
+        "id": "x6t1b1fr"
+      },
+      {
+        "id": "x9g18jha"
+      },
+      {
+        "id": "xebveoef"
+      },
+      {
+        "id": "xl6ufucq"
+      },
+      {
+        "id": "y9j264iq"
+      },
+      {
+        "id": "yrr4132n"
+      },
+      {
+        "id": "z7rgd0bm"
+      },
+      {
+        "id": "zi9w4m1z"
+      },
+      {
+        "id": "zpm2lvo5"
+      },
+      {
+        "id": "zqv40ass"
       }
     ],
     "skills": [
@@ -207,6 +791,171 @@
     "appearances": [
       {
         "id": "gx89trl9"
+      },
+      {
+        "id": "0rdbo5t6"
+      },
+      {
+        "id": "12216e23"
+      },
+      {
+        "id": "12ml6hmz"
+      },
+      {
+        "id": "222c43b6"
+      },
+      {
+        "id": "2v6e48gz"
+      },
+      {
+        "id": "2vw5k6fv"
+      },
+      {
+        "id": "3a5c6230"
+      },
+      {
+        "id": "3cxcdqaf"
+      },
+      {
+        "id": "48pg2qdu"
+      },
+      {
+        "id": "5041abcf"
+      },
+      {
+        "id": "5b7a2175"
+      },
+      {
+        "id": "5deb4197"
+      },
+      {
+        "id": "5yxs7jbc"
+      },
+      {
+        "id": "631a6gfp"
+      },
+      {
+        "id": "635624e9"
+      },
+      {
+        "id": "7a93891a"
+      },
+      {
+        "id": "7c7a172e"
+      },
+      {
+        "id": "7ngj3zv7"
+      },
+      {
+        "id": "80a12ccc"
+      },
+      {
+        "id": "8140b365"
+      },
+      {
+        "id": "8r8ibb8m"
+      },
+      {
+        "id": "9a7q6o48"
+      },
+      {
+        "id": "9f397ad4"
+      },
+      {
+        "id": "9j0jnn2l"
+      },
+      {
+        "id": "9lclsu2q"
+      },
+      {
+        "id": "a5aiu21s"
+      },
+      {
+        "id": "a72113c1"
+      },
+      {
+        "id": "aaa70fe2"
+      },
+      {
+        "id": "cc57v76p"
+      },
+      {
+        "id": "dawsncb4"
+      },
+      {
+        "id": "ef760022"
+      },
+      {
+        "id": "f0q6hbvy"
+      },
+      {
+        "id": "gb8b6euf"
+      },
+      {
+        "id": "m1uefv3f"
+      },
+      {
+        "id": "n18b20ae"
+      },
+      {
+        "id": "nghu0pwd"
+      },
+      {
+        "id": "oer10ykn"
+      },
+      {
+        "id": "puvu8a4v"
+      },
+      {
+        "id": "qhp0ncjm"
+      },
+      {
+        "id": "r3d5m4sz"
+      },
+      {
+        "id": "rvx6izeb"
+      },
+      {
+        "id": "rwd4t44a"
+      },
+      {
+        "id": "st6b9q7x"
+      },
+      {
+        "id": "t4m7hei5"
+      },
+      {
+        "id": "tqlc7ayk"
+      },
+      {
+        "id": "v3fc0ycx"
+      },
+      {
+        "id": "vnhzwml6"
+      },
+      {
+        "id": "w1fu608s"
+      },
+      {
+        "id": "w1iu2r5k"
+      },
+      {
+        "id": "x9g18jha"
+      },
+      {
+        "id": "xebveoef"
+      },
+      {
+        "id": "yrr4132n"
+      },
+      {
+        "id": "z7rgd0bm"
+      },
+      {
+        "id": "zi9w4m1z"
+      },
+      {
+        "id": "zqv40ass"
       }
     ],
     "skills": [

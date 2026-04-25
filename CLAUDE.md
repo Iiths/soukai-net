@@ -212,7 +212,28 @@ wiki_crawler.py を読まずに済むよう要点をまとめる。
 1. `src/presentation/` 配下の該当コンポーネントを編集
 2. `src/domain/entities/Ninja.ts` の型定義も必要に応じて変更
 
-### パターンD: episodes.json / organizations.json を画面から編集したい
+### パターンD: 特定キャラクターの登場エピソードを一括収集・更新したい
+- スクリプト: `ai_tools/update_appearances_from_episodes.py`
+- エピソード一覧ページをスクレイピングし、登場人物セクションに対象キャラが含まれるエピソードIDを `appearances` に追加する
+- **Phase 1**（収集）と **Phase 2**（更新）に分かれており、タイムアウトが発生しても途中から再開できる
+
+```bash
+# Phase1: スクレイピング収集（中断・再開可。キャッシュ: ai_tools/cache_appearances.json）
+python ai_tools/update_appearances_from_episodes.py --phase 1
+python ai_tools/update_appearances_from_episodes.py --phase 1  # 再実行で続きから
+
+# Phase2: ninjas.json を更新
+python ai_tools/update_appearances_from_episodes.py --phase 2 --dry-run  # 確認
+python ai_tools/update_appearances_from_episodes.py --phase 2            # 本番
+```
+
+- **対象キャラの追加**: スクリプト冒頭 `TARGETS` 辞書に `'wiki表示名': 'ninjas.jsonのname'` を追記
+- **対象部の追加**: `EPISODE_LIST_PAGES` に `(URL, arc名)` のタプルを追加
+  - arc名は `episodes.json` の `"arc"` フィールドと一致させること
+- ⚠️ wikiの「ニンジャスレイヤー」リンク名と ninjas.json エントリ名が異なる場合は TARGETS でマッピングすること
+  - 例: `'ニンジャスレイヤー': 'サツバツナイト'`
+
+### パターンE: episodes.json / organizations.json を画面から編集したい
 - ローカル開発時（`http://localhost:5173`）のみヘッダーに「📝 エピソード編集」「📝 組織編集」「＋ 新規追加」「📥 ninjas.json 保存」ボタンが出る（issue#15で追加、issue#16で並び順修正）
 - それぞれ `/edit/episodes` と `/edit/organizations` に遷移する
 - 各行の「更新」ボタンで in-memory の override に反映、「削除」ボタンでソフト削除マーク
