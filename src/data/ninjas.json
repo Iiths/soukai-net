@@ -1930,19 +1930,41 @@
     "id": "1775455929",
     "name": "ゴナイダ",
     "aliases": [
-      "マスター"
+      "マスターセンセイ・ゴナイダ"
     ],
-    "ninjaType": "非ニンジャ",
-    "organizations": [
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "2qc0qyur",
+      "name": "ネクロ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "ネクロ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "サイコキネシス",
+      "ゴーストカタナ",
+      "ゴーストミサイル"
+    ],
+    "appearance": "第3部：継ぎ接ぎの顔。ガスマスク。首からINW職員カード。\n第4部：霊術師めいたフードつき白衣。外科医マスク。紫色の手。\n白衣から覗く胸にはペスティレンスを含む無数の顔。",
+    "description": "INWの研究員。ゾンビーの際にニンジャ化。\n地上人類をゾンビー化すべく、ジェノサイド・チルドレンを生み出した。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B4%E3%83%8A%E3%82%A4%E3%83%80",
+    "appearances": [
       {
-        "id": "0d9c3107"
+        "id": "6b51f583"
       },
       {
-        "id": "09afd629"
+        "id": "1rdmzslz"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B4%E3%83%8A%E3%82%A4%E3%83%80"
+    "organizations": [
+      {
+        "id": "09afd629"
+      },
+      {
+        "id": "0d9c3107"
+      }
+    ]
   },
   {
     "id": "1775455930",
@@ -5554,10 +5576,33 @@
     "name": "ウォーペイント",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "organizations": [],
-    "appearances": [],
+    "ninjaSoul": {
+      "id": "27dxupnj",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "ノルド・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "バーバル・カラテ",
+      "両刃剣"
+    ],
+    "appearance": "硬い長髪。鼻から下を覆う黒い鋼のメンポ。\n蛮人あるいはケルト戦士じみた青い刺青、イクサペイント。",
+    "description": "中国地方奥地からやってきた蛮人ニンジャ。\n荒々しいカラテで戦う。",
     "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%9A%E3%82%A4%E3%83%B3%E3%83%88"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%9A%E3%82%A4%E3%83%B3%E3%83%88",
+    "appearances": [
+      {
+        "id": "37c99a76"
+      },
+      {
+        "id": "817f294a"
+      },
+      {
+        "id": "8fffe24e"
+      }
+    ],
+    "organizations": []
   },
   {
     "id": "17754559224",
@@ -24100,9 +24145,33 @@
   {
     "id": "72594b",
     "name": "サンタラム",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%B3%E3%82%BF%E3%83%A9%E3%83%A0"
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "ra7dw7aa",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "薬物耐性",
+      "ニンジャ刀"
+    ],
+    "appearance": "黒いニンジャ装束。",
+    "description": "ネオサイタマのニンジャ。元ソウカイヤ。\n並のニンジャよりも高い薬物耐性を持つ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%B3%E3%82%BF%E3%83%A9%E3%83%A0",
+    "appearances": [
+      {
+        "id": "43760984"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      }
+    ]
   },
   {
     "id": "fc473a",
@@ -25678,6 +25747,31 @@
   {
     "id": "15c463",
     "name": "ペスティレンス",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "n80vxezt",
+      "name": "ヤマイ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ネクロ・カラテ",
+      "ニンジャ病原菌"
+    ],
+    "appearance": "身長3m超。異様に長い手足。両手に逆棘付きの鋭利な爪。\n手足の穴から緋色のガス。",
+    "description": "INWが生みだしたゾンビーニンジャ。\n呼吸器や傷口からゾンビー感染させる危険なジツを備えている。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9A%E3%82%B9%E3%83%86%E3%82%A3%E3%83%AC%E3%83%B3%E3%82%B9",
+    "appearances": [
+      {
+        "id": "6b51f583"
+      },
+      {
+        "id": "1rdmzslz"
+      }
+    ],
     "organizations": [
       {
         "id": "09afd629"
@@ -25685,9 +25779,7 @@
       {
         "id": "0d9c3107"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9A%E3%82%B9%E3%83%86%E3%82%A3%E3%83%AC%E3%83%B3%E3%82%B9"
+    ]
   },
   {
     "id": "72590e",
@@ -37590,6 +37682,154 @@
       },
       {
         "id": "8r8ibb8m"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "1c2r0zzo",
+    "name": "ブラッククレイン",
+    "realName": "ホンガンジ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "jt4osimv",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "ツル・ニンジャクラン"
+    },
+    "skills": [
+      "鎖鎌"
+    ],
+    "appearance": "伸び放題でサイドをぞんざいに刈り上げた髪。\n色褪せサイズの合っていないベロア・ジャケット。",
+    "description": "ネオサイタマのニンジャ。\n堕落した物書き。殺戮を糧にバイオレンス小説を書いていた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9B%E3%83%B3%E3%82%AC%E3%83%B3%E3%82%B8",
+    "appearances": [
+      {
+        "id": "f7a9920d"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "ozqt4whu",
+    "name": "サンライザー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "ocpy7hb0",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "スポーツカー「ザ・サンライザー」"
+    ],
+    "appearance": "LANケーブル混じりの流れるような金髪。\nヘルメットとスーツ。",
+    "description": "元カースタントのニンジャ。\nレースイベント「ハシリ・モノ」の連続優勝記録保持者。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%B3%E3%83%A9%E3%82%A4%E3%82%B6%E3%83%BC",
+    "appearances": [
+      {
+        "id": "ryr9czzl"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "18ka8uv3",
+    "name": "シスターオブマーシー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "sufyy4mr",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "武装救急車",
+      "スリケン"
+    ],
+    "appearance": "ナースニンジャ装束。",
+    "description": "サイコパス武装救急車集団を率いる異常ナースニンジャ。\n拉致被害者をナースに仕立て共に荒野を駆ける。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%AA%E3%83%96%E3%83%9E%E3%83%BC%E3%82%B7%E3%83%BC",
+    "appearances": [
+      {
+        "id": "ryr9czzl"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "ger5d9fa",
+    "name": "ファイアドラゴンズデイル",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "6ve0m4gh",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "両刃剣",
+      "ヘルトリイ999"
+    ],
+    "appearance": "半裸に白塗りの顔。黒い悪魔崇拝三角帽頭巾。",
+    "description": "ブラックメタルバンドのヴォーカルニンジャ。\nバンドと同名の殺人マシーンを駆り、アンタイブディズムを遂行する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%BA%E3%83%87%E3%82%A4%E3%83%AB",
+    "appearances": [
+      {
+        "id": "ryr9czzl"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "5pgx2alp",
+    "name": "モタライ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "w206651m",
+      "name": "ミツカド・ニンジャクラン",
+      "grade": "アーチ級"
+    },
+    "skills": [
+      "枯れ野"
+    ],
+    "appearance": "僧ローブ。",
+    "description": "ナナママ村にいた名称不明ニンジャ。モタライはモータルネーム。\n無限ループする特殊空間を作り出した。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%82%BF%E3%83%A9%E3%82%A4",
+    "appearances": [
+      {
+        "id": "ryr9czzl"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "3spamdgl",
+    "name": "サウザンドマイル",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "9zsaru5p",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "サウザンドマイルズ・ジツ"
+    ],
+    "appearance": "超自然の名状しがたい色彩を有する法衣。\n鱗の無い大蛇の身体。ニンジャの頭。",
+    "description": "美しい啓示の塔に潜んでいた正体不明のニンジャ。\n生体脳をリソースとして強力なジツを放つ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%82%A6%E3%82%B6%E3%83%B3%E3%83%89%E3%83%9E%E3%82%A4%E3%83%AB",
+    "appearances": [
+      {
+        "id": "817f294a"
       }
     ],
     "organizations": []
