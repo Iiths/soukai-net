@@ -1,6 +1,5 @@
 import { Ninja } from '../../domain/entities/Ninja';
 import { NinjaRepository } from '../../domain/repositories/NinjaRepository';
-import ninjasData from '../../data/ninjas.json';
 
 /** JSON の null → undefined 変換（TypeScript の strict null checks 対応） */
 function normalizeNinja(raw: unknown): Ninja {
@@ -27,14 +26,27 @@ function normalizeNinja(raw: unknown): Ninja {
 }
 
 export class JsonNinjaRepository implements NinjaRepository {
+  private cache: unknown[] | null = null;
+
+  private async getRaw(): Promise<unknown[]> {
+    if (!this.cache) {
+      const res = await fetch('/data/ninjas.json');
+      if (!res.ok) throw new Error(`Failed to fetch ninjas.json: ${res.status}`);
+      this.cache = await res.json() as unknown[];
+    }
+    return this.cache;
+  }
+
   async findAll(): Promise<Ninja[]> {
-    return (ninjasData as unknown[]).map(normalizeNinja);
+    const raw = await this.getRaw();
+    return raw.map(normalizeNinja);
   }
 
   async findById(id: string): Promise<Ninja | null> {
-    const raw = (ninjasData as unknown[]).find(
+    const raw = await this.getRaw();
+    const found = raw.find(
       (n) => (n as Record<string, unknown>).id === id
     );
-    return raw ? normalizeNinja(raw) : null;
+    return found ? normalizeNinja(found) : null;
   }
 }

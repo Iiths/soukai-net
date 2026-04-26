@@ -1,6 +1,5 @@
 import { Episode } from '../../domain/entities/Episode';
 import { EpisodeRepository } from '../../domain/repositories/EpisodeRepository';
-import episodesData from '../../data/episodes.json';
 
 function normalizeEpisode(raw: unknown): Episode {
   const r = raw as Record<string, unknown>;
@@ -18,8 +17,11 @@ export class JsonEpisodeRepository implements EpisodeRepository {
 
   private async getAll(): Promise<Map<string, Episode>> {
     if (!this.cache) {
+      const res = await fetch('/data/episodes.json');
+      if (!res.ok) throw new Error(`Failed to fetch episodes.json: ${res.status}`);
+      const raw = await res.json() as unknown[];
       this.cache = new Map(
-        (episodesData as unknown[]).map(normalizeEpisode).map((ep) => [ep.id, ep])
+        raw.map(normalizeEpisode).map((ep) => [ep.id, ep])
       );
     }
     return this.cache;

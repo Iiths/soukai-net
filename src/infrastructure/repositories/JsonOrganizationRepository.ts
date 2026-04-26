@@ -1,6 +1,5 @@
 import { Organization } from '../../domain/entities/Organization';
 import { OrganizationRepository } from '../../domain/repositories/OrganizationRepository';
-import organizationsData from '../../data/organizations.json';
 
 function normalizeOrganization(raw: unknown): Organization {
   const r = raw as Record<string, unknown>;
@@ -15,8 +14,11 @@ export class JsonOrganizationRepository implements OrganizationRepository {
 
   private async getAll(): Promise<Map<string, Organization>> {
     if (!this.cache) {
+      const res = await fetch('/data/organizations.json');
+      if (!res.ok) throw new Error(`Failed to fetch organizations.json: ${res.status}`);
+      const raw = await res.json() as unknown[];
       this.cache = new Map(
-        (organizationsData as unknown[]).map(normalizeOrganization).map((org) => [org.id, org])
+        raw.map(normalizeOrganization).map((org) => [org.id, org])
       );
     }
     return this.cache;
