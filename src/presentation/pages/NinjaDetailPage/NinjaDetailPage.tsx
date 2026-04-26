@@ -1,3 +1,4 @@
+import { useState } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { useNinjaDetail } from '../../hooks/useNinjaDetail';
 import { useIsLocalDev } from '../../hooks/useIsLocalDev';
@@ -33,6 +34,8 @@ function Empty({ label }: { label: string }) {
   );
 }
 
+const EPISODE_INITIAL_COUNT = 8;
+
 /** <br /> タグまたは \n を React の改行要素に変換して表示 */
 function WithLineBreaks({ text }: { text: string }) {
   // <br /> タグを \n に正規化してから分割
@@ -52,6 +55,7 @@ export function NinjaDetailPage() {
   const navigate = useNavigate();
   const isLocalDev = useIsLocalDev();
   const { ninja, episodes, organizations, isLoading } = useNinjaDetail(id);
+  const [showAllEpisodes, setShowAllEpisodes] = useState(false);
 
   if (isLoading) {
     return (
@@ -214,21 +218,38 @@ export function NinjaDetailPage() {
 
         {/* 登場エピソード */}
         <section className={styles.section}>
-          <h2 className={styles.sectionTitle}>登場エピソード</h2>
+          <h2 className={styles.sectionTitle}>
+            登場エピソード
+            {episodes.length > 0 && (
+              <span className={styles.episodeCount}>{episodes.length}件</span>
+            )}
+          </h2>
           {episodes.length > 0 ? (
-            <div className={styles.episodeGrid}>
-              {episodes.map((ep) => (
-                <div key={ep.id} className={styles.episodeCard}>
-                  <div className={styles.epTitle}>{ep.title}</div>
-                  <div className={styles.epMeta}>
-                    {hasValue(ep.arc) && <Badge variant="arc" text={ep.arc!} />}
-                    {ep.season !== undefined && (
-                      <span className={styles.epSeason}>S{ep.season}</span>
-                    )}
+            <>
+              <div className={styles.episodeGrid}>
+                {(showAllEpisodes ? episodes : episodes.slice(0, EPISODE_INITIAL_COUNT)).map((ep) => (
+                  <div key={ep.id} className={styles.episodeCard}>
+                    <div className={styles.epTitle}>{ep.title}</div>
+                    <div className={styles.epMeta}>
+                      {hasValue(ep.arc) && <Badge variant="arc" text={ep.arc!} />}
+                      {ep.season !== undefined && (
+                        <span className={styles.epSeason}>S{ep.season}</span>
+                      )}
+                    </div>
                   </div>
-                </div>
-              ))}
-            </div>
+                ))}
+              </div>
+              {episodes.length > EPISODE_INITIAL_COUNT && (
+                <button
+                  className={styles.episodeToggleBtn}
+                  onClick={() => setShowAllEpisodes((prev) => !prev)}
+                >
+                  {showAllEpisodes
+                    ? '閉じる ▲'
+                    : `他 ${episodes.length - EPISODE_INITIAL_COUNT} 件を表示 ▼`}
+                </button>
+              )}
+            </>
           ) : <Empty label="エピソード" />}
         </section>
 
