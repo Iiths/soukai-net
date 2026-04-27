@@ -13339,13 +13339,25 @@
   {
     "id": "5e46bf4f",
     "name": "パウダーマン",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "j5hwlhxt",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "role": "アデプト位階",
+    "description": "ザイバツのニンジャ。\n物理書籍の位階総覧に名前のみ登場。",
+    "status": "unknown",
+    "appearances": [],
     "organizations": [
       {
         "id": "zaibatsu-p2"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "d9553df4",
@@ -13380,13 +13392,25 @@
   {
     "id": "87621525",
     "name": "バッドヴィジョン",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "3txpdrmk",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "role": "アデプト位階",
+    "description": "ザイバツのニンジャ。\n物理書籍の位階総覧に名前だけ登場。",
+    "status": "unknown",
+    "appearances": [],
     "organizations": [
       {
         "id": "zaibatsu-p2"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "30285082",
@@ -14047,13 +14071,25 @@
   {
     "id": "c847e32d",
     "name": "ブルートロール",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "757ogrxp",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "role": "アデプト位階",
+    "description": "ザイバツのニンジャ。\n物理書籍の位階総覧に名前だけ登場。",
+    "status": "unknown",
+    "appearances": [],
     "organizations": [
       {
         "id": "zaibatsu-p2"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "daa294c0",
@@ -14114,13 +14150,18 @@
   {
     "id": "b3fffeb1",
     "name": "プロンプター",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "skills": [],
+    "role": "アデプト位階",
+    "description": "ザイバツのニンジャ。\n物理書籍の位階総覧に名前だけ登場。",
+    "status": "unknown",
+    "appearances": [],
     "organizations": [
       {
         "id": "zaibatsu-p2"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "6ef7217a",
@@ -14262,13 +14303,25 @@
   {
     "id": "82ec5fbe",
     "name": "ホワイトスタチュー",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "gzspb8v6",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "role": "アデプト位階",
+    "description": "ザイバツのニンジャ。\n物理書籍の位階総覧に名前だけ登場。",
+    "status": "unknown",
+    "appearances": [],
     "organizations": [
       {
         "id": "zaibatsu-p2"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "5f304551",
@@ -14655,13 +14708,25 @@
   {
     "id": "f3a1c4c2",
     "name": "ランドリザード",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "fo7nm2ix",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "role": "アデプト位階",
+    "description": "ザイバツのニンジャ。\n物理書籍の位階総覧に名前だけ登場。",
+    "status": "unknown",
+    "appearances": [],
     "organizations": [
       {
         "id": "zaibatsu-p2"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "709d604f",
@@ -31396,6 +31461,16 @@
       "clan": "",
       "origin": "第1部のコッカトリスのソウルとは別種"
     },
+    "organizations": [
+      {
+        "id": "pid9wztn"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "19eb506d"
+      }
+    ],
     "skills": [
       "ドク・ジツ",
       "ドクボム・ジツ"
@@ -31403,17 +31478,7 @@
     "appearance": "緑色の柔道着。虚無笠。腰に漆黒の帯。\n傷だらけの顔。真鍮面頰。赤い棟髪刈り。爬虫類じみた人外の瞳。",
     "description": "平安時代末期のリアルニンジャ。\n血液が毒液になっており、スリケンやカラテに纏わせる。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B3%E3%83%83%E3%82%AB%E3%83%88%E3%83%AA%E3%82%B9%EF%BC%88%E3%82%B5%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3%E3%82%B9%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%EF%BC%89",
-    "appearances": [
-      {
-        "id": "19eb506d"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "pid9wztn"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B3%E3%83%83%E3%82%AB%E3%83%88%E3%83%AA%E3%82%B9%EF%BC%88%E3%82%B5%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3%E3%82%B9%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%EF%BC%89"
   },
   {
     "id": "ed6397",
@@ -31427,22 +31492,22 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "バヨネット・ドー"
+    "organizations": [
+      {
+        "id": "pid9wztn"
+      }
     ],
-    "description": "平安時代時代のニンジャ。ソガ・ニンジャの副官。\nセキバハラでニンジャスレイヤーと戦ったという。",
-    "status": "unknown",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%91%E3%83%BC",
     "appearances": [
       {
         "id": "7n5yygr8"
       }
     ],
-    "organizations": [
-      {
-        "id": "pid9wztn"
-      }
-    ]
+    "skills": [
+      "バヨネット・ドー"
+    ],
+    "description": "平安時代時代のニンジャ。ソガ・ニンジャの副官。\nセキバハラでニンジャスレイヤーと戦ったという。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%91%E3%83%BC"
   },
   {
     "id": "02c511",
@@ -31458,6 +31523,16 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "pid9wztn"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "19eb506d"
+      }
+    ],
     "skills": [
       "黒い刀",
       "墓石の構え"
@@ -31465,17 +31540,7 @@
     "appearance": "黒漆塗りの足軽鎧。兜の下に黒いニンジャ頭巾。\n髑髏模様の黒面頰。白く発光する人外の瞳。",
     "description": "平安時代末期の侍ニンジャ。\n呪術的刀は重さを変え、自在な太刀筋を実現する。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%88%E3%82%A5%E3%83%BC%E3%83%A0%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3",
-    "appearances": [
-      {
-        "id": "19eb506d"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "pid9wztn"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%88%E3%82%A5%E3%83%BC%E3%83%A0%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3"
   },
   {
     "id": "a7c453",
@@ -31489,6 +31554,16 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "pid9wztn"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "6a6f2a40"
+      }
+    ],
     "skills": [
       "大凧",
       "カゼのジツ",
@@ -31498,17 +31573,7 @@
     "appearance": "大凧を背負う。鳥類じみたメンポ。",
     "description": "平安時代末期のリアルニンジャ。\nカゼのジツで凧を制御し、クナイ・ダートを垂直掃射する。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%AB%E3%82%AB%E3%82%A4%E3%83%88%EF%BC%88%E3%82%B5%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3%E3%82%B9%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%EF%BC%89",
-    "appearances": [
-      {
-        "id": "6a6f2a40"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "pid9wztn"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%AB%E3%82%AB%E3%82%A4%E3%83%88%EF%BC%88%E3%82%B5%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3%E3%82%B9%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%EF%BC%89"
   },
   {
     "id": "8156a2",
@@ -31525,21 +31590,14 @@
       "clan": "アケチ・ニンジャクラン",
       "origin": ""
     },
-    "skills": [
-      "ヘシキリブレード",
-      "ヤリ・オブ・ウォーロード",
-      "キキョウ・ジツ",
-      "天下布武",
-      "センプケン",
-      "ルナー・エクリプス",
-      "裏キキョウ・ジツ",
-      "ネザーヤリ"
+    "organizations": [
+      {
+        "id": "pid9wztn"
+      },
+      {
+        "id": "9cf1667c"
+      }
     ],
-    "role": "タイクーン",
-    "appearance": "身長240cm。髑髏を意匠化したメンポ。江戸戦争めいた武者兜。\n金の縁取りを施した黒のニンジャ甲冑。四本腕。「明智」と書かれた旗。",
-    "description": "戦国大名、明智光秀はニンジャである。\n二度に渡り現世に現れ、全世界へ侵略を仕掛けた。\nネザーの地で鍛えた強大なカラテに加え、禁断のキキョウ・ジツを使う。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%B1%E3%83%81%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
     "appearances": [
       {
         "id": "ef8158d4"
@@ -31575,14 +31633,21 @@
         "id": "2ro7dlra"
       }
     ],
-    "organizations": [
-      {
-        "id": "pid9wztn"
-      },
-      {
-        "id": "9cf1667c"
-      }
-    ]
+    "skills": [
+      "ヘシキリブレード",
+      "ヤリ・オブ・ウォーロード",
+      "キキョウ・ジツ",
+      "天下布武",
+      "センプケン",
+      "ルナー・エクリプス",
+      "裏キキョウ・ジツ",
+      "ネザーヤリ"
+    ],
+    "role": "タイクーン",
+    "appearance": "身長240cm。髑髏を意匠化したメンポ。江戸戦争めいた武者兜。\n金の縁取りを施した黒のニンジャ甲冑。四本腕。「明智」と書かれた旗。",
+    "description": "戦国大名、明智光秀はニンジャである。\n二度に渡り現世に現れ、全世界へ侵略を仕掛けた。\nネザーの地で鍛えた強大なカラテに加え、禁断のキキョウ・ジツを使う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%B1%E3%83%81%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
   },
   {
     "id": "c78448",
@@ -31603,6 +31668,16 @@
       "clan": "サソリ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "pid9wztn"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "6a6f2a40"
+      }
+    ],
     "skills": [
       "蠍刀",
       "ギリシヤ火遁「アンタレスの焔」",
@@ -31611,17 +31686,7 @@
     "appearance": "身長約210cm。筋骨隆々の肉体。\n黒地に赤い蠍模様の陣羽織。蠍を模した兜。",
     "description": "平安時代末期のリアルニンジャ。\n現代でいうサソリ・ファイティング・スタイルに加えカトン・ジツも使う手練れ。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%B3%E3%83%AB%E3%83%94%E3%82%AA",
-    "appearances": [
-      {
-        "id": "6a6f2a40"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "pid9wztn"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%B3%E3%83%AB%E3%83%94%E3%82%AA"
   },
   {
     "id": "e7776e",
@@ -32338,14 +32403,11 @@
       "clan": "ソガ・ニンジャクラン",
       "origin": ""
     },
-    "skills": [
-      "タタミ・ジツ",
-      "キョジツテンカンホー・ジツ"
+    "organizations": [
+      {
+        "id": "pid9wztn"
+      }
     ],
-    "role": "ニンジャ六騎士",
-    "description": "ニンジャ六騎士の一人。タタミ・ジツの使い手。\n長きに渡り平安時代を治めたが、セキバハラで敗れハラキリした。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BD%E3%82%AC%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
     "appearances": [
       {
         "id": "q0zjg8rk"
@@ -32357,11 +32419,14 @@
         "id": "ef8158d4"
       }
     ],
-    "organizations": [
-      {
-        "id": "pid9wztn"
-      }
-    ]
+    "skills": [
+      "タタミ・ジツ",
+      "キョジツテンカンホー・ジツ"
+    ],
+    "role": "ニンジャ六騎士",
+    "description": "ニンジャ六騎士の一人。タタミ・ジツの使い手。\n長きに渡り平安時代を治めたが、セキバハラで敗れハラキリした。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BD%E3%82%AC%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
   },
   {
     "id": "67ca75",
