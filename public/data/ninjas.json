@@ -27437,13 +27437,26 @@
   {
     "id": "b9b102",
     "name": "バロウワイト",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "gsky6v08",
+      "name": "スカル・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "appearance": "骨と腱と目玉しか残っていない肉体。灰色のニンジャ装束。",
+    "description": "INWが生みだしたゾンビーニンジャ。\n白骨肉体によりスリケンがすり抜けてしまう。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%83%AD%E3%82%A6%E3%83%AF%E3%82%A4%E3%83%88",
+    "appearances": [],
     "organizations": [
       {
         "id": "09afd629"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%83%AD%E3%82%A6%E3%83%AF%E3%82%A4%E3%83%88"
+    ]
   },
   {
     "id": "5663ef",

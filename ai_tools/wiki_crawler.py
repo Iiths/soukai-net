@@ -147,6 +147,18 @@ BLOCKED_ORG_NAMES: set[str] = {
     "アマクダリ", "ネザーキョウ",
 }
 
+# マージ時にスキップするニンジャ名リスト
+# - ninjas.json 上で名前を変更済みのため、Wikiの旧名（括弧付き等）で再追加されるのを防ぐ
+# - 組織名として誤収集されたエントリを除外する
+# - URLトラバース（収集）段階ではスキップしない → 配下キャラクターの収集は維持される
+SKIP_NINJA_NAMES: set[str] = {
+    # ninjas.json で括弧なしに改名済み（Wiki側は括弧あり名で収録されている）
+    "コッカトリス（サムライニンジャスレイヤー）",
+    "ヘルカイト（サムライニンジャスレイヤー）",
+    # 組織名のため ninjas.json から削除済み（再追加を防止）
+    "ハイデッカー",
+}
+
 # マージ時の組織名正規化マップ（旧名 → 正規名。統合元が入力された場合に自動リダイレクト）
 ORG_NORMALIZE_MAP: dict[str, str] = {
     "エジプト（エネアド社）":             "エネアド社",
@@ -711,6 +723,11 @@ def run_merge(entries: list[dict], dry_run: bool = False) -> dict:
         wiki_url = entry.get("wiki_url")
         # _orgs がある場合は全所属を処理、なければ org_name を使用
         orgs = entry.get("_orgs") or [entry.get("org_name", "不明")]
+
+        # SKIP_NINJA_NAMES に含まれる名前はマージ対象外（既に別名で収録済み、または組織名）
+        if name in SKIP_NINJA_NAMES:
+            print(f"  [skip] {name} (SKIP_NINJA_NAMES)")
+            continue
 
         if name in index:
             existing = index[name]
