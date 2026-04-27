@@ -151,6 +151,8 @@ export function SimpleSearchPage() {
         base = await filterUseCase.execute(c);
       }
 
+      // あいうえお順（カタカナ・ひらがな）でソート
+      base.sort((a, b) => a.name.localeCompare(b.name, 'ja'));
       setResults(base);
     } finally {
       setIsLoading(false);

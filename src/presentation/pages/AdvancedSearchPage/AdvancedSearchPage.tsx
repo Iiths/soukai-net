@@ -53,6 +53,8 @@ export function AdvancedSearchPage() {
         const episodeRepo = new JsonEpisodeRepository();
         const useCase = new FilterNinjaUseCase(ninjaRepo, episodeRepo);
         const filterResults = await useCase.execute(criteria);
+        // あいうえお順（カタカナ・ひらがな）でソート
+        filterResults.sort((a, b) => a.name.localeCompare(b.name, 'ja'));
         setResults(filterResults);
       } finally {
         setIsLoading(false);
