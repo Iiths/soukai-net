@@ -13348,16 +13348,16 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "role": "アデプト位階",
-    "description": "ザイバツのニンジャ。\n物理書籍の位階総覧に名前のみ登場。",
-    "status": "unknown",
-    "appearances": [],
     "organizations": [
       {
         "id": "zaibatsu-p2"
       }
-    ]
+    ],
+    "appearances": [],
+    "skills": [],
+    "role": "アデプト位階",
+    "description": "ザイバツのニンジャ。\n物理書籍の位階総覧に名前のみ登場。",
+    "status": "unknown"
   },
   {
     "id": "d9553df4",
@@ -13401,16 +13401,16 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "role": "アデプト位階",
-    "description": "ザイバツのニンジャ。\n物理書籍の位階総覧に名前だけ登場。",
-    "status": "unknown",
-    "appearances": [],
     "organizations": [
       {
         "id": "zaibatsu-p2"
       }
-    ]
+    ],
+    "appearances": [],
+    "skills": [],
+    "role": "アデプト位階",
+    "description": "ザイバツのニンジャ。\n物理書籍の位階総覧に名前だけ登場。",
+    "status": "unknown"
   },
   {
     "id": "30285082",
@@ -14080,16 +14080,16 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "role": "アデプト位階",
-    "description": "ザイバツのニンジャ。\n物理書籍の位階総覧に名前だけ登場。",
-    "status": "unknown",
-    "appearances": [],
     "organizations": [
       {
         "id": "zaibatsu-p2"
       }
-    ]
+    ],
+    "appearances": [],
+    "skills": [],
+    "role": "アデプト位階",
+    "description": "ザイバツのニンジャ。\n物理書籍の位階総覧に名前だけ登場。",
+    "status": "unknown"
   },
   {
     "id": "daa294c0",
@@ -14152,16 +14152,16 @@
     "name": "プロンプター",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "skills": [],
-    "role": "アデプト位階",
-    "description": "ザイバツのニンジャ。\n物理書籍の位階総覧に名前だけ登場。",
-    "status": "unknown",
-    "appearances": [],
     "organizations": [
       {
         "id": "zaibatsu-p2"
       }
-    ]
+    ],
+    "appearances": [],
+    "skills": [],
+    "role": "アデプト位階",
+    "description": "ザイバツのニンジャ。\n物理書籍の位階総覧に名前だけ登場。",
+    "status": "unknown"
   },
   {
     "id": "6ef7217a",
@@ -14312,16 +14312,16 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "role": "アデプト位階",
-    "description": "ザイバツのニンジャ。\n物理書籍の位階総覧に名前だけ登場。",
-    "status": "unknown",
-    "appearances": [],
     "organizations": [
       {
         "id": "zaibatsu-p2"
       }
-    ]
+    ],
+    "appearances": [],
+    "skills": [],
+    "role": "アデプト位階",
+    "description": "ザイバツのニンジャ。\n物理書籍の位階総覧に名前だけ登場。",
+    "status": "unknown"
   },
   {
     "id": "5f304551",
@@ -14717,16 +14717,16 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "role": "アデプト位階",
-    "description": "ザイバツのニンジャ。\n物理書籍の位階総覧に名前だけ登場。",
-    "status": "unknown",
-    "appearances": [],
     "organizations": [
       {
         "id": "zaibatsu-p2"
       }
-    ]
+    ],
+    "appearances": [],
+    "skills": [],
+    "role": "アデプト位階",
+    "description": "ザイバツのニンジャ。\n物理書籍の位階総覧に名前だけ登場。",
+    "status": "unknown"
   },
   {
     "id": "709d604f",
@@ -27446,17 +27446,17 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "appearance": "骨と腱と目玉しか残っていない肉体。灰色のニンジャ装束。",
-    "description": "INWが生みだしたゾンビーニンジャ。\n白骨肉体によりスリケンがすり抜けてしまう。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%83%AD%E3%82%A6%E3%83%AF%E3%82%A4%E3%83%88",
-    "appearances": [],
     "organizations": [
       {
         "id": "09afd629"
       }
-    ]
+    ],
+    "appearances": [],
+    "skills": [],
+    "appearance": "骨と腱と目玉しか残っていない肉体。灰色のニンジャ装束。",
+    "description": "INWが生みだしたゾンビーニンジャ。\n白骨肉体によりスリケンがすり抜けてしまう。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%83%AD%E3%82%A6%E3%83%AF%E3%82%A4%E3%83%88"
   },
   {
     "id": "5663ef",
@@ -39484,5 +39484,70 @@
     "appearance": "黒いニンジャ装束。マント。メンポ。\n掌に光線を発射する機構。",
     "description": "Twitter連載5周年記念のコミックに登場したニンジャ。\n掌から光のヒカリ・ジツめいて超高熱の光を放つ。",
     "status": "dead"
+  },
+  {
+    "id": "hi3zbghk",
+    "name": "カーマ・ニンジャ",
+    "aliases": [],
+    "ninjaType": "リアルニンジャ",
+    "ninjaSoul": {
+      "id": "ftm1n9uy",
+      "name": "カーマ・ニンジャ",
+      "grade": "アーチ級"
+    },
+    "skills": [],
+    "description": "2012年配信の公式スゴロクゲームで登場した謎のリアルニンジャ。\nプレイヤーに取引を持ちかけたり、ギャンブル勝負を挑んできたりした。",
+    "status": "unknown",
+    "appearances": [
+      {
+        "id": "0wi5gix4"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "9dmk0mf3",
+    "name": "ファイアフィーンド",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "77ijztgw",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "カトン・ジツ"
+    ],
+    "appearance": "炎が煌くようなニンジャ。",
+    "description": "2012年配信の公式スゴロクゲームで登場したニンジャ。\n強力なカトン使いと思われる。",
+    "status": "unknown",
+    "appearances": [
+      {
+        "id": "0wi5gix4"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "xpqopjvd",
+    "name": "ブッシュワッカー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "09pph69b",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "鎌"
+    ],
+    "description": "2012年配信の公式スゴロクゲームで登場したニンジャ。\n竹藪から現れ、鎌を振るう。",
+    "status": "dead",
+    "appearances": [
+      {
+        "id": "0wi5gix4"
+      }
+    ],
+    "organizations": []
   }
 ]
