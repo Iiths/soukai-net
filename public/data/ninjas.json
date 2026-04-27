@@ -31386,48 +31386,203 @@
   },
   {
     "id": "f09278",
-    "name": "コッカトリス（サムライニンジャスレイヤー）",
-    "aliases": [
-      "コッカトリス"
+    "name": "コッカトリス",
+    "aliases": [],
+    "ninjaType": "リアルニンジャ",
+    "ninjaSoul": {
+      "id": "uf654341",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "",
+      "origin": "第1部のコッカトリスのソウルとは別種"
+    },
+    "skills": [
+      "ドク・ジツ",
+      "ドクボム・ジツ"
     ],
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B3%E3%83%83%E3%82%AB%E3%83%88%E3%83%AA%E3%82%B9%EF%BC%88%E3%82%B5%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3%E3%82%B9%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%EF%BC%89"
+    "appearance": "緑色の柔道着。虚無笠。腰に漆黒の帯。\n傷だらけの顔。真鍮面頰。赤い棟髪刈り。爬虫類じみた人外の瞳。",
+    "description": "平安時代末期のリアルニンジャ。\n血液が毒液になっており、スリケンやカラテに纏わせる。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B3%E3%83%83%E3%82%AB%E3%83%88%E3%83%AA%E3%82%B9%EF%BC%88%E3%82%B5%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3%E3%82%B9%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%EF%BC%89",
+    "appearances": [
+      {
+        "id": "19eb506d"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "pid9wztn"
+      }
+    ]
   },
   {
     "id": "ed6397",
     "name": "デスリーパー",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%91%E3%83%BC"
+    "aliases": [],
+    "ninjaType": "リアルニンジャ",
+    "ninjaSoul": {
+      "id": "k1fnwj0a",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "バヨネット・ドー"
+    ],
+    "description": "平安時代時代のニンジャ。ソガ・ニンジャの副官。\nセキバハラでニンジャスレイヤーと戦ったという。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%91%E3%83%BC",
+    "appearances": [
+      {
+        "id": "7n5yygr8"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "pid9wztn"
+      }
+    ]
   },
   {
     "id": "02c511",
     "name": "トゥームストーン",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%88%E3%82%A5%E3%83%BC%E3%83%A0%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3"
+    "aliases": [
+      "ツネオ・クロシ"
+    ],
+    "ninjaType": "リアルニンジャ",
+    "ninjaSoul": {
+      "id": "4uemjxme",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "黒い刀",
+      "墓石の構え"
+    ],
+    "appearance": "黒漆塗りの足軽鎧。兜の下に黒いニンジャ頭巾。\n髑髏模様の黒面頰。白く発光する人外の瞳。",
+    "description": "平安時代末期の侍ニンジャ。\n呪術的刀は重さを変え、自在な太刀筋を実現する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%88%E3%82%A5%E3%83%BC%E3%83%A0%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3",
+    "appearances": [
+      {
+        "id": "19eb506d"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "pid9wztn"
+      }
+    ]
   },
   {
     "id": "a7c453",
-    "name": "ヘルカイト（サムライニンジャスレイヤー）",
-    "aliases": [
-      "ヘルカイト"
+    "name": "ヘルカイト",
+    "aliases": [],
+    "ninjaType": "リアルニンジャ",
+    "ninjaSoul": {
+      "id": "fwbdjstd",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "大凧",
+      "カゼのジツ",
+      "サミダレ・ダート"
     ],
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%AB%E3%82%AB%E3%82%A4%E3%83%88%EF%BC%88%E3%82%B5%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3%E3%82%B9%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%EF%BC%89"
+    "role": "罪罰影業七本槍",
+    "appearance": "大凧を背負う。鳥類じみたメンポ。",
+    "description": "平安時代末期のリアルニンジャ。\nカゼのジツで凧を制御し、クナイ・ダートを垂直掃射する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%AB%E3%82%AB%E3%82%A4%E3%83%88%EF%BC%88%E3%82%B5%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3%E3%82%B9%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%EF%BC%89",
+    "appearances": [
+      {
+        "id": "6a6f2a40"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "pid9wztn"
+      }
+    ]
   },
   {
     "id": "8156a2",
     "name": "アケチ・ニンジャ",
+    "realName": "明智光秀",
+    "aliases": [
+      "タイクーン"
+    ],
+    "ninjaType": "リアルニンジャ",
+    "ninjaSoul": {
+      "id": "bit6zpf8",
+      "name": "アケチ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "アケチ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "ヘシキリブレード",
+      "ヤリ・オブ・ウォーロード",
+      "キキョウ・ジツ",
+      "天下布武",
+      "センプケン",
+      "ルナー・エクリプス",
+      "裏キキョウ・ジツ",
+      "ネザーヤリ"
+    ],
+    "role": "タイクーン",
+    "appearance": "身長240cm。髑髏を意匠化したメンポ。江戸戦争めいた武者兜。\n金の縁取りを施した黒のニンジャ甲冑。四本腕。「明智」と書かれた旗。",
+    "description": "戦国大名、明智光秀はニンジャである。\n二度に渡り現世に現れ、全世界へ侵略を仕掛けた。\nネザーの地で鍛えた強大なカラテに加え、禁断のキキョウ・ジツを使う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%B1%E3%83%81%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
+    "appearances": [
+      {
+        "id": "ef8158d4"
+      },
+      {
+        "id": "0905b269"
+      },
+      {
+        "id": "765ae0f0"
+      },
+      {
+        "id": "9355aa93"
+      },
+      {
+        "id": "2ng3zl8s"
+      },
+      {
+        "id": "umufyew6"
+      },
+      {
+        "id": "fee57ebe"
+      },
+      {
+        "id": "23908155"
+      },
+      {
+        "id": "1c9a1c54"
+      },
+      {
+        "id": "8m0jzogt"
+      },
+      {
+        "id": "2ro7dlra"
+      }
+    ],
     "organizations": [
+      {
+        "id": "pid9wztn"
+      },
       {
         "id": "9cf1667c"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%B1%E3%83%81%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+    ]
   },
   {
     "id": "c78448",
@@ -31439,9 +31594,34 @@
   {
     "id": "0bdd2d",
     "name": "スコルピオ",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%B3%E3%83%AB%E3%83%94%E3%82%AA"
+    "aliases": [],
+    "ninjaType": "リアルニンジャ",
+    "ninjaSoul": {
+      "id": "j9lxtsif",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "サソリ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "蠍刀",
+      "ギリシヤ火遁「アンタレスの焔」",
+      "対空蝎尾蹴り"
+    ],
+    "appearance": "身長約210cm。筋骨隆々の肉体。\n黒地に赤い蠍模様の陣羽織。蠍を模した兜。",
+    "description": "平安時代末期のリアルニンジャ。\n現代でいうサソリ・ファイティング・スタイルに加えカトン・ジツも使う手練れ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%B3%E3%83%AB%E3%83%94%E3%82%AA",
+    "appearances": [
+      {
+        "id": "6a6f2a40"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "pid9wztn"
+      }
+    ]
   },
   {
     "id": "e7776e",
@@ -32158,7 +32338,14 @@
       "clan": "ソガ・ニンジャクラン",
       "origin": ""
     },
-    "organizations": [],
+    "skills": [
+      "タタミ・ジツ",
+      "キョジツテンカンホー・ジツ"
+    ],
+    "role": "ニンジャ六騎士",
+    "description": "ニンジャ六騎士の一人。タタミ・ジツの使い手。\n長きに渡り平安時代を治めたが、セキバハラで敗れハラキリした。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BD%E3%82%AC%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
     "appearances": [
       {
         "id": "q0zjg8rk"
@@ -32170,14 +32357,11 @@
         "id": "ef8158d4"
       }
     ],
-    "skills": [
-      "タタミ・ジツ",
-      "キョジツテンカンホー・ジツ"
-    ],
-    "role": "ニンジャ六騎士",
-    "description": "ニンジャ六騎士の一人。タタミ・ジツの使い手。\n長きに渡り平安時代を治めたが、セキバハラで敗れハラキリした。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BD%E3%82%AC%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+    "organizations": [
+      {
+        "id": "pid9wztn"
+      }
+    ]
   },
   {
     "id": "67ca75",
@@ -36781,6 +36965,12 @@
       "name": "",
       "grade": "等級不明"
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "7br4ktch"
+      }
+    ],
     "skills": [
       "常人の三倍の脚力",
       "パイロ・ジツ",
@@ -36789,13 +36979,7 @@
     "appearance": "大きなハサミを持つ。",
     "description": "ゲームブックに登場したニンジャ。オイランを支配していた。\nサツガイ接触者。",
     "status": "unknown",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%97%E3%83%A9%E3%82%A6%E3%83%B3",
-    "appearances": [
-      {
-        "id": "7br4ktch"
-      }
-    ],
-    "organizations": []
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%97%E3%83%A9%E3%82%A6%E3%83%B3"
   },
   {
     "id": "frl19s6x",
@@ -36806,18 +36990,18 @@
       "id": "kxx43hvo",
       "name": ""
     },
-    "skills": [
-      "カメ・カラテ"
-    ],
-    "description": "ゲームブックに登場したニンジャ。\nキングプラウンの仲間。",
-    "status": "unknown",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%88%E3%83%AB%EF%BC%8F%E3%82%AA%E3%83%BC%E3%83%AA%E3%83%83%E3%82%AF%E3%83%81%E3%82%A7%E3%82%B9%E3%83%8A%E3%83%83%E3%83%88",
+    "organizations": [],
     "appearances": [
       {
         "id": "7br4ktch"
       }
     ],
-    "organizations": []
+    "skills": [
+      "カメ・カラテ"
+    ],
+    "description": "ゲームブックに登場したニンジャ。\nキングプラウンの仲間。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%88%E3%83%AB%EF%BC%8F%E3%82%AA%E3%83%BC%E3%83%AA%E3%83%83%E3%82%AF%E3%83%81%E3%82%A7%E3%82%B9%E3%83%8A%E3%83%83%E3%83%88"
   },
   {
     "id": "2r2m5cl8",
@@ -36829,16 +37013,16 @@
       "name": "",
       "grade": "等級不明"
     },
-    "skills": [],
-    "description": "ゲームブックに登場したニンジャ。\nキングプラウンの仲間。",
-    "status": "unknown",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%88%E3%83%AB%EF%BC%8F%E3%82%AA%E3%83%BC%E3%83%AA%E3%83%83%E3%82%AF%E3%83%81%E3%82%A7%E3%82%B9%E3%83%8A%E3%83%83%E3%83%88",
+    "organizations": [],
     "appearances": [
       {
         "id": "7br4ktch"
       }
     ],
-    "organizations": []
+    "skills": [],
+    "description": "ゲームブックに登場したニンジャ。\nキングプラウンの仲間。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%88%E3%83%AB%EF%BC%8F%E3%82%AA%E3%83%BC%E3%83%AA%E3%83%83%E3%82%AF%E3%83%81%E3%82%A7%E3%82%B9%E3%83%8A%E3%83%83%E3%83%88"
   },
   {
     "id": "rszhsy75",
@@ -36850,22 +37034,22 @@
       "name": "",
       "grade": "等級不明"
     },
-    "skills": [
-      "カトン・ジツ"
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      }
     ],
-    "appearance": "外見年齢10代後半。身長170cm。\n帽子。顎マスク。若者的なファッション。キツネ系のアクセサリー。",
-    "description": "ニンジャスレイヤーTRPGのプレロールドキャラクターの一人。\n若いニンジャで、天才的カトン使いを自認する。",
-    "status": "unknown",
     "appearances": [
       {
         "id": "put72scv"
       }
     ],
-    "organizations": [
-      {
-        "id": "soukaiya-p1"
-      }
-    ]
+    "skills": [
+      "カトン・ジツ"
+    ],
+    "appearance": "外見年齢10代後半。身長170cm。\n帽子。顎マスク。若者的なファッション。キツネ系のアクセサリー。",
+    "description": "ニンジャスレイヤーTRPGのプレロールドキャラクターの一人。\n若いニンジャで、天才的カトン使いを自認する。",
+    "status": "unknown"
   },
   {
     "id": "77htn1w0",
@@ -36879,23 +37063,23 @@
       "name": "",
       "grade": "等級不明"
     },
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "put72scv"
+      }
+    ],
     "skills": [
       "カタナ",
       "テッコ"
     ],
     "appearance": "外見年齢20代。身長177cm。\nサイバー衣笠。サイバーフルメンポ。片腕もサイバネ。",
     "description": "ニンジャスレイヤーTRPGのプレロールドキャラクターの一人。\n電子音声で喋るサイバネ剣客。万札はサイバネ改造に使う派。",
-    "status": "unknown",
-    "appearances": [
-      {
-        "id": "put72scv"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "soukaiya-p1"
-      }
-    ]
+    "status": "unknown"
   },
   {
     "id": "6229zonz",
@@ -36907,23 +37091,23 @@
       "name": "",
       "grade": "等級不明"
     },
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "put72scv"
+      }
+    ],
     "skills": [
       "サイバネ脚部",
       "遠隔操作ナイフ"
     ],
     "appearance": "外見年齢20代。身長167cm。\n緑髪。ガスマスクメンポ。",
     "description": "ニンジャスレイヤーTRPGのプレロールドキャラクターの一人。\n元々プロの暗殺者で、愛用のナイフを浮かせて飛ばす。",
-    "status": "unknown",
-    "appearances": [
-      {
-        "id": "put72scv"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "soukaiya-p1"
-      }
-    ]
+    "status": "unknown"
   },
   {
     "id": "iwy8129u",
@@ -36935,23 +37119,23 @@
       "name": "",
       "grade": "等級不明"
     },
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "put72scv"
+      }
+    ],
     "skills": [
       "カナシバリ・ジツ",
       "ハッカー"
     ],
     "appearance": "外見年齢10代後半。身長152cm。\nマニアックな音楽ユニットや電子部品メーカーのロゴが貼られた透明な強化PVCジャケット。\n紫髪。",
     "description": "ニンジャスレイヤーTRPGのプレロールドキャラクターの一人。\n臆病な性格のハッカーニンジャ。性別不詳。",
-    "status": "unknown",
-    "appearances": [
-      {
-        "id": "put72scv"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "soukaiya-p1"
-      }
-    ]
+    "status": "unknown"
   },
   {
     "id": "1air82fr",
@@ -36964,15 +37148,6 @@
       "grade": "等級不明",
       "origin": "ケモノ系"
     },
-    "skills": [],
-    "appearance": "外見年齢20代。身長210cm。\n獣じみた外見。白スーツ。キツネ・オメーン。",
-    "description": "ニンジャスレイヤーTRPGのプレロールドキャラクターの一人。\nアマクダリからのスパイニンジャ。ソウルの影響で常にケモノ。",
-    "status": "unknown",
-    "appearances": [
-      {
-        "id": "put72scv"
-      }
-    ],
     "organizations": [
       {
         "id": "soukaiya-p1"
@@ -36980,7 +37155,16 @@
       {
         "id": "cd4744be"
       }
-    ]
+    ],
+    "appearances": [
+      {
+        "id": "put72scv"
+      }
+    ],
+    "skills": [],
+    "appearance": "外見年齢20代。身長210cm。\n獣じみた外見。白スーツ。キツネ・オメーン。",
+    "description": "ニンジャスレイヤーTRPGのプレロールドキャラクターの一人。\nアマクダリからのスパイニンジャ。ソウルの影響で常にケモノ。",
+    "status": "unknown"
   },
   {
     "id": "rwj8u6wu",
@@ -36993,6 +37177,12 @@
       "grade": "等級不明",
       "clan": "コブラ・ニンジャクラン"
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "put72scv"
+      }
+    ],
     "skills": [
       "コブラ・カラテ",
       "ドク・スリケン",
@@ -37001,13 +37191,7 @@
     "appearance": "黒ずくめのニンジャ装束。",
     "description": "ニンジャスレイヤーTRPGに登場するフリーランス傭兵ニンジャ。\n強力なカナシバリ・ジツの使い手。サンシタでは束にならねば敵わないだろう。",
     "status": "unknown",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%9E%E3%83%B3%E3%83%90",
-    "appearances": [
-      {
-        "id": "put72scv"
-      }
-    ],
-    "organizations": []
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%9E%E3%83%B3%E3%83%90"
   },
   {
     "id": "gkjwxk6o",
@@ -39221,17 +39405,17 @@
       "name": "",
       "grade": "等級不明"
     },
-    "skills": [
-      "光の矢"
-    ],
-    "appearance": "黒いニンジャ装束。マント。メンポ。\n掌に光線を発射する機構。",
-    "description": "Twitter連載5周年記念のコミックに登場したニンジャ。\n掌から光のヒカリ・ジツめいて超高熱の光を放つ。",
-    "status": "dead",
+    "organizations": [],
     "appearances": [
       {
         "id": "21f15baa"
       }
     ],
-    "organizations": []
+    "skills": [
+      "光の矢"
+    ],
+    "appearance": "黒いニンジャ装束。マント。メンポ。\n掌に光線を発射する機構。",
+    "description": "Twitter連載5周年記念のコミックに登場したニンジャ。\n掌から光のヒカリ・ジツめいて超高熱の光を放つ。",
+    "status": "dead"
   }
 ]
