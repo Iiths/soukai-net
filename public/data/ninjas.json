@@ -25864,19 +25864,6 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "常人の三倍の脚力",
-      "スリケン"
-    ],
-    "appearance": "灰色の質素なローブでニンジャ装束。首にホーリーシンボル。",
-    "description": "ニンジャ修道会のニンジャ。元ザイバツアデプト。\n贖罪を求めているが、欺瞞である。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AF%E3%83%83%E3%83%81%E3%82%BF%E3%83%AF%E3%83%BC",
-    "appearances": [
-      {
-        "id": "db1b5ac6"
-      }
-    ],
     "organizations": [
       {
         "id": "zaibatsu-p2"
@@ -25884,7 +25871,20 @@
       {
         "id": "70547989"
       }
-    ]
+    ],
+    "appearances": [
+      {
+        "id": "db1b5ac6"
+      }
+    ],
+    "skills": [
+      "常人の三倍の脚力",
+      "スリケン"
+    ],
+    "appearance": "灰色の質素なローブでニンジャ装束。首にホーリーシンボル。",
+    "description": "ニンジャ修道会のニンジャ。元ザイバツアデプト。\n贖罪を求めているが、欺瞞である。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AF%E3%83%83%E3%83%81%E3%82%BF%E3%83%AF%E3%83%BC"
   },
   {
     "id": "8ec3dc7b",
@@ -27597,14 +27597,11 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "不可視の獣",
-      "49マグナム「サン・シーカー」"
+    "organizations": [
+      {
+        "id": "564f3ac1"
+      }
     ],
-    "appearance": "淀んだ碧眼。無表情。身長152cm。空色の目をした美しい少女。\n第2部：裾を毟り取ったドレスと潰れたスニーカー。\n第3部：スナリマヤ女学院の制服。黒いマント\n第4部：タンクトップ姿。血の染みがついたワークパンツ。帽子。",
-    "description": "荒廃した闇サイバネ施療院の娘に特殊なニンジャソウルが憑依。\nデスドレインらと行動を共にしていたが、新たな人生を歩み始めた。\n第4部では放浪のニンジャに。49マグナムを使いこなす。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%BA%E3%83%BC%E3%83%AB",
     "appearances": [
       {
         "id": "3zn1rjr5"
@@ -27631,11 +27628,14 @@
         "id": "8m0jzogt"
       }
     ],
-    "organizations": [
-      {
-        "id": "564f3ac1"
-      }
-    ]
+    "skills": [
+      "不可視の獣",
+      "49マグナム「サン・シーカー」"
+    ],
+    "appearance": "淀んだ碧眼。無表情。身長152cm。空色の目をした美しい少女。\n第2部：裾を毟り取ったドレスと潰れたスニーカー。\n第3部：スナリマヤ女学院の制服。黒いマント\n第4部：タンクトップ姿。血の染みがついたワークパンツ。帽子。",
+    "description": "荒廃した闇サイバネ施療院の娘に特殊なニンジャソウルが憑依。\nデスドレインらと行動を共にしていたが、新たな人生を歩み始めた。\n第4部では放浪のニンジャに。49マグナムを使いこなす。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%BA%E3%83%BC%E3%83%AB"
   },
   {
     "id": "a887dd",
@@ -29607,15 +29607,11 @@
     "name": "モーターカワイイ",
     "aliases": [],
     "ninjaType": "非ニンジャ",
-    "skills": [
-      "内蔵型マシンガン",
-      "隠し刃",
-      "ゼンメツ・アクション・モード"
+    "organizations": [
+      {
+        "id": "9fd6aaf4"
+      }
     ],
-    "appearance": "オイランの外見。オモチシリコン。強化カーボンボディ。",
-    "description": "オムラ子会社、オムラ・メディテックが開発した暗殺用アンドロイド。\n人型モータードクロともいうべき破壊力を秘めている。AIも優秀。",
-    "status": "unknown",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%AB%E3%83%AF%E3%82%A4%E3%82%A4",
     "appearances": [
       {
         "id": "12216e23"
@@ -29627,11 +29623,15 @@
         "id": "f4b20a02"
       }
     ],
-    "organizations": [
-      {
-        "id": "9fd6aaf4"
-      }
-    ]
+    "skills": [
+      "内蔵型マシンガン",
+      "隠し刃",
+      "ゼンメツ・アクション・モード"
+    ],
+    "appearance": "オイランの外見。オモチシリコン。強化カーボンボディ。",
+    "description": "オムラ子会社、オムラ・メディテックが開発した暗殺用アンドロイド。\n人型モータードクロともいうべき破壊力を秘めている。AIも優秀。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%AB%E3%83%AF%E3%82%A4%E3%82%A4"
   },
   {
     "id": "fd0ce961",
@@ -30959,23 +30959,23 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "70547989"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "db1b5ac6"
+      }
+    ],
     "skills": [
       "フージン・ジツ"
     ],
     "appearance": "身の丈8フィート。ストイックに引き締まった肉体。\nニンジャ修道士共通の灰色のフード付きローブ。\n群青色のニンジャ頭巾。メンポ。黒いニンジャ装束。",
     "description": "欺瞞に満ちたニンジャ修道会を統べるニンジャ。\n強大なアーチ級ソウルにより、時速666kmめいた暴風を発する。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%83%AB%E3%82%BF%E3%83%AD%E3%82%B9",
-    "appearances": [
-      {
-        "id": "db1b5ac6"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "70547989"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%83%AB%E3%82%BF%E3%83%AD%E3%82%B9"
   },
   {
     "id": "23b0fb",
@@ -31022,13 +31022,11 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "特殊ドトン・ジツ"
+    "organizations": [
+      {
+        "id": "70547989"
+      }
     ],
-    "appearance": "灰色の質素なローブでニンジャ装束。",
-    "description": "ニンジャ修道会のニンジャ。\n自身を鍾乳石と同化するドトン・ジツを使う。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%BF%E3%83%A9%E3%82%B0%E3%83%9E%E3%82%A4%E3%83%88",
     "appearances": [
       {
         "id": "db1b5ac6"
@@ -31037,11 +31035,13 @@
         "id": "vr3fq73p"
       }
     ],
-    "organizations": [
-      {
-        "id": "70547989"
-      }
-    ]
+    "skills": [
+      "特殊ドトン・ジツ"
+    ],
+    "appearance": "灰色の質素なローブでニンジャ装束。",
+    "description": "ニンジャ修道会のニンジャ。\n自身を鍾乳石と同化するドトン・ジツを使う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%BF%E3%83%A9%E3%82%B0%E3%83%9E%E3%82%A4%E3%83%88"
   },
   {
     "id": "d23672",
@@ -36166,10 +36166,31 @@
   {
     "id": "8c25a629",
     "name": "ハガネ・ニンジャ",
+    "aliases": [],
     "ninjaType": "リアルニンジャ",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%82%AC%E3%83%8D%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+    "ninjaSoul": {
+      "id": "7iibruii",
+      "name": "ハガネ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "ハガネ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "ベッピン"
+    ],
+    "role": "マスターカタナ",
+    "description": "ニンジャ六騎士の一人。マスターカタナ。\n大戦の後に頂点に君臨したが、その魂は蝕まれ、ソガ・ニンジャによって放逐された。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%82%AC%E3%83%8D%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
+    "appearances": [
+      {
+        "id": "q0zjg8rk"
+      },
+      {
+        "id": "d66fda01"
+      }
+    ],
+    "organizations": []
   },
   {
     "id": "f4fd5cd1",
@@ -39666,6 +39687,12 @@
       "name": "オガミ・ニンジャ",
       "grade": "アーチ級"
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "70d7fbb4"
+      }
+    ],
     "skills": [
       "念話",
       "巨体カラテ"
@@ -39673,12 +39700,6 @@
     "appearance": "体長100メートル。青銅、または鉱物質の肉体。表皮に緑青がざわめき、新たな皮膚を形成し続けている。\nブッダデーモンめいた顔面。青緑がメンポを形成。",
     "description": "ブッダ地帯の地下神殿に封じられていたリアルニンジャ。\n100mもの巨体はそれ自体が脅威である。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AA%E3%82%AC%E3%83%9F%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
-    "appearances": [
-      {
-        "id": "70d7fbb4"
-      }
-    ],
-    "organizations": []
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AA%E3%82%AC%E3%83%9F%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
   }
 ]
