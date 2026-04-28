@@ -38713,14 +38713,8 @@
       "id": "yh32vpso",
       "name": "",
       "grade": "グレーター級",
-      "clan": "モズニンジャ・クラン"
+      "clan": "モズ・ニンジャクラン"
     },
-    "organizations": [],
-    "appearances": [
-      {
-        "id": "13f93080"
-      }
-    ],
     "skills": [
       "ジェットパック飛行",
       "サスマタ"
@@ -38728,7 +38722,13 @@
     "appearance": "中世ペスト医者めいたメンポ。",
     "description": "ジェットパンクス・ギャングのニンジャ。\n耳をつんざくほど凄まじい音波を放ちながら飛翔する。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%A5%E3%83%AA%E3%83%BC%E3%82%AB%E3%83%BC"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%A5%E3%83%AA%E3%83%BC%E3%82%AB%E3%83%BC",
+    "appearances": [
+      {
+        "id": "13f93080"
+      }
+    ],
+    "organizations": []
   },
   {
     "id": "v3f34tul",
