@@ -36175,13 +36175,7 @@
       "clan": "ハガネ・ニンジャクラン",
       "origin": ""
     },
-    "skills": [
-      "ベッピン"
-    ],
-    "role": "マスターカタナ",
-    "description": "ニンジャ六騎士の一人。マスターカタナ。\n大戦の後に頂点に君臨したが、その魂は蝕まれ、ソガ・ニンジャによって放逐された。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%82%AC%E3%83%8D%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
+    "organizations": [],
     "appearances": [
       {
         "id": "q0zjg8rk"
@@ -36190,7 +36184,13 @@
         "id": "d66fda01"
       }
     ],
-    "organizations": []
+    "skills": [
+      "ベッピン"
+    ],
+    "role": "マスターカタナ",
+    "description": "ニンジャ六騎士の一人。マスターカタナ。\n大戦の後に頂点に君臨したが、その魂は蝕まれ、ソガ・ニンジャによって放逐された。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%82%AC%E3%83%8D%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
   },
   {
     "id": "f4fd5cd1",
@@ -39701,5 +39701,34 @@
     "description": "ブッダ地帯の地下神殿に封じられていたリアルニンジャ。\n100mもの巨体はそれ自体が脅威である。",
     "status": "dead",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AA%E3%82%AC%E3%83%9F%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+  },
+  {
+    "id": "bebsdri1",
+    "name": "イビルヤモト",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "skills": [
+      "ドリルメリケンサック",
+      "じゃあくなジツ"
+    ],
+    "appearance": "ツノや尻尾がついている。露出度の高い服を着ている。",
+    "description": "イビル次元出身の次元旅行者。ヤモトとは無関係。\n愛称はイビ。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%83%93%E3%83%AB%E3%83%A4%E3%83%A2%E3%83%88",
+    "appearances": [
+      {
+        "id": "0wi5gix4"
+      },
+      {
+        "id": "03f692d5"
+      },
+      {
+        "id": "b6545761"
+      },
+      {
+        "id": "b490a542"
+      }
+    ],
+    "organizations": []
   }
 ]
