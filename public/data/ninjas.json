@@ -25855,13 +25855,36 @@
   {
     "id": "a27b35",
     "name": "ワッチタワー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "cezjetwh",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "常人の三倍の脚力",
+      "スリケン"
+    ],
+    "appearance": "灰色の質素なローブでニンジャ装束。首にホーリーシンボル。",
+    "description": "ニンジャ修道会のニンジャ。元ザイバツアデプト。\n贖罪を求めているが、欺瞞である。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AF%E3%83%83%E3%83%81%E3%82%BF%E3%83%AF%E3%83%BC",
+    "appearances": [
+      {
+        "id": "db1b5ac6"
+      }
+    ],
     "organizations": [
+      {
+        "id": "zaibatsu-p2"
+      },
       {
         "id": "70547989"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AF%E3%83%83%E3%83%81%E3%82%BF%E3%83%AF%E3%83%BC"
+    ]
   },
   {
     "id": "8ec3dc7b",
@@ -30949,13 +30972,35 @@
   {
     "id": "b79484",
     "name": "スタラグマイト",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "vr8ahts0",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "特殊ドトン・ジツ"
+    ],
+    "appearance": "灰色の質素なローブでニンジャ装束。",
+    "description": "ニンジャ修道会のニンジャ。\n自身を鍾乳石と同化するドトン・ジツを使う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%BF%E3%83%A9%E3%82%B0%E3%83%9E%E3%82%A4%E3%83%88",
+    "appearances": [
+      {
+        "id": "db1b5ac6"
+      },
+      {
+        "id": "vr3fq73p"
+      }
+    ],
     "organizations": [
       {
         "id": "70547989"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%BF%E3%83%A9%E3%82%B0%E3%83%9E%E3%82%A4%E3%83%88"
+    ]
   },
   {
     "id": "d23672",
