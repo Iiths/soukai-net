@@ -27588,13 +27588,54 @@
   {
     "id": "ee66d1",
     "name": "アズール",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "p3cola4d",
+      "name": "イヌガミ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "不可視の獣",
+      "49マグナム「サン・シーカー」"
+    ],
+    "appearance": "淀んだ碧眼。無表情。身長152cm。空色の目をした美しい少女。\n第2部：裾を毟り取ったドレスと潰れたスニーカー。\n第3部：スナリマヤ女学院の制服。黒いマント\n第4部：タンクトップ姿。血の染みがついたワークパンツ。帽子。",
+    "description": "荒廃した闇サイバネ施療院の娘に特殊なニンジャソウルが憑依。\nデスドレインらと行動を共にしていたが、新たな人生を歩み始めた。\n第4部では放浪のニンジャに。49マグナムを使いこなす。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%BA%E3%83%BC%E3%83%AB",
+    "appearances": [
+      {
+        "id": "3zn1rjr5"
+      },
+      {
+        "id": "rujnq8bg"
+      },
+      {
+        "id": "12ml6hmz"
+      },
+      {
+        "id": "0aecbc8b"
+      },
+      {
+        "id": "xh9n74xs"
+      },
+      {
+        "id": "3972e76a"
+      },
+      {
+        "id": "87b3bd6d"
+      },
+      {
+        "id": "8m0jzogt"
+      }
+    ],
     "organizations": [
       {
         "id": "564f3ac1"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%BA%E3%83%BC%E3%83%AB"
+    ]
   },
   {
     "id": "a887dd",
@@ -30918,23 +30959,23 @@
       "clan": "",
       "origin": ""
     },
-    "organizations": [
-      {
-        "id": "70547989"
-      }
+    "skills": [
+      "フージン・ジツ"
     ],
+    "appearance": "身の丈8フィート。ストイックに引き締まった肉体。\nニンジャ修道士共通の灰色のフード付きローブ。\n群青色のニンジャ頭巾。メンポ。黒いニンジャ装束。",
+    "description": "欺瞞に満ちたニンジャ修道会を統べるニンジャ。\n強大なアーチ級ソウルにより、時速666kmめいた暴風を発する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%83%AB%E3%82%BF%E3%83%AD%E3%82%B9",
     "appearances": [
       {
         "id": "db1b5ac6"
       }
     ],
-    "skills": [
-      "フージン・ジツ"
-    ],
-    "appearance": "身の丈8フィート。ストイックに引き締まった肉体。\nニンジャ修道士共通の灰色のフード付きローブ。\n群青色のニンジャ頭巾。メンポ。黒いニンジャ装束。",
-    "description": "欺瞞に満ちたニンジャ修道会を統べるニンジャ。\n強大なアーチ級ソウルにより、、時速666kmめいた暴風を発する。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%83%AB%E3%82%BF%E3%83%AD%E3%82%B9"
+    "organizations": [
+      {
+        "id": "70547989"
+      }
+    ]
   },
   {
     "id": "23b0fb",
@@ -39614,5 +39655,30 @@
     ],
     "description": "2012年配信の公式スゴロクゲームで登場したニンジャ。\n竹藪から現れ、鎌を振るう。",
     "status": "dead"
+  },
+  {
+    "id": "ntunhlev",
+    "name": "オガミ・ニンジャ",
+    "aliases": [],
+    "ninjaType": "リアルニンジャ",
+    "ninjaSoul": {
+      "id": "g1hu0e8l",
+      "name": "オガミ・ニンジャ",
+      "grade": "アーチ級"
+    },
+    "skills": [
+      "念話",
+      "巨体カラテ"
+    ],
+    "appearance": "体長100メートル。青銅、または鉱物質の肉体。表皮に緑青がざわめき、新たな皮膚を形成し続けている。\nブッダデーモンめいた顔面。青緑がメンポを形成。",
+    "description": "ブッダ地帯の地下神殿に封じられていたリアルニンジャ。\n100mもの巨体はそれ自体が脅威である。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AA%E3%82%AC%E3%83%9F%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
+    "appearances": [
+      {
+        "id": "70d7fbb4"
+      }
+    ],
+    "organizations": []
   }
 ]
