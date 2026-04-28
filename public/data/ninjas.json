@@ -29541,13 +29541,33 @@
   {
     "id": "3dd90d",
     "name": "モーターカワイイ",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "skills": [
+      "内蔵型マシンガン",
+      "隠し刃",
+      "ゼンメツ・アクション・モード"
+    ],
+    "appearance": "オイランの外見。オモチシリコン。強化カーボンボディ。",
+    "description": "オムラ子会社、オムラ・メディテックが開発した暗殺用アンドロイド。\n人型モータードクロともいうべき破壊力を秘めている。AIも優秀。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%AB%E3%83%AF%E3%82%A4%E3%82%A4",
+    "appearances": [
+      {
+        "id": "12216e23"
+      },
+      {
+        "id": "0rdbo5t6"
+      },
+      {
+        "id": "f4b20a02"
+      }
+    ],
     "organizations": [
       {
         "id": "9fd6aaf4"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%AB%E3%83%AF%E3%82%A4%E3%82%A4"
+    ]
   },
   {
     "id": "fd0ce961",
@@ -39495,15 +39515,15 @@
       "name": "カーマ・ニンジャ",
       "grade": "アーチ級"
     },
-    "skills": [],
-    "description": "2012年配信の公式スゴロクゲームで登場した謎のリアルニンジャ。\nプレイヤーに取引を持ちかけたり、ギャンブル勝負を挑んできたりした。",
-    "status": "unknown",
+    "organizations": [],
     "appearances": [
       {
         "id": "0wi5gix4"
       }
     ],
-    "organizations": []
+    "skills": [],
+    "description": "2012年配信の公式スゴロクゲームで登場した謎のリアルニンジャ。\nプレイヤーに取引を持ちかけたり、ギャンブル勝負を挑んできたりした。",
+    "status": "unknown"
   },
   {
     "id": "9dmk0mf3",
@@ -39515,18 +39535,18 @@
       "name": "",
       "grade": "等級不明"
     },
-    "skills": [
-      "カトン・ジツ"
-    ],
-    "appearance": "炎が煌くようなニンジャ。",
-    "description": "2012年配信の公式スゴロクゲームで登場したニンジャ。\n強力なカトン使いと思われる。",
-    "status": "unknown",
+    "organizations": [],
     "appearances": [
       {
         "id": "0wi5gix4"
       }
     ],
-    "organizations": []
+    "skills": [
+      "カトン・ジツ"
+    ],
+    "appearance": "炎が煌くようなニンジャ。",
+    "description": "2012年配信の公式スゴロクゲームで登場したニンジャ。\n強力なカトン使いと思われる。",
+    "status": "unknown"
   },
   {
     "id": "xpqopjvd",
@@ -39538,16 +39558,16 @@
       "name": "",
       "grade": "等級不明"
     },
-    "skills": [
-      "鎌"
-    ],
-    "description": "2012年配信の公式スゴロクゲームで登場したニンジャ。\n竹藪から現れ、鎌を振るう。",
-    "status": "dead",
+    "organizations": [],
     "appearances": [
       {
         "id": "0wi5gix4"
       }
     ],
-    "organizations": []
+    "skills": [
+      "鎌"
+    ],
+    "description": "2012年配信の公式スゴロクゲームで登場したニンジャ。\n竹藪から現れ、鎌を振るう。",
+    "status": "dead"
   }
 ]
