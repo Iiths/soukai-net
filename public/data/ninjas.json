@@ -2366,14 +2366,56 @@
     "aliases": [
       "ムカデ・ニンジャ"
     ],
-    "ninjaType": "非ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "ninjaSoul": {
+      "id": "wsxc897i",
+      "name": "ムカデ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ロウ・ワンの印",
+      "ロウ・ワンの呪い",
+      "ムカデ・スリケン",
+      "ミガワリ・ジツ",
+      "カロウシタイ"
+    ],
+    "appearance": "魔術的な法衣。口元にヴェール。\n法衣の下に無数の関節。無数の腕。",
+    "description": "ボロブドゥールを支配する魔術師リアルニンジャ。\nロウ・ワンの秘儀に通じ、いざとなればカイジュウ級巨大ムカデになる。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%BB%E3%83%AD%E3%82%A2",
+    "appearances": [
+      {
+        "id": "futllzdo"
+      },
+      {
+        "id": "e07b3b1a"
+      },
+      {
+        "id": "89f07b12"
+      },
+      {
+        "id": "76830614"
+      },
+      {
+        "id": "08f154f0"
+      },
+      {
+        "id": "bc845992"
+      },
+      {
+        "id": "ztgiz3kg"
+      },
+      {
+        "id": "298d8046"
+      }
+    ],
     "organizations": [
       {
         "id": "79af6ace"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%BB%E3%83%AD%E3%82%A2"
+    ]
   },
   {
     "id": "1775455948",
@@ -2408,51 +2450,90 @@
     "name": "グレイウィルム",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "daqx1qlt",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "ムカデ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "ムカデ・カナシバリ・ジツ"
+    ],
+    "appearance": "裾の長い僧服めいた風変わりな衣装。ロウ・ワンの印が刺繍された薄緑のヴェール。\n舌の表面には焼き鏝めいた百足の印。",
+    "description": "ボロブドゥールの高官ニンジャ。\n口からムカデを放ち相手を拘束する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B0%E3%83%AC%E3%82%A4%E3%82%A6%E3%82%A3%E3%83%AB%E3%83%A0",
+    "appearances": [
+      {
+        "id": "b4d451d0"
+      }
+    ],
     "organizations": [
       {
         "id": "79af6ace"
-      },
-      {
-        "id": "227508fb"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B0%E3%83%AC%E3%82%A4%E3%82%A6%E3%82%A3%E3%83%AB%E3%83%A0"
+    ]
   },
   {
     "id": "1775455951",
     "name": "ゲオフィルス",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "eeul3m35",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "ムカデ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "ムカデ・スリケン"
+    ],
+    "appearance": "巨大な体躯。黒一色の目。\n髪の代わりに無数のムカデでできたドレッドヘアー。",
+    "description": "ボロブドゥールのムカデニンジャ。\nムカデは白兵戦、スリケン両用である。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B2%E3%82%AA%E3%83%95%E3%82%A3%E3%83%AB%E3%82%B9",
+    "appearances": [
+      {
+        "id": "futllzdo"
+      }
+    ],
     "organizations": [
       {
         "id": "79af6ace"
-      },
-      {
-        "id": "227508fb"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B2%E3%82%AA%E3%83%95%E3%82%A3%E3%83%AB%E3%82%B9"
+    ]
   },
   {
     "id": "1775455952",
     "name": "セストーダル",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "hofnafbm",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "ムカデ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "ヘンゲワーム・ジツ"
+    ],
+    "appearance": "口元をヴェールで覆う。左眼にロウ・ワンの印。",
+    "description": "ボロブドゥールのムカデニンジャ。\n高速移動するワームにヘンゲする。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BB%E3%82%B9%E3%83%88%E3%83%BC%E3%83%80%E3%83%AB",
+    "appearances": [
+      {
+        "id": "futllzdo"
+      }
+    ],
     "organizations": [
       {
         "id": "79af6ace"
-      },
-      {
-        "id": "227508fb"
       }
-    ],
-    "appearances": [],
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BB%E3%82%B9%E3%83%88%E3%83%BC%E3%83%80%E3%83%AB"
+    ]
   },
   {
     "id": "1775455953",
@@ -4643,14 +4724,30 @@
     "name": "ブラッシュウッド",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "7z5b02fe",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "description": "サマズ社に所属する企業ニンジャ。\n電子戦争経験者。確かなカラテを持つ。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%A6%E3%83%83%E3%83%89",
+    "appearances": [
+      {
+        "id": "80qupnd7"
+      },
+      {
+        "id": "7bd07f98"
+      }
+    ],
     "organizations": [
       {
         "id": "14792422"
       }
-    ],
-    "appearances": [],
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%A6%E3%83%83%E3%83%89"
+    ]
   },
   {
     "id": "17754559158",
@@ -5345,20 +5442,52 @@
     "name": "ストリングベンド",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "organizations": [],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%88%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%99%E3%83%B3%E3%83%89"
+    "ninjaSoul": {
+      "id": "722dzeum",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ステルス・アグラ",
+      "コウボウ・ジツ"
+    ],
+    "appearance": "ステルス装束。メンポ。",
+    "description": "デビルズカインド・キョダイを率いるニンジャ。\nサツガイ接触者。ヒカリ・ニンジャクランのワザを与えられた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%88%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%99%E3%83%B3%E3%83%89",
+    "appearances": [
+      {
+        "id": "nubhusa7"
+      }
+    ],
+    "organizations": []
   },
   {
     "id": "17754559204",
     "name": "コーストウインド",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "organizations": [],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B3%E3%83%BC%E3%82%B9%E3%83%88%E3%82%A6%E3%82%A4%E3%83%B3%E3%83%89"
+    "ninjaSoul": {
+      "id": "r0zgv8cw",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "スリケン"
+    ],
+    "description": "デビルズカインド・キョダイの食客。\nニンジャスレイヤーと交戦した。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B3%E3%83%BC%E3%82%B9%E3%83%88%E3%82%A6%E3%82%A4%E3%83%B3%E3%83%89",
+    "appearances": [
+      {
+        "id": "nubhusa7"
+      }
+    ],
+    "organizations": []
   },
   {
     "id": "17754559206",
@@ -9471,14 +9600,79 @@
   {
     "id": "846a7668",
     "name": "ガーランド",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "o07pv82a",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "ヤマイヌ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "ムチ・ドー",
+      "クナイウィップ",
+      "トラヒトアシ",
+      "ホーミングウインド",
+      "オボロゲ"
+    ],
+    "role": "ソウカイ・シックスゲイツ",
+    "appearance": "身長186cm。白く退色した短い髪。秀でた額。左目の上に＜六門＞のカンジとクロス・カタナを組み合わせた紋章。\n黒く有機的なニンジャ装束。無骨なメンポ。右腿にクナイウィップのホルスター。",
+    "description": "ソウカイ・シックスゲイツのニンジャ。\nクナイ・ウィップを自在に操る歴戦の戦士。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AC%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89",
+    "appearances": [
+      {
+        "id": "80qupnd7"
+      },
+      {
+        "id": "74d02c3a"
+      },
+      {
+        "id": "7f4ee011"
+      },
+      {
+        "id": "1a2c92e1"
+      },
+      {
+        "id": "0pg8ano6"
+      },
+      {
+        "id": "typqvzha"
+      },
+      {
+        "id": "i9di1e9q"
+      },
+      {
+        "id": "his9gvkp"
+      },
+      {
+        "id": "i1ad8xb2"
+      },
+      {
+        "id": "d129768a"
+      },
+      {
+        "id": "89f07b12"
+      },
+      {
+        "id": "7bd07f98"
+      },
+      {
+        "id": "66ac3aba"
+      },
+      {
+        "id": "3b4d6efa"
+      },
+      {
+        "id": "b490a542"
+      }
+    ],
     "organizations": [
       {
         "id": "soukaiya-p4"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AC%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89"
+    ]
   },
   {
     "id": "15245e6e",
@@ -9670,7 +9864,28 @@
   {
     "id": "8ef31c93",
     "name": "メイレイン",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "44mb0ozf",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "ツバメ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "レーザークナイ",
+      "ムシアナ・ジツ"
+    ],
+    "appearance": "身長176cm。腰にレーザークナイのホルスター。\n外出時はネオン傘と襟を立てた黒コート。常にメンポ。",
+    "description": "サンズ・オブ・ケオスに所属するソウカイニンジャ。\nサツガイ接触者。強大なムシアナ・ジツを与えられた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A1%E3%82%A4%E3%83%AC%E3%82%A4%E3%83%B3",
+    "appearances": [
+      {
+        "id": "80qupnd7"
+      }
+    ],
     "organizations": [
       {
         "id": "soukaiya-p4"
@@ -9678,9 +9893,7 @@
       {
         "id": "4f623b6b"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A1%E3%82%A4%E3%83%AC%E3%82%A4%E3%83%B3"
+    ]
   },
   {
     "id": "a8f11265",
@@ -32664,13 +32877,31 @@
   {
     "id": "e32e94",
     "name": "ジェイドマムシ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "q170mfqu",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "コープスナパーム・ジツ"
+    ],
+    "description": "ネオサイタマのペントハウスに居を構えるニンジャ。\nサツガイ接触者。死体を爆発物に変えるキケンなジツを与えられた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%89%E3%83%9E%E3%83%A0%E3%82%B7",
+    "appearances": [
+      {
+        "id": "101beaae"
+      }
+    ],
     "organizations": [
       {
         "id": "4f623b6b"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%89%E3%83%9E%E3%83%A0%E3%82%B7"
+    ]
   },
   {
     "id": "3e6589",
@@ -32697,13 +32928,33 @@
   {
     "id": "de3423",
     "name": "ロングゲイト",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "imo91ypf",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "カゼ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "ソニックカラテ",
+      "マバタキ・ジツ"
+    ],
+    "appearance": "身長180cm。薄水色のニンジャ装束。",
+    "description": "コウ・タイ・シュメイ社に属するニンジャ。\nサツガイ接触者。マバタキ・ジツを与えられた。\n遠距離ソニックカラテと組み合わせて戦う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AD%E3%83%B3%E3%82%B0%E3%82%B2%E3%82%A4%E3%83%88",
+    "appearances": [
+      {
+        "id": "b4d451d0"
+      }
+    ],
     "organizations": [
       {
         "id": "4f623b6b"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AD%E3%83%B3%E3%82%B0%E3%82%B2%E3%82%A4%E3%83%88"
+    ]
   },
   {
     "id": "56895a9a",
@@ -38715,6 +38966,12 @@
       "grade": "グレーター級",
       "clan": "モズ・ニンジャクラン"
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "13f93080"
+      }
+    ],
     "skills": [
       "ジェットパック飛行",
       "サスマタ"
@@ -38722,13 +38979,7 @@
     "appearance": "中世ペスト医者めいたメンポ。",
     "description": "ジェットパンクス・ギャングのニンジャ。\n耳をつんざくほど凄まじい音波を放ちながら飛翔する。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%A5%E3%83%AA%E3%83%BC%E3%82%AB%E3%83%BC",
-    "appearances": [
-      {
-        "id": "13f93080"
-      }
-    ],
-    "organizations": []
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%A5%E3%83%AA%E3%83%BC%E3%82%AB%E3%83%BC"
   },
   {
     "id": "v3f34tul",
@@ -39707,14 +39958,7 @@
     "name": "イビルヤモト",
     "aliases": [],
     "ninjaType": "非ニンジャ",
-    "skills": [
-      "ドリルメリケンサック",
-      "じゃあくなジツ"
-    ],
-    "appearance": "ツノや尻尾がついている。露出度の高い服を着ている。",
-    "description": "イビル次元出身の次元旅行者。ヤモトとは無関係。\n愛称はイビ。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%83%93%E3%83%AB%E3%83%A4%E3%83%A2%E3%83%88",
+    "organizations": [],
     "appearances": [
       {
         "id": "0wi5gix4"
@@ -39727,6 +39971,136 @@
       },
       {
         "id": "b490a542"
+      }
+    ],
+    "skills": [
+      "ドリルメリケンサック",
+      "じゃあくなジツ"
+    ],
+    "appearance": "ツノや尻尾がついている。露出度の高い服を着ている。",
+    "description": "イビル次元出身の次元旅行者。ヤモトとは無関係。\n愛称はイビ。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%83%93%E3%83%AB%E3%83%A4%E3%83%A2%E3%83%88"
+  },
+  {
+    "id": "xs4jrwr5",
+    "name": "フェイズホース",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "m07oc9hd",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "ジュッテ",
+      "小型手榴弾"
+    ],
+    "appearance": "呼吸孔つきメンポ。紫のサイバネアイ、恐らく片目。\n平たい編み笠。",
+    "description": "ジュッテが獲物の殺し屋ニンジャ。\nヒョットコムのランカー暗殺に雇われた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A7%E3%82%A4%E3%82%BA%E3%83%9B%E3%83%BC%E3%82%B9",
+    "appearances": [
+      {
+        "id": "d095671e"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "xnia1bsh",
+    "name": "ナハトローニン ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "s6yn1lvk",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "キリカゼ・ニンジャクラン"
+    },
+    "skills": [
+      "アクティブ・カタナ",
+      "ブレッシング・ジツ"
+    ],
+    "appearance": "呼吸孔のあるメンポ。腕に「死の浪人」の刺青。",
+    "description": "ヒョットコムに雇われたエージェントニンジャ。\nサツガイ接触者。毒を無力化するジツを与えられ、有毒光を放つカタナと組み合わせている。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8A%E3%83%8F%E3%83%88%E3%83%AD%E3%83%BC%E3%83%8B%E3%83%B3",
+    "appearances": [
+      {
+        "id": "d095671e"
+      },
+      {
+        "id": "80qupnd7"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "3joia42l",
+    "name": "モーターガシラ",
+    "aliases": [],
+    "ninjaType": "ロボ・ニンジャ",
+    "skills": [
+      "ガトリング・ガン",
+      "サスマタ",
+      "銃火器"
+    ],
+    "appearance": "逆関節の二脚ロボット。様々な武装。",
+    "description": "オムラ・エンパイアが開発した量産型ロボニンジャ。\n武装を切り替える汎用性に加え、不具合付きのAIを搭載している。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%AC%E3%82%B7%E3%83%A9",
+    "appearances": [
+      {
+        "id": "d095671e"
+      },
+      {
+        "id": "b4d451d0"
+      },
+      {
+        "id": "2a6d9f22"
+      },
+      {
+        "id": "74d02c3a"
+      },
+      {
+        "id": "63cf6a67"
+      },
+      {
+        "id": "fb6lf4me"
+      },
+      {
+        "id": "aac95faa"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "40e6677e"
+      }
+    ]
+  },
+  {
+    "id": "a6uz8yme",
+    "name": "モーターマサシ",
+    "aliases": [],
+    "ninjaType": "ロボ・ニンジャ",
+    "skills": [
+      "レールガン",
+      "チェーンソー"
+    ],
+    "appearance": "全長10メートル。二腕。四脚。大型ロボニンジャ。\n装甲に「O666MASASHI」の刻印。",
+    "description": "99マイルズ・ベイを自立徘徊する謎の大型ロボニンジャ。\n接近者に対して攻撃する。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9E%E3%82%B5%E3%82%B7",
+    "appearances": [
+      {
+        "id": "nubhusa7"
+      },
+      {
+        "id": "35df5960"
+      },
+      {
+        "id": "8fffe24e"
       }
     ],
     "organizations": []
