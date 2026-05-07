@@ -4789,17 +4789,37 @@
     "aliases": [
       "エドゥアルト・ナランホ"
     ],
-    "ninjaType": "非ニンジャ",
-    "organizations": [
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "bldv069n",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "カワキ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "ミナヅキ・ジツ",
+      "コガネ・オートマタ",
+      "ドローン・ジツ"
+    ],
+    "role": "インナーサークル",
+    "appearance": "身長178cm。ニンジャ装束。メンポ。乾いた目。\n平時はスーツ。",
+    "description": "サンズ・オブ・ケオスの中核ニンジャ。リアリスト。\nサツガイ接触者であり、与えられたドローン・ジツを媒介にミナヅキ・ジツを使う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B7%E3%82%B1%E3%82%A4%E3%82%BF%E3%83%BC",
+    "appearances": [
       {
-        "id": "17550616"
+        "id": "3cygxhpv"
       },
+      {
+        "id": "0u9lh1lc"
+      }
+    ],
+    "organizations": [
       {
         "id": "4f623b6b"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B7%E3%82%B1%E3%82%A4%E3%82%BF%E3%83%BC"
+    ]
   },
   {
     "id": "17754559159",
@@ -40652,5 +40672,29 @@
         "id": "v50pm4vm"
       }
     ]
+  },
+  {
+    "id": "p9xpapxx",
+    "name": "ホンブロワー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "hwtmjxa1",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "デスウーファー・ジツ"
+    ],
+    "appearance": "ケブラー装束。",
+    "description": "アンタイ・コーポレーション勢力の企業傭兵ニンジャ。\n両腕から殺傷重低音をジツとして放つ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9B%E3%83%B3%E3%83%96%E3%83%AD%E3%83%AF%E3%83%BC",
+    "appearances": [
+      {
+        "id": "0u9lh1lc"
+      }
+    ],
+    "organizations": []
   }
 ]
