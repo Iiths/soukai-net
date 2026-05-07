@@ -1690,91 +1690,204 @@
     "id": "1775455919",
     "name": "ウブネ",
     "aliases": [],
-    "ninjaType": "非ニンジャ",
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "z9yidtcv",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "c41e8f30"
       }
     ],
-    "appearances": [],
+    "appearances": [
+      {
+        "id": "2b15f640"
+      }
+    ],
+    "skills": [
+      "クナイ・ダート"
+    ],
+    "appearance": "教育係めいたアトモスフィア。おそらく20代前半。女性。",
+    "description": "ユウモイン家の執務係。令嬢のシノリと共に逃亡した。\nかつてヒマワリで有名だったナラヴィルの出身。",
+    "status": "dead",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%83%96%E3%83%8D"
   },
   {
     "id": "1775455920",
     "name": "シャドウフォール",
     "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "rg0pibul",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "c41e8f30"
       }
     ],
-    "appearances": [],
-    "status": "alive",
+    "appearances": [
+      {
+        "id": "2b15f640"
+      }
+    ],
+    "skills": [
+      "スリケン",
+      "ミーティア・ジツ"
+    ],
+    "description": "ユウモイン家に仕えるニンジャ。\nスリケンを天に投げ超高度から降下させるユニークなジツを使う。",
+    "status": "dead",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB"
   },
   {
     "id": "1775455921",
     "name": "レッドラビット",
     "aliases": [],
+    "ninjaSoul": {
+      "id": "hcqatyfb",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "c41e8f30"
       }
     ],
-    "appearances": [],
-    "status": "alive",
+    "appearances": [
+      {
+        "id": "2b15f640"
+      }
+    ],
+    "skills": [
+      "ナギナタブレード",
+      "タント・ダガー"
+    ],
+    "description": "ユウモイン家に仕えるニンジャ。\nナギナタとダガーで戦う。",
+    "status": "unknown",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%83%83%E3%83%89%E3%83%A9%E3%83%93%E3%83%83%E3%83%88"
   },
   {
     "id": "1775455922",
     "name": "エアウォーカー",
     "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "xsddjalc",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "c41e8f30"
       }
     ],
-    "appearances": [],
-    "status": "alive",
+    "appearances": [
+      {
+        "id": "2b15f640"
+      }
+    ],
+    "skills": [
+      "エアリアル・カラテ"
+    ],
+    "description": "ユウモイン家が雇ったエージェントニンジャ。\n全身から圧縮空気を噴射し、空中殺法する。",
+    "status": "dead",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AB%E3%83%BC"
   },
   {
     "id": "1775455923",
     "name": "サイドワインダー",
     "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "3xtjn3dy",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "c41e8f30"
       }
     ],
-    "appearances": [],
-    "status": "alive",
+    "appearances": [
+      {
+        "id": "2b15f640"
+      }
+    ],
+    "skills": [
+      "スリケン",
+      "クナイ"
+    ],
+    "description": "ユウモイン家が雇ったエージェントニンジャ。\nユニーク・ジツの類は持たない。",
+    "status": "dead",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%82%A4%E3%83%89%E3%83%AF%E3%82%A4%E3%83%B3%E3%83%80%E3%83%BC"
   },
   {
     "id": "1775455924",
     "name": "スカイレイ",
     "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "kho6791g",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "c41e8f30"
       }
     ],
-    "appearances": [],
-    "status": "alive",
+    "appearances": [
+      {
+        "id": "2b15f640"
+      }
+    ],
+    "skills": [],
+    "description": "ユウモイン家が雇ったエージェントニンジャ。\n家出したシノリ・ユウモインを狙っていた。",
+    "status": "dead",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%AC%E3%82%A4"
   },
   {
     "id": "1775455925",
     "name": "プロシフィルス",
     "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "3g6oo85a",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "c41e8f30"
       }
     ],
-    "appearances": [],
-    "status": "alive",
+    "appearances": [
+      {
+        "id": "2b15f640"
+      }
+    ],
+    "skills": [
+      "ナイフ"
+    ],
+    "description": "ユウモイン家が雇ったエージェントニンジャ。\n複数のナイフを獲物としていたようだ。",
+    "status": "dead",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%97%E3%83%AD%E3%82%B7%E3%83%95%E3%82%A3%E3%83%AB%E3%82%B9"
   },
   {
@@ -4861,15 +4974,11 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "憤怒の護り",
-      "チャドー呼吸",
-      "コトダマ認識能力"
+    "organizations": [
+      {
+        "id": "4f623b6b"
+      }
     ],
-    "appearance": "身長186cm。真鍮の光を帯びた瞳。ニンジャ装束。ブレーサー。\n平時は仕立ての良いビジネスマン・スーツ。鎖メンポ。",
-    "description": "サンズ・オブ・ケオスの創始者。サツガイ接触者。\nクラバサ社上級役員の地位を利用し、サツガイへの再接触を試みる。\n複数の能力を付与された上、イージス・ニンジャの変種ムテキで身を守る。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%82%B9%E3%83%8F%E3%83%BC%E3%83%88",
     "appearances": [
       {
         "id": "3cygxhpv"
@@ -4878,11 +4987,15 @@
         "id": "63cf6a67"
       }
     ],
-    "organizations": [
-      {
-        "id": "4f623b6b"
-      }
-    ]
+    "skills": [
+      "憤怒の護り",
+      "チャドー呼吸",
+      "コトダマ認識能力"
+    ],
+    "appearance": "身長186cm。真鍮の光を帯びた瞳。ニンジャ装束。ブレーサー。\n平時は仕立ての良いビジネスマン・スーツ。鎖メンポ。",
+    "description": "サンズ・オブ・ケオスの創始者。サツガイ接触者。\nクラバサ社上級役員の地位を利用し、サツガイへの再接触を試みる。\n複数の能力を付与された上、イージス・ニンジャの変種ムテキで身を守る。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%82%B9%E3%83%8F%E3%83%BC%E3%83%88"
   },
   {
     "id": "17754559162",
@@ -16725,13 +16838,29 @@
   {
     "id": "0da0f14d",
     "name": "アイブリーズ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "82genzoj",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "description": "新生ザイバツのニンジャ。\nベッピン奪還のためシトカに顕現した。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%8F%E3%83%80%E3%83%96%E3%83%AB%E3%83%96%E3%83%AC%E3%82%A4%E3%83%80%E3%83%BC%EF%BC%8F%E3%82%BC%E3%83%95%E3%82%A3%E3%83%A9%E3%83%B3%E3%82%B5%E3%82%B9",
+    "appearances": [
+      {
+        "id": "his9gvkp"
+      }
+    ],
     "organizations": [
       {
         "id": "zaibatsu-p3p4"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "d2d90a63",
@@ -16847,24 +16976,56 @@
   {
     "id": "1465c621",
     "name": "ゼフィランサス",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "u8x70lga",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "description": "新生ザイバツのニンジャ。\nベッピン奪還のためシトカに顕現した。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%8F%E3%83%80%E3%83%96%E3%83%AB%E3%83%96%E3%83%AC%E3%82%A4%E3%83%80%E3%83%BC%EF%BC%8F%E3%82%BC%E3%83%95%E3%82%A3%E3%83%A9%E3%83%B3%E3%82%B5%E3%82%B9",
+    "appearances": [
+      {
+        "id": "his9gvkp"
+      }
+    ],
     "organizations": [
       {
         "id": "zaibatsu-p3p4"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "a69a96d2",
     "name": "ダブルブレイダー",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "bnl7y9l5",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "description": "新生ザイバツのニンジャ。\nベッピン奪還のためシトカに顕現した。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%8F%E3%83%80%E3%83%96%E3%83%AB%E3%83%96%E3%83%AC%E3%82%A4%E3%83%80%E3%83%BC%EF%BC%8F%E3%82%BC%E3%83%95%E3%82%A3%E3%83%A9%E3%83%B3%E3%82%B5%E3%82%B9",
+    "appearances": [
+      {
+        "id": "his9gvkp"
+      }
+    ],
     "organizations": [
       {
         "id": "zaibatsu-p3p4"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "cbfad9f4",
@@ -26431,27 +26592,6 @@
     "description": "ニンジャ修道会のニンジャ。元ザイバツアデプト。\n贖罪を求めているが、欺瞞である。",
     "status": "dead",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AF%E3%83%83%E3%83%81%E3%82%BF%E3%83%AF%E3%83%BC"
-  },
-  {
-    "id": "8ec3dc7b",
-    "name": "アイブリーズ",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%8F%E3%83%80%E3%83%96%E3%83%AB%E3%83%96%E3%83%AC%E3%82%A4%E3%83%80%E3%83%BC%EF%BC%8F%E3%82%BC%E3%83%95%E3%82%A3%E3%83%A9%E3%83%B3%E3%82%B5%E3%82%B9"
-  },
-  {
-    "id": "01bf0cd1",
-    "name": "ダブルブレイダー",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%8F%E3%83%80%E3%83%96%E3%83%AB%E3%83%96%E3%83%AC%E3%82%A4%E3%83%80%E3%83%BC%EF%BC%8F%E3%82%BC%E3%83%95%E3%82%A3%E3%83%A9%E3%83%B3%E3%82%B5%E3%82%B9"
-  },
-  {
-    "id": "24a581ce",
-    "name": "ゼフィランサス",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%8F%E3%83%80%E3%83%96%E3%83%AB%E3%83%96%E3%83%AC%E3%82%A4%E3%83%80%E3%83%BC%EF%BC%8F%E3%82%BC%E3%83%95%E3%82%A3%E3%83%A9%E3%83%B3%E3%82%B5%E3%82%B9"
   },
   {
     "id": "a8d6e771",
@@ -37341,17 +37481,17 @@
       "clan": "ナーガ・ニンジャクラン",
       "origin": ""
     },
-    "skills": [],
-    "appearance": "全長20メートル超。",
-    "description": "ナスカの地で化石化していた神話級リアルニンジャ。\nサツガイにより肉体が覚醒。ナスカの地で暴れている。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8A%E3%82%AC%E3%83%AA%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
+    "organizations": [],
     "appearances": [
       {
         "id": "63cf6a67"
       }
     ],
-    "organizations": []
+    "skills": [],
+    "appearance": "全長20メートル超。",
+    "description": "ナスカの地で化石化していた神話級リアルニンジャ。\nサツガイにより肉体が覚醒。ナスカの地で暴れている。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8A%E3%82%AC%E3%83%AA%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
   },
   {
     "id": "404bb6e6",
@@ -40743,18 +40883,43 @@
       "grade": "等級不明",
       "clan": "ナーガ・ニンジャクラン"
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "63cf6a67"
+      }
+    ],
     "skills": [
       "カラテミサイル"
     ],
     "appearance": "南米遺跡めいた意匠のニンジャ装束。",
     "description": "ナスカの反ゲリラカルト「アンデスの虎」の司祭長。\n白色のカラテ球体を放つ。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B1%E3%83%84%E3%82%A1%E3%83%AB%E3%82%AB%E3%83%88%E3%83%AB",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B1%E3%83%84%E3%82%A1%E3%83%AB%E3%82%AB%E3%83%88%E3%83%AB"
+  },
+  {
+    "id": "jdh2g0ac",
+    "name": "ブリーダー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "wtewf88u",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "organizations": [],
     "appearances": [
       {
-        "id": "63cf6a67"
+        "id": "2b15f640"
       }
     ],
-    "organizations": []
+    "skills": [
+      "カラテミサイル",
+      "不浄の光"
+    ],
+    "appearance": "身長約8フィート。乱杭歯。通常時は背中が曲がった捻くれた姿。\n戦闘時は背がまっすぐになり、目が不浄の光で輝く。黒くこびりついた油が衣服に染み付いた装束。",
+    "description": "「ダイコク様」を崇める野党カルトの長。\n野党たちに不浄の光を与え使役する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC"
   }
 ]
