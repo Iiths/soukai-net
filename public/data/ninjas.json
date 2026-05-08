@@ -1261,15 +1261,69 @@
     "id": "1775455911",
     "name": "シキベ・タカコ",
     "aliases": [],
-    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaType": "非ニンジャ",
+    "skills": [
+      "49マグナム"
+    ],
+    "appearance": "身長160cm。黒髪。そばかす。悪い歯並び。セルフレーム眼鏡。\n第2部：ボーダーニットに、薄汚いジーンズ、青色のワークブーツ\n第4部：帽子と探偵ダスターコート。コートにガンドーが留まれる加工。ドロイドボディ。",
+    "description": "ガンドー探偵事務所の助手。後に所長代行。\n記憶を高密度バイオニューロンチップに移植していた。\n第4部でドロイドボディにて目覚め、私立探偵として活動している。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%82%AD%E3%83%99%E3%83%BB%E3%82%BF%E3%82%AB%E3%82%B3",
+    "appearances": [
+      {
+        "id": "oer10ykn"
+      },
+      {
+        "id": "12ml6hmz"
+      },
+      {
+        "id": "6deadcd6"
+      },
+      {
+        "id": "3972e76a"
+      },
+      {
+        "id": "futllzdo"
+      },
+      {
+        "id": "2a6d9f22"
+      },
+      {
+        "id": "74d02c3a"
+      },
+      {
+        "id": "v6sqo9jc"
+      },
+      {
+        "id": "kehqgsdx"
+      },
+      {
+        "id": "wjryt0u9"
+      },
+      {
+        "id": "vrvaz1y4"
+      },
+      {
+        "id": "0nci6tph"
+      },
+      {
+        "id": "i9di1e9q"
+      },
+      {
+        "id": "his9gvkp"
+      },
+      {
+        "id": "92d5732c"
+      },
+      {
+        "id": "gzrph4m3"
+      }
+    ],
     "organizations": [
       {
         "id": "a91ea54d"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%82%AD%E3%83%99%E3%83%BB%E3%82%BF%E3%82%AB%E3%82%B3"
+    ]
   },
   {
     "id": "1775455912",
@@ -2484,73 +2538,156 @@
   {
     "id": "1d031c9b",
     "name": "カシンダン",
-    "aliases": [
-      "エンプーサ"
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "79snas9a",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "サイバネ四刀流",
+      "エメツ薬剤"
+    ],
+    "appearance": "サイバネ腕を含む四腕。",
+    "description": "コヨミ・ウサギに仕えるニンジャ。\nサイバネアームにより四刀流を実現した。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%82%B7%E3%83%B3%E3%83%80%E3%83%B3%EF%BC%8F%E3%82%A8%E3%83%B3%E3%83%97%E3%83%BC%E3%82%B5%EF%BC%8F%E3%82%B5%E3%82%A4%E3%82%B3%E3%83%91%E3%83%AB%E3%82%B5%E3%83%BC",
+    "appearances": [
+      {
+        "id": "3972e76a"
+      }
     ],
     "organizations": [
       {
         "id": "7a0b22c8"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%82%B7%E3%83%B3%E3%83%80%E3%83%B3%EF%BC%8F%E3%82%A8%E3%83%B3%E3%83%97%E3%83%BC%E3%82%B5%EF%BC%8F%E3%82%B5%E3%82%A4%E3%82%B3%E3%83%91%E3%83%AB%E3%82%B5%E3%83%BC"
+    ]
   },
   {
     "id": "c89e8c35",
     "name": "エンプーサ",
-    "aliases": [
-      "エンプーサ"
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "t28orruq",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "サイバネブレード",
+      "カナシバリ・ジツ",
+      "カラテドレイン",
+      "エメツ薬剤"
+    ],
+    "description": "コヨミ・ウサギに仕えるニンジャ。\nカマキリめいたサイバネブレードを使う他、多彩なジツを用いる。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%82%B7%E3%83%B3%E3%83%80%E3%83%B3%EF%BC%8F%E3%82%A8%E3%83%B3%E3%83%97%E3%83%BC%E3%82%B5%EF%BC%8F%E3%82%B5%E3%82%A4%E3%82%B3%E3%83%91%E3%83%AB%E3%82%B5%E3%83%BC",
+    "appearances": [
+      {
+        "id": "3972e76a"
+      }
     ],
     "organizations": [
       {
         "id": "7a0b22c8"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%82%B7%E3%83%B3%E3%83%80%E3%83%B3%EF%BC%8F%E3%82%A8%E3%83%B3%E3%83%97%E3%83%BC%E3%82%B5%EF%BC%8F%E3%82%B5%E3%82%A4%E3%82%B3%E3%83%91%E3%83%AB%E3%82%B5%E3%83%BC"
+    ]
   },
   {
     "id": "3faf376e",
     "name": "サイコパルサー",
-    "aliases": [
-      "エンプーサ"
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "2l3i91w9",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ドロイド制御"
+    ],
+    "description": "コヨミ・ウサギに仕えるニンジャ。\n複数のドローンをジョルリ・ジツめいた力で使役する。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%82%B7%E3%83%B3%E3%83%80%E3%83%B3%EF%BC%8F%E3%82%A8%E3%83%B3%E3%83%97%E3%83%BC%E3%82%B5%EF%BC%8F%E3%82%B5%E3%82%A4%E3%82%B3%E3%83%91%E3%83%AB%E3%82%B5%E3%83%BC",
+    "appearances": [
+      {
+        "id": "3972e76a"
+      }
     ],
     "organizations": [
       {
         "id": "7a0b22c8"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%82%B7%E3%83%B3%E3%83%80%E3%83%B3%EF%BC%8F%E3%82%A8%E3%83%B3%E3%83%97%E3%83%BC%E3%82%B5%EF%BC%8F%E3%82%B5%E3%82%A4%E3%82%B3%E3%83%91%E3%83%AB%E3%82%B5%E3%83%BC"
+    ]
   },
   {
     "id": "1775455942",
     "name": "ハルピュイア",
     "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "qym0k9ti",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "バイオ翼",
+      "ソニックカラテカッター",
+      "ブロウパイプ・サスペンション"
+    ],
+    "appearance": "両手をバイオサイバネ鈎爪に置換。両足に隠し鈎爪。\n背中に展開式のバイオサイバネ翼。",
+    "description": "コヨミ・ウサギに仕えるニンジャ。\nバイオ改造で得た翼と鈎爪が武器。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%83%AB%E3%83%94%E3%83%A5%E3%82%A4%E3%82%A2",
+    "appearances": [
+      {
+        "id": "3972e76a"
+      }
+    ],
     "organizations": [
       {
         "id": "7a0b22c8"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%83%AB%E3%83%94%E3%83%A5%E3%82%A4%E3%82%A2"
+    ]
   },
   {
     "id": "1775455943",
     "name": "ブラックドッグ",
     "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "vk9qrv46",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "エメツ薬剤"
+    ],
+    "appearance": "黒いニンジャ装束。\n後頭部に生体LAN端子。脊髄部に薬剤注入装置。",
+    "description": "コヨミ・ウサギに仕えるニンジャ。\nエメツ薬剤を自らに打ち込み、知性と引き換えに凶暴なカラテを得る。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%89%E3%83%83%E3%82%B0",
+    "appearances": [
+      {
+        "id": "3972e76a"
+      }
+    ],
     "organizations": [
       {
         "id": "7a0b22c8"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%89%E3%83%83%E3%82%B0"
+    ]
   },
   {
     "id": "1775455944",
@@ -41143,6 +41280,111 @@
     "appearances": [
       {
         "id": "1rdmzslz"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "j4xzityw",
+    "name": "ウィロウズウィープ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "mxjdodpi",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "シ・ニンジャクラン",
+      "origin": "強大なソウル"
+    },
+    "skills": [
+      "ユーレイ・ワタリ"
+    ],
+    "description": "シ・ニンジャクランの高位ニンジャソウル憑依者。\nヤモト・コキと交戦していた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%82%A3%E3%83%AD%E3%82%A6%E3%82%BA%E3%82%A6%E3%82%A3%E3%83%BC%E3%83%97",
+    "appearances": [
+      {
+        "id": "1rdmzslz"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "b07ajnv2",
+    "name": "ベンガルタイガー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "fptb6cwd",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "タイガー・カラテ",
+      "タイガー・キバ"
+    ],
+    "appearance": "剃り上げた頭。顔の右半分に邪悪なタイガーの刺青。",
+    "description": "放浪のニンジャ格闘家。\nドラゴン・カラテにも匹敵するタイガー・カラテの使い手。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%99%E3%83%B3%E3%82%AC%E3%83%AB%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC",
+    "appearances": [
+      {
+        "id": "4de384e9"
+      },
+      {
+        "id": "8fffe24e"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "w86682a4",
+    "name": "ヘッドテイカー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "we5rhv40",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "カメ・ニンジャクラン"
+    },
+    "skills": [
+      "バトルアックス",
+      "タワーシールド",
+      "カメ・ケン"
+    ],
+    "appearance": "メンポ。コクゾ・サットヴァ像に擬態していた。",
+    "description": "中国大陸奥地の廃テンプルを住処にしていたニンジャ。\nフリーWi-fiを餌にモータルを殺し愉しんでいた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%83%E3%83%89%E3%83%86%E3%82%A4%E3%82%AB%E3%83%BC",
+    "appearances": [
+      {
+        "id": "2bee04f2"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "a922d5cd",
+    "name": "エヴァポレイター",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "4wx128jk",
+      "name": "",
+      "grade": "等級不明",
+      "origin": "はソル・ニンジャクランかアテン・ニンジャクラン"
+    },
+    "skills": [
+      "レーザー光線"
+    ],
+    "appearance": "身長177cm。黒い頭巾。メンポ。",
+    "description": "女子高生収容所に勤める謎のニンジャ。\nビームで脱走女子高生を原子分解してしまう。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%9D%E3%83%AC%E3%82%A4%E3%82%BF%E3%83%BC",
+    "appearances": [
+      {
+        "id": "njhe6wz9"
       }
     ],
     "organizations": []
