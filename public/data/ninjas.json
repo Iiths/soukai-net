@@ -34487,49 +34487,191 @@
   {
     "id": "5d25ad",
     "name": "シンウインター",
+    "realName": "アドリアン・メギルヴィッチ・イオロフ",
     "aliases": [
       "シトカ・ニンジャ"
+    ],
+    "ninjaType": "リアルニンジャ",
+    "ninjaSoul": {
+      "id": "iaswcj2w",
+      "name": "ユミル・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "オーロラ・ジツ",
+      "オーディンの軍勢",
+      "オーロラ・エンハンス"
+    ],
+    "appearance": "身長220cm。40代半ば。短い髪。後退した生え際。丸太めいた腕。虚無的な瞳。\n深海めいた深い青のニンジャ装束。メンポ。ブレーサー。",
+    "description": "シトカを牛耳るヤクザクラン「過冬」の首領。\n憑依ソウルのユミル・ニンジャの化石を手中に収めており、\n強大なオーロラのジツを操る。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%B3%E3%82%A6%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC",
+    "appearances": [
+      {
+        "id": "na7t80qm"
+      },
+      {
+        "id": "7n5yygr8"
+      },
+      {
+        "id": "v6sqo9jc"
+      },
+      {
+        "id": "wjryt0u9"
+      },
+      {
+        "id": "vrvaz1y4"
+      },
+      {
+        "id": "0nci6tph"
+      },
+      {
+        "id": "i9di1e9q"
+      },
+      {
+        "id": "his9gvkp"
+      }
     ],
     "organizations": [
       {
         "id": "3d06734e"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%B3%E3%82%A6%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC"
+    ]
   },
   {
     "id": "9652c033",
     "name": "ミギ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "d86chart",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "カゼ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "イアイドー",
+      "ソニックソード"
+    ],
+    "appearance": "オイランドロイドボディ。男装している。",
+    "description": "シンウインターのコショウを務めるオイランドロイド。\n後にサツガイにニンジャソウルを授けられた。\n生来のイアイドーにソニックカラテを組み合わせる。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9F%E3%82%AE%EF%BC%8F%E3%83%92%E3%83%80%E3%83%AA",
+    "appearances": [
+      {
+        "id": "na7t80qm"
+      },
+      {
+        "id": "7n5yygr8"
+      },
+      {
+        "id": "v6sqo9jc"
+      },
+      {
+        "id": "wjryt0u9"
+      },
+      {
+        "id": "0nci6tph"
+      },
+      {
+        "id": "i9di1e9q"
+      }
+    ],
     "organizations": [
       {
         "id": "3d06734e"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9F%E3%82%AE%EF%BC%8F%E3%83%92%E3%83%80%E3%83%AA"
+    ]
   },
   {
     "id": "5a94d81c",
     "name": "ヒダリ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "o3s1ob9s",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "イカルガ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "イアイドー",
+      "カラテミサイル"
+    ],
+    "appearance": "オイランドロイドボディ。男装している。\nニンジャソウル憑依後は白熱した瞳。",
+    "description": "シンウインターのコショウを務めるオイランドロイド。\n後にサツガイにニンジャソウルを授けられた。\n無数の青白いカラテミサイルを乱射する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9F%E3%82%AE%EF%BC%8F%E3%83%92%E3%83%80%E3%83%AA",
+    "appearances": [
+      {
+        "id": "na7t80qm"
+      },
+      {
+        "id": "7n5yygr8"
+      },
+      {
+        "id": "v6sqo9jc"
+      },
+      {
+        "id": "wjryt0u9"
+      },
+      {
+        "id": "0nci6tph"
+      },
+      {
+        "id": "i9di1e9q"
+      }
+    ],
     "organizations": [
       {
         "id": "3d06734e"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9F%E3%82%AE%EF%BC%8F%E3%83%92%E3%83%80%E3%83%AA"
+    ]
   },
   {
     "id": "edf0bb",
     "name": "カークィウス",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "obc7j9ay",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "ドルイド・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "羽根スリケン",
+      "鸚鵡ブンシン"
+    ],
+    "role": "ワイズマン",
+    "appearance": "身長183cm。ダークスーツ。鸚鵡めいたメンポ。\n戦闘時は翼を生やす。",
+    "description": "過冬の上級戦士ワイズマンの統率者。シンウインターの側近。\nカラテを注ぎ育てた鸚鵡をブンシンにすることができる。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%83%BC%E3%82%AF%E3%82%A3%E3%82%A6%E3%82%B9",
+    "appearances": [
+      {
+        "id": "na7t80qm"
+      },
+      {
+        "id": "0ssoqq7s"
+      },
+      {
+        "id": "typqvzha"
+      },
+      {
+        "id": "0nci6tph"
+      }
+    ],
     "organizations": [
       {
         "id": "3d06734e"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%83%BC%E3%82%AF%E3%82%A3%E3%82%A6%E3%82%B9"
+    ]
   },
   {
     "id": "71bf84",
@@ -35043,13 +35185,31 @@
   {
     "id": "38045d",
     "name": "モキシバスター",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "xevey0db",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ニンジャハチェット"
+    ],
+    "description": "過冬の末端ニンジャ。\n自身の横領を舎弟に押し付けようとしていた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%82%AD%E3%82%B7%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC",
+    "appearances": [
+      {
+        "id": "na7t80qm"
+      }
+    ],
     "organizations": [
       {
         "id": "3d06734e"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%82%AD%E3%82%B7%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC"
+    ]
   },
   {
     "id": "e22d33",
@@ -41385,6 +41545,31 @@
     "appearances": [
       {
         "id": "njhe6wz9"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "m4t6tidd",
+    "name": "DZ",
+    "aliases": [
+      "ダイ・ゼン"
+    ],
+    "ninjaType": "非ニンジャ",
+    "skills": [
+      "ヤクザガン",
+      "炸裂弾"
+    ],
+    "appearance": "クローンヤクザに酷似した外見。青ざめた肌。サイバーサングラス。逞しい肉体。短く刈った黒髪。\nサイバー・トレンチコート。懐にZBR注射。腕に腕時計。",
+    "description": "ネオサイタマのエージェント。非ニンジャ。\nクローンヤクザに似ている。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/DZ",
+    "appearances": [
+      {
+        "id": "na7t80qm"
+      },
+      {
+        "id": "0pg8ano6"
       }
     ],
     "organizations": []
