@@ -2117,153 +2117,340 @@
     "id": "1775455930",
     "name": "エクスカベーター",
     "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "p4kco929",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "装甲車両",
+      "鉄骨"
+    ],
+    "appearance": "下半身は鉄板で覆われた巨大な装甲車両。\n上半身は筋骨隆々のゾンビーの上半身。ワイヤーが無数に埋め込まれた身体。\n蒸気を吐き出すエギゾースト・パイプを備えたメンポ。",
+    "description": "ジェノサイド・チルドレンのゾンビーニンジャ。\n人機一体の身体で突撃する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%82%AF%E3%82%B9%E3%82%AB%E3%83%99%E3%83%BC%E3%82%BF%E3%83%BC",
+    "appearances": [
+      {
+        "id": "1rdmzslz"
+      }
+    ],
     "organizations": [
       {
         "id": "0d9c3107"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%82%AF%E3%82%B9%E3%82%AB%E3%83%99%E3%83%BC%E3%82%BF%E3%83%BC"
+    ]
   },
   {
     "id": "1775455931",
     "name": "ゴーストドッグ",
     "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "n8nh9wwd",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "シ・ニンジャクラン",
+      "origin": "低級ソウル"
+    },
+    "skills": [
+      "ニンジャ・ミニオン",
+      "ゾンビー・ダマスカス合金システム"
+    ],
+    "appearance": "ニンジャ・ミニオン：年代物の武者鎧。落ち武者めいた姿。\n合体時：巨体。穴めいた両目と口。ゾンビーを産み落とす臍らしき穴。",
+    "description": "ジェノサイド・チルドレンの群体ゾンビーニンジャ。\n個々の力はそれほどでもないが、合体すると瓦礫を食べて更に増殖してしまう。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B4%E3%83%BC%E3%82%B9%E3%83%88%E3%83%89%E3%83%83%E3%82%B0",
+    "appearances": [
+      {
+        "id": "1rdmzslz"
+      }
+    ],
     "organizations": [
       {
         "id": "0d9c3107"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B4%E3%83%BC%E3%82%B9%E3%83%88%E3%83%89%E3%83%83%E3%82%B0"
+    ]
   },
   {
     "id": "f20aa378",
     "name": "メデューサ",
-    "aliases": [
-      "ゴルゴーン"
-    ],
+    "aliases": [],
     "ninjaType": "バイオニンジャ",
+    "ninjaSoul": {
+      "id": "7r0t3quz",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ゴルゴーン・マニピュレーター"
+    ],
+    "appearance": "見目麗しい女性。ただし邪悪。肩から下はゴルゴーンに埋め込まれている。",
+    "description": "ジェノサイド・チルドレンのゾンビーニンジャ。\n決戦兵器ニンジャのゴルゴーンと融合して戦う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A1%E3%83%87%E3%83%A5%E3%83%BC%E3%82%B5%EF%BC%8F%E3%82%B4%E3%83%AB%E3%82%B4%E3%83%BC%E3%83%B3",
+    "appearances": [
+      {
+        "id": "1rdmzslz"
+      }
+    ],
     "organizations": [
       {
         "id": "0d9c3107"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A1%E3%83%87%E3%83%A5%E3%83%BC%E3%82%B5%EF%BC%8F%E3%82%B4%E3%83%AB%E3%82%B4%E3%83%BC%E3%83%B3"
+    ]
   },
   {
     "id": "3d94c6e1",
     "name": "ゴルゴーン",
-    "aliases": [
-      "ゴルゴーン"
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "tluseub8",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "毒液",
+      "無数の手"
     ],
-    "ninjaType": "バイオニンジャ",
+    "appearance": "巨大な蛇の身体。腕めいた六つの蛇頭。顔のない爬虫人類の上半身。\n先端部分にメデューサが埋め込まれている。",
+    "description": "ジェノサイド・チルドレンのニンジャ。\nメデューサと一体となり襲い掛かる。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A1%E3%83%87%E3%83%A5%E3%83%BC%E3%82%B5%EF%BC%8F%E3%82%B4%E3%83%AB%E3%82%B4%E3%83%BC%E3%83%B3",
+    "appearances": [
+      {
+        "id": "1rdmzslz"
+      }
+    ],
     "organizations": [
       {
         "id": "0d9c3107"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A1%E3%83%87%E3%83%A5%E3%83%BC%E3%82%B5%EF%BC%8F%E3%82%B4%E3%83%AB%E3%82%B4%E3%83%BC%E3%83%B3"
+    ]
   },
   {
     "id": "1775455933",
     "name": "サッドネス",
     "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "49t1so9b",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ネクロカラテ",
+      "ギターチェーンソーカタナ",
+      "イタミ・ジツ"
+    ],
+    "appearance": "頭頂部からピンクのモヒカンヘアー。紐のように痩せた身体。\n不気味な黒レザー装束。心臓にノダチ・ケン・カタナ、二刀のカタナを両こめかみに突き刺している。",
+    "description": "ジェノサイド・チルドレンのゾンビーニンジャ。\nシュガーブライトとコンビ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%83%E3%83%89%E3%83%8D%E3%82%B9",
+    "appearances": [
+      {
+        "id": "1rdmzslz"
+      }
+    ],
     "organizations": [
       {
         "id": "0d9c3107"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%83%E3%83%89%E3%83%8D%E3%82%B9"
+    ]
   },
   {
     "id": "1775455934",
     "name": "ジェットペイン",
     "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "oy33k7pr",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ジェット頭突き"
+    ],
+    "appearance": "穴だらけのマント。骨格そのものの身体。関節部にシリコン加工。\nニンジャ頭巾とメンポ。緑色の目。膝下はスティール製のジェットエンジンに置換。",
+    "description": "ジェノサイド・チルドレンのゾンビーニンジャ。\nジェットエンジンと一体化。ジェット噴射で頭突きをする。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E3%83%9A%E3%82%A4%E3%83%B3",
+    "appearances": [
+      {
+        "id": "1rdmzslz"
+      }
+    ],
     "organizations": [
       {
         "id": "0d9c3107"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E3%83%9A%E3%82%A4%E3%83%B3"
+    ]
   },
   {
     "id": "1775455935",
     "name": "シュガーブライド",
     "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "ljvtjpaj",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ショットガン鉈",
+      "チェーンソー"
+    ],
+    "appearance": "縦に二つ並ぶ右目。顔に十字に走るホチキス状の縫い目。耳まで裂けた口。ギザギザの歯。土気色の肌。小柄。\nオイラン花嫁衣装。血で汚れたバイオミンクの白いショール。不自然な豊満。女性。",
+    "description": "ジェノサイド・チルドレンのゾンビーニンジャ。\n異常な跳躍力を活かし恐ろしい武器で攻撃する。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%A5%E3%82%AC%E3%83%BC%E3%83%96%E3%83%A9%E3%82%A4%E3%83%89",
+    "appearances": [
+      {
+        "id": "1rdmzslz"
+      }
+    ],
     "organizations": [
       {
         "id": "0d9c3107"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%A5%E3%82%AC%E3%83%BC%E3%83%96%E3%83%A9%E3%82%A4%E3%83%89"
+    ]
   },
   {
     "id": "1775455936",
     "name": "スプライト",
     "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "jz41r3h2",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "UNIX操作"
+    ],
+    "appearance": "トンボめいた四枚羽。不気味な頭足人。",
+    "description": "ジェノサイド・チルドレンのゾンビーニンジャ。\n小柄で戦闘力を持たない分知性に優れる。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%97%E3%83%A9%E3%82%A4%E3%83%88",
+    "appearances": [
+      {
+        "id": "1rdmzslz"
+      }
+    ],
     "organizations": [
       {
         "id": "0d9c3107"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%97%E3%83%A9%E3%82%A4%E3%83%88"
+    ]
   },
   {
     "id": "1775455937",
     "name": "デュアルヘッドマサカー",
     "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "lsfm4jp5",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "appearance": "双頭。オチムシャ姿。",
+    "description": "ジェノサイド・チルドレンのゾンビーニンジャ。\n双頭のビッグニンジャで、意外にもツェッペリン操縦や迫撃砲射撃に優れる頭脳派。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%83%A5%E3%82%A2%E3%83%AB%E3%83%98%E3%83%83%E3%83%89%E3%83%9E%E3%82%B5%E3%82%AB%E3%83%BC",
+    "appearances": [
+      {
+        "id": "1rdmzslz"
+      }
+    ],
     "organizations": [
       {
         "id": "0d9c3107"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%83%A5%E3%82%A2%E3%83%AB%E3%83%98%E3%83%83%E3%83%89%E3%83%9E%E3%82%B5%E3%82%AB%E3%83%BC"
+    ]
   },
   {
     "id": "1775455938",
     "name": "ヘテロポーダ",
     "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "6oaesu6i",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ブッチャー・フック",
+      "ニンジャ膂力"
+    ],
+    "appearance": "黒覆面のメンポ。三組六本の腕。巨漢。\n鉄格子で保護された心臓が露出している。",
+    "description": "ジェノサイド・チルドレンのゾンビーニンジャ。\n多椀を活かした攻撃の他、ゾンビーを投げつけてくる。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%86%E3%83%AD%E3%83%9D%E3%83%BC%E3%83%80",
+    "appearances": [
+      {
+        "id": "1rdmzslz"
+      }
+    ],
     "organizations": [
       {
         "id": "0d9c3107"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%86%E3%83%AD%E3%83%9D%E3%83%BC%E3%83%80"
+    ]
   },
   {
     "id": "1775455939",
     "name": "ヘルストーム",
     "aliases": [],
-    "organizations": [
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "2phdwg6p",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ネクロカラテ",
+      "不定形の肉体"
+    ],
+    "appearance": "緑の眼光。シャープなデザインの金属マスク。\n秀でた体躯。肉のマント。",
+    "description": "ジェノサイド・チルドレンのゾンビーニンジャ。\n不定形の腐肉から繰り出される攻撃は脅威的。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%AB%E3%82%B9%E3%83%88%E3%83%BC%E3%83%A0",
+    "appearances": [
       {
-        "id": "0d9c3107"
-      },
-      {
-        "id": "09afd629"
+        "id": "1rdmzslz"
       }
     ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%AB%E3%82%B9%E3%83%88%E3%83%BC%E3%83%A0"
+    "organizations": [
+      {
+        "id": "09afd629"
+      },
+      {
+        "id": "0d9c3107"
+      }
+    ]
   },
   {
     "id": "1775455940",
@@ -5618,10 +5805,27 @@
     "id": "17754559202",
     "name": "スカルヘッド",
     "aliases": [],
-    "organizations": [],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%98%E3%83%83%E3%83%89"
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "w3h5cao1",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ネクロカラテ"
+    ],
+    "appearance": "半裸姿。身体にびっしりと書かれたブディズム・チャント。ニンジャ頭巾。\nゾンビー時は頭蓋骨が剥き出し長い爪が生えていた。",
+    "description": "デスドクロ・ヤクザクランのオヤブン。\nゾンビー化してしまいヤモトに襲い掛かった。平時の実力は不明。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%98%E3%83%83%E3%83%89",
+    "appearances": [
+      {
+        "id": "1rdmzslz"
+      }
+    ],
+    "organizations": []
   },
   {
     "id": "17754559203",
@@ -40921,5 +41125,26 @@
     "description": "「ダイコク様」を崇める野党カルトの長。\n野党たちに不浄の光を与え使役する。",
     "status": "dead",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC"
+  },
+  {
+    "id": "u0xicuqz",
+    "name": "ラストリゾート",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "neipmuqh",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [],
+    "description": "違法麻薬を作る邪悪なニンジャ。\nピュア・オハギをはじめとするドラッグをばら撒いていた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%82%B9%E3%83%88%E3%83%AA%E3%82%BE%E3%83%BC%E3%83%88",
+    "appearances": [
+      {
+        "id": "1rdmzslz"
+      }
+    ],
+    "organizations": []
   }
 ]
