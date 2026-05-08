@@ -5,7 +5,7 @@ export class SearchNinjaUseCase {
   constructor(private repo: NinjaRepository) {}
 
   /**
-   * 名前・別名で部分一致検索する（ニンジャソウル名は含まない）
+   * 名前・別名・本名で部分一致検索する（ニンジャソウル名は含まない）
    */
   async execute(query: string): Promise<Ninja[]> {
     const ninjas = await this.repo.findAll();
@@ -16,8 +16,5 @@ export class SearchNinjaUseCase {
       const aliasMatch = ninja.aliases?.some((alias) =>
         alias.toLowerCase().includes(lowerQuery)
       );
-
-      return nameMatch || aliasMatch;
-    });
-  }
-}
+      const realNameMatch = ninja.realName
+ 

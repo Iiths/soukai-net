@@ -212,7 +212,7 @@ export function SimpleSearchPage() {
       <div className={styles.header}>
         <img src="/soukai-icon.png" alt="SOUKAI.NET" className={styles.titleIcon} />
         <h1 className={styles.title}>◆ニンジャ検索重点◆</h1>
-        <p className={styles.subtitle}>名前・別名・組織・登場部で検索できます</p>
+        <p className={styles.subtitle}>名前・別名・本名・組織・登場部で検索できます</p>
       </div>
 
       <div className={styles.searchSection}>
@@ -274,6 +274,4 @@ export function SimpleSearchPage() {
           <p>ニンジャの名前を入力するか、詳細フィルターで絞り込んでください</p>
         </div>
       )}
-    </div>
-  );
-}
+    </div
