@@ -3947,41 +3947,94 @@
     "id": "1775455978",
     "name": "デッドマン",
     "aliases": [],
-    "ninjaType": "非ニンジャ",
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "gjel1mfa",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "イアイドー",
+      "ネクロマカブル・ジツ"
+    ],
+    "appearance": "上半身裸。筋骨隆々の肉体。スキンヘッド。\n両腕にフジサンと鯉、アマゾン川とピラルクーのタトゥー。\n錆びた鉄のメンポ。指にシルバーのアクセサリー。",
+    "description": "アマゾンの麻薬組織「エル・キケン」の首領。\n死者を骸骨として使役するジツを使う。イアイも強い。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%83%83%E3%83%89%E3%83%9E%E3%83%B3",
+    "appearances": [
+      {
+        "id": "a6a4d687"
+      }
+    ],
     "organizations": [
       {
         "id": "83dda62e"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%83%83%E3%83%89%E3%83%9E%E3%83%B3"
+    ]
   },
   {
     "id": "1775455979",
     "name": "ファッショニスタ",
     "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "l588cj88",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "カポエイラ・カラテ"
+    ],
+    "appearance": "胡散臭いハイブランド・スーツ。嫌にファッショナブルな外見。両腕に複数の金時計。メンポ。",
+    "description": "エル・キケンのニンジャ。\n手練れのカポエイラ使い。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8B%E3%82%B9%E3%82%BF",
+    "appearances": [
+      {
+        "id": "a6a4d687"
+      }
+    ],
     "organizations": [
       {
         "id": "83dda62e"
       }
-    ],
-    "appearances": [],
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8B%E3%82%B9%E3%82%BF"
+    ]
   },
   {
     "id": "1775455980",
     "name": "ハチコ",
     "aliases": [],
     "ninjaType": "バイオニンジャ",
+    "ninjaSoul": {
+      "id": "sizq5cx7",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "牙",
+      "尻尾",
+      "酸性の涎"
+    ],
+    "appearance": "四足で高さ180㎝をゆうに超える異常巨体。血で染まった毛並み。\n二重に生えた牙。左右に割れる顎。鞭めいた舌。",
+    "description": "エル・キケンのバイオニンジャアニマル。\n並のニンジャを喰らうほど凶暴。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%83%81%E3%82%B3",
+    "appearances": [
+      {
+        "id": "a6a4d687"
+      }
+    ],
     "organizations": [
       {
         "id": "83dda62e"
       }
-    ],
-    "appearances": [],
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%83%81%E3%82%B3"
+    ]
   },
   {
     "id": "1775455981",
@@ -5602,27 +5655,65 @@
     "id": "17754559163",
     "name": "トライアンフ",
     "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "aac0dzq8",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": "ビッグニンジャ系"
+    },
+    "skills": [
+      "パワードスーツ",
+      "電磁誘導カラテミサイルキャノン",
+      "ダルマドローン"
+    ],
+    "appearance": "スカラベめいたシルエットのパワードスーツ。ガスマスクメンポ。",
+    "description": "デクタ社の企業ビッグニンジャ。\nパワードスーツを身に纏い、キャノンから超自然カラテミサイルを射出する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%88%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%95",
+    "appearances": [
+      {
+        "id": "0pg8ano6"
+      }
+    ],
     "organizations": [
       {
         "id": "9bbcbe7a"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%88%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%95"
+    ]
   },
   {
     "id": "17754559164",
     "name": "ルックアウト",
     "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "61zf11nw",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ステルス装束",
+      "ダガー",
+      "クナイ・ダート"
+    ],
+    "appearance": "ステルス装束。単眼フルメンポ。胸部にUNIX。",
+    "description": "デクタ社の企業ニンジャ。\nステルス装束で姿を隠し、隙を突いてダガーで攻撃する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AB%E3%83%83%E3%82%AF%E3%82%A2%E3%82%A6%E3%83%88",
+    "appearances": [
+      {
+        "id": "0pg8ano6"
+      }
+    ],
     "organizations": [
       {
         "id": "9bbcbe7a"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AB%E3%83%83%E3%82%AF%E3%82%A2%E3%82%A6%E3%83%88"
+    ]
   },
   {
     "id": "17754559165",
@@ -35097,13 +35188,47 @@
   {
     "id": "4a4829",
     "name": "サイグナス",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "9huu8d58",
+      "name": "コルガ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ブンシン・ジツ",
+      "カガミ・ビラキ",
+      "スリケン"
+    ],
+    "role": "ワイズマン",
+    "appearance": "中肉中背。白灰色のニンジャ装束。",
+    "description": "過冬の上級戦士ワイズマンの一人。\n実体を持つブンシンを生み出し同時攻撃する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%82%A4%E3%82%B0%E3%83%8A%E3%82%B9",
+    "appearances": [
+      {
+        "id": "a6a4d687"
+      },
+      {
+        "id": "0ssoqq7s"
+      },
+      {
+        "id": "kehqgsdx"
+      },
+      {
+        "id": "wjryt0u9"
+      },
+      {
+        "id": "0nci6tph"
+      }
+    ],
     "organizations": [
       {
         "id": "3d06734e"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%82%A4%E3%82%B0%E3%83%8A%E3%82%B9"
+    ]
   },
   {
     "id": "82ec96",
@@ -42405,5 +42530,113 @@
     "description": "瓦割りに精通する傭兵ニンジャ。\n数十枚もの瓦を跳躍掌打ですべて破壊してしまう。",
     "status": "alive",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%AA%E3%83%83%E3%82%AF%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AB%E3%83%BC"
+  },
+  {
+    "id": "ucb2v97h",
+    "name": "ピットヴァイパー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "hq9cv49x",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [],
+    "appearance": "ヘビめいた目。",
+    "description": "ネオサイタマのストリート・ニンジャ。\n多数の手下を従えサークル・シマナガシと対峙した。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%94%E3%83%83%E3%83%88%E3%83%B4%E3%82%A1%E3%82%A4%E3%83%91%E3%83%BC",
+    "appearances": [
+      {
+        "id": "0pg8ano6"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "ugsmp3xh",
+    "name": "ミートハンマー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "zsbwtjcq",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "ガトリング・スリケンガン"
+    ],
+    "description": "ピットヴァイパーの手下ニンジャ。\nガトリング・スリケンガンを使う。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9F%E3%83%BC%E3%83%88%E3%83%8F%E3%83%B3%E3%83%9E%E3%83%BC%EF%BC%8F%E3%83%AC%E3%82%B6%E3%83%9C%E3%82%A2%EF%BC%8F%E3%82%B7%E3%83%83%E3%82%AF%E3%83%A9%E3%83%BC%EF%BC%8F%E3%82%B9%E3%83%9A%E3%83%AB%E3%82%A6%E3%82%A3%E3%83%BC%E3%83%B4%E3%82%A1%E3%83%BC",
+    "appearances": [
+      {
+        "id": "0pg8ano6"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "i2rg46e6",
+    "name": "レザボア",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "4de5977n",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [],
+    "description": "ピットヴァイパーの手下ニンジャ。\nサークル・シマナガシと交戦した。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9F%E3%83%BC%E3%83%88%E3%83%8F%E3%83%B3%E3%83%9E%E3%83%BC%EF%BC%8F%E3%83%AC%E3%82%B6%E3%83%9C%E3%82%A2%EF%BC%8F%E3%82%B7%E3%83%83%E3%82%AF%E3%83%A9%E3%83%BC%EF%BC%8F%E3%82%B9%E3%83%9A%E3%83%AB%E3%82%A6%E3%82%A3%E3%83%BC%E3%83%B4%E3%82%A1%E3%83%BC",
+    "appearances": [
+      {
+        "id": "0pg8ano6"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "dk60r738",
+    "name": "シックラー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "5juab7a2",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [],
+    "description": "ピットヴァイパーの手下ニンジャ。\nサークル・シマナガシと交戦した。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9F%E3%83%BC%E3%83%88%E3%83%8F%E3%83%B3%E3%83%9E%E3%83%BC%EF%BC%8F%E3%83%AC%E3%82%B6%E3%83%9C%E3%82%A2%EF%BC%8F%E3%82%B7%E3%83%83%E3%82%AF%E3%83%A9%E3%83%BC%EF%BC%8F%E3%82%B9%E3%83%9A%E3%83%AB%E3%82%A6%E3%82%A3%E3%83%BC%E3%83%B4%E3%82%A1%E3%83%BC",
+    "appearances": [
+      {
+        "id": "0pg8ano6"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "yckrw1o6",
+    "name": "スペルウィーヴァー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "hgr9gl45",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [],
+    "description": "ピットヴァイパーの手下ニンジャ。\nなんらかのジツを有していた。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9F%E3%83%BC%E3%83%88%E3%83%8F%E3%83%B3%E3%83%9E%E3%83%BC%EF%BC%8F%E3%83%AC%E3%82%B6%E3%83%9C%E3%82%A2%EF%BC%8F%E3%82%B7%E3%83%83%E3%82%AF%E3%83%A9%E3%83%BC%EF%BC%8F%E3%82%B9%E3%83%9A%E3%83%AB%E3%82%A6%E3%82%A3%E3%83%BC%E3%83%B4%E3%82%A1%E3%83%BC",
+    "appearances": [
+      {
+        "id": "0pg8ano6"
+      }
+    ],
+    "organizations": []
   }
 ]
