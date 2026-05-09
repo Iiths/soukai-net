@@ -17,4 +17,9 @@ export class SearchNinjaUseCase {
         alias.toLowerCase().includes(lowerQuery)
       );
       const realNameMatch = ninja.realName
- 
+        ? ninja.realName.toLowerCase().includes(lowerQuery)
+        : false;
+      return nameMatch || aliasMatch || realNameMatch;
+    });
+  }
+}

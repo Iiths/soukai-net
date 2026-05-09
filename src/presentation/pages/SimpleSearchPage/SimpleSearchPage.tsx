@@ -274,4 +274,8 @@ export function SimpleSearchPage() {
           <p>ニンジャの名前を入力するか、詳細フィルターで絞り込んでください</p>
         </div>
       )}
-    </div
+    </div>
+  );
+}
+
+export default SimpleSearchPage;
