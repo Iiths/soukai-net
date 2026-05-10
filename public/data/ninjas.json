@@ -10917,14 +10917,70 @@
   {
     "id": "316b5f2b",
     "name": "インシネレイト",
+    "realName": "クロザカ・ショウト",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "id6ysq17",
+      "name": "ヒツケ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "カトン・ジツ"
+    ],
+    "role": "ソウカイ・シックスゲイツ",
+    "appearance": "身長177cm。背中に不動明王のタトゥー。\n整った顔立ち。スクエアフレームの伊達眼鏡。後ろに撫でつけた髪。犬歯の目立つ歯。スリーピース・スーツ。",
+    "description": "ソウカイ・シックスゲイツの一人。\nゴッド・オブ・カトン・ファイア・オブ・ソウカイヤを自称するが、相応に強力なカトン・ジツを使う。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%83%B3%E3%82%B7%E3%83%8D%E3%83%AC%E3%82%A4%E3%83%88",
+    "appearances": [
+      {
+        "id": "7n5yygr8"
+      },
+      {
+        "id": "v6sqo9jc"
+      },
+      {
+        "id": "0ssoqq7s"
+      },
+      {
+        "id": "kehqgsdx"
+      },
+      {
+        "id": "typqvzha"
+      },
+      {
+        "id": "i9di1e9q"
+      },
+      {
+        "id": "his9gvkp"
+      },
+      {
+        "id": "d7046493"
+      },
+      {
+        "id": "d129768a"
+      },
+      {
+        "id": "0882aca0"
+      },
+      {
+        "id": "89f07b12"
+      },
+      {
+        "id": "7bd07f98"
+      },
+      {
+        "id": "92d5732c"
+      }
+    ],
     "organizations": [
       {
         "id": "soukaiya-p4"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%83%B3%E3%82%B7%E3%83%8D%E3%83%AC%E3%82%A4%E3%83%88"
+    ]
   },
   {
     "id": "290d4ab1",
@@ -35648,13 +35704,32 @@
   {
     "id": "40b46b",
     "name": "ヴォジャノーイ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "c453i5r7",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "スイトン・ジツ"
+    ],
+    "appearance": "海藻じみたニンジャ装束。ブレーサー。",
+    "description": "過冬のニンジャ。\n身体をゲル状に変えるスイトン・ジツの使い手。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%B4%E3%82%A9%E3%82%B8%E3%83%A3%E3%83%8E%E3%83%BC%E3%82%A4",
+    "appearances": [
+      {
+        "id": "0ssoqq7s"
+      }
+    ],
     "organizations": [
       {
         "id": "3d06734e"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%B4%E3%82%A9%E3%82%B8%E3%83%A3%E3%83%8E%E3%83%BC%E3%82%A4"
+    ]
   },
   {
     "id": "5236df",
@@ -35940,13 +36015,35 @@
   {
     "id": "d306f2",
     "name": "チェンバーレイン",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "sseawf88",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ナイフ"
+    ],
+    "appearance": "バトルグラウンド・オブ・サツバツではサイバー馬に乗馬していた。",
+    "description": "過冬の下級ニンジャ。\nシンウインターの複数ある邸宅の一つを任されていた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%81%E3%82%A7%E3%83%B3%E3%83%90%E3%83%BC%E3%83%AC%E3%82%A4%E3%83%B3",
+    "appearances": [
+      {
+        "id": "0ssoqq7s"
+      },
+      {
+        "id": "vr3fq73p"
+      }
+    ],
     "organizations": [
       {
         "id": "3d06734e"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%81%E3%82%A7%E3%83%B3%E3%83%90%E3%83%BC%E3%83%AC%E3%82%A4%E3%83%B3"
+    ]
   },
   {
     "id": "b2911e",
@@ -36081,24 +36178,61 @@
   {
     "id": "f5b5ac",
     "name": "ベアゴージ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "1i7q8ykj",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ベア・エンハンスメント・ジツ"
+    ],
+    "description": "過冬のニンジャ。\n賭博闘技用のクマにカラテエンハンスする。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%99%E3%82%A2%E3%82%B4%E3%83%BC%E3%82%B8",
+    "appearances": [
+      {
+        "id": "0ssoqq7s"
+      }
+    ],
     "organizations": [
       {
         "id": "3d06734e"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%99%E3%82%A2%E3%82%B4%E3%83%BC%E3%82%B8"
+    ]
   },
   {
     "id": "f49f68",
     "name": "ホークヴィル",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "wdg6vutw",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "イアイドー"
+    ],
+    "appearance": "右腕をサイバネ。",
+    "description": "過冬のニンジャ。\nオイラン相手のサイバネ手術費用の貸付をシノギにしていた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9B%E3%83%BC%E3%82%AF%E3%83%B4%E3%82%A3%E3%83%AB",
+    "appearances": [
+      {
+        "id": "0ssoqq7s"
+      }
+    ],
     "organizations": [
       {
         "id": "3d06734e"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9B%E3%83%BC%E3%82%AF%E3%83%B4%E3%82%A3%E3%83%AB"
+    ]
   },
   {
     "id": "476b0a",
