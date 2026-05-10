@@ -3173,6 +3173,41 @@
     "name": "カシマール",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "i7tghciq",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "ハデス・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "シャドウヴィジョン・ジツ",
+      "シャドウネット・ジツ",
+      "墓暴きの虫",
+      "ダイジャ・バイト"
+    ],
+    "role": "ワイズマン",
+    "appearance": "輪郭の一定しない影めいた黒い外套。ザルニーツァ以上の高身長。ただし普段はうずくまっている。\n骸骨めいた青白い顔。三重の虹彩を持つ瞳。",
+    "description": "過冬の上級戦士ワイズマンの一人。サツガイ接触者。\n常に発狂しており対話が困難。影のジツで死体を操る。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%82%B7%E3%83%9E%E3%83%BC%E3%83%AB",
+    "appearances": [
+      {
+        "id": "0ssoqq7s"
+      },
+      {
+        "id": "vrvaz1y4"
+      },
+      {
+        "id": "typqvzha"
+      },
+      {
+        "id": "0nci6tph"
+      },
+      {
+        "id": "his9gvkp"
+      }
+    ],
     "organizations": [
       {
         "id": "f35c5c1d"
@@ -3180,10 +3215,7 @@
       {
         "id": "3d06734e"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%82%B7%E3%83%9E%E3%83%BC%E3%83%AB"
+    ]
   },
   {
     "id": "1775455956",
@@ -35227,24 +35259,72 @@
   {
     "id": "71bf84",
     "name": "オーガフィスト",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "uht9jzic",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "サソリ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "ボックス・カラテ"
+    ],
+    "role": "ワイズマン",
+    "appearance": "身長159cm。スキンヘッド。メンポ。\nヤクザスーツ。背中に怒れるオニの刺青、カラテの高まりによって服越しに燃え上がる。",
+    "description": "過冬の上級戦士ワイズマンの一人。弟分が複数いる。\n背の低さを活かしたボックス・カラテで一方的に殴り勝つ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AA%E3%83%BC%E3%82%AC%E3%83%95%E3%82%A3%E3%82%B9%E3%83%88",
+    "appearances": [
+      {
+        "id": "0ssoqq7s"
+      },
+      {
+        "id": "kehqgsdx"
+      },
+      {
+        "id": "wjryt0u9"
+      }
+    ],
     "organizations": [
       {
         "id": "3d06734e"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AA%E3%83%BC%E3%82%AC%E3%83%95%E3%82%A3%E3%82%B9%E3%83%88"
+    ]
   },
   {
     "id": "705828",
     "name": "キンジャール",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "lesw175g",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "シノビ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "マガ・ツメ",
+      "マガ・キバ",
+      "トビマッタキ"
+    ],
+    "role": "ワイズマン",
+    "appearance": "右目がカタナ社製のサイバネ・アイ。メンポ。",
+    "description": "過冬の上級戦士ワイズマンの一人。\nカタナ社製の特殊クナイ・ダガー二刀流のタツジン。\n加えてシノビ・ニンジャクランの謎めいた秘儀も隠し持つ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AD%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%AB",
+    "appearances": [
+      {
+        "id": "0ssoqq7s"
+      }
+    ],
     "organizations": [
       {
         "id": "3d06734e"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AD%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%AB"
+    ]
   },
   {
     "id": "4a4829",
@@ -35294,13 +35374,38 @@
   {
     "id": "82ec96",
     "name": "サキュバス",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "xn816r25",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ハッカー",
+      "スケベ・ドミネイター",
+      "サマーソルトキック"
+    ],
+    "role": "ワイズマン",
+    "appearance": "バラクラバ。精悍な男。\nコトダマ空間上では性的エクスプロイットな外見。",
+    "description": "過冬の上級戦士ワイズマンの一人。\n数々のウィルスを操るハッカーニンジャ。現実世界でのカラテも強い。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%82%AD%E3%83%A5%E3%83%90%E3%82%B9",
+    "appearances": [
+      {
+        "id": "0ssoqq7s"
+      },
+      {
+        "id": "kehqgsdx"
+      }
+    ],
     "organizations": [
       {
         "id": "3d06734e"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%82%AD%E3%83%A5%E3%83%90%E3%82%B9"
+    ]
   },
   {
     "id": "26f0ab",
@@ -35379,13 +35484,40 @@
   {
     "id": "02a083",
     "name": "スノーマン",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "xrp0lx55",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "ビッグ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "ビッグカラテ",
+      "アメナガレ・ジツ"
+    ],
+    "role": "ワイズマン",
+    "appearance": "身長3m超。ビッグニンジャの巨体。顎が開くメンポ。",
+    "description": "過冬の上級戦士ワイズマンの一人。\nビッグニンジャのカラテに加え、肉体を流体化させる脅威のジツで攻撃を無力化する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%8E%E3%83%BC%E3%83%9E%E3%83%B3",
+    "appearances": [
+      {
+        "id": "0ssoqq7s"
+      },
+      {
+        "id": "wjryt0u9"
+      },
+      {
+        "id": "vrvaz1y4"
+      }
+    ],
     "organizations": [
       {
         "id": "3d06734e"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%8E%E3%83%BC%E3%83%9E%E3%83%B3"
+    ]
   },
   {
     "id": "9ddf99",
