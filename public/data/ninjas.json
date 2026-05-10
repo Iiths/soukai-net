@@ -11021,14 +11021,38 @@
   {
     "id": "ffe45bd2",
     "name": "イルストーン",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "v0pi82rm",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "スリケン"
+    ],
+    "appearance": "クロスカタナのエンブレム。",
+    "description": "ソウカイヤのニンジャ。\n第二次増援としてシトカ入りした。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%83%AB%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3",
+    "appearances": [
+      {
+        "id": "kehqgsdx"
+      },
+      {
+        "id": "wjryt0u9"
+      },
+      {
+        "id": "vrvaz1y4"
+      }
+    ],
     "organizations": [
       {
         "id": "soukaiya-p4"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%83%AB%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3"
+    ]
   },
   {
     "id": "c1328ecd",
@@ -35829,13 +35853,33 @@
   {
     "id": "23b5ad",
     "name": "サイベリオン",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "n7x2dca7",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "チェーンソーマチェットガン",
+      "アクセスポイント・ジツ"
+    ],
+    "appearance": "装甲の上にニンジャ装束。脳以外サイバネの可能性あり。\nLANドレッドヘアー。",
+    "description": "過冬のサイバネニンジャ。\nクナイを撃ち込んだ相手をコトダマ空間に強制接続させてしまう。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%82%A4%E3%83%99%E3%83%AA%E3%82%AA%E3%83%B3",
+    "appearances": [
+      {
+        "id": "kehqgsdx"
+      }
+    ],
     "organizations": [
       {
         "id": "3d06734e"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%82%A4%E3%83%99%E3%83%AA%E3%82%AA%E3%83%B3"
+    ]
   },
   {
     "id": "a11004",
@@ -35938,13 +35982,32 @@
   {
     "id": "9a804c",
     "name": "スノーレオパルド",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "d1o8l5t5",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "サイバネ爪"
+    ],
+    "appearance": "巨大なサイバネ爪。白いニンジャ装束。",
+    "description": "過冬のニンジャ。オーガフィストの舎弟。\n巨大サイバネ爪を振るう。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%8E%E3%83%BC%E3%83%AC%E3%82%AA%E3%83%91%E3%83%AB%E3%83%89",
+    "appearances": [
+      {
+        "id": "kehqgsdx"
+      }
+    ],
     "organizations": [
       {
         "id": "3d06734e"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%8E%E3%83%BC%E3%83%AC%E3%82%AA%E3%83%91%E3%83%AB%E3%83%89"
+    ]
   },
   {
     "id": "916414",
@@ -36004,13 +36067,32 @@
   {
     "id": "9d6534",
     "name": "タルナード",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "ouo70zo3",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "スリケン・サブマシンガン"
+    ],
+    "appearance": "メンポ。タバコ。二丁のスリケンサブマシンガン。",
+    "description": "過冬のニンジャ。\n二丁のサブマシンガンからマイクロスリケンをフルオート射撃する。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%83%AB%E3%83%8A%E3%83%BC%E3%83%89",
+    "appearances": [
+      {
+        "id": "kehqgsdx"
+      }
+    ],
     "organizations": [
       {
         "id": "3d06734e"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%83%AB%E3%83%8A%E3%83%BC%E3%83%89"
+    ]
   },
   {
     "id": "d306f2",
@@ -36048,13 +36130,31 @@
   {
     "id": "b2911e",
     "name": "トールズハンマー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "zv8npghf",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "カラテ・ハンマー"
+    ],
+    "description": "過冬のニンジャ。\n便利なカラテ・ハンマーの使い手。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%88%E3%83%BC%E3%83%AB%E3%82%BA%E3%83%8F%E3%83%B3%E3%83%9E%E3%83%BC",
+    "appearances": [
+      {
+        "id": "kehqgsdx"
+      }
+    ],
     "organizations": [
       {
         "id": "3d06734e"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%88%E3%83%BC%E3%83%AB%E3%82%BA%E3%83%8F%E3%83%B3%E3%83%9E%E3%83%BC"
+    ]
   },
   {
     "id": "4ab2e2",
@@ -36145,24 +36245,60 @@
   {
     "id": "019890",
     "name": "フォーマルハウト",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "qck9x6ib",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ヒカリ・ケン"
+    ],
+    "description": "過冬のニンジャ。\n閃光を凝縮したヒカリ・ケンを生成する。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%AB%E3%83%8F%E3%82%A6%E3%83%88",
+    "appearances": [
+      {
+        "id": "kehqgsdx"
+      }
+    ],
     "organizations": [
       {
         "id": "3d06734e"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%AB%E3%83%8F%E3%82%A6%E3%83%88"
+    ]
   },
   {
     "id": "86c2df",
     "name": "ブラックソイル",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "4b6lmx21",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ドトン・ジツ"
+    ],
+    "description": "過冬のニンジャ。オーガフィストの舎弟。\nドトン・ジツで地中から敵を拘束する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%BD%E3%82%A4%E3%83%AB",
+    "appearances": [
+      {
+        "id": "kehqgsdx"
+      }
+    ],
     "organizations": [
       {
         "id": "3d06734e"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%BD%E3%82%A4%E3%83%AB"
+    ]
   },
   {
     "id": "939b27",
@@ -36312,13 +36448,37 @@
   {
     "id": "6c42e4",
     "name": "ラジエイター",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "wsbvbt3o",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ムテキ・アティチュード"
+    ],
+    "description": "過冬のニンジャ。\nエメツ抽出装置オマークを警備していた。ムテキ使い。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%82%B8%E3%82%A8%E3%82%A4%E3%82%BF%E3%83%BC",
+    "appearances": [
+      {
+        "id": "kehqgsdx"
+      },
+      {
+        "id": "vrvaz1y4"
+      },
+      {
+        "id": "i9di1e9q"
+      }
+    ],
     "organizations": [
       {
         "id": "3d06734e"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%82%B8%E3%82%A8%E3%82%A4%E3%82%BF%E3%83%BC"
+    ]
   },
   {
     "id": "ea6dcd",
@@ -36393,13 +36553,29 @@
   {
     "id": "d00119",
     "name": "ロードランナー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "dv35gmqe",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "description": "過冬のニンジャ。\nオーガフィストの弟分。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AD%E3%83%BC%E3%83%89%E3%83%A9%E3%83%B3%E3%83%8A%E3%83%BC",
+    "appearances": [
+      {
+        "id": "kehqgsdx"
+      }
+    ],
     "organizations": [
       {
         "id": "3d06734e"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AD%E3%83%BC%E3%83%89%E3%83%A9%E3%83%B3%E3%83%8A%E3%83%BC"
+    ]
   },
   {
     "id": "66654c",
@@ -39607,14 +39783,6 @@
     "organizations": [],
     "appearances": [],
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%A3%E3%83%9F%E3%83%88%E3%83%AA"
-  },
-  {
-    "id": "09da4e47",
-    "name": "クローザー",
-    "ninjaType": "リアルニンジャ",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%AD%E3%83%BC%E3%82%B6%E3%83%BC"
   },
   {
     "id": "1dpwy75s",
