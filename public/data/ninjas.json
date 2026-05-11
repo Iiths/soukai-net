@@ -10994,20 +10994,20 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "description": "ソウカイヤのニンジャ。\nシトカ行きポータルへの侵入者を阻もうとした。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%A6%E3%82%AF%E3%82%B7%E3%83%AA%E3%82%A2",
+    "organizations": [
+      {
+        "id": "soukaiya-p4"
+      }
+    ],
     "appearances": [
       {
         "id": "wjryt0u9"
       }
     ],
-    "organizations": [
-      {
-        "id": "soukaiya-p4"
-      }
-    ]
+    "skills": [],
+    "description": "ソウカイヤのニンジャ。\nシトカ行きポータルへの侵入者を阻もうとした。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%A6%E3%82%AF%E3%82%B7%E3%83%AA%E3%82%A2"
   },
   {
     "id": "76c4573e",
@@ -11021,20 +11021,20 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "description": "ソウカイヤのニンジャ。\nシトカにて過冬と交戦したが、捕まってしまった。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%A9%E3%83%9E%E3%83%B3%E3%83%80",
+    "organizations": [
+      {
+        "id": "soukaiya-p4"
+      }
+    ],
     "appearances": [
       {
         "id": "typqvzha"
       }
     ],
-    "organizations": [
-      {
-        "id": "soukaiya-p4"
-      }
-    ]
+    "skills": [],
+    "description": "ソウカイヤのニンジャ。\nシトカにて過冬と交戦したが、捕まってしまった。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%A9%E3%83%9E%E3%83%B3%E3%83%80"
   },
   {
     "id": "cefb9aa7",
@@ -11245,22 +11245,22 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "毒爪"
+    "organizations": [
+      {
+        "id": "soukaiya-p4"
+      }
     ],
-    "description": "ソウカイヤのニンジャ。\n足の爪先に毒を仕込む。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AA%E3%82%B6%E3%83%BC%E3%83%89%E3%83%99%E3%83%8E%E3%83%A0",
     "appearances": [
       {
         "id": "vrvaz1y4"
       }
     ],
-    "organizations": [
-      {
-        "id": "soukaiya-p4"
-      }
-    ]
+    "skills": [
+      "毒爪"
+    ],
+    "description": "ソウカイヤのニンジャ。\n足の爪先に毒を仕込む。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AA%E3%82%B6%E3%83%BC%E3%83%89%E3%83%99%E3%83%8E%E3%83%A0"
   },
   {
     "id": "148d18d5",
@@ -35691,20 +35691,20 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "description": "過冬のニンジャ。\nベアゴージと義兄弟の契りを交わしていた。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%99%E3%82%B9%E3%83%86%E3%82%A3%E3%82%A2%E3%83%AA%E3%82%A6%E3%82%B9%EF%BC%8F%E3%82%A2%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%A1%E3%82%A4%E3%83%87%E3%83%B3%EF%BC%8F%E3%83%87%E3%83%83%E3%83%89%E3%83%AA%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81",
+    "organizations": [
+      {
+        "id": "3d06734e"
+      }
+    ],
     "appearances": [
       {
         "id": "typqvzha"
       }
     ],
-    "organizations": [
-      {
-        "id": "3d06734e"
-      }
-    ]
+    "skills": [],
+    "description": "過冬のニンジャ。\nベアゴージと義兄弟の契りを交わしていた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%99%E3%82%B9%E3%83%86%E3%82%A3%E3%82%A2%E3%83%AA%E3%82%A6%E3%82%B9%EF%BC%8F%E3%82%A2%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%A1%E3%82%A4%E3%83%87%E3%83%B3%EF%BC%8F%E3%83%87%E3%83%83%E3%83%89%E3%83%AA%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81"
   },
   {
     "id": "184d3885",
@@ -35718,22 +35718,22 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "棘の生成"
+    "organizations": [
+      {
+        "id": "3d06734e"
+      }
     ],
-    "description": "過冬のニンジャ。\n相手の身体の内側からウニめいた棘を飛び出させる奇怪なジツを使う。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%99%E3%82%B9%E3%83%86%E3%82%A3%E3%82%A2%E3%83%AA%E3%82%A6%E3%82%B9%EF%BC%8F%E3%82%A2%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%A1%E3%82%A4%E3%83%87%E3%83%B3%EF%BC%8F%E3%83%87%E3%83%83%E3%83%89%E3%83%AA%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81",
     "appearances": [
       {
         "id": "typqvzha"
       }
     ],
-    "organizations": [
-      {
-        "id": "3d06734e"
-      }
-    ]
+    "skills": [
+      "棘の生成"
+    ],
+    "description": "過冬のニンジャ。\n相手の身体の内側からウニめいた棘を飛び出させる奇怪なジツを使う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%99%E3%82%B9%E3%83%86%E3%82%A3%E3%82%A2%E3%83%AA%E3%82%A6%E3%82%B9%EF%BC%8F%E3%82%A2%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%A1%E3%82%A4%E3%83%87%E3%83%B3%EF%BC%8F%E3%83%87%E3%83%83%E3%83%89%E3%83%AA%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81"
   },
   {
     "id": "2208ec1d",
@@ -35747,13 +35747,42 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "description": "過冬のニンジャ。\nカニ漁船をシメていた。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%99%E3%82%B9%E3%83%86%E3%82%A3%E3%82%A2%E3%83%AA%E3%82%A6%E3%82%B9%EF%BC%8F%E3%82%A2%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%A1%E3%82%A4%E3%83%87%E3%83%B3%EF%BC%8F%E3%83%87%E3%83%83%E3%83%89%E3%83%AA%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81",
+    "organizations": [
+      {
+        "id": "3d06734e"
+      }
+    ],
     "appearances": [
       {
         "id": "typqvzha"
+      }
+    ],
+    "skills": [],
+    "description": "過冬のニンジャ。\nカニ漁船をシメていた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%99%E3%82%B9%E3%83%86%E3%82%A3%E3%82%A2%E3%83%AA%E3%82%A6%E3%82%B9%EF%BC%8F%E3%82%A2%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%A1%E3%82%A4%E3%83%87%E3%83%B3%EF%BC%8F%E3%83%87%E3%83%83%E3%83%89%E3%83%AA%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81"
+  },
+  {
+    "id": "5e343f",
+    "name": "ヴァイオレット",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "a3bx2f0s",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "サイ二刀流"
+    ],
+    "description": "過冬のニンジャ。\n二刀のサイを用い、他ニンジャと連携して戦う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%B4%E3%82%A1%E3%82%A4%E3%82%AA%E3%83%AC%E3%83%83%E3%83%88",
+    "appearances": [
+      {
+        "id": "i9di1e9q"
       }
     ],
     "organizations": [
@@ -35761,17 +35790,6 @@
         "id": "3d06734e"
       }
     ]
-  },
-  {
-    "id": "5e343f",
-    "name": "ヴァイオレット",
-    "organizations": [
-      {
-        "id": "3d06734e"
-      }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%B4%E3%82%A1%E3%82%A4%E3%82%AA%E3%83%AC%E3%83%83%E3%83%88"
   },
   {
     "id": "9ffed0",
@@ -35803,24 +35821,62 @@
   {
     "id": "f57bea22",
     "name": "ウィトルウィウス",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "u91v29n7",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "古代ローマカラテ",
+      "パンクラチオン"
+    ],
+    "appearance": "メンポ。",
+    "description": "過冬のニンジャ。\n古代ローマカラテの使い手。なかなか強い。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%82%A3%E3%83%88%E3%83%AB%E3%82%A6%E3%82%A3%E3%82%A6%E3%82%B9%EF%BC%8F%E3%83%97%E3%83%96%E3%83%AA%E3%82%A6%E3%82%B9",
+    "appearances": [
+      {
+        "id": "i9di1e9q"
+      }
+    ],
     "organizations": [
       {
         "id": "3d06734e"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%82%A3%E3%83%88%E3%83%AB%E3%82%A6%E3%82%A3%E3%82%A6%E3%82%B9%EF%BC%8F%E3%83%97%E3%83%96%E3%83%AA%E3%82%A6%E3%82%B9"
+    ]
   },
   {
     "id": "b19ceafd",
     "name": "プブリウス",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "d19blsai",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "関節技"
+    ],
+    "description": "過冬のニンジャ。\n関節技のプロ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%82%A3%E3%83%88%E3%83%AB%E3%82%A6%E3%82%A3%E3%82%A6%E3%82%B9%EF%BC%8F%E3%83%97%E3%83%96%E3%83%AA%E3%82%A6%E3%82%B9",
+    "appearances": [
+      {
+        "id": "i9di1e9q"
+      }
+    ],
     "organizations": [
       {
         "id": "3d06734e"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%82%A3%E3%83%88%E3%83%AB%E3%82%A6%E3%82%A3%E3%82%A6%E3%82%B9%EF%BC%8F%E3%83%97%E3%83%96%E3%83%AA%E3%82%A6%E3%82%B9"
+    ]
   },
   {
     "id": "40b46b",
@@ -35864,21 +35920,21 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "appearance": "メンポ。",
-    "description": "過冬のニンジャ。\nソウカイヤと交戦した。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%83%83%E3%83%89%E3%83%AD%E3%83%83%E3%83%88",
+    "organizations": [
+      {
+        "id": "3d06734e"
+      }
+    ],
     "appearances": [
       {
         "id": "vrvaz1y4"
       }
     ],
-    "organizations": [
-      {
-        "id": "3d06734e"
-      }
-    ]
+    "skills": [],
+    "appearance": "メンポ。",
+    "description": "過冬のニンジャ。\nソウカイヤと交戦した。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%83%83%E3%83%89%E3%83%AD%E3%83%83%E3%83%88"
   },
   {
     "id": "20b4ec",
@@ -35892,23 +35948,23 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "3d06734e"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "typqvzha"
+      }
+    ],
     "skills": [
       "ドクケムリ・ジツ"
     ],
     "appearance": "ガスマスクメンポ。「危険度の高い気体の吸引です」と文字が流れるゴーグル。ブレーサー。",
     "description": "過冬のニンジャ。\nブレーサーの切れ目から有毒の緑の煙を放つ。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AC%E3%82%B9%E3%83%8F%E3%83%95%E3%82%A1%E3%83%BC",
-    "appearances": [
-      {
-        "id": "typqvzha"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "3d06734e"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AC%E3%82%B9%E3%83%8F%E3%83%95%E3%82%A1%E3%83%BC"
   },
   {
     "id": "d2251c",
@@ -35951,14 +36007,11 @@
       "clan": "",
       "origin": "ヘビ・ニンジャ系か"
     },
-    "skills": [
-      "毒蛇ナイフ",
-      "ピット器官"
+    "organizations": [
+      {
+        "id": "3d06734e"
+      }
     ],
-    "appearance": "腰にダガーを収納するホルスター。",
-    "description": "過冬のニンジャ。\n波打つ毒蛇ナイフを獲物とする。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AC%E3%83%87%E3%83%A5%E3%83%BC%E3%82%AB%EF%BC%8F%E3%82%AF%E3%83%AD%E3%83%BC%E3%82%B7%E3%82%AB",
     "appearances": [
       {
         "id": "typqvzha"
@@ -35967,11 +36020,14 @@
         "id": "vr3fq73p"
       }
     ],
-    "organizations": [
-      {
-        "id": "3d06734e"
-      }
-    ]
+    "skills": [
+      "毒蛇ナイフ",
+      "ピット器官"
+    ],
+    "appearance": "腰にダガーを収納するホルスター。",
+    "description": "過冬のニンジャ。\n波打つ毒蛇ナイフを獲物とする。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AC%E3%83%87%E3%83%A5%E3%83%BC%E3%82%AB%EF%BC%8F%E3%82%AF%E3%83%AD%E3%83%BC%E3%82%B7%E3%82%AB"
   },
   {
     "id": "ac6d31f4",
@@ -35985,22 +36041,22 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "チョップ"
+    "organizations": [
+      {
+        "id": "3d06734e"
+      }
     ],
-    "description": "過冬のニンジャ。\nチョップが強い。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AC%E3%83%87%E3%83%A5%E3%83%BC%E3%82%AB%EF%BC%8F%E3%82%AF%E3%83%AD%E3%83%BC%E3%82%B7%E3%82%AB",
     "appearances": [
       {
         "id": "typqvzha"
       }
     ],
-    "organizations": [
-      {
-        "id": "3d06734e"
-      }
-    ]
+    "skills": [
+      "チョップ"
+    ],
+    "description": "過冬のニンジャ。\nチョップが強い。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AC%E3%83%87%E3%83%A5%E3%83%BC%E3%82%AB%EF%BC%8F%E3%82%AF%E3%83%AD%E3%83%BC%E3%82%B7%E3%82%AB"
   },
   {
     "id": "1f317f",
@@ -36014,6 +36070,16 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "3d06734e"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "typqvzha"
+      }
+    ],
     "skills": [
       "カレイドスコープ・ヴィジョン・ジツ",
       "カレイド・ヒカリ・スリケン"
@@ -36021,17 +36087,7 @@
     "appearance": "ランダムに移り変わるテキスタイルニンジャ装束。メンポ。",
     "description": "過冬のニンジャ。\nミラーイメージの空間投射で行方をくらまし、全方位から色彩スリケンで攻撃する。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%83%AC%E3%82%A4%E3%83%89%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%97",
-    "appearances": [
-      {
-        "id": "typqvzha"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "3d06734e"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%83%AC%E3%82%A4%E3%83%89%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%97"
   },
   {
     "id": "bfef78",
@@ -36045,22 +36101,22 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "古代ローマカラテ"
+    "organizations": [
+      {
+        "id": "3d06734e"
+      }
     ],
-    "description": "過冬のニンジャ。\n古代ローマカラテの使い手。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B3%E3%83%AB%E3%82%A6%E3%82%B9",
     "appearances": [
       {
         "id": "0nci6tph"
       }
     ],
-    "organizations": [
-      {
-        "id": "3d06734e"
-      }
-    ]
+    "skills": [
+      "古代ローマカラテ"
+    ],
+    "description": "過冬のニンジャ。\n古代ローマカラテの使い手。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B3%E3%83%AB%E3%82%A6%E3%82%B9"
   },
   {
     "id": "23b5ad",
@@ -36105,6 +36161,16 @@
       "clan": "ツナミ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "3d06734e"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "0nci6tph"
+      }
+    ],
     "skills": [
       "ジェットホバ・ジツ",
       "クナイ・ダート"
@@ -36112,17 +36178,7 @@
     "appearance": "身長173cm。黒にビビッドな黄色が入ったニンジャ装束。",
     "description": "過冬のニンジャ。\n足から水を、手から空気を出して三次元カラテを繰り広げる。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%9A%E3%83%B3%E3%83%88",
-    "appearances": [
-      {
-        "id": "0nci6tph"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "3d06734e"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%9A%E3%83%B3%E3%83%88"
   },
   {
     "id": "294838",
@@ -36253,16 +36309,45 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "3d06734e"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "typqvzha"
+      }
+    ],
     "skills": [
       "霞噴霧",
       "スモークソード・ジツ"
     ],
     "description": "過冬のニンジャ。\n霞を噴射して視界を遮り、その霞を凝縮したスモークソードを獲物とする。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%A2%E3%83%BC%E3%82%AF%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%A2%E3%83%BC%E3%82%AF%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3"
+  },
+  {
+    "id": "6d3b64",
+    "name": "スリカータ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "hunzrfsj",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "トライアングル・リープ"
+    ],
+    "description": "過冬のニンジャ。\nニンジャ俊敏性を活かして死角から奇襲する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%AA%E3%82%AB%E3%83%BC%E3%82%BF",
     "appearances": [
       {
-        "id": "typqvzha"
+        "id": "i9di1e9q"
       }
     ],
     "organizations": [
@@ -36270,17 +36355,6 @@
         "id": "3d06734e"
       }
     ]
-  },
-  {
-    "id": "6d3b64",
-    "name": "スリカータ",
-    "organizations": [
-      {
-        "id": "3d06734e"
-      }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%AA%E3%82%AB%E3%83%BC%E3%82%BF"
   },
   {
     "id": "7a84c9",
@@ -36410,13 +36484,35 @@
   {
     "id": "4ab2e2",
     "name": "ドットサイト",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "xorld5zj",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "スリケン"
+    ],
+    "appearance": "単眼サイバネアイ。両腕がスリケン射出機構付きサイバネ腕。",
+    "description": "過冬のニンジャ。\n手の甲からスリケンを発射。野伏力に優れる。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%89%E3%83%83%E3%83%88%E3%82%B5%E3%82%A4%E3%83%88",
+    "appearances": [
+      {
+        "id": "i9di1e9q"
+      },
+      {
+        "id": "vr3fq73p"
+      }
+    ],
     "organizations": [
       {
         "id": "3d06734e"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%89%E3%83%83%E3%83%88%E3%82%B5%E3%82%A4%E3%83%88"
+    ]
   },
   {
     "id": "a7b132",
@@ -36452,24 +36548,61 @@
   {
     "id": "6f9fab",
     "name": "バルディーシュ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "9hvq2gis",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "槍斧"
+    ],
+    "description": "過冬のニンジャ。\n槍斧が獲物。中々の使い手である。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%83%AB%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B7%E3%83%A5",
+    "appearances": [
+      {
+        "id": "i9di1e9q"
+      }
+    ],
     "organizations": [
       {
         "id": "3d06734e"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%83%AB%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B7%E3%83%A5"
+    ]
   },
   {
     "id": "fd5cb6",
     "name": "ビスカニエーチナシチ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "zj88o29m",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "緊急脱出用カイト"
+    ],
+    "appearance": "ヤクザシューズ。",
+    "description": "過冬のニンジャ。\n戦闘力はあまりなく、商取引がメイン。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%93%E3%82%B9%E3%82%AB%E3%83%8B%E3%82%A8%E3%83%BC%E3%83%81%E3%83%8A%E3%82%B7%E3%83%81",
+    "appearances": [
+      {
+        "id": "i9di1e9q"
+      }
+    ],
     "organizations": [
       {
         "id": "3d06734e"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%93%E3%82%B9%E3%82%AB%E3%83%8B%E3%82%A8%E3%83%BC%E3%83%81%E3%83%8A%E3%82%B7%E3%83%81"
+    ]
   },
   {
     "id": "3749e1",
@@ -36483,16 +36616,45 @@
       "clan": "コリ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "3d06734e"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "0nci6tph"
+      }
+    ],
     "skills": [
       "ササメコリ・ジツ",
       "コリの歩法"
     ],
     "description": "過冬のニンジャ。\n周囲に氷クナイを展開するササメコリ・ジツの使い手。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%93%E3%83%AD%E3%82%A6%E3%82%B5%E3%83%BC%E3%82%B8",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%93%E3%83%AD%E3%82%A6%E3%82%B5%E3%83%BC%E3%82%B8"
+  },
+  {
+    "id": "d4d6f2",
+    "name": "ファイアウォール",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "2uw1uyp8",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "炎の壁（カトン・ジツ）"
+    ],
+    "description": "過冬のニンジャ。\nニンジャネーム通り炎の壁を作る。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB",
     "appearances": [
       {
-        "id": "0nci6tph"
+        "id": "i9di1e9q"
       }
     ],
     "organizations": [
@@ -36500,17 +36662,6 @@
         "id": "3d06734e"
       }
     ]
-  },
-  {
-    "id": "d4d6f2",
-    "name": "ファイアウォール",
-    "organizations": [
-      {
-        "id": "3d06734e"
-      }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB"
   },
   {
     "id": "019890",
@@ -36582,22 +36733,22 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "サイコリフレクト・ジツ"
+    "organizations": [
+      {
+        "id": "3d06734e"
+      }
     ],
-    "description": "過冬のニンジャ。\nサイコリフレクト・ジツで飛び道具を跳ね返す。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%83%AA%E3%83%BC%E3%82%B8%E3%82%A2",
     "appearances": [
       {
         "id": "typqvzha"
       }
     ],
-    "organizations": [
-      {
-        "id": "3d06734e"
-      }
-    ]
+    "skills": [
+      "サイコリフレクト・ジツ"
+    ],
+    "description": "過冬のニンジャ。\nサイコリフレクト・ジツで飛び道具を跳ね返す。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%83%AA%E3%83%BC%E3%82%B8%E3%82%A2"
   },
   {
     "id": "f5b5ac",
@@ -36734,6 +36885,16 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "3d06734e"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "vrvaz1y4"
+      }
+    ],
     "skills": [
       "噛みつき",
       "ドス・ダガー"
@@ -36741,17 +36902,7 @@
     "appearance": "ダークスーツ。戦闘時はニンジャ装束。変形メンポ。",
     "description": "過冬のニンジャ。\nメンポが食人魚の牙に変形。敵に喰らいつく。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%B3%E3%82%AF%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5",
-    "appearances": [
-      {
-        "id": "vrvaz1y4"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "3d06734e"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%B3%E3%82%AF%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5"
   },
   {
     "id": "6c42e4",
@@ -36850,13 +37001,33 @@
   {
     "id": "b5d14c",
     "name": "レッドゴブレット",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "8zfqt0lv",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "盃スリケン",
+      "スリケン"
+    ],
+    "appearance": "赤く巨大な盃を持つ。",
+    "description": "過冬のニンジャ。\n巨大盃をスリケン代わりに投擲する。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%83%83%E3%83%89%E3%82%B4%E3%83%96%E3%83%AC%E3%83%83%E3%83%88",
+    "appearances": [
+      {
+        "id": "i9di1e9q"
+      }
+    ],
     "organizations": [
       {
         "id": "3d06734e"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%83%83%E3%83%89%E3%82%B4%E3%83%96%E3%83%AC%E3%83%83%E3%83%88"
+    ]
   },
   {
     "id": "d00119",
@@ -39947,14 +40118,7 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "カラテ・ハープーン",
-      "「一番美しいお前」号"
-    ],
-    "appearance": "隻腕。隻脚。隻眼。老人。\nフジツボがこびりつく赤銅色の顔。爛々と輝く目。\n複数の三つ編みからなる長い髪。長い髭。",
-    "description": "シトカを取り仕切っていた船長ニンジャ。\nハープーンをカラテ生成し、凄まじいニンジャ膂力で投擲する。\n過冬に敗れ、シトカでのイクサに参戦するも現在は海で隠居している。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%89%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3",
+    "organizations": [],
     "appearances": [
       {
         "id": "typqvzha"
@@ -39966,7 +40130,14 @@
         "id": "his9gvkp"
       }
     ],
-    "organizations": []
+    "skills": [
+      "カラテ・ハープーン",
+      "「一番美しいお前」号"
+    ],
+    "appearance": "隻腕。隻脚。隻眼。老人。\nフジツボがこびりつく赤銅色の顔。爛々と輝く目。\n複数の三つ編みからなる長い髪。長い髭。",
+    "description": "シトカを取り仕切っていた船長ニンジャ。\nハープーンをカラテ生成し、凄まじいニンジャ膂力で投擲する。\n過冬に敗れ、シトカでのイクサに参戦するも現在は海で隠居している。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%89%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3"
   },
   {
     "id": "7ada5919",
@@ -43812,5 +43983,30 @@
     "description": "スーサイドの相棒として活動していたニンジャ。故人。",
     "status": "dead",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%82%A4%E3%82%BC%E3%83%AB"
+  },
+  {
+    "id": "pjqsd1wy",
+    "name": "タイダルテンペスト",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "jvwlqy33",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [],
+    "appearance": "屈強な体格。腕に波濤タトゥー。\nねじりハチマキ。メンポ。",
+    "description": "遠洋漁業に従事するシトカの海のニンジャ。\nオールドストーンの帰還によって隆起した。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%82%A4%E3%83%80%E3%83%AB%E3%83%86%E3%83%B3%E3%83%9A%E3%82%B9%E3%83%88",
+    "appearances": [
+      {
+        "id": "i9di1e9q"
+      },
+      {
+        "id": "his9gvkp"
+      }
+    ],
+    "organizations": []
   }
 ]
