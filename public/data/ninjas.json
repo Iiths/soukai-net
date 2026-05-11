@@ -17846,14 +17846,39 @@
   {
     "id": "7d9c6fd5",
     "name": "フェルファング",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "a1uypwya",
+      "name": "フェンリル・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ソウルの力付与"
+    ],
+    "role": "マスター位階",
+    "appearance": "巨大な狼。宝石めいた目。白い炎めいた壮麗な毛並み。",
+    "description": "新生ザイバツのニンジャアニマル。\n強大なソウルの力を他者にも分け与えることができる。\nグランドマスター地位を狙っている。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%B0",
+    "appearances": [
+      {
+        "id": "his9gvkp"
+      },
+      {
+        "id": "2jvhv6np"
+      },
+      {
+        "id": "6dcsfo7u"
+      }
+    ],
     "organizations": [
       {
         "id": "zaibatsu-p3p4"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%B0"
+    ]
   },
   {
     "id": "0140f4aa",
@@ -17897,24 +17922,59 @@
   {
     "id": "d2d90a63",
     "name": "アジリティ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "8ma4j9wo",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "zaibatsu-p3p4"
       }
     ],
-    "appearances": []
+    "appearances": [
+      {
+        "id": "his9gvkp"
+      }
+    ],
+    "skills": [
+      "ニンジャ俊敏性"
+    ],
+    "description": "新生ザイバツのニンジャ。\n素早さが売り。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%B8%E3%83%AA%E3%83%86%E3%82%A3%EF%BC%8F%E3%83%9D%E3%83%BC%E3%83%B3"
   },
   {
     "id": "577ecb65",
     "name": "ヴンダーホルン",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "5u9ivhlf",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "zaibatsu-p3p4"
       }
     ],
-    "appearances": [],
+    "appearances": [
+      {
+        "id": "his9gvkp"
+      }
+    ],
+    "skills": [
+      "法螺貝"
+    ],
+    "description": "新生ザイバツのニンジャ。\n法螺貝は特殊なレリックで、使用者のカラテを吸収し自軍の士気を高める。",
+    "status": "alive",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%B4%E3%83%B3%E3%83%80%E3%83%BC%E3%83%9B%E3%83%AB%E3%83%B3"
   },
   {
@@ -18171,13 +18231,31 @@
   {
     "id": "fecce7e6",
     "name": "ポーン",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "fautcmxu",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "カタナ"
+    ],
+    "description": "新生ザイバツのニンジャ。\nカタナの修練を積んでいる。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%B8%E3%83%AA%E3%83%86%E3%82%A3%EF%BC%8F%E3%83%9D%E3%83%BC%E3%83%B3",
+    "appearances": [
+      {
+        "id": "his9gvkp"
+      }
+    ],
     "organizations": [
       {
         "id": "zaibatsu-p3p4"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "e1e94071",
@@ -23520,7 +23598,7 @@
       "id": "29xg1fz9",
       "name": "",
       "grade": "等級不明",
-      "clan": "ヘビニンジャ・クラン",
+      "clan": "ヘビ・ニンジャクラン",
       "origin": ""
     },
     "organizations": [
@@ -27624,20 +27702,6 @@
     "description": "ニンジャ修道会のニンジャ。元ザイバツアデプト。\n贖罪を求めているが、欺瞞である。",
     "status": "dead",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AF%E3%83%83%E3%83%81%E3%82%BF%E3%83%AF%E3%83%BC"
-  },
-  {
-    "id": "a8d6e771",
-    "name": "アジリティ",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%B8%E3%83%AA%E3%83%86%E3%82%A3%EF%BC%8F%E3%83%9D%E3%83%BC%E3%83%B3"
-  },
-  {
-    "id": "8045207b",
-    "name": "ポーン",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%B8%E3%83%AA%E3%83%86%E3%82%A3%EF%BC%8F%E3%83%9D%E3%83%BC%E3%83%B3"
   },
   {
     "id": "c5f76091",
@@ -34120,9 +34184,50 @@
   {
     "id": "f741d5",
     "name": "サツガイ",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%84%E3%82%AC%E3%82%A4"
+    "aliases": [],
+    "ninjaType": "カツ・ワンソーの影",
+    "skills": [
+      "ジツを与える力",
+      "ハッポースリケン",
+      "ニンポ"
+    ],
+    "appearance": "やや不定だが、概ね身長177cm。色も素材も判然としない襤褸布めいたフード。中は闇。\n【オラクル・オブ・マッポーカリプス】以降はブラスハートの顔。\n【フリージング・フジサン】以降は砂色の上衣。",
+    "description": "カツ・ワンソーのアヴァター。\n黒トロイから現れ、モータルを殺害しながらニンジャにランダムなジツを与える。\nその目的の一切が不明である。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%84%E3%82%AC%E3%82%A4",
+    "appearances": [
+      {
+        "id": "80qupnd7"
+      },
+      {
+        "id": "2a6d9f22"
+      },
+      {
+        "id": "0u9lh1lc"
+      },
+      {
+        "id": "63cf6a67"
+      },
+      {
+        "id": "0pg8ano6"
+      },
+      {
+        "id": "i9di1e9q"
+      },
+      {
+        "id": "his9gvkp"
+      },
+      {
+        "id": "ff3c9805"
+      },
+      {
+        "id": "8m0jzogt"
+      },
+      {
+        "id": "08f154f0"
+      }
+    ],
+    "organizations": []
   },
   {
     "id": "9b2cda",
@@ -34239,8 +34344,35 @@
   {
     "id": "dfa39e",
     "name": "アラシ・ニンジャ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "q4mik2mw",
+      "name": "アラシ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [],
-    "appearances": [],
+    "appearances": [
+      {
+        "id": "his9gvkp"
+      },
+      {
+        "id": "2ro7dlra"
+      },
+      {
+        "id": "70d7fbb4"
+      }
+    ],
+    "skills": [
+      "ソニックカラテ",
+      "稲妻",
+      "飛行能力"
+    ],
+    "appearance": "猛牛めいた金属の角。背が高い。腰まで長い髪。白く光る目。\n唸り風を集めたニンジャ装束。放電を繰り返す超自然の布地。",
+    "description": "ヒャッキ・ヤギョで顕現したリアルニンジャ。\n強大な力を持ちながら、風の向くままにあちこちを放浪している。",
+    "status": "alive",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%A9%E3%82%B7%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
   },
   {
@@ -34339,15 +34471,54 @@
   {
     "id": "296b76",
     "name": "ア・ニンジャ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "pzgrxo17",
+      "name": "ア・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [],
-    "appearances": [],
+    "appearances": [
+      {
+        "id": "his9gvkp"
+      }
+    ],
+    "skills": [
+      "カラテミサイル",
+      "ポン・パンチ"
+    ],
+    "description": "ヒャッキ・ヤギョで顕現したリアルニンジャ。\n弟ウン・ニンジャと合わせて強力なカラテミサイルを放つ。",
+    "status": "alive",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
   },
   {
     "id": "54fdf6",
     "name": "ウン・ニンジャ",
+    "aliases": [],
+    "ninjaType": "リアルニンジャ",
+    "ninjaSoul": {
+      "id": "6xc61vca",
+      "name": "ウン・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [],
-    "appearances": [],
+    "appearances": [
+      {
+        "id": "his9gvkp"
+      }
+    ],
+    "skills": [
+      "カラテミサイル",
+      "アサルト・カラテ爆発"
+    ],
+    "appearance": "右腕をケジメされた。",
+    "description": "ヒャッキ・ヤギョで顕現したリアルニンジャ。\n兄ア・ニンジャと合わせ強力なカラテミサイルを放つ。",
+    "status": "alive",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%83%B3%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
   },
   {
@@ -35774,22 +35945,22 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "サイ二刀流"
+    "organizations": [
+      {
+        "id": "3d06734e"
+      }
     ],
-    "description": "過冬のニンジャ。\n二刀のサイを用い、他ニンジャと連携して戦う。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%B4%E3%82%A1%E3%82%A4%E3%82%AA%E3%83%AC%E3%83%83%E3%83%88",
     "appearances": [
       {
         "id": "i9di1e9q"
       }
     ],
-    "organizations": [
-      {
-        "id": "3d06734e"
-      }
-    ]
+    "skills": [
+      "サイ二刀流"
+    ],
+    "description": "過冬のニンジャ。\n二刀のサイを用い、他ニンジャと連携して戦う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%B4%E3%82%A1%E3%82%A4%E3%82%AA%E3%83%AC%E3%83%83%E3%83%88"
   },
   {
     "id": "9ffed0",
@@ -35830,6 +36001,16 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "3d06734e"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "i9di1e9q"
+      }
+    ],
     "skills": [
       "古代ローマカラテ",
       "パンクラチオン"
@@ -35837,17 +36018,7 @@
     "appearance": "メンポ。",
     "description": "過冬のニンジャ。\n古代ローマカラテの使い手。なかなか強い。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%82%A3%E3%83%88%E3%83%AB%E3%82%A6%E3%82%A3%E3%82%A6%E3%82%B9%EF%BC%8F%E3%83%97%E3%83%96%E3%83%AA%E3%82%A6%E3%82%B9",
-    "appearances": [
-      {
-        "id": "i9di1e9q"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "3d06734e"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%82%A3%E3%83%88%E3%83%AB%E3%82%A6%E3%82%A3%E3%82%A6%E3%82%B9%EF%BC%8F%E3%83%97%E3%83%96%E3%83%AA%E3%82%A6%E3%82%B9"
   },
   {
     "id": "b19ceafd",
@@ -35861,22 +36032,22 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "関節技"
+    "organizations": [
+      {
+        "id": "3d06734e"
+      }
     ],
-    "description": "過冬のニンジャ。\n関節技のプロ。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%82%A3%E3%83%88%E3%83%AB%E3%82%A6%E3%82%A3%E3%82%A6%E3%82%B9%EF%BC%8F%E3%83%97%E3%83%96%E3%83%AA%E3%82%A6%E3%82%B9",
     "appearances": [
       {
         "id": "i9di1e9q"
       }
     ],
-    "organizations": [
-      {
-        "id": "3d06734e"
-      }
-    ]
+    "skills": [
+      "関節技"
+    ],
+    "description": "過冬のニンジャ。\n関節技のプロ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%82%A3%E3%83%88%E3%83%AB%E3%82%A6%E3%82%A3%E3%82%A6%E3%82%B9%EF%BC%8F%E3%83%97%E3%83%96%E3%83%AA%E3%82%A6%E3%82%B9"
   },
   {
     "id": "40b46b",
@@ -36339,22 +36510,22 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "トライアングル・リープ"
+    "organizations": [
+      {
+        "id": "3d06734e"
+      }
     ],
-    "description": "過冬のニンジャ。\nニンジャ俊敏性を活かして死角から奇襲する。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%AA%E3%82%AB%E3%83%BC%E3%82%BF",
     "appearances": [
       {
         "id": "i9di1e9q"
       }
     ],
-    "organizations": [
-      {
-        "id": "3d06734e"
-      }
-    ]
+    "skills": [
+      "トライアングル・リープ"
+    ],
+    "description": "過冬のニンジャ。\nニンジャ俊敏性を活かして死角から奇襲する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%AA%E3%82%AB%E3%83%BC%E3%82%BF"
   },
   {
     "id": "7a84c9",
@@ -36493,13 +36664,11 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "スリケン"
+    "organizations": [
+      {
+        "id": "3d06734e"
+      }
     ],
-    "appearance": "単眼サイバネアイ。両腕がスリケン射出機構付きサイバネ腕。",
-    "description": "過冬のニンジャ。\n手の甲からスリケンを発射。野伏力に優れる。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%89%E3%83%83%E3%83%88%E3%82%B5%E3%82%A4%E3%83%88",
     "appearances": [
       {
         "id": "i9di1e9q"
@@ -36508,11 +36677,13 @@
         "id": "vr3fq73p"
       }
     ],
-    "organizations": [
-      {
-        "id": "3d06734e"
-      }
-    ]
+    "skills": [
+      "スリケン"
+    ],
+    "appearance": "単眼サイバネアイ。両腕がスリケン射出機構付きサイバネ腕。",
+    "description": "過冬のニンジャ。\n手の甲からスリケンを発射。野伏力に優れる。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%89%E3%83%83%E3%83%88%E3%82%B5%E3%82%A4%E3%83%88"
   },
   {
     "id": "a7b132",
@@ -36557,22 +36728,22 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "槍斧"
+    "organizations": [
+      {
+        "id": "3d06734e"
+      }
     ],
-    "description": "過冬のニンジャ。\n槍斧が獲物。中々の使い手である。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%83%AB%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B7%E3%83%A5",
     "appearances": [
       {
         "id": "i9di1e9q"
       }
     ],
-    "organizations": [
-      {
-        "id": "3d06734e"
-      }
-    ]
+    "skills": [
+      "槍斧"
+    ],
+    "description": "過冬のニンジャ。\n槍斧が獲物。中々の使い手である。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%83%AB%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B7%E3%83%A5"
   },
   {
     "id": "fd5cb6",
@@ -36586,23 +36757,23 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "3d06734e"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "i9di1e9q"
+      }
+    ],
     "skills": [
       "緊急脱出用カイト"
     ],
     "appearance": "ヤクザシューズ。",
     "description": "過冬のニンジャ。\n戦闘力はあまりなく、商取引がメイン。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%93%E3%82%B9%E3%82%AB%E3%83%8B%E3%82%A8%E3%83%BC%E3%83%81%E3%83%8A%E3%82%B7%E3%83%81",
-    "appearances": [
-      {
-        "id": "i9di1e9q"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "3d06734e"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%93%E3%82%B9%E3%82%AB%E3%83%8B%E3%82%A8%E3%83%BC%E3%83%81%E3%83%8A%E3%82%B7%E3%83%81"
   },
   {
     "id": "3749e1",
@@ -36646,22 +36817,22 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "炎の壁（カトン・ジツ）"
+    "organizations": [
+      {
+        "id": "3d06734e"
+      }
     ],
-    "description": "過冬のニンジャ。\nニンジャネーム通り炎の壁を作る。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB",
     "appearances": [
       {
         "id": "i9di1e9q"
       }
     ],
-    "organizations": [
-      {
-        "id": "3d06734e"
-      }
-    ]
+    "skills": [
+      "炎の壁（カトン・ジツ）"
+    ],
+    "description": "過冬のニンジャ。\nニンジャネーム通り炎の壁を作る。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB"
   },
   {
     "id": "019890",
@@ -37010,6 +37181,16 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "3d06734e"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "i9di1e9q"
+      }
+    ],
     "skills": [
       "盃スリケン",
       "スリケン"
@@ -37017,17 +37198,7 @@
     "appearance": "赤く巨大な盃を持つ。",
     "description": "過冬のニンジャ。\n巨大盃をスリケン代わりに投擲する。",
     "status": "unknown",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%83%83%E3%83%89%E3%82%B4%E3%83%96%E3%83%AC%E3%83%83%E3%83%88",
-    "appearances": [
-      {
-        "id": "i9di1e9q"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "3d06734e"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%83%83%E3%83%89%E3%82%B4%E3%83%96%E3%83%AC%E3%83%83%E3%83%88"
   },
   {
     "id": "d00119",
@@ -39260,7 +39431,7 @@
       "id": "kvolip7t",
       "name": "フマー・ニンジャ",
       "grade": "アーチ級",
-      "clan": "フマー・ニンジャ",
+      "clan": "フマー・ニンジャクラン",
       "origin": ""
     },
     "organizations": [],
@@ -39347,9 +39518,24 @@
   {
     "id": "f4fd5cd1",
     "name": "アズマ・ニンジャ",
+    "aliases": [],
     "ninjaType": "リアルニンジャ",
+    "ninjaSoul": {
+      "id": "zecejh9d",
+      "name": "アズマ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [],
-    "appearances": [],
+    "appearances": [
+      {
+        "id": "his9gvkp"
+      }
+    ],
+    "skills": [],
+    "description": "ヒャッキ・ヤギョに加わったリアルニンジャ。\n飛行機のない時代の出身。",
+    "status": "unknown",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%BA%E3%83%9E%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
   },
   {
@@ -39493,17 +39679,58 @@
   {
     "id": "853a3b3d",
     "name": "グレンデル・ニンジャ",
+    "aliases": [],
     "ninjaType": "リアルニンジャ",
+    "ninjaSoul": {
+      "id": "5se94pzf",
+      "name": "グレンデル・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [],
-    "appearances": [],
+    "appearances": [
+      {
+        "id": "his9gvkp"
+      }
+    ],
+    "skills": [],
+    "description": "ヒャッキ・ヤギョで顕現したリアルニンジャ。",
+    "status": "unknown",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B0%E3%83%AC%E3%83%B3%E3%83%87%E3%83%AB%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
   },
   {
     "id": "30be5405",
     "name": "クロヤギ・ニンジャ",
+    "aliases": [],
     "ninjaType": "リアルニンジャ",
+    "ninjaSoul": {
+      "id": "z2sbus8l",
+      "name": "クロヤギ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [],
-    "appearances": [],
+    "appearances": [
+      {
+        "id": "his9gvkp"
+      },
+      {
+        "id": "7bd07f98"
+      },
+      {
+        "id": "d66fda01"
+      }
+    ],
+    "skills": [
+      "ロウ・ワンの秘儀",
+      "クロヤギ・ブンシン・ジツ",
+      "ハヤシの力"
+    ],
+    "appearance": "杖持つ女と黒山羊の融合じみた姿、\n複数の四肢持つ不定形の肉塊、\n黒山羊を実らせる巨大な肉の樹、\n森の中で踊る若き魔女、など",
+    "description": "ヒャッキ・ヤギョで顕現したリアルニンジャ。\nハヤシ・ニンジャの直弟子。数々の邪悪なジツを用いる大魔術師。\n後にオクダスカヤ社ディミトリの召喚に応じ融合、ヴァインとなった。",
+    "status": "dead",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%AD%E3%83%A4%E3%82%AE%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
   },
   {
@@ -39649,33 +39876,100 @@
   {
     "id": "95b9abb1",
     "name": "ゴルジ・ニンジャ",
+    "aliases": [],
     "ninjaType": "リアルニンジャ",
+    "ninjaSoul": {
+      "id": "hvj951mb",
+      "name": "ゴルジ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [],
-    "appearances": [],
+    "appearances": [
+      {
+        "id": "his9gvkp"
+      }
+    ],
+    "skills": [],
+    "description": "ヒャッキ・ヤギョに加わったリアルニンジャ。\n平安時代出身。ケビーシ・ガードの隊長だったが、状納品を横領していた。",
+    "status": "unknown",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B4%E3%83%AB%E3%82%B8%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
   },
   {
     "id": "1c8e133c",
     "name": "サカラギ・ニンジャ",
+    "aliases": [],
     "ninjaType": "リアルニンジャ",
+    "ninjaSoul": {
+      "id": "q1msdyrd",
+      "name": "サカラギ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [],
-    "appearances": [],
+    "appearances": [
+      {
+        "id": "his9gvkp"
+      }
+    ],
+    "skills": [],
+    "description": "ヒャッキ・ヤギョに加わったリアルニンジャ。\n飛行機を知っている時代の出自。",
+    "status": "unknown",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%82%AB%E3%83%A9%E3%82%AE%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
   },
   {
     "id": "d9601ba8",
     "name": "サザナミ・ニンジャ",
+    "aliases": [],
     "ninjaType": "リアルニンジャ",
+    "ninjaSoul": {
+      "id": "9xa43c8b",
+      "name": "サザナミ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [],
-    "appearances": [],
+    "appearances": [
+      {
+        "id": "his9gvkp"
+      }
+    ],
+    "skills": [
+      "触手",
+      "暗黒の船団"
+    ],
+    "appearance": "肩から二本の触手。怒ると白く光る目。",
+    "description": "ヒャッキ・ヤギョで顕現したリアルニンジャ。\n不死の暗黒船団は現存しており、合図一つで都市を焼き尽くすという。",
+    "status": "dead",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%82%B6%E3%83%8A%E3%83%9F%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
   },
   {
     "id": "4a89c486",
     "name": "サナダ・ニンジャ",
+    "aliases": [],
     "ninjaType": "リアルニンジャ",
+    "ninjaSoul": {
+      "id": "3prpumvi",
+      "name": "サナダ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [],
-    "appearances": [],
+    "appearances": [
+      {
+        "id": "his9gvkp"
+      }
+    ],
+    "skills": [
+      "鎧パージ"
+    ],
+    "appearance": "甲冑鎧。フルメンポ。\n踵に燃える車輪。浮遊している。",
+    "description": "ヒャッキ・ヤギョで顕現したリアルニンジャ。江戸時代の英雄。\nカラテを解き放つことで鎧をパージし、超高速で8回チョップを叩きこむヒサツ・ワザを持つ。",
+    "status": "dead",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%8A%E3%83%80%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
   },
   {
@@ -39705,9 +39999,27 @@
   {
     "id": "63f4c0a1",
     "name": "センド・ニンジャ",
+    "aliases": [],
     "ninjaType": "リアルニンジャ",
+    "ninjaSoul": {
+      "id": "a4zt56ji",
+      "name": "センド・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [],
-    "appearances": [],
+    "appearances": [
+      {
+        "id": "his9gvkp"
+      }
+    ],
+    "skills": [
+      "超再生能力"
+    ],
+    "appearance": "矮躯。片手にチョウチン。片手に鈴。懐に拍子木。",
+    "description": "ヒャッキ・ヤギョを先導したリアルニンジャ。\n超自然の再生能力を持つが、カラテはないとされる。",
+    "status": "alive",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BB%E3%83%B3%E3%83%89%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
   },
   {
@@ -39740,9 +40052,26 @@
   {
     "id": "8d69a2ab",
     "name": "ダンア・ニンジャ",
+    "aliases": [],
     "ninjaType": "リアルニンジャ",
+    "ninjaSoul": {
+      "id": "1camjqxz",
+      "name": "ダンア・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "ソガ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [],
-    "appearances": [],
+    "appearances": [
+      {
+        "id": "his9gvkp"
+      }
+    ],
+    "skills": [
+      "タタミ・ジツ"
+    ],
+    "description": "ヒャッキ・ヤギョで顕現したリアルニンジャ。\nソガ・ニンジャの後継だったが、いかなる理由かワンソー崇拝者となった。",
+    "status": "unknown",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%80%E3%83%B3%E3%82%A2%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
   },
   {
@@ -39767,9 +40096,29 @@
   {
     "id": "738f54c8",
     "name": "ドクロ・ニンジャ",
+    "aliases": [],
     "ninjaType": "リアルニンジャ",
+    "ninjaSoul": {
+      "id": "pjd3o91o",
+      "name": "ドクロ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [],
-    "appearances": [],
+    "appearances": [
+      {
+        "id": "his9gvkp"
+      }
+    ],
+    "skills": [
+      "カトン・ジツ",
+      "ノロイトバシ・ジツ",
+      "ドクロズ・カエングルマ・ホイール"
+    ],
+    "appearance": "巨大な白い骸骨。四つの腕。",
+    "description": "ヒャッキ・ヤギョで顕現したリアルニンジャ。\n火球を操る巨大骸骨である。",
+    "status": "dead",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%89%E3%82%AF%E3%83%AD%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
   },
   {
@@ -39870,10 +40219,28 @@
   {
     "id": "75a71bcc",
     "name": "ヒカリ・ニンジャ",
+    "aliases": [],
     "ninjaType": "リアルニンジャ",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%92%E3%82%AB%E3%83%AA%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+    "ninjaSoul": {
+      "id": "h8o73znc",
+      "name": "ヒカリ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "コウ・リン・ジツ"
+    ],
+    "appearance": "有翼。発光する身体。後光のようなニンジャ存在感と心地よい熱を放つ。",
+    "description": "神話時代のリアルニンジャ。\n強大なジツを完成させたが彼自身は弟子を取らなかった。\nコウ・リン・ジツを再現する過程で様々なヒカリ・ジツが生み出されることとなった。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%92%E3%82%AB%E3%83%AA%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
+    "appearances": [
+      {
+        "id": "his9gvkp"
+      }
+    ],
+    "organizations": []
   },
   {
     "id": "54b02ac6",
@@ -39902,17 +40269,58 @@
   {
     "id": "82aeec63",
     "name": "ヒャッポ・ニンジャ",
+    "aliases": [],
     "ninjaType": "リアルニンジャ",
+    "ninjaSoul": {
+      "id": "zyrptx8s",
+      "name": "ヒャッポ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "ヒャッポ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [],
-    "appearances": [],
+    "appearances": [
+      {
+        "id": "his9gvkp"
+      },
+      {
+        "id": "2ro7dlra"
+      }
+    ],
+    "skills": [
+      "オシマエ",
+      "超長距離斬撃"
+    ],
+    "appearance": "黄金色の長髪の持ち主。",
+    "description": "ヒャッキ・ヤギョで顕現したリアルニンジャ。\n空間さえ切り裂く名刀「オシマエ」によって都市間弾道斬撃を放つ。\n顕現後、ネザーキョウにてアケチ・ニンジャと対峙した。",
+    "status": "dead",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%92%E3%83%A3%E3%83%83%E3%83%9D%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
   },
   {
     "id": "c3b95de3",
     "name": "ヘラジカ・ニンジャ",
+    "aliases": [],
     "ninjaType": "リアルニンジャ",
+    "ninjaSoul": {
+      "id": "xl38l73f",
+      "name": "ヘラジカ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [],
-    "appearances": [],
+    "appearances": [
+      {
+        "id": "his9gvkp"
+      }
+    ],
+    "skills": [
+      "カラテ・ヤリ生成",
+      "ヘラジカ肉体生成"
+    ],
+    "appearance": "ヘラジカめいた頭。首から飛ばされると頭からヘラジカの肉体が生える。",
+    "description": "ヒャッキ・ヤギョで顕現したリアルニンジャ。\nカラテ・ヤリで戦う他、巨大ヘラジカになる奥の手を持つ。",
+    "status": "dead",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%A9%E3%82%B8%E3%82%AB%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
   },
   {
@@ -39983,10 +40391,37 @@
   {
     "id": "1f0cce54",
     "name": "モモジ・ニンジャ",
+    "aliases": [],
     "ninjaType": "リアルニンジャ",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%A2%E3%82%B8%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+    "ninjaSoul": {
+      "id": "77c7cba8",
+      "name": "モモジ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "カラシ・ジツ"
+    ],
+    "appearance": "身長192cm。太った巨漢。太鼓めいた腹。毛の生えた手の甲。メンポ。\n仙人じみたキモノ姿。背に「百」のカンジ。50～60くらいの外見年齢。",
+    "description": "ヒャッキ・ヤギョで顕現したリアルニンジャ。\n毒ガスから粘性液体まで幅広く応用するカラシ・ジツを使う。\nヒャッポに複雑な感情を抱いていた。現在は若者らと共に放浪中。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%A2%E3%82%B8%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
+    "appearances": [
+      {
+        "id": "his9gvkp"
+      },
+      {
+        "id": "765ae0f0"
+      },
+      {
+        "id": "8m0jzogt"
+      },
+      {
+        "id": "2ro7dlra"
+      }
+    ],
+    "organizations": []
   },
   {
     "id": "d3b19134",
@@ -39999,9 +40434,28 @@
   {
     "id": "b5711329",
     "name": "ヤイバ・ニンジャ",
+    "aliases": [],
     "ninjaType": "リアルニンジャ",
+    "ninjaSoul": {
+      "id": "4c31pbuu",
+      "name": "ヤイバ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "ヤイバ・ニンジャクラン",
+      "origin": ""
+    },
     "organizations": [],
-    "appearances": [],
+    "appearances": [
+      {
+        "id": "his9gvkp"
+      }
+    ],
+    "skills": [
+      "カタナ生成",
+      "殺戮大車輪"
+    ],
+    "appearance": "長い舌。全身からカタナを生やせる。",
+    "description": "ヒャッキ・ヤギョで顕現したリアルニンジャ。\nモータル殺戮を好むシリアルキラー。全身からカタナを生やし回転する。",
+    "status": "dead",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A4%E3%82%A4%E3%83%90%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
   },
   {
@@ -40142,9 +40596,39 @@
   {
     "id": "7ada5919",
     "name": "オベロン",
+    "aliases": [],
     "ninjaType": "リアルニンジャ",
-    "organizations": [],
-    "appearances": [],
+    "ninjaSoul": {
+      "id": "skg5k5ep",
+      "name": "",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": ""
+    },
+    "organizations": [
+      {
+        "id": "227508fb"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "3cygxhpv"
+      },
+      {
+        "id": "his9gvkp"
+      },
+      {
+        "id": "2jvhv6np"
+      },
+      {
+        "id": "6dcsfo7u"
+      }
+    ],
+    "skills": [
+      "コトダマ知性体"
+    ],
+    "description": "オヒガンの狭間に築かれた妖精郷の主。\nザイバツ・シャドーギルドと交戦し敗れた。",
+    "status": "dead",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AA%E3%83%99%E3%83%AD%E3%83%B3"
   },
   {
@@ -43994,17 +44478,107 @@
       "name": "",
       "grade": "等級不明"
     },
-    "skills": [],
-    "appearance": "屈強な体格。腕に波濤タトゥー。\nねじりハチマキ。メンポ。",
-    "description": "遠洋漁業に従事するシトカの海のニンジャ。\nオールドストーンの帰還によって隆起した。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%82%A4%E3%83%80%E3%83%AB%E3%83%86%E3%83%B3%E3%83%9A%E3%82%B9%E3%83%88",
+    "organizations": [],
     "appearances": [
       {
         "id": "i9di1e9q"
       },
       {
         "id": "his9gvkp"
+      }
+    ],
+    "skills": [],
+    "appearance": "屈強な体格。腕に波濤タトゥー。\nねじりハチマキ。メンポ。",
+    "description": "遠洋漁業に従事するシトカの海のニンジャ。\nオールドストーンの帰還によって隆起した。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%82%A4%E3%83%80%E3%83%AB%E3%83%86%E3%83%B3%E3%83%9A%E3%82%B9%E3%83%88"
+  },
+  {
+    "id": "0s8pnvpc",
+    "name": "サンダーデビル",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "hquwk0nl",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "his9gvkp"
+      }
+    ],
+    "skills": [
+      "ジャックナイフ"
+    ],
+    "appearance": "長髪。鋲付き革装束。背中にサンダーとデビルのエンブレム。",
+    "description": "カナダとアラスカの国境付近を荒らしていたニンジャ。\nジャックナイフが獲物。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%87%E3%83%93%E3%83%AB"
+  },
+  {
+    "id": "b2mivke8",
+    "name": "ターミナス",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "4ywe510n",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "スリケン"
+    ],
+    "appearance": "赤い目を輝かせている。",
+    "description": "ネオサイタマのニンジャ。サツガイ接触者。\nマルノウチに現れ、サツガイへの再接触を狙っていた。\nなんらかの能力を与えられていたと思われるが、詳細不明。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%82%B9",
+    "appearances": [
+      {
+        "id": "his9gvkp"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "f0328iy1",
+    "name": "カノープス ",
+    "realName": "アユミ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "lct9l2id",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "パルクール",
+      "スリケン",
+      "コウ・リン・ジツ"
+    ],
+    "appearance": "日焼けしており、しなやかな身体。生成メンポ。",
+    "description": "ネオサイタマのフリーランスニンジャ。\nパルクール由来の俊敏さと確かなカラテを持っていた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%A6%E3%83%9F",
+    "appearances": [
+      {
+        "id": "d095671e"
+      },
+      {
+        "id": "b4d451d0"
+      },
+      {
+        "id": "63cf6a67"
+      },
+      {
+        "id": "his9gvkp"
+      },
+      {
+        "id": "0905b269"
+      },
+      {
+        "id": "08f154f0"
       }
     ],
     "organizations": []
