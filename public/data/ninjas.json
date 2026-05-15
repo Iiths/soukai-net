@@ -14,18 +14,6 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "我流チャドー",
-      "黒炎"
-    ],
-    "description": "第4部以降の主人公。ニンジャスレイヤー。\nサツガイを追って戦っていた。\n現在はとあるニンジャの意志と依頼を引き継いでいる。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%B9%E3%83%A9%E3%83%80%E3%83%BB%E3%82%AB%E3%82%A4",
-    "appearances": [
-      {
-        "id": "nubhusa7"
-      }
-    ],
     "organizations": [
       {
         "id": "qdiy2dh4"
@@ -33,7 +21,19 @@
       {
         "id": "a91ea54d"
       }
-    ]
+    ],
+    "appearances": [
+      {
+        "id": "nubhusa7"
+      }
+    ],
+    "skills": [
+      "我流チャドー",
+      "黒炎"
+    ],
+    "description": "第4部以降の主人公。ニンジャスレイヤー。\nサツガイを追って戦っていた。\n現在はとあるニンジャの意志と依頼を引き継いでいる。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%B9%E3%83%A9%E3%83%80%E3%83%BB%E3%82%AB%E3%82%A4"
   },
   {
     "id": "177545591",
@@ -4760,6 +4760,16 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "6a1597d1"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "i1ad8xb2"
+      }
+    ],
     "skills": [
       "ムテキ・アティチュード",
       "弾丸"
@@ -4767,17 +4777,7 @@
     "appearance": "大柄な体格。髪に弾丸を編み込んでいる。",
     "description": "キモンのデッカーニンジャ。\nムテキの使い手。強敵相手には髪に編み込んだ弾丸も使うとか。",
     "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%A9%E3%83%83%E3%82%AF%E3%82%BF%E3%83%B3%E3%82%AF",
-    "appearances": [
-      {
-        "id": "i1ad8xb2"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "6a1597d1"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%A9%E3%83%83%E3%82%AF%E3%82%BF%E3%83%B3%E3%82%AF"
   },
   {
     "id": "17754559114",
@@ -4791,13 +4791,11 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "長舌"
+    "organizations": [
+      {
+        "id": "6a1597d1"
+      }
     ],
-    "appearance": "顔色の悪いトカゲめいた若い男。若いスーツ。\n斜めの黒い前髪。長い舌。",
-    "description": "キモンのデッカーニンジャ。\n長い舌で天井に張り付いたり相手を絡めとったりする。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B2%E3%83%83%E3%82%B3%E3%83%BC",
     "appearances": [
       {
         "id": "i1ad8xb2"
@@ -4806,11 +4804,13 @@
         "id": "7bd07f98"
       }
     ],
-    "organizations": [
-      {
-        "id": "6a1597d1"
-      }
-    ]
+    "skills": [
+      "長舌"
+    ],
+    "appearance": "顔色の悪いトカゲめいた若い男。若いスーツ。\n斜めの黒い前髪。長い舌。",
+    "description": "キモンのデッカーニンジャ。\n長い舌で天井に張り付いたり相手を絡めとったりする。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B2%E3%83%83%E3%82%B3%E3%83%BC"
   },
   {
     "id": "17754559115",
@@ -4868,13 +4868,11 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "タイホドー"
+    "organizations": [
+      {
+        "id": "6a1597d1"
+      }
     ],
-    "appearance": "ソフト帽。三つ揃えのスーツ。",
-    "description": "キモンのデッカーニンジャ。\n謎めいたタイホドーのタツジン。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AD%E3%83%BC%E3%83%97",
     "appearances": [
       {
         "id": "i1ad8xb2"
@@ -4883,11 +4881,13 @@
         "id": "7bd07f98"
       }
     ],
-    "organizations": [
-      {
-        "id": "6a1597d1"
-      }
-    ]
+    "skills": [
+      "タイホドー"
+    ],
+    "appearance": "ソフト帽。三つ揃えのスーツ。",
+    "description": "キモンのデッカーニンジャ。\n謎めいたタイホドーのタツジン。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AD%E3%83%BC%E3%83%97"
   },
   {
     "id": "17754559117",
@@ -4990,13 +4990,11 @@
     "name": "ノボセ・ムギコ",
     "aliases": [],
     "ninjaType": "非ニンジャ",
-    "skills": [
-      "デッカーガン"
+    "organizations": [
+      {
+        "id": "6a1597d1"
+      }
     ],
-    "appearance": "～3部：1部時点で5歳。汚染除けハイカット・ブーツ。\n4部：スーツ姿。カンザシ。耳の後ろにニンジャ検知器。",
-    "description": "ノボセ・ゲンソンの孫娘。\n第4部では成長し、祖父と同じキモンに属している。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8E%E3%83%9C%E3%82%BB%E3%83%BB%E3%83%A0%E3%82%AE%E3%82%B3",
     "appearances": [
       {
         "id": "zpm2lvo5"
@@ -5020,11 +5018,13 @@
         "id": "7bd07f98"
       }
     ],
-    "organizations": [
-      {
-        "id": "6a1597d1"
-      }
-    ]
+    "skills": [
+      "デッカーガン"
+    ],
+    "appearance": "～3部：1部時点で5歳。汚染除けハイカット・ブーツ。\n4部：スーツ姿。カンザシ。耳の後ろにニンジャ検知器。",
+    "description": "ノボセ・ゲンソンの孫娘。\n第4部では成長し、祖父と同じキモンに属している。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8E%E3%83%9C%E3%82%BB%E3%83%BB%E3%83%A0%E3%82%AE%E3%82%B3"
   },
   {
     "id": "17754559120",
@@ -5038,6 +5038,16 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "f4b2aebd"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "i1ad8xb2"
+      }
+    ],
     "skills": [
       "アダナス・フレーム",
       "アナーキ・ドー",
@@ -5046,23 +5056,23 @@
     "appearance": "色褪せたミリタリー・コート。首元にサイバネティクスが覗く。\nIRCモヒカン・ヘアー。メンポ。右腕に「アナーキーイ」と書かれた赤い紋章。",
     "description": "元49課のニンジャ。サツガイ接触者。\n与えられたアカラの力でアダナス社のフレームと融合する。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%BE%E3%83%83%E3%83%88",
-    "appearances": [
-      {
-        "id": "i1ad8xb2"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "f4b2aebd"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%BE%E3%83%83%E3%83%88"
   },
   {
     "id": "17754559121",
     "name": "ト・キコ",
     "aliases": [],
     "ninjaType": "非ニンジャ",
+    "organizations": [
+      {
+        "id": "f4b2aebd"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "i1ad8xb2"
+      }
+    ],
     "skills": [
       "ハッカー",
       "コトダマ認識能力"
@@ -5070,69 +5080,69 @@
     "appearance": "鎖骨から下がオイランドロイドボディ。レザースーツ。\nサイバーサングラス。黒目が横に三つ並ぶ瞳。",
     "description": "ネオサイタマのハッカー。\nナンシー・リーを神格化。ヌンジャになるためサツガイとの接触を目的にしていた。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%88%E3%83%BB%E3%82%AD%E3%82%B3",
-    "appearances": [
-      {
-        "id": "i1ad8xb2"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "f4b2aebd"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%88%E3%83%BB%E3%82%AD%E3%82%B3"
   },
   {
     "id": "17754559122",
     "name": "サメムラ",
     "aliases": [],
     "ninjaType": "非ニンジャ",
+    "organizations": [
+      {
+        "id": "f4b2aebd"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "i1ad8xb2"
+      }
+    ],
     "skills": [
       "メタル・サメ"
     ],
     "appearance": "両腕が凶悪なメタル・サメ。\n本来の口の代わりに円形スピーカー。黒目がない目。",
     "description": "アゾットの協力者。重サイバネ犯罪者。\n両腕を危険なメタル・サメに置換。その噛みつきはニンジャでも危険である。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%A1%E3%83%A0%E3%83%A9",
-    "appearances": [
-      {
-        "id": "i1ad8xb2"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "f4b2aebd"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%A1%E3%83%A0%E3%83%A9"
   },
   {
     "id": "17754559123",
     "name": "ボン・サイ",
     "aliases": [],
     "ninjaType": "非ニンジャ",
+    "organizations": [
+      {
+        "id": "f4b2aebd"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "i1ad8xb2"
+      }
+    ],
     "skills": [
       "剪定ハサミ"
     ],
     "appearance": "身長2ｍ超の巨躯。胴体にボンサイのホロ刺青。丸みをつけた金属に覆われた顔。\n両腕にサイバネ接続された剪定ハサミの刃。",
     "description": "アゾットの協力者。元スモトリ。\n剪定ハサミで攻撃する。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9C%E3%83%B3%E3%83%BB%E3%82%B5%E3%82%A4",
-    "appearances": [
-      {
-        "id": "i1ad8xb2"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "f4b2aebd"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9C%E3%83%B3%E3%83%BB%E3%82%B5%E3%82%A4"
   },
   {
     "id": "17754559124",
     "name": "ンズ・デイ",
     "aliases": [],
     "ninjaType": "非ニンジャ",
+    "organizations": [
+      {
+        "id": "f4b2aebd"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "i1ad8xb2"
+      }
+    ],
     "skills": [
       "ドス・ダガー",
       "二挺拳銃",
@@ -5142,17 +5152,7 @@
     "appearance": "サンド笠。チョンマゲ。",
     "description": "アゾットの協力者。重サイバネ犯罪者。\nチョンマゲに偽造したマグナム銃を放つ。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%B3%E3%82%BA%E3%83%BB%E3%83%87%E3%82%A4",
-    "appearances": [
-      {
-        "id": "i1ad8xb2"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "f4b2aebd"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%B3%E3%82%BA%E3%83%BB%E3%83%87%E3%82%A4"
   },
   {
     "id": "17754559125",
@@ -6064,13 +6064,14 @@
     "name": "シンゴ・アモ",
     "aliases": [],
     "ninjaType": "非ニンジャ",
-    "skills": [
-      "フォースキャノン"
+    "organizations": [
+      {
+        "id": "07fe52d1"
+      },
+      {
+        "id": "e5bcd27c"
+      }
     ],
-    "appearance": "くたびれた中年。太っている。\n第4部では左腕と左目がサイバネ。",
-    "description": "ネオサイタマ市警の中年デッカー。\nタバタとコンビでニンジャ案件によく巻き込まれる。\n第4部ではタバタと共にシンゴ社を立ち上げた。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%B3%E3%82%B4%E3%83%BB%E3%82%A2%E3%83%A2",
     "appearances": [
       {
         "id": "xl6ufucq"
@@ -6094,20 +6095,50 @@
         "id": "i1ad8xb2"
       }
     ],
-    "organizations": [
-      {
-        "id": "07fe52d1"
-      },
-      {
-        "id": "e5bcd27c"
-      }
-    ]
+    "skills": [
+      "フォースキャノン"
+    ],
+    "appearance": "くたびれた中年。太っている。\n第4部では左腕と左目がサイバネ。",
+    "description": "ネオサイタマ市警の中年デッカー。\nタバタとコンビでニンジャ案件によく巻き込まれる。\n第4部ではタバタと共にシンゴ社を立ち上げた。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%B3%E3%82%B4%E3%83%BB%E3%82%A2%E3%83%A2"
   },
   {
     "id": "17754559173",
     "name": "タバタ・ヤスキリ",
     "aliases": [],
     "ninjaType": "非ニンジャ",
+    "organizations": [
+      {
+        "id": "e5bcd27c"
+      },
+      {
+        "id": "07fe52d1"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "xl6ufucq"
+      },
+      {
+        "id": "ba3cbca6"
+      },
+      {
+        "id": "5041abcf"
+      },
+      {
+        "id": "a26d6fd0"
+      },
+      {
+        "id": "92338646"
+      },
+      {
+        "id": "8r8ibb8m"
+      },
+      {
+        "id": "i1ad8xb2"
+      }
+    ],
     "skills": [
       "ボックス・カラテ",
       "デッカーガン"
@@ -6115,38 +6146,7 @@
     "appearance": "ひょろりとしている。",
     "description": "ネオサイタマ市警の若手デッカー。\nシンゴの相棒として数々のニンジャ案件を生き延びている。\n第4部ではシンゴ社の副社長を務める。従業員はいない。",
     "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%83%90%E3%82%BF%E3%83%BB%E3%83%A4%E3%82%B9%E3%82%AD%E3%83%AA",
-    "appearances": [
-      {
-        "id": "xl6ufucq"
-      },
-      {
-        "id": "ba3cbca6"
-      },
-      {
-        "id": "5041abcf"
-      },
-      {
-        "id": "a26d6fd0"
-      },
-      {
-        "id": "92338646"
-      },
-      {
-        "id": "8r8ibb8m"
-      },
-      {
-        "id": "i1ad8xb2"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "e5bcd27c"
-      },
-      {
-        "id": "07fe52d1"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%83%90%E3%82%BF%E3%83%BB%E3%83%A4%E3%82%B9%E3%82%AD%E3%83%AA"
   },
   {
     "id": "17754559174",
@@ -11053,6 +11053,7 @@
     "skills": [
       "デトネイト・ナゲ"
     ],
+    "role": "ソウカイ・シックスゲイツ",
     "appearance": "節くれだった巨躯。ニンジャ装束の上にファイアパターンを形成した黒いジュー・ウェア。",
     "description": "ソウカイ・シックスゲイツのニンジャ。\n投げ技を得意とし、更に投げた相手をカトン爆破させる。",
     "status": "dead",
@@ -37433,13 +37434,41 @@
   {
     "id": "66654c",
     "name": "邪龍オオカゲ",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "skills": [
+      "飛行",
+      "黒紫の炎"
+    ],
+    "appearance": "短い四本脚。極めて長い胴。見事な仕立ての黒漆鎧やハーネスで覆われた黒紫の長虫めいた竜。",
+    "description": "アケチ・ニンジャが騎乗するネザーオヒガンの竜。\nネザーキョウの空を駆け、黒紫のブレスで惰弱な敵を焼き滅ぼす。\nアケチの死を認めた後、兜と共に何処かへ飛び去った。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E9%82%AA%E9%BE%8D%E3%82%AA%E3%82%AA%E3%82%AB%E3%82%B2",
+    "appearances": [
+      {
+        "id": "0905b269"
+      },
+      {
+        "id": "765ae0f0"
+      },
+      {
+        "id": "fee57ebe"
+      },
+      {
+        "id": "1c9a1c54"
+      },
+      {
+        "id": "8m0jzogt"
+      },
+      {
+        "id": "2ro7dlra"
+      }
+    ],
     "organizations": [
       {
         "id": "9cf1667c"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E9%82%AA%E9%BE%8D%E3%82%AA%E3%82%AA%E3%82%AB%E3%82%B2"
+    ]
   },
   {
     "id": "655e40",
@@ -40712,9 +40741,40 @@
       "ランマル・ニンジャ"
     ],
     "ninjaType": "リアルニンジャ",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%82%BB%E3%83%84"
+    "ninjaSoul": {
+      "id": "7mqud6ds",
+      "name": "ランマル・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ネザーカトン・ジツ"
+    ],
+    "role": "アケチ・シテンノ",
+    "appearance": "全身に黒い包帯。包帯の上にキモノ。紫の火を燃やす目。\n包帯の下は包帯の下は白磁のように美しい若者。",
+    "description": "ネザーキョウのアケチ・シテンノの一人。\n禁忌とされるネザーの炎を操る。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%82%BB%E3%83%84",
+    "appearances": [
+      {
+        "id": "0905b269"
+      },
+      {
+        "id": "34a1b4ba"
+      },
+      {
+        "id": "1c9a1c54"
+      },
+      {
+        "id": "2ro7dlra"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
   },
   {
     "id": "c955e5f1",
@@ -40962,10 +41022,44 @@
   {
     "id": "680b6539",
     "name": "インヴェイン",
+    "aliases": [],
     "ninjaType": "リアルニンジャ",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%83%B3%E3%83%B4%E3%82%A7%E3%82%A4%E3%83%B3"
+    "ninjaSoul": {
+      "id": "w4pro8s5",
+      "name": "ヒャッポ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "オシマエ",
+      "超長距離斬撃",
+      "イアイドー"
+    ],
+    "role": "アケチ・シテンノ",
+    "appearance": "クロームのキツネ・メンポ。魔的な鎖を纏う。\n虚無的な眼差し。メンポの下に幽玄なる長髪と白磁めいた美形。",
+    "description": "ネザーキョウのアケチ・シテンノの一人。\n神秘的な剣のタツジン。タイクーンに敗れ服従を誓っている。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%83%B3%E3%83%B4%E3%82%A7%E3%82%A4%E3%83%B3",
+    "appearances": [
+      {
+        "id": "0905b269"
+      },
+      {
+        "id": "2ng3zl8s"
+      },
+      {
+        "id": "fee57ebe"
+      },
+      {
+        "id": "2ro7dlra"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
   },
   {
     "id": "d644bc43",
@@ -44796,30 +44890,30 @@
       "name": "",
       "grade": "等級不明"
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "i1ad8xb2"
+      }
+    ],
     "skills": [
       "ダブル・イアイド"
     ],
     "appearance": "サイバネ腕を増設している。",
     "description": "ネオサイタマの賞金稼ぎニンジャ。\n増設したサイバネ腕からなるダブル・イアイドの使い手。",
     "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%82%A4%E3%82%B8%E3%83%B3",
-    "appearances": [
-      {
-        "id": "i1ad8xb2"
-      }
-    ],
-    "organizations": []
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%82%A4%E3%82%B8%E3%83%B3"
   },
   {
     "id": "eotkcwe2",
     "name": "ルツィエ",
     "aliases": [],
     "ninjaType": "非ニンジャ",
-    "skills": [],
-    "appearance": "冷たいルビーの目。",
-    "description": "ハッカー・ギルド「無限遠」の長。\nコルヴェットと恋仲。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AB%E3%83%84%E3%82%A3%E3%82%A8",
+    "organizations": [
+      {
+        "id": "v50pm4vm"
+      }
+    ],
     "appearances": [
       {
         "id": "3cygxhpv"
@@ -44828,11 +44922,11 @@
         "id": "cb7e74c2"
       }
     ],
-    "organizations": [
-      {
-        "id": "v50pm4vm"
-      }
-    ]
+    "skills": [],
+    "appearance": "冷たいルビーの目。",
+    "description": "ハッカー・ギルド「無限遠」の長。\nコルヴェットと恋仲。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AB%E3%83%84%E3%82%A3%E3%82%A8"
   },
   {
     "id": "p0up2xrv",
@@ -44845,11 +44939,7 @@
       "name": "ナラク・ニンジャ",
       "grade": "等級不明"
     },
-    "skills": [],
-    "appearance": "赤黒のマント。歪な軍服。女性。",
-    "description": "二次大戦頃に活動したニンジャスレイヤー。\n国家秘密組織「オヒガンの炉」と戦いを繰り広げた。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B6%E3%82%AD%E3%83%BB%E3%82%AF%E3%83%AD%E3%82%AB%E3%83%AF",
+    "organizations": [],
     "appearances": [
       {
         "id": "7n5yygr8"
@@ -44858,7 +44948,11 @@
         "id": "cb7e74c2"
       }
     ],
-    "organizations": []
+    "skills": [],
+    "appearance": "赤黒のマント。歪な軍服。女性。",
+    "description": "二次大戦頃に活動したニンジャスレイヤー。\n国家秘密組織「オヒガンの炉」と戦いを繰り広げた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B6%E3%82%AD%E3%83%BB%E3%82%AF%E3%83%AD%E3%82%AB%E3%83%AF"
   },
   {
     "id": "qr8shag2",
@@ -44870,16 +44964,16 @@
       "name": "",
       "grade": "等級不明"
     },
-    "skills": [],
-    "description": "二次大戦頃の秘密組織「オヒガンの炉」のニンジャ。\nローマ人。表向きは考古学者だった。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%83%90%E3%82%A5",
+    "organizations": [],
     "appearances": [
       {
         "id": "cb7e74c2"
       }
     ],
-    "organizations": []
+    "skills": [],
+    "description": "二次大戦頃の秘密組織「オヒガンの炉」のニンジャ。\nローマ人。表向きは考古学者だった。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%83%90%E3%82%A5"
   },
   {
     "id": "ynfwcbb0",
@@ -44893,6 +44987,12 @@
       "name": "",
       "grade": "等級不明"
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "cb7e74c2"
+      }
+    ],
     "skills": [
       "ギンカクの力",
       "銀の大鎌"
@@ -44900,28 +45000,18 @@
     "appearance": "オールバックの灰髪。薄笑い。色素が薄く、焦点が定まらない目。\n胸の中心に八角形のエメツ。周りにゲルマンルーン文字。\n戦闘時は二の腕に銀の紋章。銀のロープ。",
     "description": "二次大戦頃の秘密結社「オヒガンの炉」の構成員。\nニンジャと化した後も生き延びており、\n月破砕後のシュヴァルツヴァルトに姿を現した。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BB%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3",
-    "appearances": [
-      {
-        "id": "cb7e74c2"
-      }
-    ],
-    "organizations": []
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BB%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3"
   },
   {
     "id": "t6858j8p",
     "name": "鉄蜘蛛",
     "aliases": [],
     "ninjaType": "ロボ・ニンジャ",
-    "skills": [
-      "機銃",
-      "対物ライフル",
-      "電磁弾丸"
+    "organizations": [
+      {
+        "id": "ca1c8175"
+      }
     ],
-    "appearance": "3mほどの胴体。八本の逆関節脚。",
-    "description": "カタナ・オブ・リバプールが開発した蜘蛛型ロボニンジャ。\n運用性に優れ、他国にも配備されている。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E9%89%84%E8%9C%98%E8%9B%9B",
     "appearances": [
       {
         "id": "cb7e74c2"
@@ -44930,9 +45020,173 @@
         "id": "032c13ba"
       }
     ],
+    "skills": [
+      "機銃",
+      "対物ライフル",
+      "電磁弾丸"
+    ],
+    "appearance": "3mほどの胴体。八本の逆関節脚。",
+    "description": "カタナ・オブ・リバプールが開発した蜘蛛型ロボニンジャ。\n運用性に優れ、他国にも配備されている。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E9%89%84%E8%9C%98%E8%9B%9B"
+  },
+  {
+    "id": "iqg6hoyr",
+    "name": "ヘヴンリイ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "lk31sqvv",
+      "name": "ジャキ・ニンジャ",
+      "grade": "アーチ級"
+    },
+    "skills": [
+      "帯電ソニックカラテ",
+      "カラテキジ",
+      "ヤリ・オブ・ウォーロード"
+    ],
+    "role": "アケチ・シテンノ",
+    "appearance": "身長189cm。捻じれた二本の角。白い髪。外見は20代後半。女性。",
+    "description": "ネザーキョウのアケチ・シテンノの一人。\n固定化したカゼを蹴って宙を舞い、帯電ソニックカラテを放つ。\n第4部以降はアラシ・ニンジャと僅かな期間同行していた。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%B4%E3%83%B3%E3%83%AA%E3%82%A4",
+    "appearances": [
+      {
+        "id": "0905b269"
+      },
+      {
+        "id": "765ae0f0"
+      },
+      {
+        "id": "2ng3zl8s"
+      },
+      {
+        "id": "umufyew6"
+      },
+      {
+        "id": "8m0jzogt"
+      },
+      {
+        "id": "2ro7dlra"
+      }
+    ],
     "organizations": [
       {
-        "id": "ca1c8175"
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "pd7tor47",
+    "name": "ヘヴィフィード",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "j66o0mz6",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "トマホーク斧"
+    ],
+    "appearance": "ゲニントルーパーとは異なる白以外のニンジャ装束。メンポ。\nメイプル・サケが入ったヒョウタンを持っている。",
+    "description": "ネザーキョウのセンシ。\nトマホーク斧を獲物とする。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%B4%E3%82%A3%E3%83%95%E3%82%A3%E3%83%BC%E3%83%89",
+    "appearances": [
+      {
+        "id": "0905b269"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "56bewupl",
+    "name": "ヴォルケイノー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "h7zber3e",
+      "name": "マグマ・ニンジャクラン",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "マグマ・バーニング・ムテキ"
+    ],
+    "appearance": "身長約3m。溶岩じみて赤熱する皮膚。呼吸孔がついた鋼メンポ。\n赤く光った目。",
+    "description": "ネザーキョウのセンシ。\n全身から炎を吹きだす特殊なムテキの使い手。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%B4%E3%82%A9%E3%83%AB%E3%82%B1%E3%82%A4%E3%83%8E%E3%83%BC",
+    "appearances": [
+      {
+        "id": "0905b269"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "eh795ztj",
+    "name": "ストリクタス",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "zw4cdukt",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "拘束ワイヤー",
+      "古代ローマカラテ"
+    ],
+    "description": "ネザーキョウのセンシ。\n拘束ワイヤーを使う。古代ローマカラテ使い。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%88%E3%83%AA%E3%82%AF%E3%82%BF%E3%82%B9",
+    "appearances": [
+      {
+        "id": "765ae0f0"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "auec2k4y",
+    "name": "スピアフィッシュ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "z5wqyk2c",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "ミズグモ・ジツ",
+      "ヤリ"
+    ],
+    "role": "アケチ水軍",
+    "appearance": "メンポ。両足に格納可能なミズグモを装着。",
+    "description": "ネザーキョウ、アケチ水軍のニンジャ。\nミズグモで水上を自在に移動しヤリを投げる。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%94%E3%82%A2%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5",
+    "appearances": [
+      {
+        "id": "765ae0f0"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
       }
     ]
   }
