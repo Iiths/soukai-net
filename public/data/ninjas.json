@@ -37505,13 +37505,37 @@
   {
     "id": "655e40",
     "name": "アケチ・ジョウゴ",
+    "realName": "明智常醐",
+    "aliases": [],
+    "ninjaType": "リアルニンジャ",
+    "skills": [
+      "カタナ",
+      "カゲムシャ・ジツ",
+      "コヒバリ",
+      "テンマ",
+      "ダイテンマ",
+      "青銅馬"
+    ],
+    "appearance": "痩せて青褪めた顔。鋭く燃える三白眼。荒々しい黒い顎鬚。\nエボシ。若きオダ・ニンジャに似た外見。",
+    "description": "ネザーの地において誕生したアケチ・ニンジャの子。\nオダの性質を継いでおり、青銅製の巨大ロボをカゲムシャ・ジツで操る。\nネザーキョウ崩壊後、僅かな家臣と共にネザーオヒガンへ旅立った。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%B1%E3%83%81%E3%83%BB%E3%82%B8%E3%83%A7%E3%82%A6%E3%82%B4",
+    "appearances": [
+      {
+        "id": "34a1b4ba"
+      },
+      {
+        "id": "1c9a1c54"
+      },
+      {
+        "id": "2ro7dlra"
+      }
+    ],
     "organizations": [
       {
         "id": "9cf1667c"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%B1%E3%83%81%E3%83%BB%E3%82%B8%E3%83%A7%E3%82%A6%E3%82%B4"
+    ]
   },
   {
     "id": "a12a99",
@@ -37538,13 +37562,27 @@
   {
     "id": "396fbe",
     "name": "カネト・ヒバ",
+    "aliases": [
+      "ファイアストーム"
+    ],
+    "ninjaType": "非ニンジャ",
+    "skills": [
+      "スリケン"
+    ],
+    "appearance": "茶色のニンジャ装束。頭巾とメンポ。短髪のモヒカン。",
+    "description": "元ネザーキョウのチューニントルーパー。\nネザーオヒガンでの儀式から逃げ出し、UCAファイアストーム隊に同行することになった。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%83%8D%E3%83%88%E3%83%BB%E3%83%92%E3%83%90",
+    "appearances": [
+      {
+        "id": "23908155"
+      }
+    ],
     "organizations": [
       {
         "id": "9cf1667c"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%83%8D%E3%83%88%E3%83%BB%E3%83%92%E3%83%90"
+    ]
   },
   {
     "id": "8d93a3",
@@ -37949,16 +37987,34 @@
   {
     "id": "bdd04f",
     "name": "ファイアストーム",
+    "realName": "クレイヴ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "ex6vqe07",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "スリケン",
+      "タタミ・ジツ"
+    ],
+    "appearance": "肩まで伸びた灰色の髪。短い顎髭。哀しげな青い目。右目に包帯。",
+    "description": "ヌーテック社の英雄的ニンジャ。\nUCA強行偵察隊ファイアストーム隊の隊長を務める。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%B9%E3%83%88%E3%83%BC%E3%83%A0",
+    "appearances": [
+      {
+        "id": "23908155"
+      }
+    ],
     "organizations": [
       {
         "id": "5ae77239"
-      },
-      {
-        "id": "745e0c92"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%B9%E3%83%88%E3%83%BC%E3%83%A0"
+    ]
   },
   {
     "id": "4f5b85",
@@ -41037,10 +41093,34 @@
   {
     "id": "949c706c",
     "name": "ドーンブレイド",
+    "realName": "ジェイソン",
+    "aliases": [],
     "ninjaType": "リアルニンジャ",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%89%E3%83%BC%E3%83%B3%E3%83%96%E3%83%AC%E3%82%A4%E3%83%89"
+    "ninjaSoul": {
+      "id": "evxapdkf",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "アケチ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "白熱カタナ",
+      "ワキザシ"
+    ],
+    "appearance": "メンポ。暗い光が灯った双眸。",
+    "description": "ネザーキョウのセンシ。アケチ・ニンジャにカイデンされたリアルニンジャ。\nカラテを注ぎ白熱させたカタナを振るう。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%89%E3%83%BC%E3%83%B3%E3%83%96%E3%83%AC%E3%82%A4%E3%83%89",
+    "appearances": [
+      {
+        "id": "23908155"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
   },
   {
     "id": "b1edc027",
@@ -45588,6 +45668,569 @@
       },
       {
         "id": "6d1b6126"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "phod45mf",
+    "name": "マレボル",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "qiq8btcl",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "ナギナタブレード",
+      "フォース・スリケン"
+    ],
+    "appearance": "超自然的な赤い肌。角。はだけたキモノ。",
+    "description": "ネザーオヒガンの祭祀場を管理するオニめいたニンジャ。\n力の歪みを投擲するフォース・スリケンの使い手。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%83%AC%E3%83%9C%E3%83%AB",
+    "appearances": [
+      {
+        "id": "23908155"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "dxj4drlj",
+    "name": "ポゼッション",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "rjox3czt",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "呪殺"
+    ],
+    "appearance": "壮麗な装い。恐らくボンズヘッド。",
+    "description": "ネザーキョウのボンズニンジャ。\n特殊なチャントを唱え相手を呪殺する。カラテは不得手。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9D%E3%82%BC%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3",
+    "appearances": [
+      {
+        "id": "23908155"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "2ad3ozcv",
+    "name": "ドリームキャッチャー",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "skills": [
+      "ネットワーク接続"
+    ],
+    "appearance": "黒い山と形容される巨体。30m級をゆうに超える。\n鹿めいた角。クマめいた爪と牙。誇り高く揺れる長い毛。苔むした身体。\n黒帯。土色のジューウェア。",
+    "description": "オヒガンと結びついたイレギュラーな巨大カラテビースト。\nネットワーク接続能力はWi-Fiルータめいて機能し、\nA-1らリコナーたちの拠り所となっていた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81%E3%83%A3%E3%83%BC",
+    "appearances": [
+      {
+        "id": "34a1b4ba"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "nkg7adxy",
+    "name": "ディヴァイダー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "ax8b2y85",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "ナギナタ"
+    ],
+    "role": "テツバ・ドラグーン",
+    "appearance": "テツバ・ドラグーン共通の黒いニンジャ装束。",
+    "description": "テツバ・ドラグーンの騎兵。\nナギナタでWi-fiを駆る。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%A3%E3%83%B4%E3%82%A1%E3%82%A4%E3%83%80%E3%83%BC",
+    "appearances": [
+      {
+        "id": "34a1b4ba"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "h7v6xv3q",
+    "name": "クロスファイア",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "1bs43ayb",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "リボルバー拳銃",
+      "曲射"
+    ],
+    "role": "テツバ・ドラグーン",
+    "appearance": "テツバ・ドラグーン共通の黒いニンジャ装束。",
+    "description": "テツバ・ドラグーンの騎兵。\n二挺拳銃を操る射撃のタツジン。\nネザーキョウ崩壊後もゲニンを引き連れテツバ・ドラグーンを名乗り続けている。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2",
+    "appearances": [
+      {
+        "id": "34a1b4ba"
+      },
+      {
+        "id": "1c9a1c54"
+      },
+      {
+        "id": "2ro7dlra"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "fifijb08",
+    "name": "ナウジア",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "jefxw3hq",
+      "name": "",
+      "grade": "グレーター級",
+      "origin": "コブラかウィッチ・ニンジャクランの系譜"
+    },
+    "skills": [
+      "ドク・スリケン",
+      "ベノムサメ・ジツ"
+    ],
+    "role": "テツバ・ドラグーン",
+    "appearance": "小兵。陰気な目。襤褸。カエルめいた佇まい。",
+    "description": "テツバ・ドラグーンの騎兵。\n生きたカエルを食らうことで毒の雨を降らせる。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8A%E3%82%A6%E3%82%B8%E3%82%A2",
+    "appearances": [
+      {
+        "id": "34a1b4ba"
+      },
+      {
+        "id": "vr3fq73p"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "gicjisw1",
+    "name": "サウンドスティング",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "f1iqnu0k",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "ヤブサメ・ドー"
+    ],
+    "role": "テツバ・ドラグーン",
+    "appearance": "背に大弓。秀でた体格。",
+    "description": "テツバ・ドラグーンの騎兵。\nヤブサメのワザマエに絶対の自信を持つ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0",
+    "appearances": [
+      {
+        "id": "34a1b4ba"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "svsq3vsq",
+    "name": "レベリング",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "jv6dspr1",
+      "name": "",
+      "grade": "等級不明",
+      "origin": "ビッグニンジャ系"
+    },
+    "skills": [
+      "怪力",
+      "大槌"
+    ],
+    "role": "テツバ・ドラグーン",
+    "appearance": "巨体。開口式メンポ。",
+    "description": "テツバ・ドラグーンの騎兵。\nなんでも喰らおうとする凶暴なビッグニンジャ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%83%99%E3%83%AA%E3%83%B3%E3%82%B0",
+    "appearances": [
+      {
+        "id": "34a1b4ba"
+      },
+      {
+        "id": "vr3fq73p"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "k1rdbrpl",
+    "name": "ファーネイス",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "244tp1is",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "カトン・ジツ"
+    ],
+    "role": "テツバ・ドラグーン",
+    "description": "テツバ・ドラグーンの統率者。\n敵の座標に直接カトンの球を呼ぶ器用なカトン使い。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A1%E3%83%BC%E3%83%8D%E3%82%A4%E3%82%B9",
+    "appearances": [
+      {
+        "id": "34a1b4ba"
+      },
+      {
+        "id": "1c9a1c54"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "93l6yd5d",
+    "name": "ウォーマスター",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "f8id0uc9",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "フレイル"
+    ],
+    "role": "ジョウゴ軍",
+    "appearance": "カラテ馬の鞍の旗に「明智常醐」の漢字ショドー。メンポ。",
+    "description": "ジョウゴ軍を統率していたニンジャ。\nフレイルが獲物。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC",
+    "appearances": [
+      {
+        "id": "34a1b4ba"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "4o8566qw",
+    "name": "ピリジャー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "vpl1rrhl",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "ダガー"
+    ],
+    "description": "ネザーキョウのセンシ。\n数人のニンジャを連れピリジャー部隊を率いていた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%94%E3%83%AA%E3%82%B8%E3%83%A3%E3%83%BC%EF%BC%8F%E3%83%95%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%B0%E3%82%A4%E3%83%B3%E3%83%B4%E3%82%A7%E3%82%A4%E3%82%B8%E3%83%A7%E3%83%B3%EF%BC%8F%E3%83%AD%E3%83%90%E3%83%BC%EF%BC%8F%E3%83%8A%E3%83%AD%E3%83%BC%E3%83%91%E3%82%B9",
+    "appearances": [
+      {
+        "id": "34a1b4ba"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "iacaaodh",
+    "name": "フライングインヴェイジョン",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "teue0pbs",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "ムササビ・ジツ",
+      "刃"
+    ],
+    "description": "ネザーキョウのセンシ。ピリジャー隊所属。\nムササビ・ジツで滑空する。",
+    "status": "dead",
+    "appearances": [
+      {
+        "id": "34a1b4ba"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "f9iqfgyz",
+    "name": "ロバー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "rvz3l2ya",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [],
+    "description": "ネザーキョウのセンシ。ピリジャー隊所属。\n何らかの刃物を獲物にしていたと思われる。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%94%E3%83%AA%E3%82%B8%E3%83%A3%E3%83%BC%EF%BC%8F%E3%83%95%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%B0%E3%82%A4%E3%83%B3%E3%83%B4%E3%82%A7%E3%82%A4%E3%82%B8%E3%83%A7%E3%83%B3%EF%BC%8F%E3%83%AD%E3%83%90%E3%83%BC%EF%BC%8F%E3%83%8A%E3%83%AD%E3%83%BC%E3%83%91%E3%82%B9",
+    "appearances": [
+      {
+        "id": "34a1b4ba"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "1s75ws7d",
+    "name": "ナローパス",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "moiemvh9",
+      "name": ""
+    },
+    "skills": [],
+    "description": "ネザーキョウのセンシ。ピリジャー隊所属。\nリコナーの隠れ谷を襲撃していた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%94%E3%83%AA%E3%82%B8%E3%83%A3%E3%83%BC%EF%BC%8F%E3%83%95%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%B0%E3%82%A4%E3%83%B3%E3%83%B4%E3%82%A7%E3%82%A4%E3%82%B8%E3%83%A7%E3%83%B3%EF%BC%8F%E3%83%AD%E3%83%90%E3%83%BC%EF%BC%8F%E3%83%8A%E3%83%AD%E3%83%BC%E3%83%91%E3%82%B9",
+    "appearances": [
+      {
+        "id": "34a1b4ba"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "0v3a97ar",
+    "name": "イミディエット",
+    "aliases": [],
+    "ninjaType": "バイオニンジャ",
+    "ninjaSoul": {
+      "id": "ju4tgzye",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "タイホ・ドー",
+      "電磁ネット",
+      "電磁カラテバリア"
+    ],
+    "appearance": "ほぼ人間的外見。頭頂部から爪先まで覆う有機的な白いニンジャ装束。\nヨロシグリーンUNIXライトの装飾的なライン。",
+    "description": "ヨロシサン・インターナショナルのバイオニンジャ。\n電磁バリアでCEOを護り、電磁ネットで奥ゆかしく社敵を捕縛する。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%83%9F%E3%83%87%E3%82%A3%E3%82%A8%E3%83%83%E3%83%88",
+    "appearances": [
+      {
+        "id": "34a1b4ba"
+      },
+      {
+        "id": "e2bd0490"
+      },
+      {
+        "id": "rnyclxp8"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "v4q6j4de"
+      }
+    ]
+  },
+  {
+    "id": "gu03auxx",
+    "name": "ヴァイルモール",
+    "aliases": [],
+    "ninjaType": "バイオニンジャ",
+    "ninjaSoul": {
+      "id": "939vmd3b",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "ドトン・ジツ",
+      "丸呑み"
+    ],
+    "role": "ヨロシ・タスクフォース",
+    "appearance": "腹部に巨大な口。",
+    "description": "ヨロシサン・インターナショナルのバイオニンジャ。\nドトン・ジツでいきなり飛び出し敵を丸呑みにしてしまう。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%B4%E3%82%A1%E3%82%A4%E3%83%AB%E3%83%A2%E3%83%BC%E3%83%AB",
+    "appearances": [
+      {
+        "id": "34a1b4ba"
+      },
+      {
+        "id": "2ro7dlra"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "v4q6j4de"
+      }
+    ]
+  },
+  {
+    "id": "lc1w3v02",
+    "name": "エメラルド",
+    "aliases": [],
+    "ninjaType": "バイオニンジャ",
+    "ninjaSoul": {
+      "id": "j2cjvbzh",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "ダムシード・スリケン"
+    ],
+    "role": "ヨロシ・タスクフォース",
+    "appearance": "有機的なニンジャ装束。青い舌。緑色の肌。",
+    "description": "ヨロシサン・インターナショナルのバイオニンジャ。\nスリケンで植え付ける種は急速に相手の命を奪ってしまう。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%83%A1%E3%83%A9%E3%83%AB%E3%83%89",
+    "appearances": [
+      {
+        "id": "34a1b4ba"
+      },
+      {
+        "id": "2ro7dlra"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "v4q6j4de"
+      }
+    ]
+  },
+  {
+    "id": "hk4cvf8o",
+    "name": "フェアチャイルド",
+    "aliases": [],
+    "ninjaType": "バイオニンジャ",
+    "ninjaSoul": {
+      "id": "1uy532ix",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "翼",
+      "四本の腕",
+      "火炎放射器"
+    ],
+    "role": "ヨロシ・タスクフォース",
+    "appearance": "身長5m。甲殻外皮と４本の腕。異様に長い手足。大きな翼。象牙質のフルメンポ。",
+    "description": "ヨロシサン・インターナショナルのバイオニンジャ。\n輸送任務が主だが、敵を捕縛して火炎放射で焼くこともできる。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A7%E3%82%A2%E3%83%81%E3%83%A3%E3%82%A4%E3%83%AB%E3%83%89",
+    "appearances": [
+      {
+        "id": "34a1b4ba"
+      },
+      {
+        "id": "2ro7dlra"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "v4q6j4de"
+      }
+    ]
+  },
+  {
+    "id": "a7ujmuta",
+    "name": "A-1",
+    "aliases": [
+      "ファストストリーム"
+    ],
+    "ninjaType": "非ニンジャ",
+    "skills": [
+      "タイピング速度"
+    ],
+    "appearance": "アルビノの少年。片手杖。13歳より少し年上。",
+    "description": "リコナーの始祖。\nドリームキャッチャーとユウジョウを結び、集落を形成させた。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/A-1",
+    "appearances": [
+      {
+        "id": "34a1b4ba"
+      },
+      {
+        "id": "8m0jzogt"
+      },
+      {
+        "id": "2ro7dlra"
       }
     ],
     "organizations": []
