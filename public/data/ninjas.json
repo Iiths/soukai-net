@@ -5935,14 +5935,46 @@
     "name": "サガサマ・ミネ",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "40lyplrb",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "アカラ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "チカハ・カラテエンジン",
+      "小型グレネード弾"
+    ],
+    "appearance": "身長173cm。外見年齢30代。\nサラリマン・スーツ。眼鏡。七三分けした髪。\n少なくとも両腕、胴体、目、心臓がサイバネ。LANソケット。",
+    "description": "チカハ社のサラリマンニンジャ。\nスーツの下は重サイバネ。高いワザマエを誇る。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%82%AC%E3%82%B5%E3%83%9E%E3%83%BB%E3%83%9F%E3%83%8D",
+    "appearances": [
+      {
+        "id": "87b3bd6d"
+      },
+      {
+        "id": "9355aa93"
+      },
+      {
+        "id": "2ng3zl8s"
+      },
+      {
+        "id": "umufyew6"
+      },
+      {
+        "id": "8m0jzogt"
+      },
+      {
+        "id": "2ro7dlra"
+      }
+    ],
     "organizations": [
       {
         "id": "c34a3737"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%82%AC%E3%82%B5%E3%83%9E%E3%83%BB%E3%83%9F%E3%83%8D"
+    ]
   },
   {
     "id": "17754559166",
@@ -45346,5 +45378,218 @@
         "id": "9cf1667c"
       }
     ]
+  },
+  {
+    "id": "tgnu3o4j",
+    "name": "クワドリガ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "0ycvf7a9",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "チャリオット",
+      "投げ槍",
+      "弓矢",
+      "斧",
+      "剣"
+    ],
+    "role": "アケチ・シテンノ",
+    "appearance": "極限まで鍛え上げられた青銅色の肉体。剣闘士じみた腰布。鋼鉄ハーネス。半裸。\n鉄格子じみた凶悪なフルメンポ。背中に複数の武器。",
+    "description": "ネザーキョウのアケチ・シテンノの一人。\n完全戦士と称されるワザマエを誇り、チャリオットを駆り複数の武器を使いこなす。\nネザーキョウ崩壊以降はゲニンたちを束ね何処かへ消えた。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%AF%E3%83%89%E3%83%AA%E3%82%AC",
+    "appearances": [
+      {
+        "id": "2ng3zl8s"
+      },
+      {
+        "id": "umufyew6"
+      },
+      {
+        "id": "8m0jzogt"
+      },
+      {
+        "id": "2ro7dlra"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "czvholk1",
+    "name": "ルーテナント",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "ggefg8wy",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [],
+    "description": "ネザーキョウのニンジャ。\n城塞拠点トオヤマのダイカンを務めていた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AB%E3%83%BC%E3%83%86%E3%83%8A%E3%83%B3%E3%83%88",
+    "appearances": [
+      {
+        "id": "2ng3zl8s"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "v63z7hat",
+    "name": "デスリモーラ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "c1y1sgjh",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "吸盤機構",
+      "ニンジャ野伏力"
+    ],
+    "appearance": "腹部に吸盤機構。上腕にアケチの印。",
+    "description": "ネザーキョウのセンシ。\nお腹の吸盤で張り付いて潜伏する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B9%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%A9",
+    "appearances": [
+      {
+        "id": "2ng3zl8s"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "w7u1stne",
+    "name": "キャスケット",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "lwdf6jxr",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "シ・ニンジャクラン"
+    },
+    "skills": [
+      "ホロウバインド・ジツ"
+    ],
+    "appearance": "大柄な体格。顔にネジ止めされた鉄板。",
+    "description": "ヤモトへのゲコクジョを狙っていたニンジャ。\nオバケめいた白い靄で相手を拘束するジツの使い手。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AD%E3%83%A3%E3%82%B9%E3%82%B1%E3%83%83%E3%83%88",
+    "appearances": [
+      {
+        "id": "2ng3zl8s"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "rz29wljs",
+    "name": "ケリグマケラ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "yn1mxv0o",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "カンブリアン・ニンジャクラン"
+    },
+    "skills": [],
+    "description": "ヨロシサン・インターナショナルのエージェント。\nニッタ・カタツキの護送任務に従事していた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B1%E3%83%AA%E3%82%B0%E3%83%9E%E3%82%B1%E3%83%A9",
+    "appearances": [
+      {
+        "id": "2ng3zl8s"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "v4q6j4de"
+      }
+    ]
+  },
+  {
+    "id": "2zyinhzq",
+    "name": "アクセルジャック",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "acu2kda9",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "ジャックナイフ"
+    ],
+    "appearance": "モヒカンヘア。ジャックナイフを含めた複数の刃物を携帯。",
+    "description": "地域を転々とするサイコパスニンジャ。\n引き際を弁えており、用心深く立ち回っている。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%AB%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF",
+    "appearances": [
+      {
+        "id": "2ng3zl8s"
+      },
+      {
+        "id": "umufyew6"
+      },
+      {
+        "id": "7bd07f98"
+      },
+      {
+        "id": "66ac3aba"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "7yh79yub",
+    "name": "カナスーア",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "4ft5d96t",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "スラップ訴訟"
+    ],
+    "appearance": "くすんだ色のキモノ。サングラス。",
+    "description": "古物蒐集を生業とするニンジャ。\n尊大な性格だがカラテが弱く、代わりに訴訟をちらつかせてくる。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%83%8A%E3%82%B9%E3%83%BC%E3%82%A2",
+    "appearances": [
+      {
+        "id": "2ng3zl8s"
+      },
+      {
+        "id": "umufyew6"
+      },
+      {
+        "id": "rnyclxp8"
+      },
+      {
+        "id": "6d1b6126"
+      }
+    ],
+    "organizations": []
   }
 ]
