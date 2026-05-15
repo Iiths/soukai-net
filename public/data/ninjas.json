@@ -37953,13 +37953,36 @@
   {
     "id": "fc5c0f",
     "name": "デズデモーナ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "dsasl07r",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ナイフ",
+      "クナイ・ダート"
+    ],
+    "appearance": "ハイ・テックなニンジャボディスーツ装束。女性。",
+    "description": "ヌーテック社の企業ニンジャ。\nUCA強襲部隊を率いトオヤマ五重塔破壊作戦を指揮した。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%BA%E3%83%87%E3%83%A2%E3%83%BC%E3%83%8A",
+    "appearances": [
+      {
+        "id": "6e26e108"
+      },
+      {
+        "id": "fee57ebe"
+      }
+    ],
     "organizations": [
       {
         "id": "5ae77239"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%BA%E3%83%87%E3%83%A2%E3%83%BC%E3%83%8A"
+    ]
   },
   {
     "id": "08c289",
@@ -41014,10 +41037,33 @@
   {
     "id": "f8883187",
     "name": "マイトイカラス",
+    "aliases": [],
     "ninjaType": "リアルニンジャ",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%A4%E3%83%88%E3%82%A4%E3%82%AB%E3%83%A9%E3%82%B9"
+    "ninjaSoul": {
+      "id": "50064v77",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "アケチ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "カイト"
+    ],
+    "role": "ノブスマ・ストームボーン",
+    "appearance": "翼状のカイト。",
+    "description": "ネザーキョウのセンシ。アケチ・ニンジャのカイデンを得た若きリアルニンジャ。\nノブスマ部隊の一員としてカイトを駆り戦う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%A4%E3%83%88%E3%82%A4%E3%82%AB%E3%83%A9%E3%82%B9",
+    "appearances": [
+      {
+        "id": "9355aa93"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
   },
   {
     "id": "680b6539",
@@ -45182,6 +45228,117 @@
     "appearances": [
       {
         "id": "765ae0f0"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "xn3s8xyk",
+    "name": "ジェットコショウ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "65iaz34w",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "高速チョップ"
+    ],
+    "appearance": "鋲打ちコート。一般的なニンジャのメンポ。",
+    "description": "UCAの賞金稼ぎニンジャ。\n手首のサイバネ機構で高速チョップを繰り出す。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E3%82%B3%E3%82%B7%E3%83%A7%E3%82%A6",
+    "appearances": [
+      {
+        "id": "9355aa93"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "uwtc0vpa",
+    "name": "モンキーエッジ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "jiarna7m",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "湾曲ダガー",
+      "スリケン"
+    ],
+    "appearance": "浮浪者になりすますために襤褸を纏っていた。",
+    "description": "UCAの賞金稼ぎニンジャ。\n湾曲ダガーが獲物。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%B3%E3%82%AD%E3%83%BC%E3%82%A8%E3%83%83%E3%82%B8",
+    "appearances": [
+      {
+        "id": "9355aa93"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "dx83jomd",
+    "name": "メタルファルコ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "0p030xei",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "カイト",
+      "タケヤリ",
+      "カタナ"
+    ],
+    "role": "ノブスマ・ストームボーン",
+    "appearance": "傷だらけのファルコン・メンポ。剣呑な眼光。",
+    "description": "ネザーキョウの空挺部隊「ノブスマ・ストームボーン」の隊長。\n傭兵上がりの歴戦のカイト乗りニンジャ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%95%E3%82%A1%E3%83%AB%E3%82%B3",
+    "appearances": [
+      {
+        "id": "9355aa93"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "kwhki7m3",
+    "name": "エタンダール",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "53ekmv77",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "カイト",
+      "トライアングル・リープ",
+      "ダガー"
+    ],
+    "role": "ノブスマ・ストームボーン",
+    "appearance": "戦闘的なニンジャ装束。",
+    "description": "ネザーキョウのノブスマ・ストームボーンの隊員。\nバンクーバー襲撃作戦に参加した。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%80%8C%E3%83%98%E3%83%A9%E3%83%AB%E3%83%89%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%82%A4%E3%83%AB%E3%83%BB%E3%83%95%E3%82%A7%E3%82%A4%E3%83%88%E3%80%8D",
+    "appearances": [
+      {
+        "id": "6e26e108"
       }
     ],
     "organizations": [
