@@ -40335,15 +40335,11 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "ザンマブリンガー",
-      "ダンス・マカブレ"
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
     ],
-    "role": "アケチ・シテンノ",
-    "appearance": "身長3m超の偉丈夫。後ろで結った髪。龍じみた髭。溶岩石めいて光る目。\n背中に大剣「ザンマブリンガー」を背負う。",
-    "description": "アケチ・シテンノの一人。狂気のニンジャ英雄。\n魔剣ザンマブリンガーを獲物とし、極限のカラテを振るう。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B6%E3%83%B3%E3%83%9E%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
     "appearances": [
       {
         "id": "1c9a1c54"
@@ -40352,11 +40348,15 @@
         "id": "d66fda01"
       }
     ],
-    "organizations": [
-      {
-        "id": "9cf1667c"
-      }
-    ]
+    "skills": [
+      "ザンマブリンガー",
+      "ダンス・マカブレ"
+    ],
+    "role": "アケチ・シテンノ",
+    "appearance": "身長3m超の偉丈夫。後ろで結った髪。龍じみた髭。溶岩石めいて光る目。\n背中に大剣「ザンマブリンガー」を背負う。",
+    "description": "アケチ・シテンノの一人。狂気のニンジャ英雄。\n魔剣ザンマブリンガーを獲物とし、極限のカラテを振るう。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B6%E3%83%B3%E3%83%9E%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
   },
   {
     "id": "d088c9de",
@@ -41083,10 +41083,50 @@
   {
     "id": "e0cbea05",
     "name": "ティアマト",
+    "aliases": [],
     "ninjaType": "リアルニンジャ",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%86%E3%82%A3%E3%82%A2%E3%83%9E%E3%83%88"
+    "ninjaSoul": {
+      "id": "pnqny703",
+      "name": "ドラゴン・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "チャドー",
+      "ドラゴン・トビゲリ",
+      "ダーク・チャドー",
+      "バーニング・ハンド",
+      "タント・オブ・インフィニティ"
+    ],
+    "appearance": "黒曜石めいて黒い髪。けぶるような瞳。つややかな唇。豊満。\n超自然の黒いメンポ。",
+    "description": "ドラゴン・ニンジャのソウルの片割れが自我を持って独立。\n破滅的なダーク・チャドーの力を扱う。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%86%E3%82%A3%E3%82%A2%E3%83%9E%E3%83%88",
+    "appearances": [
+      {
+        "id": "his9gvkp"
+      },
+      {
+        "id": "b6722efc"
+      },
+      {
+        "id": "ff3c9805"
+      },
+      {
+        "id": "1c9a1c54"
+      },
+      {
+        "id": "2ro7dlra"
+      },
+      {
+        "id": "298d8046"
+      },
+      {
+        "id": "7bd07f98"
+      }
+    ],
+    "organizations": []
   },
   {
     "id": "25f8ddeb",
@@ -46261,5 +46301,451 @@
     "description": "リコナーの始祖。\nドリームキャッチャーとユウジョウを結び、集落を形成させた。",
     "status": "alive",
     "wikiUrl": "https://wikiwiki.jp/njslyr/A-1"
+  },
+  {
+    "id": "tehez2n3",
+    "name": "ネフィラ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "r0u52lj7",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "カイコ・ニンジャクラン"
+    },
+    "skills": [
+      "ジョロウネット・ジツ"
+    ],
+    "appearance": "女性。",
+    "description": "ネザーキョウのセンシ。\nジョロウネット・ジツで敵を捕縛して甚振るサディスト。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8D%E3%83%95%E3%82%A3%E3%83%A9",
+    "appearances": [
+      {
+        "id": "1c9a1c54"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "zma7v0fn",
+    "name": "レッドテラー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "fuvo2q16",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "赤い斧"
+    ],
+    "appearance": "スモトリめいた巨漢。アカゾナエの甲冑。",
+    "description": "アカゾナエのセンシ。\nスモトリめいた巨体を活かして戦う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%83%83%E3%83%89%E3%83%86%E3%83%A9%E3%83%BC",
+    "appearances": [
+      {
+        "id": "1c9a1c54"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "7e2apeb6",
+    "name": "リキッド",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "fu0al09b",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "スイトン・ジツ"
+    ],
+    "role": "アカゾナエ",
+    "appearance": "痩せ型。アカゾナエ姿。ジツ使用中は水状。",
+    "description": "ジョウゴ派のセンシニンジャ。\n身体を液状化するスイトン・ジツで奇襲する。\nネザーキョウ崩壊後はジョウゴと共にネザーオヒガンへ旅立った。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89",
+    "appearances": [
+      {
+        "id": "1c9a1c54"
+      },
+      {
+        "id": "2ro7dlra"
+      },
+      {
+        "id": "8fffe24e"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "sbo5vvbt",
+    "name": "マグノリア",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "17sbkgxh",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [],
+    "description": "ネザーキョウのセンシ。\nハリマ離宮への関所を護っていた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%B0%E3%83%8E%E3%83%AA%E3%82%A2",
+    "appearances": [
+      {
+        "id": "1c9a1c54"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "ccm9nywf",
+    "name": "ディスバンド",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "yl3mtnrl",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "ロクビ・ニンジャクラン"
+    },
+    "skills": [
+      "スリケン"
+    ],
+    "role": "アカゾナエ",
+    "description": "アカゾナエのセンシ。\n手首を切り離し死角からスリケン投擲する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%90%E3%83%B3%E3%83%89",
+    "appearances": [
+      {
+        "id": "1c9a1c54"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "uh0saqqd",
+    "name": "アンシーン",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "wrclqce3",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "ムテキ・フィールド",
+      "スリケン"
+    ],
+    "role": "アカゾナエ",
+    "description": "アカゾナエのセンシ。\n不可視のフィールドで味方を護るムテキ・フィールドの使い手。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%B3",
+    "appearances": [
+      {
+        "id": "1c9a1c54"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "sa6bun6s",
+    "name": "サーティーン",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "kcxdkaec",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "ボックス・カラテ"
+    ],
+    "role": "アカゾナエ",
+    "description": "アカゾナエのセンシ。\n1秒で13発ものパンチを放つ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%83%B3",
+    "appearances": [
+      {
+        "id": "1c9a1c54"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "vv7t0wmv",
+    "name": "ハイローラー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "7wp1y2wx",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "ハナフダ・トランプ"
+    ],
+    "role": "アカゾナエ",
+    "appearance": "長い前髪。マント。",
+    "description": "アカゾナエのセンシ。\nハナフダ・トランプを高速で投げる。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%82%A4%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC",
+    "appearances": [
+      {
+        "id": "1c9a1c54"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "8wzyqrvx",
+    "name": "トリリウム",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "lj1zx3z1",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "ミツバ・ダイシュリケン"
+    ],
+    "role": "アカゾナエ",
+    "description": "アカゾナエのセンシ。\n三枚刃のダイシュリケンを投擲する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%88%E3%83%AA%E3%83%AA%E3%82%A6%E3%83%A0",
+    "appearances": [
+      {
+        "id": "1c9a1c54"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "hyb7vi8o",
+    "name": "ガヴィアル",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "uoad90es",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "クロコダイル・カラテ",
+      "痛覚遮断"
+    ],
+    "role": "アカゾナエ",
+    "appearance": "鰐頭。",
+    "description": "アカゾナエのセンシ。\n痛覚を遮断し、クロコダイル・カラテで戦う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AC%E3%83%B4%E3%82%A3%E3%82%A2%E3%83%AB",
+    "appearances": [
+      {
+        "id": "1c9a1c54"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "jk2jg2jd",
+    "name": "バグズアイ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "4pzslk86",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "カマキリ・ケン",
+      "マンティス・ステップ",
+      "眼球摘出チョップ突き"
+    ],
+    "role": "アカゾナエ",
+    "appearance": "昆虫めいた複眼。",
+    "description": "アカゾナエのセンシ。\nカマキリの動きを模倣したカラテの使い手。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%82%B0%E3%82%BA%E3%82%A2%E3%82%A4",
+    "appearances": [
+      {
+        "id": "1c9a1c54"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "fr0npunh",
+    "name": "スクリーミングスカル",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "fp762slb",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "フレイミングスカルスウォーム・ジツ"
+    ],
+    "role": "アカゾナエ",
+    "appearance": "赤備え装束。恐ろしげな髑髏メンポ。",
+    "description": "アカゾナエのセンシ。\n燃える頭蓋骨の群れを召喚する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%82%B9%E3%82%AB%E3%83%AB",
+    "appearances": [
+      {
+        "id": "1c9a1c54"
+      },
+      {
+        "id": "vr3fq73p"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "5e66jbga",
+    "name": "サノバガン",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "dn7ni0qq",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "マシンガン"
+    ],
+    "role": "アカゾナエ",
+    "appearance": "右腕をマシンガンに置換。",
+    "description": "アカゾナエのセンシ。\n右腕のマシンガンが獲物だ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%8E%E3%83%90%E3%82%AC%E3%83%B3",
+    "appearances": [
+      {
+        "id": "1c9a1c54"
+      },
+      {
+        "id": "vr3fq73p"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "5ythkh7b",
+    "name": "デッドリーパープル",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "qeluc4xc",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "レッサーヘイスト・ジツ"
+    ],
+    "role": "アカゾナエ",
+    "appearance": "赤備え装束。",
+    "description": "アカゾナエのセンシ。\nジツにより紫の風となって高速移動する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%83%83%E3%83%89%E3%83%AA%E3%83%BC%E3%83%91%E3%83%BC%E3%83%97%E3%83%AB",
+    "appearances": [
+      {
+        "id": "1c9a1c54"
+      },
+      {
+        "id": "vr3fq73p"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "frrvawqo",
+    "name": "インダストリアル",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "n7wyi8n6",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "パワードスーツ"
+    ],
+    "role": "アカゾナエ",
+    "appearance": "アカゾナエに塗ったパワードスーツ。",
+    "description": "アカゾナエのセンシ。\nUCAから鹵獲したパワードスーツを纏う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%83%B3%E3%83%80%E3%82%B9%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB",
+    "appearances": [
+      {
+        "id": "1c9a1c54"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
   }
 ]
