@@ -39736,22 +39736,53 @@
   {
     "id": "333da472",
     "name": "ブルーグリーンスネーク",
-    "organizations": [],
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "bfmczse4",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ドク・ジツ・ダート",
+      "ノダチ・ケン・カタナ"
+    ],
+    "description": "ネザーキョウの領内で活動していた山賊大将。\nドク・ジツのダートとノダチで戦う。",
+    "status": "dead",
     "appearances": [
       {
         "id": "8fffe24e"
       }
-    ]
+    ],
+    "organizations": []
   },
   {
     "id": "14a173ce",
     "name": "ヘヴィノーズ",
-    "organizations": [],
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "y7rvzunq",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "散弾銃",
+      "トラバサミ"
+    ],
+    "appearance": "ギリーニンジャ装束。鋭い目つき。年配。",
+    "description": "ネザーキョウ山林に棲まうマタギニンジャ。\nカラテビーストとの戦いを癒しとする。",
+    "status": "alive",
     "appearances": [
       {
         "id": "8fffe24e"
       }
-    ]
+    ],
+    "organizations": []
   },
   {
     "id": "44eaebae",
