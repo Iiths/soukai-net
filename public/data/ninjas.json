@@ -33717,22 +33717,22 @@
       "clan": "",
       "origin": ""
     },
-    "organizations": [
-      {
-        "id": "pid9wztn"
-      }
+    "skills": [
+      "バヨネット・ドー"
     ],
+    "description": "平安時代のニンジャ。ソガ・ニンジャの副官。\nセキバハラでニンジャスレイヤーと戦ったという。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%91%E3%83%BC",
     "appearances": [
       {
         "id": "7n5yygr8"
       }
     ],
-    "skills": [
-      "バヨネット・ドー"
-    ],
-    "description": "平安時代時代のニンジャ。ソガ・ニンジャの副官。\nセキバハラでニンジャスレイヤーと戦ったという。",
-    "status": "unknown",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%91%E3%83%BC"
+    "organizations": [
+      {
+        "id": "pid9wztn"
+      }
+    ]
   },
   {
     "id": "02c511",
