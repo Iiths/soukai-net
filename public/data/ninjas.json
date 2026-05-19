@@ -753,11 +753,14 @@
       "ザック"
     ],
     "ninjaType": "非ニンジャ",
-    "skills": [],
-    "appearance": "身長160cm。「アベ一休」のクールなロゴがプリントされたTシャツなど。\nNoteのイベントヘッダーイラストでは褐色の肌、茶色い髪、鼻にテープを貼った快活な少年。",
-    "description": "ネザーキョウ育ちの少年。S3時点で13歳。\nマスラダたちに懐き同行、現在はピザタキの従業員として働いている。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B6%E3%82%AB%E3%83%AA%E3%83%BC",
+    "organizations": [
+      {
+        "id": "a91ea54d"
+      },
+      {
+        "id": "qdiy2dh4"
+      }
+    ],
     "appearances": [
       {
         "id": "765ae0f0"
@@ -805,14 +808,11 @@
         "id": "c81f586e"
       }
     ],
-    "organizations": [
-      {
-        "id": "a91ea54d"
-      },
-      {
-        "id": "qdiy2dh4"
-      }
-    ]
+    "skills": [],
+    "appearance": "身長160cm。「アベ一休」のクールなロゴがプリントされたTシャツなど。\nNoteのイベントヘッダーイラストでは褐色の肌、茶色い髪、鼻にテープを貼った快活な少年。",
+    "description": "ネザーキョウ育ちの少年。S3時点で13歳。\nマスラダたちに懐き同行、現在はピザタキの従業員として働いている。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B6%E3%82%AB%E3%83%AA%E3%83%BC"
   },
   {
     "id": "177545596",
@@ -37601,6 +37601,16 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "2ro7dlra"
+      }
+    ],
     "skills": [
       "サイ",
       "バクハツ・ジツ"
@@ -37608,17 +37618,7 @@
     "role": "宮宰",
     "description": "ホンノウジの宮宰を務めるニンジャ。\n爆発性のサイを扱う。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A1%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%89%E3%83%BC%E3%83%A2",
-    "appearances": [
-      {
-        "id": "2ro7dlra"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "9cf1667c"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A1%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%89%E3%83%BC%E3%83%A2"
   },
   {
     "id": "ef409c",
@@ -37969,6 +37969,19 @@
       "clan": "ビッグ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "40e6677e"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      },
+      {
+        "id": "2ro7dlra"
+      }
+    ],
     "skills": [
       "パワーノダチ・ケン",
       "マルチプル・ロケットランチャー",
@@ -37980,20 +37993,7 @@
     "appearance": "身長212cm。胸元に3億の年収を表示するエメツ黒漆塗パワード武者鎧。\n背中に三本のサイバネ副腕。",
     "description": "オムラ・エンパイア代表取締役、オムラショーグンの一人。\nビッグニンジャの巨体に様々な超火力武装を搭載する。",
     "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A1%E3%82%AC%E3%82%AA%E3%83%BC%E3%83%80%E3%83%BC",
-    "appearances": [
-      {
-        "id": "8fffe24e"
-      },
-      {
-        "id": "2ro7dlra"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "40e6677e"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A1%E3%82%AC%E3%82%AA%E3%83%BC%E3%83%80%E3%83%BC"
   },
   {
     "id": "203f30",
@@ -38007,6 +38007,16 @@
       "clan": "コンゴウ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "40e6677e"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "2ro7dlra"
+      }
+    ],
     "skills": [
       "年収操作",
       "エメツ反転心臓"
@@ -38015,17 +38025,7 @@
     "appearance": "身長3m。壮大な年収を胸元に表示するオムラ甲冑。禍々しいメンポ。\nスキンヘッド。頭部に発光する「邑」の漢字刻印。",
     "description": "オムラ・エンパイアのタイローの一人。\n凄まじい年収と戦闘能力を誇る。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%A7%E3%83%BC%E3%82%B0%E3%83%8D%E3%82%A4%E3%82%BF%E3%83%BC",
-    "appearances": [
-      {
-        "id": "2ro7dlra"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "40e6677e"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%A7%E3%83%BC%E3%82%B0%E3%83%8D%E3%82%A4%E3%82%BF%E3%83%BC"
   },
   {
     "id": "bcd808",
@@ -38160,23 +38160,23 @@
       "clan": "",
       "origin": "レッサー級の推測あり"
     },
+    "organizations": [
+      {
+        "id": "5ae77239"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "2ro7dlra"
+      }
+    ],
     "skills": [
       "指揮"
     ],
     "appearance": "身長188cm。外見年齢は50代。白髪の多い髪。\nヌーテック社の前線指揮官ロングコート装束。口元を覆うメンポ。",
     "description": "ヌーテック社の高官ニンジャ。\n最高指揮官まで上り詰めた卓越した指揮能力で戦線を俯瞰する。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%82%AC%E3%83%BC%E3%83%89",
-    "appearances": [
-      {
-        "id": "2ro7dlra"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "5ae77239"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%82%AC%E3%83%BC%E3%83%89"
   },
   {
     "id": "fc5c0f",
@@ -38279,17 +38279,11 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "アーバン・カラテ",
-      "ハンドガン",
-      "ショットガン",
-      "クイックブレード",
-      "ロケットランチャー"
+    "organizations": [
+      {
+        "id": "745e0c92"
+      }
     ],
-    "appearance": "身長187cm。真ん中で分けた首までの長さの黒髪。頬髭。顎髭。コンパスめいた長い脚。\nサイバーサングラス。黒いスーツ。濃紺のネクタイ。ハイエージェントのネクタイピン。",
-    "description": "アルカナム・コンプレックスのハイエージェント。\n高い権限を持った指揮官。複数のテックウェポンを使いこなす。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%93%E3%83%AB%E3%83%BB%E3%83%A2%E3%83%BC%E3%83%A4%E3%83%9E",
     "appearances": [
       {
         "id": "8m0jzogt"
@@ -38316,11 +38310,17 @@
         "id": "r4yepeot"
       }
     ],
-    "organizations": [
-      {
-        "id": "745e0c92"
-      }
-    ]
+    "skills": [
+      "アーバン・カラテ",
+      "ハンドガン",
+      "ショットガン",
+      "クイックブレード",
+      "ロケットランチャー"
+    ],
+    "appearance": "身長187cm。真ん中で分けた首までの長さの黒髪。頬髭。顎髭。コンパスめいた長い脚。\nサイバーサングラス。黒いスーツ。濃紺のネクタイ。ハイエージェントのネクタイピン。",
+    "description": "アルカナム・コンプレックスのハイエージェント。\n高い権限を持った指揮官。複数のテックウェポンを使いこなす。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%93%E3%83%AB%E3%83%BB%E3%83%A2%E3%83%BC%E3%83%A4%E3%83%9E"
   },
   {
     "id": "a5e5a5",
@@ -39074,6 +39074,16 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "40e6677e"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ],
     "skills": [
       "オムラ馬「モーターバリキ」",
       "電磁ナギナタブレード"
@@ -39081,17 +39091,7 @@
     "role": "タイロー",
     "appearance": "背中に年収表示された装束（恐らくパワードスーツ）。\n合体可能なサイバー馬に跨る。",
     "description": "オムラ・エンパイアのタイローの一人。\n人馬一体のカラテでオムラ・エンパイアに勝利を齎す。",
-    "status": "unknown",
-    "appearances": [
-      {
-        "id": "8fffe24e"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "40e6677e"
-      }
-    ]
+    "status": "unknown"
   },
   {
     "id": "9db87e95",
@@ -39388,19 +39388,19 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "description": "ネザーキョウのセンシ。\nゲニンたちの隊長を務めていた。",
-    "status": "dead",
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ],
     "appearances": [
       {
         "id": "8fffe24e"
       }
     ],
-    "organizations": [
-      {
-        "id": "9cf1667c"
-      }
-    ]
+    "skills": [],
+    "description": "ネザーキョウのセンシ。\nゲニンたちの隊長を務めていた。",
+    "status": "dead"
   },
   {
     "id": "b998298b",
@@ -39691,21 +39691,21 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "並列双刃カタナ"
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
     ],
-    "description": "ネザーキョウのセンシ。\nゲニンを率い略奪を繰り返しながらアマゾンへ向かっていた。",
-    "status": "dead",
     "appearances": [
       {
         "id": "8fffe24e"
       }
     ],
-    "organizations": [
-      {
-        "id": "9cf1667c"
-      }
-    ]
+    "skills": [
+      "並列双刃カタナ"
+    ],
+    "description": "ネザーキョウのセンシ。\nゲニンを率い略奪を繰り返しながらアマゾンへ向かっていた。",
+    "status": "dead"
   },
   {
     "id": "90075c1b",
@@ -39719,19 +39719,19 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "description": "ネザーキョウのセンシ。\nオムラ・タイローをしてただならぬ敵と評される。",
-    "status": "unknown",
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ],
     "appearances": [
       {
         "id": "8fffe24e"
       }
     ],
-    "organizations": [
-      {
-        "id": "9cf1667c"
-      }
-    ]
+    "skills": [],
+    "description": "ネザーキョウのセンシ。\nオムラ・タイローをしてただならぬ敵と評される。",
+    "status": "unknown"
   },
   {
     "id": "333da472",
@@ -39745,18 +39745,18 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "ドク・ジツ・ダート",
-      "ノダチ・ケン・カタナ"
-    ],
-    "description": "ネザーキョウの領内で活動していた山賊大将。\nドク・ジツのダートとノダチで戦う。",
-    "status": "dead",
+    "organizations": [],
     "appearances": [
       {
         "id": "8fffe24e"
       }
     ],
-    "organizations": []
+    "skills": [
+      "ドク・ジツ・ダート",
+      "ノダチ・ケン・カタナ"
+    ],
+    "description": "ネザーキョウの領内で活動していた山賊大将。\nドク・ジツのダートとノダチで戦う。",
+    "status": "dead"
   },
   {
     "id": "14a173ce",
@@ -39770,19 +39770,19 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ],
     "skills": [
       "散弾銃",
       "トラバサミ"
     ],
     "appearance": "ギリーニンジャ装束。鋭い目つき。年配。",
     "description": "ネザーキョウ山林に棲まうマタギニンジャ。\nカラテビーストとの戦いを癒しとする。",
-    "status": "alive",
-    "appearances": [
-      {
-        "id": "8fffe24e"
-      }
-    ],
-    "organizations": []
+    "status": "alive"
   },
   {
     "id": "44eaebae",
@@ -40266,6 +40266,12 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "2ro7dlra"
+      }
+    ],
     "skills": [
       "アスラ・カラテ",
       "キネシス・ジツ",
@@ -40276,13 +40282,7 @@
     "appearance": "偉丈夫。上半身をはだけた黒の和服。虎の腰巻。南蛮渡来の鎧甲冑。複数の酒と黒色火薬の瓢箪。\n逞しき二本の腕に加え歯車を軋ませる青銅の四本腕。紫色のカラテの火が燻る瞳。",
     "description": "戦国時代に活躍したリアルニンジャ。\n六本腕のカラテの他、カゲムシャ・ジツにより巨大兵器まで動かす。\n遥か後の世ではケイビインにソウル憑依していた。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AA%E3%83%80%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
-    "appearances": [
-      {
-        "id": "2ro7dlra"
-      }
-    ],
-    "organizations": []
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AA%E3%83%80%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
   },
   {
     "id": "1ad9361f",
@@ -45576,16 +45576,11 @@
       "name": "ジャキ・ニンジャ",
       "grade": "アーチ級"
     },
-    "skills": [
-      "帯電ソニックカラテ",
-      "カラテキジ",
-      "ヤリ・オブ・ウォーロード"
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
     ],
-    "role": "アケチ・シテンノ",
-    "appearance": "身長189cm。捻じれた二本の角。白い髪。外見は20代後半。女性。",
-    "description": "ネザーキョウのアケチ・シテンノの一人。\n固定化したカゼを蹴って宙を舞い、帯電ソニックカラテを放つ。\n第4部以降はアラシ・ニンジャと僅かな期間同行していた。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%B4%E3%83%B3%E3%83%AA%E3%82%A4",
     "appearances": [
       {
         "id": "0905b269"
@@ -45606,11 +45601,16 @@
         "id": "2ro7dlra"
       }
     ],
-    "organizations": [
-      {
-        "id": "9cf1667c"
-      }
-    ]
+    "skills": [
+      "帯電ソニックカラテ",
+      "カラテキジ",
+      "ヤリ・オブ・ウォーロード"
+    ],
+    "role": "アケチ・シテンノ",
+    "appearance": "身長189cm。捻じれた二本の角。白い髪。外見は20代後半。女性。",
+    "description": "ネザーキョウのアケチ・シテンノの一人。\n固定化したカゼを蹴って宙を舞い、帯電ソニックカラテを放つ。\n第4部以降はアラシ・ニンジャと僅かな期間同行していた。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%B4%E3%83%B3%E3%83%AA%E3%82%A4"
   },
   {
     "id": "pd7tor47",
@@ -47071,6 +47071,16 @@
       "grade": "等級不明",
       "clan": "ビッグ・ニンジャクラン"
     },
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "8m0jzogt"
+      }
+    ],
     "skills": [
       "ビッグカラテ",
       "ニンジャ膂力"
@@ -47079,17 +47089,7 @@
     "appearance": "ビッグニンジャの中でも巨体。バッファローの双角が埋め込まれた鋼兜メンポ。\n尖った肩当ての真鍮の甲冑。肩や脇腹にチューブが接続されている。",
     "description": "ネザーキョウのアケチ・シテンノの一人。\n元アメリカ空軍大尉。ナガシノの領地を管理している。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AA%E3%83%87%E3%82%A3%E3%83%BC%E3%83%9E%E3%83%BC",
-    "appearances": [
-      {
-        "id": "8m0jzogt"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "9cf1667c"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AA%E3%83%87%E3%82%A3%E3%83%BC%E3%83%9E%E3%83%BC"
   },
   {
     "id": "owp6avkl",
@@ -47101,6 +47101,16 @@
       "name": "",
       "grade": "等級不明"
     },
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "8m0jzogt"
+      }
+    ],
     "skills": [
       "チェスボード・ジツ",
       "チェスボックス・カラテ"
@@ -47108,17 +47118,7 @@
     "role": "デスベレー隊",
     "description": "デスベレー隊のセンシ。\n元チェスボクシング王者で、戦況の俯瞰に長ける。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%83%A1%E3%82%A4%E3%83%88",
-    "appearances": [
-      {
-        "id": "8m0jzogt"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "9cf1667c"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%83%A1%E3%82%A4%E3%83%88"
   },
   {
     "id": "1rfxkjgx",
@@ -47130,6 +47130,16 @@
       "name": "",
       "grade": "等級不明"
     },
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "8m0jzogt"
+      }
+    ],
     "skills": [
       "拷問鞭"
     ],
@@ -47137,17 +47147,7 @@
     "appearance": "片目に眼帯。",
     "description": "デスベレー隊のセンシ。\n治安部隊の長で拷問術に長ける。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5",
-    "appearances": [
-      {
-        "id": "8m0jzogt"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "9cf1667c"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5"
   },
   {
     "id": "2fkvpmh3",
@@ -47159,6 +47159,16 @@
       "name": "",
       "grade": "等級不明"
     },
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "8m0jzogt"
+      }
+    ],
     "skills": [
       "バング・ジツ"
     ],
@@ -47166,17 +47176,7 @@
     "appearance": "サイバーサングラス。斜めに刈り上げた髪。肩の尖ったスーツ装束。咥えタバコ。女性。",
     "description": "デスベレー隊のセンシ。\n指さした相手にマイクロウェーブを集めて爆破させる。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%83%E3%83%89%E3%83%90%E3%83%B3%E3%82%AC%E3%83%BC",
-    "appearances": [
-      {
-        "id": "8m0jzogt"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "9cf1667c"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%83%E3%83%89%E3%83%90%E3%83%B3%E3%82%AC%E3%83%BC"
   },
   {
     "id": "dl9gswef",
@@ -47188,6 +47188,16 @@
       "name": "",
       "grade": "等級不明"
     },
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "8m0jzogt"
+      }
+    ],
     "skills": [
       "ジェットパック",
       "スリケン",
@@ -47197,17 +47207,7 @@
     "appearance": "背中に翼の付いたジェットパック。",
     "description": "デスベレー隊のセンシ。\nジェットパックで空中からスリケン投擲や滑空攻撃する。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB",
-    "appearances": [
-      {
-        "id": "8m0jzogt"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "9cf1667c"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB"
   },
   {
     "id": "a6pbr6fl",
@@ -47219,6 +47219,16 @@
       "name": "",
       "grade": "等級不明"
     },
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "8m0jzogt"
+      }
+    ],
     "skills": [
       "二刀流"
     ],
@@ -47226,17 +47236,7 @@
     "appearance": "屈強な身体。タクティカルニンジャアーマー。",
     "description": "デスベレー隊のセンシ。\nニンジャ感覚に優れ、二刀流カタナを獲物に戦う。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B1%E3%83%B3%E3%82%B4%E3%82%A6",
-    "appearances": [
-      {
-        "id": "8m0jzogt"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "9cf1667c"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B1%E3%83%B3%E3%82%B4%E3%82%A6"
   },
   {
     "id": "7gj0k4kl",
@@ -47249,6 +47249,16 @@
       "grade": "等級不明",
       "clan": "タナカ・ニンジャクラン"
     },
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "8m0jzogt"
+      }
+    ],
     "skills": [
       "12属性の矢",
       "キネシス・ジツ"
@@ -47257,17 +47267,7 @@
     "appearance": "アーミー弓。ジツ発動中にバリバリと電光めいた閃光を放つ額。",
     "description": "デスベレー隊のセンシ。\n毒を持つ12属性矢をジツで命中させる。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%AB%E3%82%AB%E3%83%87%E3%82%A3%E3%82%A2",
-    "appearances": [
-      {
-        "id": "8m0jzogt"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "9cf1667c"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%AB%E3%82%AB%E3%83%87%E3%82%A3%E3%82%A2"
   },
   {
     "id": "z19rqf9t",
@@ -47279,22 +47279,22 @@
       "name": "",
       "grade": "等級不明"
     },
-    "skills": [
-      "古代ローマカラテ"
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
     ],
-    "description": "ネザーキョウのセンシ。恐らくデスベレー隊所属。\n古代ローマカラテの使い手。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%AD%E3%83%A0%E3%82%B9",
     "appearances": [
       {
         "id": "8m0jzogt"
       }
     ],
-    "organizations": [
-      {
-        "id": "9cf1667c"
-      }
-    ]
+    "skills": [
+      "古代ローマカラテ"
+    ],
+    "description": "ネザーキョウのセンシ。恐らくデスベレー隊所属。\n古代ローマカラテの使い手。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%AD%E3%83%A0%E3%82%B9"
   },
   {
     "id": "mkhhph5x",
@@ -47303,13 +47303,7 @@
       "柳生王爾"
     ],
     "ninjaType": "非ニンジャ",
-    "skills": [
-      "五つの指輪",
-      "ネザー剣法"
-    ],
-    "description": "平安後期から江戸時代を生きたモータルの魔剣士。\n五つの指輪に呪われていた。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E6%9F%B3%E7%94%9F%E3%82%A6%E3%82%A9%E3%83%B3%E3%82%B8",
+    "organizations": [],
     "appearances": [
       {
         "id": "8m0jzogt"
@@ -47318,7 +47312,13 @@
         "id": "2ro7dlra"
       }
     ],
-    "organizations": []
+    "skills": [
+      "五つの指輪",
+      "ネザー剣法"
+    ],
+    "description": "平安後期から江戸時代を生きたモータルの魔剣士。\n五つの指輪に呪われていた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E6%9F%B3%E7%94%9F%E3%82%A6%E3%82%A9%E3%83%B3%E3%82%B8"
   },
   {
     "id": "e8wyh7rn",
@@ -47331,13 +47331,7 @@
       "name": "",
       "grade": "等級不明"
     },
-    "skills": [
-      "溶解泡噴射"
-    ],
-    "appearance": "細身の身体。スーツ。アンモナイト型のフルヘルム・メンポ。白手袋。\n素顔はインテリじみた風貌。撫でられる程度の白い顎髭。\nアンモナイト化石を収めた銀の強化ジュラルミンケース。",
-    "description": "薄給の研究者大学教師にニンジャソウルが憑依。\n世界各地でアンモナイト化石強盗を繰り返している。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%B3%E3%83%A2%E3%83%8A%E3%82%A4%E3%83%88",
+    "organizations": [],
     "appearances": [
       {
         "id": "8m0jzogt"
@@ -47352,7 +47346,13 @@
         "id": "66ac3aba"
       }
     ],
-    "organizations": []
+    "skills": [
+      "溶解泡噴射"
+    ],
+    "appearance": "細身の身体。スーツ。アンモナイト型のフルヘルム・メンポ。白手袋。\n素顔はインテリじみた風貌。撫でられる程度の白い顎髭。\nアンモナイト化石を収めた銀の強化ジュラルミンケース。",
+    "description": "薄給の研究者大学教師にニンジャソウルが憑依。\n世界各地でアンモナイト化石強盗を繰り返している。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%B3%E3%83%A2%E3%83%8A%E3%82%A4%E3%83%88"
   },
   {
     "id": "4jut5c9l",
@@ -47366,13 +47366,7 @@
       "grade": "グレーター級",
       "clan": "ダマシ・ニンジャクラン"
     },
-    "skills": [
-      "カワリミ・ジツ"
-    ],
-    "appearance": "身長155cm。ラズベリーレッドの髪。水色の瞳。手首にレリック探索用のデバイス。女性。",
-    "description": "フリーランスのトレジャーハンターニンジャ。\nひょんな奇縁からヘラルド、モモジ・ニンジャと共に放浪中。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B0%E3%83%A9%E3%83%8B%E3%83%86",
+    "organizations": [],
     "appearances": [
       {
         "id": "8m0jzogt"
@@ -47384,7 +47378,13 @@
         "id": "8fffe24e"
       }
     ],
-    "organizations": []
+    "skills": [
+      "カワリミ・ジツ"
+    ],
+    "appearance": "身長155cm。ラズベリーレッドの髪。水色の瞳。手首にレリック探索用のデバイス。女性。",
+    "description": "フリーランスのトレジャーハンターニンジャ。\nひょんな奇縁からヘラルド、モモジ・ニンジャと共に放浪中。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B0%E3%83%A9%E3%83%8B%E3%83%86"
   },
   {
     "id": "95xm6yws",
@@ -47396,6 +47396,19 @@
       "name": "",
       "grade": "等級不明"
     },
+    "organizations": [
+      {
+        "id": "745e0c92"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "2ro7dlra"
+      },
+      {
+        "id": "r4yepeot"
+      }
+    ],
     "skills": [
       "カタナ",
       "マキビシ",
@@ -47406,20 +47419,7 @@
     "appearance": "試作型ボディスーツ。白い金属フレーム。背中にジェット機じみた平たい翼。\n本体は黒いエメツ外殻で覆われた脳髄ユニット。",
     "description": "誅滅天使の異名を持つアルカナムのニンジャ。\n反重力飛行下で機動力を活かした戦闘を行う。",
     "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%82%A4%E3%83%88%E3%83%8B%E3%83%B3%E3%82%B0",
-    "appearances": [
-      {
-        "id": "2ro7dlra"
-      },
-      {
-        "id": "r4yepeot"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "745e0c92"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%82%A4%E3%83%88%E3%83%8B%E3%83%B3%E3%82%B0"
   },
   {
     "id": "aysnphai",
@@ -47431,23 +47431,23 @@
       "name": "",
       "grade": "等級不明"
     },
+    "organizations": [
+      {
+        "id": "40e6677e"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "2ro7dlra"
+      }
+    ],
     "skills": [
       "マイクロミサイルポッド"
     ],
     "appearance": "年収が表示されたオムラ・ブラック装甲装束。\n両腕両脚に無骨なマイクロミサイルポッド。",
     "description": "オムラ・エンパイアの企業戦士ニンジャ。\n追尾機能付きのマイクロミサイルで面制圧する。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%83%BC",
-    "appearances": [
-      {
-        "id": "2ro7dlra"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "40e6677e"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%83%BC"
   },
   {
     "id": "lo4wxbp9",
@@ -47459,23 +47459,23 @@
       "name": "",
       "grade": "等級不明"
     },
+    "organizations": [
+      {
+        "id": "40e6677e"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "2ro7dlra"
+      }
+    ],
     "skills": [
       "オムラ・デストラクター"
     ],
     "appearance": "肩に槍ガトリングじみた機構。女性。",
     "description": "オムラ・エンパイアの企業戦士ニンジャ。\n小型化されたオムラ・デストラクターで周囲の敵をネギトロに変える。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B9%E3%83%88%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC",
-    "appearances": [
-      {
-        "id": "2ro7dlra"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "40e6677e"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B9%E3%83%88%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC"
   },
   {
     "id": "fxh18inr",
@@ -47487,6 +47487,16 @@
       "name": "",
       "grade": "等級不明"
     },
+    "organizations": [
+      {
+        "id": "40e6677e"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "2ro7dlra"
+      }
+    ],
     "skills": [
       "シリンダーアームパンチ",
       "マシンガン",
@@ -47495,17 +47505,7 @@
     "appearance": "背中に三点噴射式のオムラ・スラスター。無骨なゴーグル。赤い唇。\n異様に巨大なサイバネ腕。",
     "description": "オムラ・エンパイアの企業戦士ニンジャ。\nスラスターで急接近しシリンダーアームパンチを放つ。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%82%A4%E3%82%BF%E3%83%B3%E3%82%BA%E3%83%95%E3%82%A3%E3%82%B9%E3%83%88",
-    "appearances": [
-      {
-        "id": "2ro7dlra"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "40e6677e"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%82%A4%E3%82%BF%E3%83%B3%E3%82%BA%E3%83%95%E3%82%A3%E3%82%B9%E3%83%88"
   },
   {
     "id": "mzbbpvtv",
@@ -47517,22 +47517,22 @@
       "name": "",
       "grade": "等級不明"
     },
-    "skills": [
-      "鉄球",
-      "マグネ・ジツ"
+    "organizations": [
+      {
+        "id": "40e6677e"
+      }
     ],
-    "description": "オムラ・エンパイアの企業戦士ニンジャ。\nマグネ・ジツでスリケンを無効化し、鉄球を投げて攻撃する。",
-    "status": "dead",
     "appearances": [
       {
         "id": "2ro7dlra"
       }
     ],
-    "organizations": [
-      {
-        "id": "40e6677e"
-      }
-    ]
+    "skills": [
+      "鉄球",
+      "マグネ・ジツ"
+    ],
+    "description": "オムラ・エンパイアの企業戦士ニンジャ。\nマグネ・ジツでスリケンを無効化し、鉄球を投げて攻撃する。",
+    "status": "dead"
   },
   {
     "id": "2r537drm",
@@ -47544,6 +47544,16 @@
       "name": "",
       "grade": "等級不明"
     },
+    "organizations": [
+      {
+        "id": "40e6677e"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "2ro7dlra"
+      }
+    ],
     "skills": [
       "大口径ハープーン・キャノン",
       "グレネード弾",
@@ -47552,28 +47562,18 @@
     "appearance": "下半身が機械馬の半人半馬の身体。胸元に年収表示（恐らくパワードスーツ）。\n背中にオムラ旗竿。",
     "description": "オムラ・エンパイアの企業戦士ニンジャ。\n機械半馬の機動力とオムラの最新兵器で戦う。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%83%B4%E3%82%A9%E3%83%83%E3%82%AF",
-    "appearances": [
-      {
-        "id": "2ro7dlra"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "40e6677e"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%83%B4%E3%82%A9%E3%83%83%E3%82%AF"
   },
   {
     "id": "1p9nxaj0",
     "name": "エリザベート・バサラ",
     "aliases": [],
     "ninjaType": "非ニンジャ",
-    "skills": [],
-    "appearance": "身長174cm。年齢40前後。中性的な外見。斜めに撫で付けた柔らかい金色の髪。少し尖った耳。\n一目で素晴らしい仕立てと分かる黒一色の服。\n左手が精巧なサイバネ義手。",
-    "description": "カタナ・オブ・リバプール社CEO。\n非ニンジャながら200超の知能指数の持ち主。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%83%AA%E3%82%B6%E3%83%99%E3%83%BC%E3%83%88%E3%83%BB%E3%83%90%E3%82%B5%E3%83%A9",
+    "organizations": [
+      {
+        "id": "ca1c8175"
+      }
+    ],
     "appearances": [
       {
         "id": "2ro7dlra"
@@ -47588,11 +47588,11 @@
         "id": "298d8046"
       }
     ],
-    "organizations": [
-      {
-        "id": "ca1c8175"
-      }
-    ]
+    "skills": [],
+    "appearance": "身長174cm。年齢40前後。中性的な外見。斜めに撫で付けた柔らかい金色の髪。少し尖った耳。\n一目で素晴らしい仕立てと分かる黒一色の服。\n左手が精巧なサイバネ義手。",
+    "description": "カタナ・オブ・リバプール社CEO。\n非ニンジャながら200超の知能指数の持ち主。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%83%AA%E3%82%B6%E3%83%99%E3%83%BC%E3%83%88%E3%83%BB%E3%83%90%E3%82%B5%E3%83%A9"
   },
   {
     "id": "roj2j3t7",
@@ -47604,6 +47604,16 @@
       "name": "",
       "grade": "等級不明"
     },
+    "organizations": [
+      {
+        "id": "ca1c8175"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "2ro7dlra"
+      }
+    ],
     "skills": [
       "イサライト・アーマーV2",
       "非端子LAN直結",
@@ -47612,17 +47622,7 @@
     "appearance": "ステルス機構付きの奇怪な外骨格アーマー。\n左胸に小さい「KATANA」の文字。",
     "description": "カタナ社のエージェントニンジャ。\n極めて高いステルス能力で敵に近づきデータを抜き取る。",
     "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%91%E3%83%AB%E3%82%B9",
-    "appearances": [
-      {
-        "id": "2ro7dlra"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "ca1c8175"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%91%E3%83%AB%E3%82%B9"
   },
   {
     "id": "pccliqtr",
@@ -47634,16 +47634,11 @@
       "name": "",
       "grade": "等級不明"
     },
-    "skills": [
-      "英国式カラテ",
-      "エンハンスメント・ジツ",
-      "ロイヤルガジェット"
+    "organizations": [
+      {
+        "id": "ca1c8175"
+      }
     ],
-    "role": "ロイヤルニンジャ",
-    "appearance": "タキシード。獅子の口を模した黄金のメンポ。",
-    "description": "カタナ社が誇る7人のロイヤルニンジャの一人。\n高い状況判断能力を持ち、社の試作兵器を使いこなす。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%8F%E3%83%BC%E3%83%88",
     "appearances": [
       {
         "id": "2ro7dlra"
@@ -47655,11 +47650,16 @@
         "id": "6dcsfo7u"
       }
     ],
-    "organizations": [
-      {
-        "id": "ca1c8175"
-      }
-    ]
+    "skills": [
+      "英国式カラテ",
+      "エンハンスメント・ジツ",
+      "ロイヤルガジェット"
+    ],
+    "role": "ロイヤルニンジャ",
+    "appearance": "タキシード。獅子の口を模した黄金のメンポ。",
+    "description": "カタナ社が誇る7人のロイヤルニンジャの一人。\n高い状況判断能力を持ち、社の試作兵器を使いこなす。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%8F%E3%83%BC%E3%83%88"
   },
   {
     "id": "4t0zs96a",
@@ -47671,21 +47671,21 @@
       "name": "",
       "grade": "等級不明"
     },
-    "skills": [],
-    "appearance": "メンポ。",
-    "description": "ネザーキョウのセンシ。\nオムラ・エンパイアの企業戦士たちと交戦した。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%81%E3%82%A7%E3%82%B9%E3%83%88%E3%83%8A%E3%83%83%E3%83%88%EF%BC%8F%E3%83%96%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%89%E3%83%A9%E3%83%A0%EF%BC%8F%E3%83%87%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AF%EF%BC%8F%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%98%E3%83%AB%E3%83%A0%EF%BC%8F%E3%83%A2%E3%83%BC%E3%83%B3%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC",
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ],
     "appearances": [
       {
         "id": "2ro7dlra"
       }
     ],
-    "organizations": [
-      {
-        "id": "9cf1667c"
-      }
-    ]
+    "skills": [],
+    "appearance": "メンポ。",
+    "description": "ネザーキョウのセンシ。\nオムラ・エンパイアの企業戦士たちと交戦した。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%81%E3%82%A7%E3%82%B9%E3%83%88%E3%83%8A%E3%83%83%E3%83%88%EF%BC%8F%E3%83%96%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%89%E3%83%A9%E3%83%A0%EF%BC%8F%E3%83%87%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AF%EF%BC%8F%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%98%E3%83%AB%E3%83%A0%EF%BC%8F%E3%83%A2%E3%83%BC%E3%83%B3%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC"
   },
   {
     "id": "41mdgzp7",
@@ -47697,20 +47697,20 @@
       "name": "",
       "grade": "等級不明"
     },
-    "skills": [],
-    "description": "ネザーキョウのセンシ。\nオムラ・エンパイアの企業戦士たちと交戦した。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%81%E3%82%A7%E3%82%B9%E3%83%88%E3%83%8A%E3%83%83%E3%83%88%EF%BC%8F%E3%83%96%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%89%E3%83%A9%E3%83%A0%EF%BC%8F%E3%83%87%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AF%EF%BC%8F%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%98%E3%83%AB%E3%83%A0%EF%BC%8F%E3%83%A2%E3%83%BC%E3%83%B3%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC",
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ],
     "appearances": [
       {
         "id": "2ro7dlra"
       }
     ],
-    "organizations": [
-      {
-        "id": "9cf1667c"
-      }
-    ]
+    "skills": [],
+    "description": "ネザーキョウのセンシ。\nオムラ・エンパイアの企業戦士たちと交戦した。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%81%E3%82%A7%E3%82%B9%E3%83%88%E3%83%8A%E3%83%83%E3%83%88%EF%BC%8F%E3%83%96%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%89%E3%83%A9%E3%83%A0%EF%BC%8F%E3%83%87%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AF%EF%BC%8F%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%98%E3%83%AB%E3%83%A0%EF%BC%8F%E3%83%A2%E3%83%BC%E3%83%B3%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC"
   },
   {
     "id": "u25qfmdq",
@@ -47722,22 +47722,22 @@
       "name": "",
       "grade": "等級不明"
     },
-    "skills": [
-      "手術刀"
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
     ],
-    "description": "ネザーキョウのセンシ。\n手術刀で顔面をぐるりと刳り剥がし取ってしまう。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%81%E3%82%A7%E3%82%B9%E3%83%88%E3%83%8A%E3%83%83%E3%83%88%EF%BC%8F%E3%83%96%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%89%E3%83%A9%E3%83%A0%EF%BC%8F%E3%83%87%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AF%EF%BC%8F%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%98%E3%83%AB%E3%83%A0%EF%BC%8F%E3%83%A2%E3%83%BC%E3%83%B3%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC",
     "appearances": [
       {
         "id": "2ro7dlra"
       }
     ],
-    "organizations": [
-      {
-        "id": "9cf1667c"
-      }
-    ]
+    "skills": [
+      "手術刀"
+    ],
+    "description": "ネザーキョウのセンシ。\n手術刀で顔面をぐるりと刳り剥がし取ってしまう。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%81%E3%82%A7%E3%82%B9%E3%83%88%E3%83%8A%E3%83%83%E3%83%88%EF%BC%8F%E3%83%96%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%89%E3%83%A9%E3%83%A0%EF%BC%8F%E3%83%87%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AF%EF%BC%8F%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%98%E3%83%AB%E3%83%A0%EF%BC%8F%E3%83%A2%E3%83%BC%E3%83%B3%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC"
   },
   {
     "id": "k6xzj4as",
@@ -47749,20 +47749,20 @@
       "name": "",
       "grade": "等級不明"
     },
-    "skills": [],
-    "description": "ネザーキョウのセンシ。\nオムラ・エンパイアの企業戦士たちと交戦した。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%81%E3%82%A7%E3%82%B9%E3%83%88%E3%83%8A%E3%83%83%E3%83%88%EF%BC%8F%E3%83%96%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%89%E3%83%A9%E3%83%A0%EF%BC%8F%E3%83%87%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AF%EF%BC%8F%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%98%E3%83%AB%E3%83%A0%EF%BC%8F%E3%83%A2%E3%83%BC%E3%83%B3%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC",
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ],
     "appearances": [
       {
         "id": "2ro7dlra"
       }
     ],
-    "organizations": [
-      {
-        "id": "9cf1667c"
-      }
-    ]
+    "skills": [],
+    "description": "ネザーキョウのセンシ。\nオムラ・エンパイアの企業戦士たちと交戦した。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%81%E3%82%A7%E3%82%B9%E3%83%88%E3%83%8A%E3%83%83%E3%83%88%EF%BC%8F%E3%83%96%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%89%E3%83%A9%E3%83%A0%EF%BC%8F%E3%83%87%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AF%EF%BC%8F%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%98%E3%83%AB%E3%83%A0%EF%BC%8F%E3%83%A2%E3%83%BC%E3%83%B3%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC"
   },
   {
     "id": "ud391cgr",
@@ -47774,20 +47774,20 @@
       "name": "",
       "grade": "等級不明"
     },
-    "skills": [],
-    "description": "ネザーキョウのセンシ。\nオムラ・エンパイアの企業戦士たちと交戦した。",
-    "status": "dead",
-    "wikiUrl": "http://localhost:5173/ninja/new/edit",
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ],
     "appearances": [
       {
         "id": "2ro7dlra"
       }
     ],
-    "organizations": [
-      {
-        "id": "9cf1667c"
-      }
-    ]
+    "skills": [],
+    "description": "ネザーキョウのセンシ。\nオムラ・エンパイアの企業戦士たちと交戦した。",
+    "status": "dead",
+    "wikiUrl": "http://localhost:5173/ninja/new/edit"
   },
   {
     "id": "jit1yipq",
@@ -47799,20 +47799,20 @@
       "name": "",
       "grade": "等級不明"
     },
-    "skills": [],
-    "description": "ネザーキョウのセンシ。\nホンノウジの天守閣を護っていた。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%B4%E3%82%A7%E3%82%A4%E3%83%91%E3%83%BC",
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ],
     "appearances": [
       {
         "id": "2ro7dlra"
       }
     ],
-    "organizations": [
-      {
-        "id": "9cf1667c"
-      }
-    ]
+    "skills": [],
+    "description": "ネザーキョウのセンシ。\nホンノウジの天守閣を護っていた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%B4%E3%82%A7%E3%82%A4%E3%83%91%E3%83%BC"
   },
   {
     "id": "7z0zl4ko",
@@ -47824,6 +47824,16 @@
       "name": "",
       "grade": "等級不明"
     },
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "2ro7dlra"
+      }
+    ],
     "skills": [
       "石像擬態",
       "爪"
@@ -47831,17 +47841,7 @@
     "appearance": "オジゾウ・ガーゴイル像めいた石像に擬態。擬態を解いた後も奇妙な外見らしい。",
     "description": "ネザーキョウのセンシ。\n石像に擬態し爪で奇襲する。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3%E3%83%93%E3%83%BC%E3%82%B9%E3%83%88",
-    "appearances": [
-      {
-        "id": "2ro7dlra"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "9cf1667c"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3%E3%83%93%E3%83%BC%E3%82%B9%E3%83%88"
   },
   {
     "id": "njgt9480",
@@ -47853,6 +47853,16 @@
       "name": "",
       "grade": "等級不明"
     },
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "2ro7dlra"
+      }
+    ],
     "skills": [
       "致命爆発矢"
     ],
@@ -47860,17 +47870,7 @@
     "appearance": "弓矢。",
     "description": "ジョウゴに忠誠を誓ったアカゾナエのセンシ。\n弓矢で射られたものは爆発してしまう。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%83%AF%E3%83%BC%E3%82%AF",
-    "appearances": [
-      {
-        "id": "2ro7dlra"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "9cf1667c"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%83%AF%E3%83%BC%E3%82%AF"
   },
   {
     "id": "6wklibha",
@@ -47882,6 +47882,12 @@
       "name": "",
       "grade": "等級不明"
     },
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ],
+    "appearances": [],
     "skills": [
       "毒鉤爪",
       "キリモミ爪回転",
@@ -47890,13 +47896,7 @@
     "appearance": "毒鉤爪の生えた鉄甲。",
     "description": "ジョウゴに忠誠を誓ったアカゾナエのセンシ。\n毒蛇めいて鉤爪で攻撃する。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%89%E3%82%A5%E3%83%BC%E3%83%A0%E3%82%B5%E3%83%BC%E3%83%9A%E3%83%B3%E3%83%88",
-    "appearances": [],
-    "organizations": [
-      {
-        "id": "9cf1667c"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%89%E3%82%A5%E3%83%BC%E3%83%A0%E3%82%B5%E3%83%BC%E3%83%9A%E3%83%B3%E3%83%88"
   },
   {
     "id": "undjrold",
@@ -47907,21 +47907,21 @@
       "id": "uuu8yprg",
       "name": ""
     },
-    "skills": [],
-    "appearance": "犬頭。",
-    "description": "ジョウゴに忠誠を誓ったセンシ。\n犬頭をしている。",
-    "status": "unknown",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%83%AB%E3%83%AF%E3%83%BC%E3%82%AF",
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ],
     "appearances": [
       {
         "id": "2ro7dlra"
       }
     ],
-    "organizations": [
-      {
-        "id": "9cf1667c"
-      }
-    ]
+    "skills": [],
+    "appearance": "犬頭。",
+    "description": "ジョウゴに忠誠を誓ったセンシ。\n犬頭をしている。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%83%AB%E3%83%AF%E3%83%BC%E3%82%AF"
   },
   {
     "id": "msadr5e1",
@@ -47933,22 +47933,22 @@
       "name": "",
       "grade": "等級不明"
     },
-    "skills": [
-      "攻性ムテキ・アティチュード"
+    "organizations": [
+      {
+        "id": "nxr671g6"
+      }
     ],
-    "description": "デルタ・シノビのニンジャ。\n攻性ムテキ・アティチュードの使い手。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%AD%E3%83%BC%E3%82%BA",
     "appearances": [
       {
         "id": "2ro7dlra"
       }
     ],
-    "organizations": [
-      {
-        "id": "nxr671g6"
-      }
-    ]
+    "skills": [
+      "攻性ムテキ・アティチュード"
+    ],
+    "description": "デルタ・シノビのニンジャ。\n攻性ムテキ・アティチュードの使い手。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%AD%E3%83%BC%E3%82%BA"
   },
   {
     "id": "7la1cvl8",
@@ -47960,13 +47960,11 @@
       "name": "",
       "grade": "等級不明"
     },
-    "skills": [
-      "ノーウインド",
-      "クナイ・ダート"
+    "organizations": [
+      {
+        "id": "nxr671g6"
+      }
     ],
-    "appearance": "ステルス機能を備えたハイテック装束。埋め込み式サイバーサングラス。紺のマフラー。",
-    "description": "デルタ・シノビの歴戦傭兵ニンジャ。\nスリケンや銃弾、敵の命さえ静止させるジツの使い手。電子戦争経験者。",
-    "status": "alive",
     "appearances": [
       {
         "id": "da2fa439"
@@ -47978,11 +47976,13 @@
         "id": "2jvhv6np"
       }
     ],
-    "organizations": [
-      {
-        "id": "nxr671g6"
-      }
-    ]
+    "skills": [
+      "ノーウインド",
+      "クナイ・ダート"
+    ],
+    "appearance": "ステルス機能を備えたハイテック装束。埋め込み式サイバーサングラス。紺のマフラー。",
+    "description": "デルタ・シノビの歴戦傭兵ニンジャ。\nスリケンや銃弾、敵の命さえ静止させるジツの使い手。電子戦争経験者。",
+    "status": "alive"
   },
   {
     "id": "kiwzvx6a",
@@ -47995,23 +47995,23 @@
       "grade": "等級不明",
       "origin": "ビッグニンジャ系"
     },
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "fee57ebe"
+      }
+    ],
     "skills": [
       "鉄球"
     ],
     "appearance": "ビッグニンジャの体格。",
     "description": "ネザーキョウのセンシ。\n棘まみれの鉄球を獲物とするビッグニンジャだ。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BB%E3%82%A4%E3%82%AF%E3%83%AA%E3%83%83%E3%83%89%E3%83%90%E3%83%83%E3%82%B7%E3%83%A3%E3%83%BC",
-    "appearances": [
-      {
-        "id": "fee57ebe"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "9cf1667c"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BB%E3%82%A4%E3%82%AF%E3%83%AA%E3%83%83%E3%83%89%E3%83%90%E3%83%83%E3%82%B7%E3%83%A3%E3%83%BC"
   },
   {
     "id": "c949ybbf",
@@ -48023,23 +48023,23 @@
       "name": "",
       "grade": "等級不明"
     },
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "fee57ebe"
+      }
+    ],
     "skills": [
       "巨大剣"
     ],
     "appearance": "煤煙を吐き出す呼吸孔が付いた武骨なメンポ。",
     "description": "ネザーキョウのセンシ。\n巨大剣を振るう。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%83%A5%E3%83%BC%E3%83%A0%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%AB",
-    "appearances": [
-      {
-        "id": "fee57ebe"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "9cf1667c"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%83%A5%E3%83%BC%E3%83%A0%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%AB"
   },
   {
     "id": "xva6g01j",
@@ -48051,16 +48051,16 @@
       "name": "",
       "grade": "等級不明"
     },
-    "skills": [],
-    "description": "UCA強襲作戦に参加したニンジャ。\nヘラルドとのオスモウで敗れていた。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%AD%E3%83%BC%E3%83%80%E3%82%A4%E3%83%B4",
+    "organizations": [],
     "appearances": [
       {
         "id": "fee57ebe"
       }
     ],
-    "organizations": []
+    "skills": [],
+    "description": "UCA強襲作戦に参加したニンジャ。\nヘラルドとのオスモウで敗れていた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%AD%E3%83%BC%E3%83%80%E3%82%A4%E3%83%B4"
   },
   {
     "id": "q0yzsph8",
@@ -48072,18 +48072,18 @@
       "name": "",
       "grade": "等級不明"
     },
-    "skills": [
-      "カラテ鉈"
-    ],
-    "description": "UCAの強襲作戦に参加したニンジャ。\nカラテ鉈で敵を四つ裂きにする。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%90%E3%83%BC",
+    "organizations": [],
     "appearances": [
       {
         "id": "fee57ebe"
       }
     ],
-    "organizations": []
+    "skills": [
+      "カラテ鉈"
+    ],
+    "description": "UCAの強襲作戦に参加したニンジャ。\nカラテ鉈で敵を四つ裂きにする。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%90%E3%83%BC"
   },
   {
     "id": "chy40avd",
@@ -48116,15 +48116,37 @@
       "name": "",
       "grade": "等級不明"
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "fee57ebe"
+      }
+    ],
     "skills": [
       "音の壁"
     ],
     "description": "UCAの強襲作戦に参加したニンジャ。\n放射線状に音の壁を作り飛び道具を無力化する。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A0%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%BC",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A0%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%BC"
+  },
+  {
+    "id": "zjsp4jf0",
+    "name": "ポルターガイスト",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "cra8trwu",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "キネシス・ジツ"
+    ],
+    "description": "公式シナリオ「騒霊の家」にて幽霊屋敷に住んでいたニンジャ。\nキネシス・ジツで金属を浮かし、文字通りのポルターガイスト現象を引き起こす。",
+    "status": "unknown",
     "appearances": [
       {
-        "id": "fee57ebe"
+        "id": "put72scv"
       }
     ],
     "organizations": []
