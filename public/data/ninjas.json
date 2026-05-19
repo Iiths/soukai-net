@@ -39065,10 +39065,31 @@
   {
     "id": "219f20b1",
     "name": "ヴィクトリアス",
-    "organizations": [],
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "abi2f4xj",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "オムラ馬「モーターバリキ」",
+      "電磁ナギナタブレード"
+    ],
+    "role": "タイロー",
+    "appearance": "背中に年収表示された装束（恐らくパワードスーツ）。\n合体可能なサイバー馬に跨る。",
+    "description": "オムラ・エンパイアのタイローの一人。\n人馬一体のカラテでオムラ・エンパイアに勝利を齎す。",
+    "status": "unknown",
     "appearances": [
       {
         "id": "8fffe24e"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "40e6677e"
       }
     ]
   },
@@ -39358,10 +39379,26 @@
   {
     "id": "f21a95e4",
     "name": "スパークル",
-    "organizations": [],
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "jgkdbbat",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "description": "ネザーキョウのセンシ。\nゲニンたちの隊長を務めていた。",
+    "status": "dead",
     "appearances": [
       {
         "id": "8fffe24e"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
       }
     ]
   },
@@ -39645,20 +39682,54 @@
   {
     "id": "55b30116",
     "name": "ブラッドストリングス",
-    "organizations": [],
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "hy40l4zo",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "並列双刃カタナ"
+    ],
+    "description": "ネザーキョウのセンシ。\nゲニンを率い略奪を繰り返しながらアマゾンへ向かっていた。",
+    "status": "dead",
     "appearances": [
       {
         "id": "8fffe24e"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
       }
     ]
   },
   {
     "id": "90075c1b",
     "name": "ブラッドソード",
-    "organizations": [],
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "4ij4yk3z",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "description": "ネザーキョウのセンシ。\nオムラ・タイローをしてただならぬ敵と評される。",
+    "status": "unknown",
     "appearances": [
       {
         "id": "8fffe24e"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
       }
     ]
   },
@@ -47881,5 +47952,150 @@
         "id": "nxr671g6"
       }
     ]
+  },
+  {
+    "id": "kiwzvx6a",
+    "name": "セイクリッドバッシャー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "0bp967y6",
+      "name": "",
+      "grade": "等級不明",
+      "origin": "ビッグニンジャ系"
+    },
+    "skills": [
+      "鉄球"
+    ],
+    "appearance": "ビッグニンジャの体格。",
+    "description": "ネザーキョウのセンシ。\n棘まみれの鉄球を獲物とするビッグニンジャだ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BB%E3%82%A4%E3%82%AF%E3%83%AA%E3%83%83%E3%83%89%E3%83%90%E3%83%83%E3%82%B7%E3%83%A3%E3%83%BC",
+    "appearances": [
+      {
+        "id": "fee57ebe"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "c949ybbf",
+    "name": "フュームスティール",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "y7igl5ra",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "巨大剣"
+    ],
+    "appearance": "煤煙を吐き出す呼吸孔が付いた武骨なメンポ。",
+    "description": "ネザーキョウのセンシ。\n巨大剣を振るう。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%83%A5%E3%83%BC%E3%83%A0%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%AB",
+    "appearances": [
+      {
+        "id": "fee57ebe"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "xva6g01j",
+    "name": "スローダイヴ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "tzhkl0yu",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [],
+    "description": "UCA強襲作戦に参加したニンジャ。\nヘラルドとのオスモウで敗れていた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%AD%E3%83%BC%E3%83%80%E3%82%A4%E3%83%B4",
+    "appearances": [
+      {
+        "id": "fee57ebe"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "q0yzsph8",
+    "name": "フォースクリーバー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "o07tlxm1",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "カラテ鉈"
+    ],
+    "description": "UCAの強襲作戦に参加したニンジャ。\nカラテ鉈で敵を四つ裂きにする。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%90%E3%83%BC",
+    "appearances": [
+      {
+        "id": "fee57ebe"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "chy40avd",
+    "name": "カーフブランダー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "7pg0xolv",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "fee57ebe"
+      }
+    ],
+    "skills": [],
+    "description": "UCAの強襲作戦に参加したニンジャ。\nネザーキョウのニンジャと刺し違えた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%83%BC%E3%83%95%E3%83%96%E3%83%A9%E3%83%B3%E3%83%80%E3%83%BC"
+  },
+  {
+    "id": "de7sh9ja",
+    "name": "ムーンシンガー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "t3ougfo8",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "音の壁"
+    ],
+    "description": "UCAの強襲作戦に参加したニンジャ。\n放射線状に音の壁を作り飛び道具を無力化する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A0%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%BC",
+    "appearances": [
+      {
+        "id": "fee57ebe"
+      }
+    ],
+    "organizations": []
   }
 ]
