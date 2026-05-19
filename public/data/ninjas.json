@@ -752,15 +752,67 @@
     "aliases": [
       "ザック"
     ],
-    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaType": "非ニンジャ",
+    "skills": [],
+    "appearance": "身長160cm。「アベ一休」のクールなロゴがプリントされたTシャツなど。\nNoteのイベントヘッダーイラストでは褐色の肌、茶色い髪、鼻にテープを貼った快活な少年。",
+    "description": "ネザーキョウ育ちの少年。S3時点で13歳。\nマスラダたちに懐き同行、現在はピザタキの従業員として働いている。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B6%E3%82%AB%E3%83%AA%E3%83%BC",
+    "appearances": [
+      {
+        "id": "765ae0f0"
+      },
+      {
+        "id": "9355aa93"
+      },
+      {
+        "id": "2ng3zl8s"
+      },
+      {
+        "id": "umufyew6"
+      },
+      {
+        "id": "34a1b4ba"
+      },
+      {
+        "id": "1c9a1c54"
+      },
+      {
+        "id": "8m0jzogt"
+      },
+      {
+        "id": "2ro7dlra"
+      },
+      {
+        "id": "9ed406ab"
+      },
+      {
+        "id": "05274175"
+      },
+      {
+        "id": "1f4ce9c9"
+      },
+      {
+        "id": "76830614"
+      },
+      {
+        "id": "08f154f0"
+      },
+      {
+        "id": "7bd07f98"
+      },
+      {
+        "id": "c81f586e"
+      }
+    ],
     "organizations": [
       {
         "id": "a91ea54d"
+      },
+      {
+        "id": "qdiy2dh4"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B6%E3%82%AB%E3%83%AA%E3%83%BC"
+    ]
   },
   {
     "id": "177545596",
@@ -37540,13 +37592,33 @@
   {
     "id": "a12a99",
     "name": "メジャードーモ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "cynj8b1f",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "サイ",
+      "バクハツ・ジツ"
+    ],
+    "role": "宮宰",
+    "description": "ホンノウジの宮宰を務めるニンジャ。\n爆発性のサイを扱う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A1%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%89%E3%83%BC%E3%83%A2",
+    "appearances": [
+      {
+        "id": "2ro7dlra"
+      }
+    ],
     "organizations": [
       {
         "id": "9cf1667c"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A1%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%89%E3%83%BC%E3%83%A2"
+    ]
   },
   {
     "id": "ef409c",
@@ -37888,24 +37960,72 @@
   {
     "id": "8ba202",
     "name": "メガオーダー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "xylbvtwl",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "ビッグ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "パワーノダチ・ケン",
+      "マルチプル・ロケットランチャー",
+      "レール火縄銃サンダンウチ",
+      "超電導ナギナタ",
+      "巨大サイバー馬「クロマル」"
+    ],
+    "role": "オムラショーグン",
+    "appearance": "身長212cm。胸元に3億の年収を表示するエメツ黒漆塗パワード武者鎧。\n背中に三本のサイバネ副腕。",
+    "description": "オムラ・エンパイア代表取締役、オムラショーグンの一人。\nビッグニンジャの巨体に様々な超火力武装を搭載する。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A1%E3%82%AC%E3%82%AA%E3%83%BC%E3%83%80%E3%83%BC",
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      },
+      {
+        "id": "2ro7dlra"
+      }
+    ],
     "organizations": [
       {
         "id": "40e6677e"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A1%E3%82%AC%E3%82%AA%E3%83%BC%E3%83%80%E3%83%BC"
+    ]
   },
   {
     "id": "203f30",
     "name": "ショーグネイター",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "qy9tccpv",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "コンゴウ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "年収操作",
+      "エメツ反転心臓"
+    ],
+    "role": "タイロー",
+    "appearance": "身長3m。壮大な年収を胸元に表示するオムラ甲冑。禍々しいメンポ。\nスキンヘッド。頭部に発光する「邑」の漢字刻印。",
+    "description": "オムラ・エンパイアのタイローの一人。\n凄まじい年収と戦闘能力を誇る。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%A7%E3%83%BC%E3%82%B0%E3%83%8D%E3%82%A4%E3%82%BF%E3%83%BC",
+    "appearances": [
+      {
+        "id": "2ro7dlra"
+      }
+    ],
     "organizations": [
       {
         "id": "40e6677e"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%A7%E3%83%BC%E3%82%B0%E3%83%8D%E3%82%A4%E3%82%BF%E3%83%BC"
+    ]
   },
   {
     "id": "bcd808",
@@ -38030,13 +38150,33 @@
   {
     "id": "36eb90",
     "name": "オーバーガード",
+    "realName": "マクレガー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "4kcra6ko",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": "レッサー級の推測あり"
+    },
+    "skills": [
+      "指揮"
+    ],
+    "appearance": "身長188cm。外見年齢は50代。白髪の多い髪。\nヌーテック社の前線指揮官ロングコート装束。口元を覆うメンポ。",
+    "description": "ヌーテック社の高官ニンジャ。\n最高指揮官まで上り詰めた卓越した指揮能力で戦線を俯瞰する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%82%AC%E3%83%BC%E3%83%89",
+    "appearances": [
+      {
+        "id": "2ro7dlra"
+      }
+    ],
     "organizations": [
       {
         "id": "5ae77239"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%82%AC%E3%83%BC%E3%83%89"
+    ]
   },
   {
     "id": "fc5c0f",
@@ -40013,10 +40153,34 @@
   {
     "id": "894072eb",
     "name": "オダ・ニンジャ",
+    "aliases": [
+      "織田信長"
+    ],
     "ninjaType": "リアルニンジャ",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AA%E3%83%80%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+    "ninjaSoul": {
+      "id": "0z57ir22",
+      "name": "オダ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "アスラ・カラテ",
+      "キネシス・ジツ",
+      "カゲムシャ・ジツ",
+      "ヘシキリブレード",
+      "安土城"
+    ],
+    "appearance": "偉丈夫。上半身をはだけた黒の和服。虎の腰巻。南蛮渡来の鎧甲冑。複数の酒と黒色火薬の瓢箪。\n逞しき二本の腕に加え歯車を軋ませる青銅の四本腕。紫色のカラテの火が燻る瞳。",
+    "description": "戦国時代に活躍したリアルニンジャ。\n六本腕のカラテの他、カゲムシャ・ジツにより巨大兵器まで動かす。\n遥か後の世ではケイビインにソウル憑依していた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AA%E3%83%80%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
+    "appearances": [
+      {
+        "id": "2ro7dlra"
+      }
+    ],
+    "organizations": []
   },
   {
     "id": "1ad9361f",
@@ -45302,6 +45466,7 @@
   {
     "id": "iqg6hoyr",
     "name": "ヘヴンリイ",
+    "realName": "ザラ・ユーファン・クヌマ",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
     "ninjaSoul": {
@@ -45309,11 +45474,16 @@
       "name": "ジャキ・ニンジャ",
       "grade": "アーチ級"
     },
-    "organizations": [
-      {
-        "id": "9cf1667c"
-      }
+    "skills": [
+      "帯電ソニックカラテ",
+      "カラテキジ",
+      "ヤリ・オブ・ウォーロード"
     ],
+    "role": "アケチ・シテンノ",
+    "appearance": "身長189cm。捻じれた二本の角。白い髪。外見は20代後半。女性。",
+    "description": "ネザーキョウのアケチ・シテンノの一人。\n固定化したカゼを蹴って宙を舞い、帯電ソニックカラテを放つ。\n第4部以降はアラシ・ニンジャと僅かな期間同行していた。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%B4%E3%83%B3%E3%83%AA%E3%82%A4",
     "appearances": [
       {
         "id": "0905b269"
@@ -45334,16 +45504,11 @@
         "id": "2ro7dlra"
       }
     ],
-    "skills": [
-      "帯電ソニックカラテ",
-      "カラテキジ",
-      "ヤリ・オブ・ウォーロード"
-    ],
-    "role": "アケチ・シテンノ",
-    "appearance": "身長189cm。捻じれた二本の角。白い髪。外見は20代後半。女性。",
-    "description": "ネザーキョウのアケチ・シテンノの一人。\n固定化したカゼを蹴って宙を舞い、帯電ソニックカラテを放つ。\n第4部以降はアラシ・ニンジャと僅かな期間同行していた。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%B4%E3%83%B3%E3%83%AA%E3%82%A4"
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
   },
   {
     "id": "pd7tor47",
@@ -47118,5 +47283,603 @@
       }
     ],
     "organizations": []
+  },
+  {
+    "id": "95xm6yws",
+    "name": "ライトニング",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "gzfrrevv",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "カタナ",
+      "マキビシ",
+      "小型電磁砲",
+      "レーザー照射ドローン",
+      "エメツ半重力プレート"
+    ],
+    "appearance": "試作型ボディスーツ。白い金属フレーム。背中にジェット機じみた平たい翼。\n本体は黒いエメツ外殻で覆われた脳髄ユニット。",
+    "description": "誅滅天使の異名を持つアルカナムのニンジャ。\n反重力飛行下で機動力を活かした戦闘を行う。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%82%A4%E3%83%88%E3%83%8B%E3%83%B3%E3%82%B0",
+    "appearances": [
+      {
+        "id": "2ro7dlra"
+      },
+      {
+        "id": "r4yepeot"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "745e0c92"
+      }
+    ]
+  },
+  {
+    "id": "aysnphai",
+    "name": "シンフォニー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "hn7isdq0",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "マイクロミサイルポッド"
+    ],
+    "appearance": "年収が表示されたオムラ・ブラック装甲装束。\n両腕両脚に無骨なマイクロミサイルポッド。",
+    "description": "オムラ・エンパイアの企業戦士ニンジャ。\n追尾機能付きのマイクロミサイルで面制圧する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%83%BC",
+    "appearances": [
+      {
+        "id": "2ro7dlra"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "40e6677e"
+      }
+    ]
+  },
+  {
+    "id": "lo4wxbp9",
+    "name": "デストラクター",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "ijqfwecp",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "オムラ・デストラクター"
+    ],
+    "appearance": "肩に槍ガトリングじみた機構。女性。",
+    "description": "オムラ・エンパイアの企業戦士ニンジャ。\n小型化されたオムラ・デストラクターで周囲の敵をネギトロに変える。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B9%E3%83%88%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC",
+    "appearances": [
+      {
+        "id": "2ro7dlra"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "40e6677e"
+      }
+    ]
+  },
+  {
+    "id": "fxh18inr",
+    "name": "タイタンズフィスト",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "npblk1v9",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "シリンダーアームパンチ",
+      "マシンガン",
+      "スラスター飛行"
+    ],
+    "appearance": "背中に三点噴射式のオムラ・スラスター。無骨なゴーグル。赤い唇。\n異様に巨大なサイバネ腕。",
+    "description": "オムラ・エンパイアの企業戦士ニンジャ。\nスラスターで急接近しシリンダーアームパンチを放つ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%82%A4%E3%82%BF%E3%83%B3%E3%82%BA%E3%83%95%E3%82%A3%E3%82%B9%E3%83%88",
+    "appearances": [
+      {
+        "id": "2ro7dlra"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "40e6677e"
+      }
+    ]
+  },
+  {
+    "id": "mzbbpvtv",
+    "name": "アダマント",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "5oxfs5w5",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "鉄球",
+      "マグネ・ジツ"
+    ],
+    "description": "オムラ・エンパイアの企業戦士ニンジャ。\nマグネ・ジツでスリケンを無効化し、鉄球を投げて攻撃する。",
+    "status": "dead",
+    "appearances": [
+      {
+        "id": "2ro7dlra"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "40e6677e"
+      }
+    ]
+  },
+  {
+    "id": "2r537drm",
+    "name": "ハヴォック",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "fdwf3g9r",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "大口径ハープーン・キャノン",
+      "グレネード弾",
+      "浮遊機雷"
+    ],
+    "appearance": "下半身が機械馬の半人半馬の身体。胸元に年収表示（恐らくパワードスーツ）。\n背中にオムラ旗竿。",
+    "description": "オムラ・エンパイアの企業戦士ニンジャ。\n機械半馬の機動力とオムラの最新兵器で戦う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%83%B4%E3%82%A9%E3%83%83%E3%82%AF",
+    "appearances": [
+      {
+        "id": "2ro7dlra"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "40e6677e"
+      }
+    ]
+  },
+  {
+    "id": "1p9nxaj0",
+    "name": "エリザベート・バサラ",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "skills": [],
+    "appearance": "身長174cm。年齢40前後。中性的な外見。斜めに撫で付けた柔らかい金色の髪。少し尖った耳。\n一目で素晴らしい仕立てと分かる黒一色の服。\n左手が精巧なサイバネ義手。",
+    "description": "カタナ・オブ・リバプール社CEO。\n非ニンジャながら200超の知能指数の持ち主。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%83%AA%E3%82%B6%E3%83%99%E3%83%BC%E3%83%88%E3%83%BB%E3%83%90%E3%82%B5%E3%83%A9",
+    "appearances": [
+      {
+        "id": "2ro7dlra"
+      },
+      {
+        "id": "a37b1d71"
+      },
+      {
+        "id": "76830614"
+      },
+      {
+        "id": "298d8046"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "ca1c8175"
+      }
+    ]
+  },
+  {
+    "id": "roj2j3t7",
+    "name": "パルス",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "spf2nnr7",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "イサライト・アーマーV2",
+      "非端子LAN直結",
+      "ステルス機構"
+    ],
+    "appearance": "ステルス機構付きの奇怪な外骨格アーマー。\n左胸に小さい「KATANA」の文字。",
+    "description": "カタナ社のエージェントニンジャ。\n極めて高いステルス能力で敵に近づきデータを抜き取る。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%91%E3%83%AB%E3%82%B9",
+    "appearances": [
+      {
+        "id": "2ro7dlra"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "ca1c8175"
+      }
+    ]
+  },
+  {
+    "id": "pccliqtr",
+    "name": "ライオンハート",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "2psiosjt",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "英国式カラテ",
+      "エンハンスメント・ジツ",
+      "ロイヤルガジェット"
+    ],
+    "role": "ロイヤルニンジャ",
+    "appearance": "タキシード。獅子の口を模した黄金のメンポ。",
+    "description": "カタナ社が誇る7人のロイヤルニンジャの一人。\n高い状況判断能力を持ち、社の試作兵器を使いこなす。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%8F%E3%83%BC%E3%83%88",
+    "appearances": [
+      {
+        "id": "2ro7dlra"
+      },
+      {
+        "id": "8fffe24e"
+      },
+      {
+        "id": "6dcsfo7u"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "ca1c8175"
+      }
+    ]
+  },
+  {
+    "id": "4t0zs96a",
+    "name": "チェストナット",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "n6u7toh6",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [],
+    "appearance": "メンポ。",
+    "description": "ネザーキョウのセンシ。\nオムラ・エンパイアの企業戦士たちと交戦した。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%81%E3%82%A7%E3%82%B9%E3%83%88%E3%83%8A%E3%83%83%E3%83%88%EF%BC%8F%E3%83%96%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%89%E3%83%A9%E3%83%A0%EF%BC%8F%E3%83%87%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AF%EF%BC%8F%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%98%E3%83%AB%E3%83%A0%EF%BC%8F%E3%83%A2%E3%83%BC%E3%83%B3%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC",
+    "appearances": [
+      {
+        "id": "2ro7dlra"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "41mdgzp7",
+    "name": "ブラインドラム",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "ekljcvne",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [],
+    "description": "ネザーキョウのセンシ。\nオムラ・エンパイアの企業戦士たちと交戦した。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%81%E3%82%A7%E3%82%B9%E3%83%88%E3%83%8A%E3%83%83%E3%83%88%EF%BC%8F%E3%83%96%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%89%E3%83%A9%E3%83%A0%EF%BC%8F%E3%83%87%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AF%EF%BC%8F%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%98%E3%83%AB%E3%83%A0%EF%BC%8F%E3%83%A2%E3%83%BC%E3%83%B3%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC",
+    "appearances": [
+      {
+        "id": "2ro7dlra"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "u25qfmdq",
+    "name": "デスマスク",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "u6ugarlp",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "手術刀"
+    ],
+    "description": "ネザーキョウのセンシ。\n手術刀で顔面をぐるりと刳り剥がし取ってしまう。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%81%E3%82%A7%E3%82%B9%E3%83%88%E3%83%8A%E3%83%83%E3%83%88%EF%BC%8F%E3%83%96%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%89%E3%83%A9%E3%83%A0%EF%BC%8F%E3%83%87%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AF%EF%BC%8F%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%98%E3%83%AB%E3%83%A0%EF%BC%8F%E3%83%A2%E3%83%BC%E3%83%B3%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC",
+    "appearances": [
+      {
+        "id": "2ro7dlra"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "k6xzj4as",
+    "name": "ホワイトヘルム",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "uc3cobr5",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [],
+    "description": "ネザーキョウのセンシ。\nオムラ・エンパイアの企業戦士たちと交戦した。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%81%E3%82%A7%E3%82%B9%E3%83%88%E3%83%8A%E3%83%83%E3%83%88%EF%BC%8F%E3%83%96%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%89%E3%83%A9%E3%83%A0%EF%BC%8F%E3%83%87%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AF%EF%BC%8F%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%98%E3%83%AB%E3%83%A0%EF%BC%8F%E3%83%A2%E3%83%BC%E3%83%B3%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC",
+    "appearances": [
+      {
+        "id": "2ro7dlra"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "ud391cgr",
+    "name": "モーンタイガー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "9vtpryxu",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [],
+    "description": "ネザーキョウのセンシ。\nオムラ・エンパイアの企業戦士たちと交戦した。",
+    "status": "dead",
+    "wikiUrl": "http://localhost:5173/ninja/new/edit",
+    "appearances": [
+      {
+        "id": "2ro7dlra"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "jit1yipq",
+    "name": "ヴェイパー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "w4k4yf5w",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [],
+    "description": "ネザーキョウのセンシ。\nホンノウジの天守閣を護っていた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%B4%E3%82%A7%E3%82%A4%E3%83%91%E3%83%BC",
+    "appearances": [
+      {
+        "id": "2ro7dlra"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "7z0zl4ko",
+    "name": "ストーンビースト",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "flbu37fo",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "石像擬態",
+      "爪"
+    ],
+    "appearance": "オジゾウ・ガーゴイル像めいた石像に擬態。擬態を解いた後も奇妙な外見らしい。",
+    "description": "ネザーキョウのセンシ。\n石像に擬態し爪で奇襲する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3%E3%83%93%E3%83%BC%E3%82%B9%E3%83%88",
+    "appearances": [
+      {
+        "id": "2ro7dlra"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "njgt9480",
+    "name": "ファイアワーク",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "quapb7g6",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "致命爆発矢"
+    ],
+    "role": "アカゾナエ",
+    "appearance": "弓矢。",
+    "description": "ジョウゴに忠誠を誓ったアカゾナエのセンシ。\n弓矢で射られたものは爆発してしまう。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%83%AF%E3%83%BC%E3%82%AF",
+    "appearances": [
+      {
+        "id": "2ro7dlra"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "6wklibha",
+    "name": "ドゥームサーペント",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "fqg72nsc",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "毒鉤爪",
+      "キリモミ爪回転",
+      "青竜刀"
+    ],
+    "appearance": "毒鉤爪の生えた鉄甲。",
+    "description": "ジョウゴに忠誠を誓ったアカゾナエのセンシ。\n毒蛇めいて鉤爪で攻撃する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%89%E3%82%A5%E3%83%BC%E3%83%A0%E3%82%B5%E3%83%BC%E3%83%9A%E3%83%B3%E3%83%88",
+    "appearances": [],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "undjrold",
+    "name": "バルワーク",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "uuu8yprg",
+      "name": ""
+    },
+    "skills": [],
+    "appearance": "犬頭。",
+    "description": "ジョウゴに忠誠を誓ったセンシ。\n犬頭をしている。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%83%AB%E3%83%AF%E3%83%BC%E3%82%AF",
+    "appearances": [
+      {
+        "id": "2ro7dlra"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9cf1667c"
+      }
+    ]
+  },
+  {
+    "id": "msadr5e1",
+    "name": "スティールローズ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "cdnagxxp",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "攻性ムテキ・アティチュード"
+    ],
+    "description": "デルタ・シノビのニンジャ。\n攻性ムテキ・アティチュードの使い手。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%AD%E3%83%BC%E3%82%BA",
+    "appearances": [
+      {
+        "id": "2ro7dlra"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "nxr671g6"
+      }
+    ]
+  },
+  {
+    "id": "7la1cvl8",
+    "name": "ノーウインド",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "rfledvlc",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "ノーウインド",
+      "クナイ・ダート"
+    ],
+    "appearance": "ステルス機能を備えたハイテック装束。埋め込み式サイバーサングラス。紺のマフラー。",
+    "description": "デルタ・シノビの歴戦傭兵ニンジャ。\nスリケンや銃弾、敵の命さえ静止させるジツの使い手。電子戦争経験者。",
+    "status": "alive",
+    "appearances": [
+      {
+        "id": "da2fa439"
+      },
+      {
+        "id": "2ro7dlra"
+      },
+      {
+        "id": "2jvhv6np"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "nxr671g6"
+      }
+    ]
   }
 ]
