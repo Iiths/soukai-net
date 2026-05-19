@@ -24526,7 +24526,7 @@
       }
     ],
     "skills": [
-      "アクマ変身",
+      "アクマ・ヘンゲ・ジツ",
       "ダブル・アクマ・ポン・パンチ"
     ],
     "appearance": "暗鉛色のニンジャ装束。メンポ。スーツ姿に擬態していた。\n大柄で屈強な体格。三白眼。",
@@ -33057,7 +33057,7 @@
       }
     ],
     "skills": [
-      "アクマ変身"
+      "アクマ・ヘンゲ・ジツ"
     ],
     "appearance": "赤紫のニンジャ装束。痩せ型。",
     "description": "セッタイ・アンズルの神前闘技に参加したニンジャ。\n青銅色の皮膚を持つアクマに変身する。",
@@ -48147,6 +48147,267 @@
     "appearances": [
       {
         "id": "put72scv"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "87oy08s6",
+    "name": "インダルジ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "h92d75uc",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "ヴォルケ―ノ拳銃",
+      "ホーリイ・ブラッドの護り"
+    ],
+    "appearance": "ジーンズ。足を引き摺っている。",
+    "description": "アメリカ西海岸の宿「ホーリイ・ブラッド」の不吉な店主。\nカラテリロードしてヴォルケーノ拳銃を放つ。",
+    "status": "dead",
+    "appearances": [
+      {
+        "id": "87b3bd6d"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "nr33mmcp",
+    "name": "ブラッドステイン",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "6q2mo8t9",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "鉤付きクナイクリーバー",
+      "スリケン",
+      "血液操作"
+    ],
+    "description": "ホーリイ・ブラッドを訪れたニンジャ。\n血液を武器に変えて戦う。",
+    "status": "dead",
+    "appearances": [
+      {
+        "id": "87b3bd6d"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "5k4wa7p0",
+    "name": "フレッチャー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "ruo8fr5k",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "黒檀矢"
+    ],
+    "appearance": "腕に黒い矢印の刺青。",
+    "description": "ブラッドステインの手下ニンジャ。\n腕の矢印から矢を放つジツを使う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%83%AC%E3%83%83%E3%83%81%E3%83%A3%E3%83%BC",
+    "appearances": [
+      {
+        "id": "87b3bd6d"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "ceg4abda",
+    "name": "アイアガート",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "zhbokkjf",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "ワイヤー",
+      "クナイ・ダート"
+    ],
+    "appearance": "ニンジャポンチョ。",
+    "description": "ブラッドステインの手下ニンジャ。\n油まみれのワイヤーを投擲する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%A4%E3%82%A2%E3%82%AC%E3%83%BC%E3%83%88",
+    "appearances": [
+      {
+        "id": "87b3bd6d"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "0j5ghc96",
+    "name": "スカルホード",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "pdiyh9de",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "スリケン・ブーメラン"
+    ],
+    "appearance": "鼻下にドクロ柄の覆面。痩せた男。\nスリケンを入れるホルスター。",
+    "description": "ホーリイ・ブラッドを訪れたニンジャ。セデイトと恋仲。\n指先でスリケンを高速回転させブーメランめいて飛ばす。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%9B%E3%83%BC%E3%83%89",
+    "appearances": [
+      {
+        "id": "87b3bd6d"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "w3f8fz47",
+    "name": "セデイト",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "4dmx9j2k",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "ルーンカタカナ斧"
+    ],
+    "appearance": "黒い髪。唇。皮膚に打ち込まれたダイヤモンドのピアス。\n肩に虞美人草のネオン・タトゥー。黒いレザーの装束。",
+    "description": "ホーリイ・ブラッドを訪れたニンジャ。スカルホードと恋仲。\nルーンカタカナで威力を増す消火斧を武器とする。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BB%E3%83%87%E3%82%A4%E3%83%88",
+    "appearances": [
+      {
+        "id": "87b3bd6d"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "pbwx2xka",
+    "name": "ウィーゼルズタスク",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "op5z5m2n",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "タント・ダガー二刀流"
+    ],
+    "appearance": "青い火に彩られたニンジャ装束。メンポ。虚無的な目。",
+    "description": "＜青い火＞に囚われたニンジャ。\n二刀のタント・ダガーが獲物。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%BC%E3%83%AB%E3%82%BA%E3%82%BF%E3%82%B9%E3%82%AF",
+    "appearances": [
+      {
+        "id": "87b3bd6d"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "9szjhb7k",
+    "name": "ダンデライオン",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "y6vrdir5",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "ダイカタナ",
+      "仕込みダガー"
+    ],
+    "appearance": "秀でた体格。外套。真鍮のメンポ。シルクハット。\n輪郭が超自然の忌まわしい火で青く照らされている。",
+    "description": "＜青い火＞に囚われたニンジャ。\n＜青い火＞をエンハウスしたダイカタナを武器とする。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%80%E3%83%B3%E3%83%87%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3",
+    "appearances": [
+      {
+        "id": "87b3bd6d"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "ot064wgy",
+    "name": "ボーティス",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "6whumzua",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "アクマ・ニンジャクラン"
+    },
+    "skills": [
+      "アクマ・ヘンゲ・ジツ"
+    ],
+    "appearance": "オニめいたニンジャ。青い火が迸る瞳。",
+    "description": "＜青い火＞に囚われたニンジャ。\nアクマ・ヘンゲによりむしろ小さく俊敏になる。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9C%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9",
+    "appearances": [
+      {
+        "id": "87b3bd6d"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "ur9bor1b",
+    "name": "ドライアード",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "ip6v60i4",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [],
+    "description": "＜青い火＞に囚われたニンジャ。\nホーリイ・ブラッドを襲撃した。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%89%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%BC%E3%83%89%EF%BC%8F%E3%83%80%E3%83%BC%E3%82%AF%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%89",
+    "appearances": [
+      {
+        "id": "87b3bd6d"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "1ipstq4l",
+    "name": "ダークスティード",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "0lzqfbce",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [],
+    "description": "＜青い火＞に囚われたニンジャ。\nホーリイ・ブラッドを襲撃した。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%89%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%BC%E3%83%89%EF%BC%8F%E3%83%80%E3%83%BC%E3%82%AF%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%89",
+    "appearances": [
+      {
+        "id": "87b3bd6d"
       }
     ],
     "organizations": []
