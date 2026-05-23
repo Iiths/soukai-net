@@ -215,7 +215,7 @@ wiki_crawler.py を読まずに済むよう要点をまとめる。
 ### パターンD: 特定キャラクターの登場エピソードを一括収集・更新したい
 - スクリプト: `ai_tools/update_appearances_from_episodes.py`
 - エピソード一覧ページをスクレイピングし、登場人物セクションに対象キャラが含まれるエピソードIDを `appearances` に追加する
-- **Phase 1**（収集）と **Phase 2**（更新）に分かれており、タイムアウトが発生しても途中から再開できる
+- **Phase 1**（収集）→ **Phase 2**（更新）→ **Phase 3**（ソート）の順で実行する
 
 ```bash
 # Phase1: スクレイピング収集（中断・再開可。キャッシュ: ai_tools/cache_appearances.json）
@@ -225,13 +225,29 @@ python ai_tools/update_appearances_from_episodes.py --phase 1  # 再実行で続
 # Phase2: ninjas.json を更新
 python ai_tools/update_appearances_from_episodes.py --phase 2 --dry-run  # 確認
 python ai_tools/update_appearances_from_episodes.py --phase 2            # 本番
+
+# Phase3: appearances を部・シーズン・あいうえお順にソート
+python ai_tools/update_appearances_from_episodes.py --phase 3 --dry-run  # 確認
+python ai_tools/update_appearances_from_episodes.py --phase 3            # 本番
 ```
 
-- **対象キャラの追加**: スクリプト冒頭 `TARGETS` 辞書に `'wiki表示名': 'ninjas.jsonのname'` を追記
+**収集対象キャラと wiki 表示名の対応（issue#20 以降）:**
+
+| ninjas.json name | wiki 表示名 | 対象アーク |
+|---|---|---|
+| ニンジャスレイヤー (マスラダ・カイ) | ニンジャスレイヤー / マスラダ・カイ | 第4部のみ |
+| サツバツナイト (フジキド・ケンジ) | サツバツナイト / フジキド・ケンジ | 全部 |
+| サツバツナイト | ニンジャスレイヤー | 第1〜3部・外伝（旧NJ表記） |
+| ナラク・ニンジャ | ナラク・ニンジャ | 全部 |
+| ナンシー・リー | ナンシー・リン / ナンシー・リー | 全部 |
+| タキ | タキ | 全部 |
+| コトブキ | コトブキ | 全部 |
+
+- **対象キャラの追加**: `TARGETS_GLOBAL` 辞書に `'wiki表示名': 'ninjas.jsonのname'` を追記
+- **アーク依存の分岐**: `get_ninja_names_for()` 関数に条件を追加する
 - **対象部の追加**: `EPISODE_LIST_PAGES` に `(URL, arc名)` のタプルを追加
   - arc名は `episodes.json` の `"arc"` フィールドと一致させること
-- ⚠️ wikiの「ニンジャスレイヤー」リンク名と ninjas.json エントリ名が異なる場合は TARGETS でマッピングすること
-  - 例: `'ニンジャスレイヤー': 'サツバツナイト'`
+- ⚠️ データパスは `public/data/` （`src/data/` は空のため使用不可）
 
 ### パターンE: episodes.json / organizations.json を画面から編集したい
 - ローカル開発時（`http://localhost:5173`）のみヘッダーに「📝 エピソード編集」「📝 組織編集」「＋ 新規追加」「📥 ninjas.json 保存」ボタンが出る（issue#15で追加、issue#16で並び順修正）
