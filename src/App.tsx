@@ -21,10 +21,11 @@ function App() {
                 {/* /search は / にリダイレクト（後方互換性） */}
                 <Route path="/search" element={<Navigate to="/" replace />} />
                 <Route path="/ninja/:id" element={<NinjaDetailPage />} />
-                <Route path="/ninja/:id/edit" element={<NinjaEditPage />} />
-                {/* 編集用画面（ローカル開発時のみアクセス可能、ページ側でもガード済み） */}
-                <Route path="/edit/episodes" element={<EpisodesEditPage />} />
-                <Route path="/edit/organizations" element={<OrganizationsEditPage />} />
+                {/* 編集ルートは開発時のみ登録。import.meta.env.DEV は本番ビルドで false に置換され、
+                    これらのルートはバンドルから除外されるため URL 直打ちでもアクセス不可 */}
+                {import.meta.env.DEV && <Route path="/ninja/:id/edit" element={<NinjaEditPage />} />}
+                {import.meta.env.DEV && <Route path="/edit/episodes" element={<EpisodesEditPage />} />}
+                {import.meta.env.DEV && <Route path="/edit/organizations" element={<OrganizationsEditPage />} />}
               </Routes>
             </Layout>
           </OrganizationEditProvider>
