@@ -217,7 +217,15 @@ export function Component() {
 
 ## ライセンス
 
-このプロジェクトはIS × Claude (Anthropic)の共同作業により実装されました。
+ソースコード（`src/` 以下）は [MIT License](./LICENSE) のもとで公開されています。
+
+## 著作権・免責事項
+
+このデータベースは非公式で、二次創作物です。
+
+`public/data/` 以下のキャラクターデータは、ダイハードテイルズによる作品「ニンジャスレイヤー」を題材としたファン制作の二次的データです。原作の著作権はダイハードテイルズに帰属します。
+
+> クレジット: [diehardtales.com](https://diehardtales.com)
 
 ## 関連リソース
 
