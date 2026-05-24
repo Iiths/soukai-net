@@ -19,6 +19,9 @@
 
 ```
 soukai-net/
+├── public/
+│   └── data/                # 静的データ（ninjas.json / episodes.json / organizations.json）
+│
 ├── src/
 │   ├── domain/              # ドメイン層（ビジネスロジック）
 │   │   ├── entities/        # Ninja, NinjaSoul, Organization, Episode
@@ -37,8 +40,7 @@ soukai-net/
 │   │   ├── components/      # 共通コンポーネント
 │   │   └── hooks/           # カスタムフック
 │   │
-│   ├── styles/              # 共有スタイル（デザイントークン）
-│   └── data/                # 静的データ（ninjas.json / episodes.json）
+│   └── styles/              # 共有スタイル（デザイントークン）
 │
 ├── index.html
 ├── package.json
@@ -139,7 +141,7 @@ npm run preview
 
 ## データファイル
 
-### ninjas.json（`src/data/ninjas.json`）
+### ninjas.json（`public/data/ninjas.json`）
 
 ニンジャキャラクターのマスターデータ。
 
@@ -165,7 +167,7 @@ npm run preview
 | `imageUrl` | string? | 画像URL | 手動 |
 | `wikiUrl` | string? | WikiページURL | Wiki自動 |
 
-### episodes.json（`src/data/episodes.json`）
+### episodes.json（`public/data/episodes.json`）
 
 登場エピソードのマスターデータ。同じエピソードが複数のニンジャに参照されても ID は統一される。
 
@@ -209,7 +211,7 @@ export function Component() {
 
 ## コントリビューション
 
-データの追加・修正は `src/data/ninjas.json` へのPRを歓迎します。
+データの追加・修正は `public/data/ninjas.json` へのPRを歓迎します。
 
 スキーマ定義は `src/domain/entities/Ninja.ts` を参照してください。
 
