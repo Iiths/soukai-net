@@ -26,3 +26,10 @@ src_js_tmp/
 *.njsproj
 *.sln
 *.sw?
+
+# Claude作業ファイル（内部ワークフロー・環境情報を含むため非公開）
+CLAUDE.md
+CLAUDE_NOTES.md
+
+# スクレイピングスクリプト（Web公開に不要なデータ収集ツール群）
+ai_tools/
