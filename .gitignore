@@ -27,9 +27,18 @@ src_js_tmp/
 *.sln
 *.sw?
 
+# Vite タイムスタンプキャッシュ
+vite.config.ts.timestamp-*.mjs
+
+# Windows ショートカット
+*.lnk
+
 # Claude作業ファイル（内部ワークフロー・環境情報を含むため非公開）
 CLAUDE.md
 CLAUDE_NOTES.md
 
 # スクレイピングスクリプト（Web公開に不要なデータ収集ツール群）
 ai_tools/
+
+# スクレイピング出力・中間データ
+reports/
