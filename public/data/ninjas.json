@@ -3676,14 +3676,41 @@
     "name": "コンヴァージ",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "organizations": [
+    "ninjaSoul": {
+      "id": "5tzkj38b",
+      "name": "",
+      "grade": "グレーター級",
+      "clan": "アカラ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "アカラ・ムカデ・ジツ",
+      "瓦礫巨人化"
+    ],
+    "role": "カリュドーンの狩人",
+    "appearance": "身長188cm。白髪。テックゴーグル。錆色のフードつきローブ。引き寄せたスクラップのアクセサリー。\n砂漠傭兵じみた襤褸。メンポ・掌にロウ・ワンの印。",
+    "description": "シャン・ロアの代理戦士。\n瓦礫を取り込むジツで破壊と拡張を繰り返していく。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B3%E3%83%B3%E3%83%B4%E3%82%A1%E3%83%BC%E3%82%B8",
+    "appearances": [
       {
-        "id": "79af6ace"
+        "id": "a37b1d71"
+      },
+      {
+        "id": "e07b3b1a"
       }
     ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B3%E3%83%B3%E3%83%B4%E3%82%A1%E3%83%BC%E3%82%B8"
+    "organizations": [
+      {
+        "id": "1ede41ee"
+      },
+      {
+        "id": "79af6ace"
+      },
+      {
+        "id": "227508fb"
+      }
+    ]
   },
   {
     "id": "1775455950",
@@ -5053,14 +5080,76 @@
     "aliases": [
       "セト・ニンジャ"
     ],
-    "ninjaType": "非ニンジャ",
+    "ninjaType": "リアルニンジャ",
+    "ninjaSoul": {
+      "id": "oyuflu5m",
+      "name": "セト・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "古代エジプトカラテ",
+      "ハッカー",
+      "ブンシン・ジツ",
+      "アルファ・フージン・ジツ",
+      "オシリス・スプリッター",
+      "アンク・スリケン"
+    ],
+    "role": "ニンジャ八大将軍",
+    "appearance": "黒宝石めいた黒い肉体。頭はジャッカル。魔術的な目。",
+    "description": "エジプトを支配する神話級ファラオニンジャ。\n256体ものブンシンで電子・物理共に敵を圧倒する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BB%E3%83%88",
+    "appearances": [
+      {
+        "id": "his9gvkp"
+      },
+      {
+        "id": "2ro7dlra"
+      },
+      {
+        "id": "ff3c9805"
+      },
+      {
+        "id": "a37b1d71"
+      },
+      {
+        "id": "e07b3b1a"
+      },
+      {
+        "id": "89f07b12"
+      },
+      {
+        "id": "76830614"
+      },
+      {
+        "id": "08f154f0"
+      },
+      {
+        "id": "bc845992"
+      },
+      {
+        "id": "ztgiz3kg"
+      },
+      {
+        "id": "298d8046"
+      },
+      {
+        "id": "7bd07f98"
+      },
+      {
+        "id": "d66fda01"
+      }
+    ],
     "organizations": [
+      {
+        "id": "227508fb"
+      },
       {
         "id": "a6ae08ba"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BB%E3%83%88"
+    ]
   },
   {
     "id": "1775455989",
@@ -5332,14 +5421,57 @@
     "name": "ブラックティアーズ",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "b3od6pmx",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ケペシュ",
+      "古代エジプトカラテ",
+      "イアイドー",
+      "デス・キリ",
+      "カンジ・キル",
+      "カンジ・シバル",
+      "回復呪術",
+      "ベッピンの破片",
+      "マガタマ"
+    ],
+    "role": "カリュドーンの狩人",
+    "appearance": "古代エジプト貴族じみたニンジャ装束。\n右腕に複数の右腕に黒いエメツ鉄輪。\n目に涙のような黒い隈取り。",
+    "description": "セトの代理戦士。狩人長。\nベッピンの破片により魔剣を振るう。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%86%E3%82%A3%E3%82%A2%E3%83%BC%E3%82%BA",
+    "appearances": [
+      {
+        "id": "a37b1d71"
+      },
+      {
+        "id": "e07b3b1a"
+      },
+      {
+        "id": "89f07b12"
+      },
+      {
+        "id": "76830614"
+      },
+      {
+        "id": "08f154f0"
+      },
+      {
+        "id": "bc845992"
+      }
+    ],
     "organizations": [
       {
         "id": "a6ae08ba"
+      },
+      {
+        "id": "227508fb"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%86%E3%82%A3%E3%82%A2%E3%83%BC%E3%82%BA"
+    ]
   },
   {
     "id": "17754559103",
@@ -6410,14 +6542,41 @@
     "name": "ベルゼブブ",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "fk5dpfny",
+      "name": "",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "バイオ蝿",
+      "ハエ・ブンシン・ジツ",
+      "蠅竜巻"
+    ],
+    "role": "カリュドーンの狩人",
+    "appearance": "呪術じみた大布。ハーフガスマスクメンポ。女性。四本腕。\n四つの複眼と鋭利な牙。脇腹と掌にバイオ蠅の噴出孔。\n額に「王」の紋章。背中に蠅めいた羽根を生やせる。",
+    "description": "ケイムショの代理戦士。\n変質したバイオ蠅の群体を操る。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%99%E3%83%AB%E3%82%BC%E3%83%96%E3%83%96",
+    "appearances": [
+      {
+        "id": "a37b1d71"
+      },
+      {
+        "id": "e07b3b1a"
+      },
+      {
+        "id": "89f07b12"
+      }
+    ],
     "organizations": [
       {
         "id": "1b4e98b7"
+      },
+      {
+        "id": "227508fb"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%99%E3%83%AB%E3%82%BC%E3%83%96%E3%83%96"
+    ]
   },
   {
     "id": "17754559149",
@@ -12205,14 +12364,32 @@
   {
     "id": "cefb9aa7",
     "name": "アロガント",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "cobu2nz2",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "鋼鉄ナックル"
+    ],
+    "appearance": "ヤクザスーツ。シャツ。刺青が入った肌。",
+    "description": "ソウカイヤのニンジャ。\n鋼鉄ナックルでカラテ・パンチする。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%AD%E3%82%AC%E3%83%B3%E3%83%88",
+    "appearances": [
+      {
+        "id": "a37b1d71"
+      }
+    ],
     "organizations": [
       {
         "id": "soukaiya-p4"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%AD%E3%82%AC%E3%83%B3%E3%83%88"
+    ]
   },
   {
     "id": "ffe45bd2",
@@ -35343,9 +35520,52 @@
   {
     "id": "93b06f",
     "name": "アヴァリス",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%B4%E3%82%A1%E3%83%AA%E3%82%B9"
+    "aliases": [],
+    "ninjaType": "カツ・ワンソーの影",
+    "skills": [
+      "ジツ奪い",
+      "クロヤギ・ブンシン・ジツ",
+      "クロヤギ・スリケン",
+      "サテュロス・リープ"
+    ],
+    "appearance": "身長196cm。メンポ。闇色に輝く目。初登場時はPVCのレインコート。\nマガタマ入手後は緑の力に脈打つ黒い衣。頭に山羊角。蠢く黒髪。\n最終決戦時には黒緑色の美しい大理石じみた肌。荒れ狂う緑の装束。",
+    "description": "ヴァインの代理戦士。カツ・ワンソーの影の一人。\n複数のニンジャからジツを奪い、己の力として使い分けていた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%B4%E3%82%A1%E3%83%AA%E3%82%B9",
+    "appearances": [
+      {
+        "id": "a37b1d71"
+      },
+      {
+        "id": "e07b3b1a"
+      },
+      {
+        "id": "89f07b12"
+      },
+      {
+        "id": "76830614"
+      },
+      {
+        "id": "08f154f0"
+      },
+      {
+        "id": "bc845992"
+      },
+      {
+        "id": "298d8046"
+      },
+      {
+        "id": "7bd07f98"
+      },
+      {
+        "id": "5a601370"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "227508fb"
+      }
+    ]
   },
   {
     "id": "f741d5",
@@ -38977,13 +39197,55 @@
   {
     "id": "cb3e96",
     "name": "マークスリー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "4nepp162",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ネオンプラズマ刀「トリスタン」「イゾルデ」",
+      "英国式チャドー",
+      "バーティツ・コンビネーション",
+      "ビート・キャンセリング・ブロー",
+      "メイルシュトロム・オブ・アルビオン"
+    ],
+    "role": "ロイヤルニンジャ・カリュドーンの狩人",
+    "appearance": "身長168cm。整った容姿。外見年齢16歳前後。\n薄水色の髪。身体の各所にバーコードや登録商標マークなど。\nモノトーンの密着型タクティカル・ニンジャスーツ。テック・コンバット・スニーカー。\n大英帝国装束。タータンキルト。開閉式メンポ。",
+    "description": "ギャラルホルンの代理戦士。カタナ社のホムンクルスニンジャ。\n英国式チャドーとイアイのタツジン。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%83%BC%E3%82%AF%E3%82%B9%E3%83%AA%E3%83%BC",
+    "appearances": [
+      {
+        "id": "a37b1d71"
+      },
+      {
+        "id": "e07b3b1a"
+      },
+      {
+        "id": "89f07b12"
+      },
+      {
+        "id": "76830614"
+      },
+      {
+        "id": "bc845992"
+      },
+      {
+        "id": "298d8046"
+      },
+      {
+        "id": "7bd07f98"
+      }
+    ],
     "organizations": [
       {
         "id": "ca1c8175"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%83%BC%E3%82%AF%E3%82%B9%E3%83%AA%E3%83%BC"
+    ]
   },
   {
     "id": "557ec7",
@@ -50052,6 +50314,63 @@
       },
       {
         "id": "227508fb"
+      }
+    ]
+  },
+  {
+    "id": "5bhh0rei",
+    "name": "アシッドフォージ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "ip5k43ea",
+      "name": "",
+      "grade": "等級不明",
+      "origin": "レンキン・ニンジャクランの可能性あり"
+    },
+    "skills": [
+      "アシッドクラフト・ジツ",
+      "酸の剣"
+    ],
+    "description": "ネオサイタマの暗殺ニンジャ。\n酸の霧を発生させるアシッドクラフト・ジツの使い手。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%B7%E3%83%83%E3%83%89%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B8",
+    "appearances": [
+      {
+        "id": "a37b1d71"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "ir98unt3",
+    "name": "バトラー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "e8r93c39",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "英国式チャドー"
+    ],
+    "role": "ロイヤルニンジャ",
+    "appearance": "身長185cm。老紳士。整えられた口髭。\n執事服ニンジャ装束。懐中時計型デバイス。",
+    "description": "カタナ社が誇る7人のロイヤルニンジャの一人。\n英国式チャドーを極めている。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%83%88%E3%83%A9%E3%83%BC",
+    "appearances": [
+      {
+        "id": "a37b1d71"
+      },
+      {
+        "id": "76830614"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "ca1c8175"
       }
     ]
   }
