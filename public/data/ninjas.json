@@ -1449,14 +1449,42 @@
     "name": "ザナドゥ",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "j3cw4kwp",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ゲン・ジツ"
+    ],
+    "appearance": "アフリカンの男。PVCテックウェア。",
+    "description": "グラフティ・アーティストニンジャ。\nスプレーで描いた絵をホロ幻影として立ち上がらせる。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B6%E3%83%8A%E3%83%89%E3%82%A5",
+    "appearances": [
+      {
+        "id": "032c13ba"
+      },
+      {
+        "id": "bc845992"
+      },
+      {
+        "id": "ztgiz3kg"
+      },
+      {
+        "id": "298d8046"
+      },
+      {
+        "id": "7bd07f98"
+      }
+    ],
     "organizations": [
       {
         "id": "a91ea54d"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B6%E3%83%8A%E3%83%89%E3%82%A5"
+    ]
   },
   {
     "id": "177545597",
@@ -7863,14 +7891,32 @@
     "name": "マグナカルタ",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "kx0q2xi3",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "role": "四二円茶",
+    "appearance": "やや小柄。頭にタオル、キャップで蓋をしている。メンポ。\n全ての指にゴールドのリング。戦闘時に光る目。",
+    "description": "フーディーギャング「四二円茶」のリーダーを張るニンジャ。\nラッパーであり会話の節々でライムを刻む。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%B0%E3%83%8A%E3%82%AB%E3%83%AB%E3%82%BF",
+    "appearances": [
+      {
+        "id": "0hamcejv"
+      },
+      {
+        "id": "032c13ba"
+      }
+    ],
     "organizations": [
       {
         "id": "b0bc2bbf"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%B0%E3%83%8A%E3%82%AB%E3%83%AB%E3%82%BF"
+    ]
   },
   {
     "id": "17754559220",
@@ -9914,22 +9960,22 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "サイバネ牙"
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      }
     ],
-    "description": "ソウカイヤのニンジャ。\n刺突攻撃に加えメイアルーア・ジ・コンパッソも放つ。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%97%E3%83%88%E3%82%A5%E3%83%BC%E3%82%B9",
     "appearances": [
       {
         "id": "kqp68e75"
       }
     ],
-    "organizations": [
-      {
-        "id": "soukaiya-p1"
-      }
-    ]
+    "skills": [
+      "サイバネ牙"
+    ],
+    "description": "ソウカイヤのニンジャ。\n刺突攻撃に加えメイアルーア・ジ・コンパッソも放つ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%97%E3%83%88%E3%82%A5%E3%83%BC%E3%82%B9"
   },
   {
     "id": "cbb49181",
@@ -11135,6 +11181,16 @@
       "clan": "ヤブサメ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "wkq7s6ie"
+      }
+    ],
     "skills": [
       "ニンジャアーマー「シロイ」",
       "高機動装甲バイク「シロイ」"
@@ -11142,17 +11198,7 @@
     "appearance": "流体力学に則った装甲型ニンジャ装束。媒体によって装束色が異なる。\n原作では白。アニメイシヨンではオレンジ。",
     "description": "ソウカイヤの強襲ニンジャ。\nゲイトキーパー直々に鍛えられた精鋭。\nモーターサイクルにまたがり、人車一体の攻撃を繰り出す。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9F%E3%83%A5%E3%83%AB%E3%83%9F%E3%83%89%E3%83%B3",
-    "appearances": [
-      {
-        "id": "wkq7s6ie"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "soukaiya-p1"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9F%E3%83%A5%E3%83%AB%E3%83%9F%E3%83%89%E3%83%B3"
   },
   {
     "id": "8104446b",
@@ -49719,5 +49765,136 @@
     "description": "ネザー汚染されたバイオニンジャ。\n異常活性化した再生能力により巨大化。オニを使役する。",
     "status": "dead",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%B9%E3%83%88%E3%83%AD%E3%82%A4%E3%83%87%E3%82%A2"
+  },
+  {
+    "id": "1f2qwxc1",
+    "name": "ブリムストーン",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "domrlshj",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "ナパームスリケン",
+      "リモートカトン・ジツ",
+      "ナパーム・カトン"
+    ],
+    "appearance": "フルメンポ。",
+    "description": "カタナ社のニンジャ。\nカトン使いで、クローンヤクザにエンチャントすることもできる。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%AA%E3%83%A0%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3",
+    "appearances": [
+      {
+        "id": "05274175"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "ca1c8175"
+      }
+    ]
+  },
+  {
+    "id": "0vmej1tf",
+    "name": "ブロンズブライト",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "74i3cngl",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "クナイ"
+    ],
+    "role": "KATANA",
+    "appearance": "テック・バラクラバ。鋼鉄メンポ。",
+    "description": "治安部隊KATANAに所属するニンジャ。\nクナイ派。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%AD%E3%83%B3%E3%82%BA%E3%83%96%E3%83%A9%E3%82%A4%E3%83%88",
+    "appearances": [
+      {
+        "id": "032c13ba"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "ca1c8175"
+      }
+    ]
+  },
+  {
+    "id": "5ti27utl",
+    "name": "ガゼルジャンプ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "fiq7b4bs",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [],
+    "appearance": "青年。ニボシじみたチョンマゲ。",
+    "description": "ネオサイタマのニュービーニンジャ。\n企業に目を付けられ拷問を受けていた。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AC%E3%82%BC%E3%83%AB%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97",
+    "appearances": [
+      {
+        "id": "032c13ba"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "ou3tatke",
+    "name": "パースウェイダー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "hzq81tl1",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [],
+    "appearance": "偏光クロームコートのニンジャ装束。\nロングコート。黒い革手袋。",
+    "description": "ネオサイタマのフリーランス・エージェント。\nASAPに拘るサディストだが腕は確か。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%91%E3%83%BC%E3%82%B9%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%80%E3%83%BC",
+    "appearances": [
+      {
+        "id": "032c13ba"
+      },
+      {
+        "id": "66ac3aba"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "ztt53was",
+    "name": "アマルガム",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "599q4kdq",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "試作サイバネアーム",
+      "赤熱ワイヤー"
+    ],
+    "appearance": "丈高い男。ボロボロの長衣。メンポ。\n左腕がサイバネ。",
+    "description": "ネオサイタマの狂人ニンジャ。\n危険なサイバネアームで神絵師を狙う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%9E%E3%83%AB%E3%82%AC%E3%83%A0",
+    "appearances": [
+      {
+        "id": "032c13ba"
+      }
+    ],
+    "organizations": []
   }
 ]
