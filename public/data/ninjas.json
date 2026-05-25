@@ -36479,13 +36479,49 @@
   {
     "id": "81b108",
     "name": "サロウ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "amom3py2",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ユメミル・ジツ",
+      "自我浸食"
+    ],
+    "role": "カリュドーンの狩人",
+    "appearance": "七色のグラデーションで変色する極端なツーブロック・ヘア。右眉にリングピアス。\n斑模様のブルゾン。スキニーパンツ。黒色液晶の腕時計。",
+    "description": "オモイ・ニンジャの代理戦士。\n邪悪なるユメミル・ジツの使い手。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%AD%E3%82%A6",
+    "appearances": [
+      {
+        "id": "a37b1d71"
+      },
+      {
+        "id": "e07b3b1a"
+      },
+      {
+        "id": "89f07b12"
+      },
+      {
+        "id": "76830614"
+      },
+      {
+        "id": "08f154f0"
+      }
+    ],
     "organizations": [
       {
         "id": "4f623b6b"
+      },
+      {
+        "id": "227508fb"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%AD%E3%82%A6"
+    ]
   },
   {
     "id": "b372e8",
@@ -41724,9 +41760,49 @@
       "ドクガ・ニンジャ"
     ],
     "ninjaType": "リアルニンジャ",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%96%E3%83%A9"
+    "ninjaSoul": {
+      "id": "0foyscps",
+      "name": "ドクガ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "コブラ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "コブラ・カラテ",
+      "コトダマ適性"
+    ],
+    "appearance": "（本体）レリックLANケーブルを身に纏った巨大な多頭の大蛇。\n（彫像）コブラを象った冠を被る鉄の擬人像。",
+    "description": "アユタヤ大密林に本拠地を持つ「コブラ教団」総帥。\n過去のニンジャ大戦で負った重傷のため本体は動けず、彫像を通して司令を出す。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%96%E3%83%A9",
+    "appearances": [
+      {
+        "id": "a37b1d71"
+      },
+      {
+        "id": "89f07b12"
+      },
+      {
+        "id": "76830614"
+      },
+      {
+        "id": "08f154f0"
+      },
+      {
+        "id": "bc845992"
+      },
+      {
+        "id": "298d8046"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "24b31t0p"
+      },
+      {
+        "id": "227508fb"
+      }
+    ]
   },
   {
     "id": "738f54c8",
@@ -49896,5 +49972,87 @@
       }
     ],
     "organizations": []
+  },
+  {
+    "id": "yebzpgw1",
+    "name": "デルフィニア",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "lury4kd4",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [],
+    "description": "ネオサイタマのヤクザニンジャ。\n事務所ぐるみで詐欺を働いていた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%83%AB%E3%83%95%E3%82%A3%E3%83%8B%E3%82%A2",
+    "appearances": [
+      {
+        "id": "a37b1d71"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "jd4s3alw",
+    "name": "メイヘム",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "9v3fwhnd",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "コブラ・ニンジャクラン"
+    },
+    "skills": [
+      "コブラ・カラテ",
+      "ナインヘッズドラゴン",
+      "アフリカ投げナイフめいた邪悪なスリケン",
+      "ゼゲン・ジツ",
+      "コブラ・ヘンゲ",
+      "ドク・ジツ",
+      "イビルアイ",
+      "ダイジャ・リインカーネイション・ジツ"
+    ],
+    "role": "カリュドーンの狩人",
+    "appearance": "身長183cm。外見年齢20代。エキゾチックな顔立ち。浅黒い肌。白く短い巻毛。蛇めいた瞳。\n【プレリュード～】では『DOKU NO KIBA』の文字が刺繍された黒いジュー・ウェア。\n【ザ・シェイプ・オブ～】では黒いパンクスーツ。\n本戦時は神秘的なコブラの刺繍が施されたニンジャ装束。濃紺のマント。開閉式メンポ。",
+    "description": "アイアンコブラの代理戦士。\nコブラカラテ、イビルアイ共に強力で、さらにコブラにまで変身する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A1%E3%82%A4%E3%83%98%E3%83%A0",
+    "appearances": [
+      {
+        "id": "a37b1d71"
+      },
+      {
+        "id": "e07b3b1a"
+      },
+      {
+        "id": "89f07b12"
+      },
+      {
+        "id": "76830614"
+      },
+      {
+        "id": "08f154f0"
+      },
+      {
+        "id": "bc845992"
+      },
+      {
+        "id": "ztgiz3kg"
+      },
+      {
+        "id": "298d8046"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "24b31t0p"
+      },
+      {
+        "id": "227508fb"
+      }
+    ]
   }
 ]
