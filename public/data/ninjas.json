@@ -5367,75 +5367,122 @@
   {
     "id": "afc14b14",
     "name": "ダーティージュジュ",
-    "aliases": [
-      "ダーティージュジュ"
-    ],
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "em4ykqpi",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ノロイ・ジツ"
+    ],
+    "appearance": "ヒエログリフ・カンジを印したニンジャ装束。黒い腕輪。\n腰の呪物ホルダーに干し首や呪い人形、オフダなど世界各地のモージョーを隠し持つ。",
+    "description": "セト配下のニンジャ。\n様々なモージョー、呪物を装備するノロイ・ジツの使い手。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%80%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%82%B8%E3%83%A5%E3%82%B8%E3%83%A5%EF%BC%8F%E3%83%8E%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%B3%EF%BC%8F%E3%83%A6%E3%83%80%E3%83%B3%E3%83%8A%E3%82%AD",
+    "appearances": [
+      {
+        "id": "298d8046"
+      }
+    ],
     "organizations": [
       {
         "id": "a6ae08ba"
-      },
-      {
-        "id": "227508fb"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%80%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%82%B8%E3%83%A5%E3%82%B8%E3%83%A5%EF%BC%8F%E3%83%8E%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%B3%EF%BC%8F%E3%83%A6%E3%83%80%E3%83%B3%E3%83%8A%E3%82%AD"
+    ]
   },
   {
     "id": "a0c84eac",
     "name": "ノーコーン",
-    "aliases": [
-      "ダーティージュジュ"
-    ],
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "yxgxlyqy",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ヒヅメ・ケン"
+    ],
+    "appearance": "ヒエログリフ・カンジを印したニンジャ装束。黒い腕輪。",
+    "description": "セト配下のニンジャ。\n馬蹄の打撃を模したヒヅメ・ケンの使い手。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%80%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%82%B8%E3%83%A5%E3%82%B8%E3%83%A5%EF%BC%8F%E3%83%8E%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%B3%EF%BC%8F%E3%83%A6%E3%83%80%E3%83%B3%E3%83%8A%E3%82%AD",
+    "appearances": [
+      {
+        "id": "298d8046"
+      }
+    ],
     "organizations": [
       {
         "id": "a6ae08ba"
-      },
-      {
-        "id": "227508fb"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%80%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%82%B8%E3%83%A5%E3%82%B8%E3%83%A5%EF%BC%8F%E3%83%8E%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%B3%EF%BC%8F%E3%83%A6%E3%83%80%E3%83%B3%E3%83%8A%E3%82%AD"
+    ]
   },
   {
     "id": "5ab508d9",
     "name": "ユダンナキ",
-    "aliases": [
-      "ダーティージュジュ"
-    ],
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "kur5yj1e",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ニンジャ第六感"
+    ],
+    "appearance": "ヒエログリフ・カンジを印したニンジャ装束。黒い腕輪。",
+    "description": "セト配下のニンジャ。\nニンジャ第六感に優れる。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%80%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%82%B8%E3%83%A5%E3%82%B8%E3%83%A5%EF%BC%8F%E3%83%8E%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%B3%EF%BC%8F%E3%83%A6%E3%83%80%E3%83%B3%E3%83%8A%E3%82%AD",
+    "appearances": [
+      {
+        "id": "298d8046"
+      }
+    ],
     "organizations": [
       {
         "id": "a6ae08ba"
-      },
-      {
-        "id": "227508fb"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%80%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%82%B8%E3%83%A5%E3%82%B8%E3%83%A5%EF%BC%8F%E3%83%8E%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%B3%EF%BC%8F%E3%83%A6%E3%83%80%E3%83%B3%E3%83%8A%E3%82%AD"
+    ]
   },
   {
     "id": "1775455997",
     "name": "ディスパッチ",
     "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "zebc12g7",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "カラテブースト"
+    ],
+    "appearance": "セトの紋章が編み込まれたニンジャ装束。",
+    "description": "セト配下のニンジャ。\nいかなる原理か両足からカラテブーストで加速する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%91%E3%83%83%E3%83%81",
+    "appearances": [
+      {
+        "id": "298d8046"
+      }
+    ],
     "organizations": [
       {
         "id": "a6ae08ba"
-      },
-      {
-        "id": "227508fb"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%91%E3%83%83%E3%83%81"
+    ]
   },
   {
     "id": "1775455998",
@@ -5472,33 +5519,60 @@
     "id": "1775455999",
     "name": "トレメンダス",
     "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "6ofpb7bi",
+      "name": "",
+      "grade": "等級不明",
+      "clan": ""
+    },
+    "skills": [
+      "パンプアップ"
+    ],
+    "appearance": "巨躯。セトの紋章が編み込まれたニンジャ装束。",
+    "description": "セト配下のニンジャ。\nただでさえ大きい巨体を更にパンプアップする。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%88%E3%83%AC%E3%83%A1%E3%83%B3%E3%83%80%E3%82%B9",
+    "appearances": [
+      {
+        "id": "298d8046"
+      }
+    ],
     "organizations": [
       {
         "id": "a6ae08ba"
-      },
-      {
-        "id": "227508fb"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%88%E3%83%AC%E3%83%A1%E3%83%B3%E3%83%80%E3%82%B9"
+    ]
   },
   {
     "id": "17754559100",
     "name": "ナイチンゲール",
     "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "klfffo4w",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "クナイ・ダート",
+      "カタナ"
+    ],
+    "description": "セト配下のニンジャ。\nクナイとカタナを使い分ける。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8A%E3%82%A4%E3%83%81%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%AB",
+    "appearances": [
+      {
+        "id": "298d8046"
+      }
+    ],
     "organizations": [
       {
         "id": "a6ae08ba"
-      },
-      {
-        "id": "227508fb"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8A%E3%82%A4%E3%83%81%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%AB"
+    ]
   },
   {
     "id": "17754559101",
@@ -5595,31 +5669,59 @@
     "id": "17754559103",
     "name": "マリシャス",
     "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "g9vdhkm2",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "メイアルーアジコンパッソ",
+      "刃"
+    ],
+    "appearance": "セトの紋章が編み込まれたニンジャ装束。",
+    "description": "セト配下のニンジャ。\n刃を獲物とする。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%83%AA%E3%82%B7%E3%83%A3%E3%82%B9",
+    "appearances": [
+      {
+        "id": "298d8046"
+      }
+    ],
     "organizations": [
       {
         "id": "a6ae08ba"
-      },
-      {
-        "id": "227508fb"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%83%AA%E3%82%B7%E3%83%A3%E3%82%B9"
+    ]
   },
   {
     "id": "17754559104",
     "name": "バスカヴィル",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "organizations": [
+    "ninjaSoul": {
+      "id": "m774zc3t",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "噛みつき",
+      "カトン・ジツ"
+    ],
+    "appearance": "両手がサイバネ腕。普段は袖状で、戦闘時に裏返って犬の口となる。",
+    "description": "ネオサイタマの傭兵ニンジャ。\n両手の犬頭で噛みついたり炎を吐いたりする。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%82%B9%E3%82%AB%E3%83%B4%E3%82%A3%E3%83%AB",
+    "appearances": [
       {
-        "id": "a6ae08ba"
+        "id": "ztgiz3kg"
       }
     ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%82%B9%E3%82%AB%E3%83%B4%E3%82%A3%E3%83%AB"
+    "organizations": []
   },
   {
     "id": "17754559105",
@@ -39076,13 +39178,32 @@
   {
     "id": "2a4663",
     "name": "ゴールデンドーン",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "cx8eipuw",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "フドウ・ピラミッド・ジツ"
+    ],
+    "appearance": "頭部が黄金の立方体。折り目正しいスーツ。",
+    "description": "エネアド社のニンジャ。\nピラミッド状の力場を発生させて相手を圧殺する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%83%89%E3%83%BC%E3%83%B3",
+    "appearances": [
+      {
+        "id": "ztgiz3kg"
+      }
+    ],
     "organizations": [
       {
         "id": "a6ae08ba"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%83%89%E3%83%BC%E3%83%B3"
+    ]
   },
   {
     "id": "22ff2a",
@@ -39120,35 +39241,92 @@
   {
     "id": "9ef51d",
     "name": "パイラミッダル",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "tgqqd49f",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "浮遊",
+      "力の刻印"
+    ],
+    "appearance": "ピラミッド型フルメンポ。メンポの下は呪術刺青が入ったスキンヘッド。",
+    "description": "エネアド社のニンジャ。\nヒエログリフ刻印を飛ばして攻撃する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%91%E3%82%A4%E3%83%A9%E3%83%9F%E3%83%83%E3%83%80%E3%83%AB",
+    "appearances": [
+      {
+        "id": "298d8046"
+      }
+    ],
     "organizations": [
       {
         "id": "a6ae08ba"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%91%E3%82%A4%E3%83%A9%E3%83%9F%E3%83%83%E3%83%80%E3%83%AB"
+    ]
   },
   {
     "id": "2d31ad",
     "name": "ミスティカル",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "mu3hg9v2",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "マバタキ・ジツ"
+    ],
+    "description": "エネアド社のニンジャ。\nマバタキ・ジツの一種で瞬間移動する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9F%E3%82%B9%E3%83%86%E3%82%A3%E3%82%AB%E3%83%AB",
+    "appearances": [
+      {
+        "id": "ztgiz3kg"
+      }
+    ],
     "organizations": [
       {
         "id": "a6ae08ba"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9F%E3%82%B9%E3%83%86%E3%82%A3%E3%82%AB%E3%83%AB"
+    ]
   },
   {
     "id": "821c2f",
     "name": "モーブレイド",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "tklja4hi",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "薙刀"
+    ],
+    "appearance": "メンポ。",
+    "description": "エネアド社のニンジャ。\nハイレベルな薙刀使い。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%83%96%E3%83%AC%E3%82%A4%E3%83%89",
+    "appearances": [
+      {
+        "id": "ztgiz3kg"
+      }
+    ],
     "organizations": [
       {
         "id": "a6ae08ba"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%83%96%E3%83%AC%E3%82%A4%E3%83%89"
+    ]
   },
   {
     "id": "52e134",
@@ -39440,7 +39618,9 @@
   {
     "id": "cb3e96",
     "name": "マークスリー",
-    "aliases": [],
+    "aliases": [
+      "リバティ"
+    ],
     "ninjaType": "ニンジャソウル憑依者",
     "ninjaSoul": {
       "id": "4nepp162",
@@ -39449,11 +39629,22 @@
       "clan": "",
       "origin": ""
     },
-    "organizations": [
-      {
-        "id": "ca1c8175"
-      }
+    "skills": [
+      "ネオンプラズマ刀「トリスタン」「イゾルデ」",
+      "英国式チャドー",
+      "バーティツ・コンビネーション",
+      "ビート・キャンセリング・ブロー",
+      "メイルシュトロム・オブ・アルビオン",
+      "ネオン・プラズマ・カタナ",
+      "タンモノ・オブ・コンシーリング",
+      "ランタン・オブ・ソーマト",
+      "オーナメント・オブ・ダンシング"
     ],
+    "role": "ロイヤルニンジャ・カリュドーンの狩人",
+    "appearance": "身長168cm。整った容姿。外見年齢16歳前後。\n薄水色の髪。身体の各所にバーコードや登録商標マークなど。\nマークスリー：モノトーンの密着型タクティカル・ニンジャスーツ。テック・コンバット・スニーカー。大英帝国装束。タータンキルト。開閉式メンポ。\nリバティ：クローム色のフードマント",
+    "description": "ギャラルホルンの代理戦士。カタナ社が生み出したホムンクルスニンジャ。\n英国式チャドーとイアイのタツジン。\nカリュドーン後は一時カタナ社と共闘するも、その後放浪のニンジャとなった。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%83%BC%E3%82%AF%E3%82%B9%E3%83%AA%E3%83%BC",
     "appearances": [
       {
         "id": "a37b1d71"
@@ -39477,18 +39668,11 @@
         "id": "7bd07f98"
       }
     ],
-    "skills": [
-      "ネオンプラズマ刀「トリスタン」「イゾルデ」",
-      "英国式チャドー",
-      "バーティツ・コンビネーション",
-      "ビート・キャンセリング・ブロー",
-      "メイルシュトロム・オブ・アルビオン"
-    ],
-    "role": "ロイヤルニンジャ・カリュドーンの狩人",
-    "appearance": "身長168cm。整った容姿。外見年齢16歳前後。\n薄水色の髪。身体の各所にバーコードや登録商標マークなど。\nモノトーンの密着型タクティカル・ニンジャスーツ。テック・コンバット・スニーカー。\n大英帝国装束。タータンキルト。開閉式メンポ。",
-    "description": "ギャラルホルンの代理戦士。カタナ社のホムンクルスニンジャ。\n英国式チャドーとイアイのタツジン。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%83%BC%E3%82%AF%E3%82%B9%E3%83%AA%E3%83%BC"
+    "organizations": [
+      {
+        "id": "ca1c8175"
+      }
+    ]
   },
   {
     "id": "557ec7",
