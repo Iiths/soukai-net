@@ -543,13 +543,14 @@
       "clan": "不明",
       "origin": "第三部最終版にてリアルニンジャ化"
     },
-    "skills": [
-      "チャドー",
-      "ジュー・ジツ"
+    "organizations": [
+      {
+        "id": "4f04u1l8"
+      },
+      {
+        "id": "a91ea54d"
+      }
     ],
-    "description": "第三部までの主人公、ニンジャスレイヤー。\n第四部以降はサツバツナイトを名乗り、国際探偵として全国各地で活躍中。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%84%E3%83%90%E3%83%84%E3%83%8A%E3%82%A4%E3%83%88",
     "appearances": [
       {
         "id": "k99nm6ll"
@@ -1050,14 +1051,13 @@
         "id": "4de384e9"
       }
     ],
-    "organizations": [
-      {
-        "id": "4f04u1l8"
-      },
-      {
-        "id": "a91ea54d"
-      }
-    ]
+    "skills": [
+      "チャドー",
+      "ジュー・ジツ"
+    ],
+    "description": "第三部までの主人公、ニンジャスレイヤー。\n第四部以降はサツバツナイトを名乗り、国際探偵として全国各地で活躍中。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%84%E3%83%90%E3%83%84%E3%83%8A%E3%82%A4%E3%83%88"
   },
   {
     "id": "177545593",
@@ -3670,12 +3670,11 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "role": "カリュドーンの狩人",
-    "appearance": "偽物：古式のフード装束。手首に奇妙なムカデ数珠。額に第三の目。",
-    "description": "シャン・ロアが新たに送り出した代理戦士。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%83%BC%E3%82%AC%E3%83%80%E3%83%AB",
+    "organizations": [
+      {
+        "id": "79af6ace"
+      }
+    ],
     "appearances": [
       {
         "id": "76830614"
@@ -3690,11 +3689,12 @@
         "id": "ztgiz3kg"
       }
     ],
-    "organizations": [
-      {
-        "id": "79af6ace"
-      }
-    ]
+    "skills": [],
+    "role": "カリュドーンの狩人",
+    "appearance": "偽物：古式のフード装束。手首に奇妙なムカデ数珠。額に第三の目。",
+    "description": "シャン・ロアが新たに送り出した代理戦士。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%83%BC%E3%82%AC%E3%83%80%E3%83%AB"
   },
   {
     "id": "1775455949",
@@ -5220,87 +5220,149 @@
     "id": "1775455992",
     "name": "エンデーバー",
     "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "6ito3sad",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "チャクラム"
+    ],
+    "description": "セト配下のニンジャ。\nチャクラムを投擲する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%83%B3%E3%83%87%E3%83%BC%E3%83%90%E3%83%BC",
+    "appearances": [
+      {
+        "id": "bc845992"
+      }
+    ],
     "organizations": [
       {
         "id": "a6ae08ba"
-      },
-      {
-        "id": "227508fb"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%83%B3%E3%83%87%E3%83%BC%E3%83%90%E3%83%BC"
+    ]
   },
   {
     "id": "1775455993",
     "name": "グリーンウィスプ",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "dq0lqjeh",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ステルス・ジツ",
+      "オニビ・ジツ"
+    ],
+    "appearance": "奇妙な司祭じみた帽子。",
+    "description": "セトの配下のニンジャ。\n救済と称して緑色の炎を出現させる。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%A6%E3%82%A3%E3%82%B9%E3%83%97",
+    "appearances": [
+      {
+        "id": "bc845992"
+      }
+    ],
     "organizations": [
       {
         "id": "a6ae08ba"
-      },
-      {
-        "id": "227508fb"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%A6%E3%82%A3%E3%82%B9%E3%83%97"
+    ]
   },
   {
     "id": "e5cb132a",
     "name": "シックスフィーター",
-    "aliases": [
-      "シックスフィーター"
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "xdv8xq6n",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "シックスフィート・ボー"
+    ],
+    "description": "セト配下のニンジャ。\nニンジャ名通りシックスフィート・ボーを獲物とする。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%83%E3%82%AF%E3%82%B9%E3%83%95%E3%82%A3%E3%83%BC%E3%82%BF%E3%83%BC%EF%BC%8F%E3%83%A9%E3%82%B9%E3%83%86%E3%82%A3%E3%82%AB%E3%83%88%E3%83%A9%E3%82%B9",
+    "appearances": [
+      {
+        "id": "bc845992"
+      }
     ],
     "organizations": [
       {
         "id": "a6ae08ba"
-      },
-      {
-        "id": "227508fb"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%83%E3%82%AF%E3%82%B9%E3%83%95%E3%82%A3%E3%83%BC%E3%82%BF%E3%83%BC%EF%BC%8F%E3%83%A9%E3%82%B9%E3%83%86%E3%82%A3%E3%82%AB%E3%83%88%E3%83%A9%E3%82%B9"
+    ]
   },
   {
     "id": "26c5589c",
     "name": "ラスティカトラス",
-    "aliases": [
-      "シックスフィーター"
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "9l644l91",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "カトラス"
+    ],
+    "description": "セト配下のニンジャ。\nニンジャ名通り湾曲した刃が獲物。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%83%E3%82%AF%E3%82%B9%E3%83%95%E3%82%A3%E3%83%BC%E3%82%BF%E3%83%BC%EF%BC%8F%E3%83%A9%E3%82%B9%E3%83%86%E3%82%A3%E3%82%AB%E3%83%88%E3%83%A9%E3%82%B9",
+    "appearances": [
+      {
+        "id": "bc845992"
+      }
     ],
     "organizations": [
       {
         "id": "a6ae08ba"
-      },
-      {
-        "id": "227508fb"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%83%E3%82%AF%E3%82%B9%E3%83%95%E3%82%A3%E3%83%BC%E3%82%BF%E3%83%BC%EF%BC%8F%E3%83%A9%E3%82%B9%E3%83%86%E3%82%A3%E3%82%AB%E3%83%88%E3%83%A9%E3%82%B9"
+    ]
   },
   {
     "id": "1775455995",
     "name": "シャゴタイト",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "ohaqi9d8",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "オーレフォーム・ジツ"
+    ],
+    "appearance": "全身から鉱石をまばらに生やしている。醜い外見。\nおそらく巨体。",
+    "description": "セト配下のニンジャ。\n全身から生やす鉱石は攻防一体。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%A3%E3%82%B4%E3%82%BF%E3%82%A4%E3%83%88",
+    "appearances": [
+      {
+        "id": "bc845992"
+      }
+    ],
     "organizations": [
       {
         "id": "a6ae08ba"
-      },
-      {
-        "id": "227508fb"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%A3%E3%82%B4%E3%82%BF%E3%82%A4%E3%83%88"
+    ]
   },
   {
     "id": "afc14b14",
@@ -5380,17 +5442,31 @@
     "name": "デスロール",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "au6z5hg3",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "古代ナイルワニ拳",
+      "ペリアプト・オブ・ノロイ"
+    ],
+    "appearance": "身長は196cmより頭一つ小さい。長いフード装束。爬虫類めいた目。",
+    "description": "セト配下のニンジャ。\n謎めいた古代ナイルワニ拳の使い手。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B9%E3%83%AD%E3%83%BC%E3%83%AB",
+    "appearances": [
+      {
+        "id": "bc845992"
+      }
+    ],
     "organizations": [
       {
         "id": "a6ae08ba"
-      },
-      {
-        "id": "227508fb"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B9%E3%83%AD%E3%83%BC%E3%83%AB"
+    ]
   },
   {
     "id": "1775455999",
@@ -5429,17 +5505,34 @@
     "name": "ハイウェイマン",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "u20pou3h",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "LAN直結ライフル",
+      "バヨネット・ドー",
+      "ダブルアサルト・ツキ",
+      "クルシファイア・ツキ",
+      "カラテミサイル"
+    ],
+    "appearance": "灰色の目。黒い三角帽。鉄靴。\n肘先にサイバネ・シリンダー機構。首からペリアプト・オブ・ノロイ。",
+    "description": "セトが配下に引き入れた凄腕暗殺ニンジャ。\nバヨネット・ドーのタツジン。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%82%A4%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%9E%E3%83%B3",
+    "appearances": [
+      {
+        "id": "bc845992"
+      }
+    ],
     "organizations": [
       {
         "id": "a6ae08ba"
-      },
-      {
-        "id": "227508fb"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%82%A4%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%9E%E3%83%B3"
+    ]
   },
   {
     "id": "17754559102",
@@ -7930,23 +8023,23 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "b0b48e6a"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "89f07b12"
+      }
+    ],
     "skills": [
       "バイオ蝿"
     ],
     "appearance": "ニンジャ頭巾。",
     "description": "ポンポン・ビルディングを塒にするギャング「ザンキ・ギャング」のリーダー。\nしかし実態はベルゼブブに支配されてしまっている。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9C%E3%82%A4%E3%82%B3%E3%83%83%E3%83%88",
-    "appearances": [
-      {
-        "id": "89f07b12"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "b0b48e6a"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9C%E3%82%A4%E3%82%B3%E3%83%83%E3%83%88"
   },
   {
     "id": "f175ac8f",
@@ -7960,6 +8053,12 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "89f07b12"
+      }
+    ],
     "skills": [
       "移動するジツ",
       "スナイパースリケン"
@@ -7967,13 +8066,7 @@
     "appearance": "痩躯。",
     "description": "ザンキ・ギャングのニンジャ。\n溶けるように姿を消して移動する。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AF%E3%83%BC%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B0%EF%BC%8F%E3%83%90%E3%83%83%E3%82%AB%E3%83%BC%E3%83%8B%E3%82%A2",
-    "appearances": [
-      {
-        "id": "89f07b12"
-      }
-    ],
-    "organizations": []
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AF%E3%83%BC%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B0%EF%BC%8F%E3%83%90%E3%83%83%E3%82%AB%E3%83%BC%E3%83%8B%E3%82%A2"
   },
   {
     "id": "cd69339e",
@@ -7987,19 +8080,19 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "89f07b12"
+      }
+    ],
     "skills": [
       "サイバネ衝角",
       "砲塔"
     ],
     "description": "ザンキ・ギャングのニンジャ。\n背中の隠し砲塔と眉間から展開する衝角が武器だ。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AF%E3%83%BC%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B0%EF%BC%8F%E3%83%90%E3%83%83%E3%82%AB%E3%83%BC%E3%83%8B%E3%82%A2",
-    "appearances": [
-      {
-        "id": "89f07b12"
-      }
-    ],
-    "organizations": []
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AF%E3%83%BC%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B0%EF%BC%8F%E3%83%90%E3%83%83%E3%82%AB%E3%83%BC%E3%83%8B%E3%82%A2"
   },
   {
     "id": "17754559211",
@@ -8013,20 +8106,20 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "description": "ザンキ・ギャングの元リーダー。\n不審死を遂げていた。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%83%83%E3%83%89%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC",
+    "organizations": [
+      {
+        "id": "b0b48e6a"
+      }
+    ],
     "appearances": [
       {
         "id": "89f07b12"
       }
     ],
-    "organizations": [
-      {
-        "id": "b0b48e6a"
-      }
-    ]
+    "skills": [],
+    "description": "ザンキ・ギャングの元リーダー。\n不審死を遂げていた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%83%83%E3%83%89%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC"
   },
   {
     "id": "31775455212",
@@ -39297,21 +39390,21 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "appearance": "身長183cm。外見年齢28歳前後。アンニュイでロマンチックな長髪。無精髭。",
-    "description": "カタナ社が生み出したホムンクルスニンジャ。\n歓楽街でスキャンダルを起こした。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%83%BC%E3%82%AF%E3%83%AF%E3%83%B3%EF%BC%8F%E3%83%9E%E3%83%BC%E3%82%AF%E3%83%84%E3%83%BC",
+    "organizations": [
+      {
+        "id": "ca1c8175"
+      }
+    ],
     "appearances": [
       {
         "id": "76830614"
       }
     ],
-    "organizations": [
-      {
-        "id": "ca1c8175"
-      }
-    ]
+    "skills": [],
+    "appearance": "身長183cm。外見年齢28歳前後。アンニュイでロマンチックな長髪。無精髭。",
+    "description": "カタナ社が生み出したホムンクルスニンジャ。\n歓楽街でスキャンダルを起こした。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%83%BC%E3%82%AF%E3%83%AF%E3%83%B3%EF%BC%8F%E3%83%9E%E3%83%BC%E3%82%AF%E3%83%84%E3%83%BC"
   },
   {
     "id": "c97a628a",
@@ -39325,6 +39418,16 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "ca1c8175"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "76830614"
+      }
+    ],
     "skills": [
       "ネオンプラズマ刀「トリスタン」「イゾルデ」"
     ],
@@ -39332,17 +39435,7 @@
     "appearance": "身長178cm。外見年齢20歳前後。スポーティな外見。",
     "description": "カタナ社が生み出したホムンクルスニンジャ。\nタイロー社員を討ち取るほど成果を上げたが、\n宇宙空間での任務で事故死したという。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%83%BC%E3%82%AF%E3%83%AF%E3%83%B3%EF%BC%8F%E3%83%9E%E3%83%BC%E3%82%AF%E3%83%84%E3%83%BC",
-    "appearances": [
-      {
-        "id": "76830614"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "ca1c8175"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%83%BC%E3%82%AF%E3%83%AF%E3%83%B3%EF%BC%8F%E3%83%9E%E3%83%BC%E3%82%AF%E3%83%84%E3%83%BC"
   },
   {
     "id": "cb3e96",
@@ -50600,14 +50693,11 @@
       "name": "",
       "grade": "等級不明"
     },
-    "skills": [
-      "光の刃",
-      "アンタイ・ヨロシ・パルス"
+    "organizations": [
+      {
+        "id": "v4q6j4de"
+      }
     ],
-    "appearance": "ベリーショートの緑髪。猫めいた縦長の黒目に青白い虹彩の瞳をインプラントしている。女性。\n手首にブレスレット端末。戦闘時はフルフェイスメンポ。",
-    "description": "ヨロシサン・インターナショナルの企業ニンジャ。\nプラズマ爪から光の刃で攻撃する。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%AC%E3%83%83%E3%82%BB%E3%83%B3%E3%83%88",
     "appearances": [
       {
         "id": "89f07b12"
@@ -50616,11 +50706,14 @@
         "id": "7bd07f98"
       }
     ],
-    "organizations": [
-      {
-        "id": "v4q6j4de"
-      }
-    ]
+    "skills": [
+      "光の刃",
+      "アンタイ・ヨロシ・パルス"
+    ],
+    "appearance": "ベリーショートの緑髪。猫めいた縦長の黒目に青白い虹彩の瞳をインプラントしている。女性。\n手首にブレスレット端末。戦闘時はフルフェイスメンポ。",
+    "description": "ヨロシサン・インターナショナルの企業ニンジャ。\nプラズマ爪から光の刃で攻撃する。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%AC%E3%83%83%E3%82%BB%E3%83%B3%E3%83%88"
   },
   {
     "id": "57px49c4",
@@ -50633,6 +50726,19 @@
       "grade": "等級不明",
       "clan": "コリ・ニンジャクラン"
     },
+    "organizations": [
+      {
+        "id": "ca1c8175"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "76830614"
+      },
+      {
+        "id": "7bd07f98"
+      }
+    ],
     "skills": [
       "コリ・ジツ",
       "カタナ",
@@ -50642,20 +50748,7 @@
     "appearance": "黒とダークブルーの装甲装束。白く烟った仮面ハイテック・フルメンポ。\n冷たい目。吹雪めいた鉛色の髪。",
     "description": "治安部隊KATANAのエージェント。\nコリ・エンハンス・システムでコリ・ジツを強化している。",
     "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%82%A4%E3%83%86%E3%83%84",
-    "appearances": [
-      {
-        "id": "76830614"
-      },
-      {
-        "id": "7bd07f98"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "ca1c8175"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%82%A4%E3%83%86%E3%83%84"
   },
   {
     "id": "qf8jfooz",
@@ -50691,38 +50784,38 @@
       "name": "",
       "grade": "等級不明"
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "76830614"
+      }
+    ],
     "skills": [
       "双子連携"
     ],
     "appearance": "呼吸孔付きのメンポ。",
     "description": "ネオサイタマの双子サイコパスニンジャ、の弟。\n変態双生異常切裂殺人ニンジャを自称する。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%B5%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%88%EF%BC%8F%E3%83%9E%E3%82%B5%E3%82%AF%E3%83%AC%E3%83%B3%E3%83%89",
-    "appearances": [
-      {
-        "id": "76830614"
-      }
-    ],
-    "organizations": []
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%B5%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%88%EF%BC%8F%E3%83%9E%E3%82%B5%E3%82%AF%E3%83%AC%E3%83%B3%E3%83%89"
   },
   {
     "id": "47q649dm",
     "name": "ピーボディ",
     "aliases": [],
     "ninjaType": "非ニンジャ",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "76830614"
+      }
+    ],
     "skills": [
       "ハッカー"
     ],
     "appearance": "奇妙なサングラス。不気味な蝶ネクタイ。男。",
     "description": "ネオサイタマのサイコパスハッカー。非ニンジャ。\nスモトリニンジャのヘルバガーを飼いならしている。",
     "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%AB%E3%83%90%E3%82%AC%E3%83%BC",
-    "appearances": [
-      {
-        "id": "76830614"
-      }
-    ],
-    "organizations": []
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%AB%E3%83%90%E3%82%AC%E3%83%BC"
   },
   {
     "id": "qd4fpi66",
@@ -50734,19 +50827,19 @@
       "name": "",
       "grade": "等級不明"
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "76830614"
+      }
+    ],
     "skills": [
       "突進"
     ],
     "appearance": "スモトリ巨体。鉄のハーネス装束。呼吸孔つきメンポ。",
     "description": "ネオサイタマのスモトリ崩れニンジャ。\n電子ドラッグ乱用で自我を失い、ピーボディに飼われていた。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%AB%E3%83%90%E3%82%AC%E3%83%BC",
-    "appearances": [
-      {
-        "id": "76830614"
-      }
-    ],
-    "organizations": []
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%AB%E3%83%90%E3%82%AC%E3%83%BC"
   },
   {
     "id": "hat377es",
@@ -50759,6 +50852,12 @@
       "grade": "等級不明",
       "origin": "ビッグニンジャ系"
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "76830614"
+      }
+    ],
     "skills": [
       "電磁装甲",
       "転がる"
@@ -50766,13 +50865,7 @@
     "appearance": "ビッグニンジャの巨体。背部を覆う多関節重装甲。",
     "description": "ネオサイタマのビッグニンジャ。\nカタナ社の闇技術で電磁鉄球球体になり転がる。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%91%E3%83%B3%E3%83%A4%E3%83%B3%E3%83%89%E3%83%A9%E3%83%A0",
-    "appearances": [
-      {
-        "id": "76830614"
-      }
-    ],
-    "organizations": []
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%91%E3%83%B3%E3%83%A4%E3%83%B3%E3%83%89%E3%83%A9%E3%83%A0"
   },
   {
     "id": "ngdgd0vn",
@@ -50784,21 +50877,21 @@
       "name": "",
       "grade": "等級不明"
     },
-    "skills": [],
-    "appearance": "黒い巻毛。白い肌。整った容姿。",
-    "description": "カタナ社のアヴァロン・アカデミーで育てられていたニンジャ。",
-    "status": "unknown",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%AD%E3%83%A0%E3%82%A6%E3%82%A7%E3%83%AB%EF%BC%8F%E3%83%90%E3%83%A9%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%EF%BC%8F%E3%83%AD%E3%82%A4%E3%83%89",
+    "organizations": [
+      {
+        "id": "ca1c8175"
+      }
+    ],
     "appearances": [
       {
         "id": "76830614"
       }
     ],
-    "organizations": [
-      {
-        "id": "ca1c8175"
-      }
-    ]
+    "skills": [],
+    "appearance": "黒い巻毛。白い肌。整った容姿。",
+    "description": "カタナ社のアヴァロン・アカデミーで育てられていたニンジャ。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%AD%E3%83%A0%E3%82%A6%E3%82%A7%E3%83%AB%EF%BC%8F%E3%83%90%E3%83%A9%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%EF%BC%8F%E3%83%AD%E3%82%A4%E3%83%89"
   },
   {
     "id": "wtlwe2rw",
@@ -50810,21 +50903,21 @@
       "name": "",
       "grade": "等級不明"
     },
-    "skills": [],
-    "appearance": "美しい褐色の肌。艶やかな唇。帯刀。",
-    "description": "カタナ社のアヴァロン・アカデミーで育てられていたニンジャ。",
-    "status": "unknown",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%AD%E3%83%A0%E3%82%A6%E3%82%A7%E3%83%AB%EF%BC%8F%E3%83%90%E3%83%A9%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%EF%BC%8F%E3%83%AD%E3%82%A4%E3%83%89",
+    "organizations": [
+      {
+        "id": "ca1c8175"
+      }
+    ],
     "appearances": [
       {
         "id": "76830614"
       }
     ],
-    "organizations": [
-      {
-        "id": "ca1c8175"
-      }
-    ]
+    "skills": [],
+    "appearance": "美しい褐色の肌。艶やかな唇。帯刀。",
+    "description": "カタナ社のアヴァロン・アカデミーで育てられていたニンジャ。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%AD%E3%83%A0%E3%82%A6%E3%82%A7%E3%83%AB%EF%BC%8F%E3%83%90%E3%83%A9%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%EF%BC%8F%E3%83%AD%E3%82%A4%E3%83%89"
   },
   {
     "id": "hexumxyu",
@@ -50836,20 +50929,20 @@
       "name": "",
       "grade": "等級不明"
     },
-    "skills": [],
-    "appearance": "栗色の髪。柔らかな眼差し。",
-    "description": "カタナ社のアヴァロン・アカデミーで育てられていたニンジャ。",
-    "status": "unknown",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%AD%E3%83%A0%E3%82%A6%E3%82%A7%E3%83%AB%EF%BC%8F%E3%83%90%E3%83%A9%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%EF%BC%8F%E3%83%AD%E3%82%A4%E3%83%89",
+    "organizations": [
+      {
+        "id": "ca1c8175"
+      }
+    ],
     "appearances": [
       {
         "id": "76830614"
       }
     ],
-    "organizations": [
-      {
-        "id": "ca1c8175"
-      }
-    ]
+    "skills": [],
+    "appearance": "栗色の髪。柔らかな眼差し。",
+    "description": "カタナ社のアヴァロン・アカデミーで育てられていたニンジャ。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%AD%E3%83%A0%E3%82%A6%E3%82%A7%E3%83%AB%EF%BC%8F%E3%83%90%E3%83%A9%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%EF%BC%8F%E3%83%AD%E3%82%A4%E3%83%89"
   }
 ]
