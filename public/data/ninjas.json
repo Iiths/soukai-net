@@ -3580,13 +3580,11 @@
     "name": "タイセン・シトシ",
     "aliases": [],
     "ninjaType": "リアルニンジャ",
-    "skills": [
-      "未熟なドラゴン・カラテ"
+    "organizations": [
+      {
+        "id": "38e6ee73"
+      }
     ],
-    "appearance": "白砂よりもなお白いニュービー装束。\n欠けた歯。頬に十字の傷。",
-    "description": "ドラゴン・ドージョーに入門したニュービーニンジャ。\n真面目な努力家。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%82%A4%E3%82%BB%E3%83%B3%E3%83%BB%E3%82%B7%E3%83%88%E3%82%B7",
     "appearances": [
       {
         "id": "4de384e9"
@@ -3604,11 +3602,13 @@
         "id": "8fffe24e"
       }
     ],
-    "organizations": [
-      {
-        "id": "38e6ee73"
-      }
-    ]
+    "skills": [
+      "未熟なドラゴン・カラテ"
+    ],
+    "appearance": "白砂よりもなお白いニュービー装束。\n欠けた歯。頬に十字の傷。",
+    "description": "ドラゴン・ドージョーに入門したニュービーニンジャ。\n真面目な努力家。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%82%A4%E3%82%BB%E3%83%B3%E3%83%BB%E3%82%B7%E3%83%88%E3%82%B7"
   },
   {
     "id": "1775455946",
@@ -6710,14 +6710,11 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "死者を操る力",
-      "デスヤリナギナタ"
+    "organizations": [
+      {
+        "id": "1b4e98b7"
+      }
     ],
-    "appearance": "半身が骸布に包まれた骸骨。陶器じみて白く美しい面立ち。\n大小様々の複腕。巨大なる白妖蛆の尾。",
-    "description": "ロンドンを死の都に変え支配していたリアルニンジャ。\nニンジャソウル憑依者をも眷属に堕とし軍勢を築いていた。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B1%E3%82%A4%E3%83%A0%E3%82%B7%E3%83%A7",
     "appearances": [
       {
         "id": "ff3c9805"
@@ -6738,11 +6735,14 @@
         "id": "8fffe24e"
       }
     ],
-    "organizations": [
-      {
-        "id": "1b4e98b7"
-      }
-    ]
+    "skills": [
+      "死者を操る力",
+      "デスヤリナギナタ"
+    ],
+    "appearance": "半身が骸布に包まれた骸骨。陶器じみて白く美しい面立ち。\n大小様々の複腕。巨大なる白妖蛆の尾。",
+    "description": "ロンドンを死の都に変え支配していたリアルニンジャ。\nニンジャソウル憑依者をも眷属に堕とし軍勢を築いていた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B1%E3%82%A4%E3%83%A0%E3%82%B7%E3%83%A7"
   },
   {
     "id": "17754559141",
@@ -6756,23 +6756,23 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "1b4e98b7"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "ff3c9805"
+      }
+    ],
     "skills": [
       "コールタール"
     ],
     "appearance": "黒く膨らむ巨体。骨の仮面。",
     "description": "ケイムショの軍勢のニンジャ。\nコールタールめいた黒泥を操る。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%83%E3%82%B7%E3%83%A5%E3%82%AF%E3%83%AD%E3%83%95%E3%83%88",
-    "appearances": [
-      {
-        "id": "ff3c9805"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "1b4e98b7"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%83%E3%82%B7%E3%83%A5%E3%82%AF%E3%83%AD%E3%83%95%E3%83%88"
   },
   {
     "id": "17754559142",
@@ -6786,23 +6786,23 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "1b4e98b7"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "ff3c9805"
+      }
+    ],
     "skills": [
       "軍刀"
     ],
     "appearance": "首から上が大理石の馬頭。腰に軍刀。",
     "description": "ケイムショの軍勢のニンジャ。\n馬頭の異形。軍刀で斬撃を繰り出す。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%9B%E3%83%BC%E3%82%B9",
-    "appearances": [
-      {
-        "id": "ff3c9805"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "1b4e98b7"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%9B%E3%83%BC%E3%82%B9"
   },
   {
     "id": "17754559143",
@@ -6816,23 +6816,23 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "1b4e98b7"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "ff3c9805"
+      }
+    ],
     "skills": [
       "槍斧"
     ],
     "appearance": "鉄の鎧。手に槍斧。騎士めいたニンジャ。",
     "description": "ケイムショの軍勢のニンジャ。\nブライトン駅を警備している。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%86%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC",
-    "appearances": [
-      {
-        "id": "ff3c9805"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "1b4e98b7"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%86%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC"
   },
   {
     "id": "17754559144",
@@ -6846,22 +6846,22 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "濃霧"
+    "organizations": [
+      {
+        "id": "1b4e98b7"
+      }
     ],
-    "description": "ケイムショの軍勢のニンジャ。\n濃霧を生み出していた。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%83%BC%E3%82%BA%E3%83%9E%E3%83%B3",
     "appearances": [
       {
         "id": "ff3c9805"
       }
     ],
-    "organizations": [
-      {
-        "id": "1b4e98b7"
-      }
-    ]
+    "skills": [
+      "濃霧"
+    ],
+    "description": "ケイムショの軍勢のニンジャ。\n濃霧を生み出していた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%83%BC%E3%82%BA%E3%83%9E%E3%83%B3"
   },
   {
     "id": "17754559145",
@@ -6875,6 +6875,16 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "1b4e98b7"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "ff3c9805"
+      }
+    ],
     "skills": [
       "螺旋腕",
       "螺旋足"
@@ -6882,17 +6892,7 @@
     "appearance": "全長50フィートの異形。巨大なラクダめいたシルエット。\n捻れた棒状金属の長い手足。奇怪な石のメンポ。",
     "description": "ケイムショの軍勢のニンジャ。\n巨体ゆえに鈍重だが、その手足の威力は脅威だ。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%93%E3%83%BC%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%AB",
-    "appearances": [
-      {
-        "id": "ff3c9805"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "1b4e98b7"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%93%E3%83%BC%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%AB"
   },
   {
     "id": "17754559146",
@@ -6906,6 +6906,16 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "1b4e98b7"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "ff3c9805"
+      }
+    ],
     "skills": [
       "槍斧",
       "瘴気",
@@ -6914,17 +6924,7 @@
     "appearance": "紫の西洋ニンジャ甲冑。",
     "description": "ケイムショの軍勢の高位パラディン。\n瘴気に呑まれた骸骨を戦列に加え、槍斧で突撃する。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%AA%E3%82%AA%E3%83%88%E3%83%AD%E3%83%BC%E3%83%97",
-    "appearances": [
-      {
-        "id": "ff3c9805"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "1b4e98b7"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%AA%E3%82%AA%E3%83%88%E3%83%AD%E3%83%BC%E3%83%97"
   },
   {
     "id": "17754559147",
@@ -6938,6 +6938,16 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "1b4e98b7"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "ff3c9805"
+      }
+    ],
     "skills": [
       "ネガティブ・カラテ",
       "ケイムショの祝福"
@@ -6945,17 +6955,7 @@
     "appearance": "黒装束。",
     "description": "ケイムショの軍勢のニンジャ。\n数百のズンビーを従えネガティブ・カラテで戦う。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%AB%E3%82%B7%E3%82%A7%E3%83%91%E3%83%BC%E3%83%89",
-    "appearances": [
-      {
-        "id": "ff3c9805"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "1b4e98b7"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%AB%E3%82%B7%E3%82%A7%E3%83%91%E3%83%BC%E3%83%89"
   },
   {
     "id": "17754559148",
@@ -37287,46 +37287,121 @@
   {
     "id": "ee7d1a",
     "name": "シュテルンフェルト",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "lv54xp9o",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "role": "インナーサークル",
+    "appearance": "足首まで伸いた乳色の髪。ガラスめいた目。\n首から下げたプラチナの鎖にハッポースリケンが繋がっている。",
+    "description": "サンズ・オブ・ケオスのベルリン支部導師。サツガイ接触者。\nアンガー・プログラムによってテロを目論んでいた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%A5%E3%83%86%E3%83%AB%E3%83%B3%E3%83%95%E3%82%A7%E3%83%AB%E3%83%88",
+    "appearances": [
+      {
+        "id": "gzrph4m3"
+      }
+    ],
     "organizations": [
       {
         "id": "4f623b6b"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%A5%E3%83%86%E3%83%AB%E3%83%B3%E3%83%95%E3%82%A7%E3%83%AB%E3%83%88"
+    ]
   },
   {
     "id": "8e45e6",
     "name": "アルプ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "elir4v9g",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "description": "サンズ・オブ・ケオスのベルリン支部所属。\nなんらかのジツを使えたようだ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%AB%E3%83%97",
+    "appearances": [
+      {
+        "id": "gzrph4m3"
+      }
+    ],
     "organizations": [
       {
         "id": "4f623b6b"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%AB%E3%83%97"
+    ]
   },
   {
     "id": "5ffa8f",
     "name": "ガセアス",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "57ncsdec",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ドク・ジツ"
+    ],
+    "appearance": "ロープ。",
+    "description": "サンズ・オブ・ケオスのベルリン支部所属。\n足元から紫色の毒霧を放つ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AC%E3%82%BB%E3%82%A2%E3%82%B9",
+    "appearances": [
+      {
+        "id": "gzrph4m3"
+      }
+    ],
     "organizations": [
       {
         "id": "4f623b6b"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AC%E3%82%BB%E3%82%A2%E3%82%B9"
+    ]
   },
   {
     "id": "537a8c",
     "name": "キルシュブリューテ",
+    "aliases": [
+      "RICA"
+    ],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "r8ah4y1x",
+      "name": "",
+      "grade": "等級不明",
+      "clan": ""
+    },
+    "skills": [
+      "鞭",
+      "サクラ・エンハンスメント・ジツ",
+      "サクラ・エンハンス・ミサイル"
+    ],
+    "appearance": "ニンジャ装束。メンポ。桜色の目。若い女性。",
+    "description": "サンズ・オブ・ケオスのベルリン支部所属。\nサクラのジツをエンハンスした鞭を獲物とする。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AD%E3%83%AB%E3%82%B7%E3%83%A5%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%86",
+    "appearances": [
+      {
+        "id": "gzrph4m3"
+      }
+    ],
     "organizations": [
       {
         "id": "4f623b6b"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AD%E3%83%AB%E3%82%B7%E3%83%A5%E3%83%96%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%86"
+    ]
   },
   {
     "id": "81b108",
@@ -37378,24 +37453,62 @@
   {
     "id": "b372e8",
     "name": "シェルピアサー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "7sd7f64t",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "レイピア"
+    ],
+    "description": "サンズ・オブ・ケオスのベルリン支部所属。\nレイピアが獲物。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%82%A7%E3%83%AB%E3%83%94%E3%82%A2%E3%82%B5%E3%83%BC",
+    "appearances": [
+      {
+        "id": "gzrph4m3"
+      }
+    ],
     "organizations": [
       {
         "id": "4f623b6b"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%82%A7%E3%83%AB%E3%83%94%E3%82%A2%E3%82%B5%E3%83%BC"
+    ]
   },
   {
     "id": "cf208f",
     "name": "シュトレンヴルム",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "uedlgds3",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ヘンゲ",
+      "爪"
+    ],
+    "appearance": "ペストマスクメンポ。ヘンゲで幽鬼めいた長身姿に変わる。",
+    "description": "サンズ・オブ・ケオスのベルリン支部所属。\nなんらかのヘンゲで幽鬼じみた姿を取る。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%A5%E3%83%88%E3%83%AC%E3%83%B3%E3%83%B4%E3%83%AB%E3%83%A0",
+    "appearances": [
+      {
+        "id": "gzrph4m3"
+      }
+    ],
     "organizations": [
       {
         "id": "4f623b6b"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%A5%E3%83%88%E3%83%AC%E3%83%B3%E3%83%B4%E3%83%AB%E3%83%A0"
+    ]
   },
   {
     "id": "9cdada",
@@ -37411,13 +37524,33 @@
   {
     "id": "dbbb41",
     "name": "テクノマンサー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "vbb9lpgj",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "腕力",
+      "ハッカー"
+    ],
+    "appearance": "大柄。テック装束。身体の節々に増設されたLANソケット。\nディジタル幾何学模様が遷移するUNIXモニタつきフルメンポ。",
+    "description": "サンズ・オブ・ケオスのベルリン支部所属。\n肉弾戦に優れるほか、ハッカー適性も高い模様。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%9E%E3%83%B3%E3%82%B5%E3%83%BC",
+    "appearances": [
+      {
+        "id": "gzrph4m3"
+      }
+    ],
     "organizations": [
       {
         "id": "4f623b6b"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%9E%E3%83%B3%E3%82%B5%E3%83%BC"
+    ]
   },
   {
     "id": "5d25ad",
@@ -43213,6 +43346,12 @@
       "clan": "ヒスイ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "b6722efc"
+      }
+    ],
     "skills": [
       "翡翠剣",
       "翡翠ガス"
@@ -43220,13 +43359,7 @@
     "appearance": "輝く緑色の霧の姿を取っていた。",
     "description": "ドラゴン・マウンテンの霊廟にて蘇生したリアルニンジャ。\n輝く翡翠剣を獲物とする。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%92%E3%82%B9%E3%82%A4%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
-    "appearances": [
-      {
-        "id": "b6722efc"
-      }
-    ],
-    "organizations": []
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%92%E3%82%B9%E3%82%A4%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
   },
   {
     "id": "4123b09e",
@@ -43486,17 +43619,17 @@
       "clan": "ドラゴン・ニンジャクラン",
       "origin": ""
     },
-    "skills": [],
-    "appearance": "朽ちたニンジャ装束。敵意に光る眼。",
-    "description": "ドラゴン・マウンテンの霊廟を守護するリアルニンジャ。\n凄まじいカラテの持ち主。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A8%E3%82%B7%E3%82%B6%E3%83%8D%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
+    "organizations": [],
     "appearances": [
       {
         "id": "b6722efc"
       }
     ],
-    "organizations": []
+    "skills": [],
+    "appearance": "朽ちたニンジャ装束。敵意に光る眼。",
+    "description": "ドラゴン・マウンテンの霊廟を守護するリアルニンジャ。\n凄まじいカラテの持ち主。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A8%E3%82%B7%E3%82%B6%E3%83%8D%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
   },
   {
     "id": "5c943e8e",
@@ -52182,19 +52315,19 @@
       "name": "",
       "grade": "等級不明"
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "ff3c9805"
+      }
+    ],
     "skills": [
       "猫足立ちのカラテ"
     ],
     "appearance": "左腕がなく袖で隠されている。鉄で補強された粗末な杭が打たれた右足。\n後に右足は鉄棒の義足に置換。",
     "description": "ロンドン・アンダーグラウンドのニンジャ。\n豊富な知識で死都をガイドする。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%97%E3%83%AA%E3%82%AC%E3%83%B3",
-    "appearances": [
-      {
-        "id": "ff3c9805"
-      }
-    ],
-    "organizations": []
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%97%E3%83%AA%E3%82%AC%E3%83%B3"
   },
   {
     "id": "tfatwvw9",
@@ -52208,6 +52341,8 @@
       "grade": "グレーター級",
       "clan": "キリク・ニンジャクラン"
     },
+    "organizations": [],
+    "appearances": [],
     "skills": [
       "ボンジャン・カラテ",
       "ディバイン・カラテ・エンハンスメント",
@@ -52218,9 +52353,7 @@
     "appearance": "風変わりな和洋折衷の尼僧装束。尼僧頭巾の下は剃髪。豊満。女性。\n両腕に鋼鉄の鎖。両腿に大型の聖職者拳銃を納めたホルスター。",
     "description": "放浪の尼僧ニンジャ。\n凄まじいボンジャン・カラテの使い手。",
     "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%9E%E3%82%A4%E3%82%BF%E3%83%BC",
-    "appearances": [],
-    "organizations": []
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%9E%E3%82%A4%E3%82%BF%E3%83%BC"
   },
   {
     "id": "h9lwmtkh",
@@ -52232,6 +52365,12 @@
       "name": "",
       "grade": "等級不明"
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "ff3c9805"
+      }
+    ],
     "skills": [
       "マシンピストル",
       "モーターサイクル",
@@ -52240,10 +52379,112 @@
     "appearance": "顔の一部が白骨化している。手首にデバイス。",
     "description": "ロンドン・アンダーグラウンドのニンジャ。\nスプリガンと決別し案内人をしている。",
     "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%83%83%E3%83%89%E3%82%A2%E3%82%A4%E3%82%BA",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%83%83%E3%83%89%E3%82%A2%E3%82%A4%E3%82%BA"
+  },
+  {
+    "id": "kt2un709",
+    "name": "シャークパイア",
+    "aliases": [],
+    "ninjaType": "バイオニンジャ",
+    "ninjaSoul": {
+      "id": "nye2mri5",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "organizations": [
+      {
+        "id": "v4q6j4de"
+      }
+    ],
     "appearances": [
       {
-        "id": "ff3c9805"
+        "id": "b5928632"
+      }
+    ],
+    "skills": [
+      "サメ化"
+    ],
+    "description": "研究員が生み出したバイオニンジャ。\n噛まれた相手をサメにしてしまう。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%A3%E3%83%BC%E3%82%AF%E3%83%91%E3%82%A4%E3%82%A2"
+  },
+  {
+    "id": "pqd26gv0",
+    "name": "ルサールカ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "orn0bf55",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "ハッカー",
+      "オヒガン適性",
+      "亜種ムカエ・ジツ "
+    ],
+    "appearance": "身長174cm。紫のストレートヘア。紫一色の瞳。長い睫毛。女性。",
+    "description": "ベルリンの女ニンジャ。\n召喚する水のオニは周囲を無差別に攻撃する。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AB%E3%82%B5%E3%83%BC%E3%83%AB%E3%82%AB",
+    "appearances": [
+      {
+        "id": "gzrph4m3"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "62e699sx",
+    "name": "タルガルテン",
+    "aliases": [
+      "KOCHIRA"
+    ],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "jhrpigh1",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "リボルバー",
+      "フライクーゲル・ジツ"
+    ],
+    "appearance": "斜めに切り揃えた前髪。鼻持ちならぬ印象。若い男。\nニンジャ装束コート。メンポ。",
+    "description": "サンズ・オブ・ケオスのベルリン支部ニンジャ。\n真鍮のリボルバー拳銃から圧縮カラテを放つ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%83%AB%E3%82%AC%E3%83%AB%E3%83%86%E3%83%B3",
+    "appearances": [
+      {
+        "id": "gzrph4m3"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "4f623b6b"
+      }
+    ]
+  },
+  {
+    "id": "5ji7f368",
+    "name": "ライブラリアン",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "o8clbo20",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "カラテ衝撃波"
+    ],
+    "appearance": "魔術ギルド共通：金色で縁取りされた外套。",
+    "description": "ベルリンの魔術ギルドを治めるニンジャ。\nSoCと敵対している。カラテ衝撃波を放つ。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E3%82%A2%E3%83%B3",
+    "appearances": [
+      {
+        "id": "gzrph4m3"
       }
     ],
     "organizations": []
