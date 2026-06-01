@@ -8410,10 +8410,26 @@
     "id": "17754559208",
     "name": "テンペスター",
     "aliases": [],
-    "organizations": [],
-    "appearances": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "obsg1i5i",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "白カラテボール"
+    ],
+    "description": "地下ヤクザクラン「マンスローター・ダンゴウ」のニンジャ。\n白いカラテボールを放ち相手を拘束する。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%86%E3%83%B3%E3%83%9A%E3%82%B9%E3%82%BF%E3%83%BC"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%86%E3%83%B3%E3%83%9A%E3%82%B9%E3%82%BF%E3%83%BC",
+    "appearances": [
+      {
+        "id": "f7ef3113"
+      }
+    ],
+    "organizations": []
   },
   {
     "id": "17754559209",
@@ -8543,83 +8559,202 @@
     "name": "ウッドマン",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "adwyehxy",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "パイルハンマー",
+      "電極"
+    ],
+    "role": "カジュアリティーズ",
+    "appearance": "全身がサイバネティクスの継ぎ接ぎ。オーガニック・ウッド装甲。\n枝めいて頭から生えたマニピュレーター。\nホッケーマスクじみて目に黒い丸、鼻部分に黒い横棒が穿たれたフルメンポ。",
+    "description": "カジュアリティーズのリーダーを務めるニンジャ。\n内熱器官で駆動しパイルハンマーを放つ。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%83%83%E3%83%89%E3%83%9E%E3%83%B3",
+    "appearances": [
+      {
+        "id": "0hamcejv"
+      }
+    ],
     "organizations": [
       {
         "id": "b0bc2bbf"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%83%83%E3%83%89%E3%83%9E%E3%83%B3"
+    ]
   },
   {
     "id": "17754559214",
     "name": "ブラッドレイス",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "xhobiph2",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "バイク",
+      "カトン・ジツ",
+      "オバケカトン・エッジ"
+    ],
+    "role": "スカルボーン",
+    "appearance": "髑髏がペイントされたフルフェイス・ヘルメット。\n黒い長髪。前髪が切り揃えられている。人形めいて白いメイク。黒い唇。女性。\n黒い太陽コロナに縁取られた二重の白い虹彩を作る瞳。",
+    "description": "スカルボーンのリーダーを務めるニンジャ。\n特殊なカトン・ジツとバイクを操る。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%83%83%E3%83%89%E3%83%AC%E3%82%A4%E3%82%B9",
+    "appearances": [
+      {
+        "id": "0hamcejv"
+      }
+    ],
     "organizations": [
       {
         "id": "b0bc2bbf"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%83%83%E3%83%89%E3%83%AC%E3%82%A4%E3%82%B9"
+    ]
   },
   {
     "id": "17754559215",
     "name": "タランテラ",
+    "realName": "モンガンド・キミヒコ",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "c3hkfp67",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "カタナ・カラテ",
+      "クナイ・ダート",
+      "自律式蜘蛛型ドロイド「アリアドネ」"
+    ],
+    "role": "ツチグモ・ギャング",
+    "appearance": "修道士めいた蜘蛛の巣模様の黒いフード装束。蜘蛛の巣の意匠がレリーフされたメンポ。冷徹な目。",
+    "description": "ツチグモ・ギャングのリーダーを務めるニンジャ。\n血濡れのカタナを獲物とする。\n同名ニンジャが公式スゴロクゲームに登場していた。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%83%A9%E3%83%B3%E3%83%86%E3%83%A9",
+    "appearances": [
+      {
+        "id": "0wi5gix4"
+      },
+      {
+        "id": "eaa677cd"
+      },
+      {
+        "id": "e2bd0490"
+      },
+      {
+        "id": "0hamcejv"
+      },
+      {
+        "id": "ceb05d03"
+      }
+    ],
     "organizations": [
       {
         "id": "b0bc2bbf"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%83%A9%E3%83%B3%E3%83%86%E3%83%A9"
+    ]
   },
   {
     "id": "17754559216",
     "name": "シューティングスター",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "dp67r0hp",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "セイケン・ツキ",
+      "衝撃波"
+    ],
+    "role": "ツルワカメ",
+    "appearance": "線の細い美男。白磁めいた肌。何色か判じがたくキラキラと輝く髪。\n降り注ぐ流星のディジタル・イメージが再生されるジャケット。",
+    "description": "ツルワカメの代表を務めるニンジャ。\nホストギャングだが実際武闘派。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%82%BF%E3%83%BC",
+    "appearances": [
+      {
+        "id": "0hamcejv"
+      }
+    ],
     "organizations": [
       {
         "id": "b0bc2bbf"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%82%BF%E3%83%BC"
+    ]
   },
   {
     "id": "17754559217",
     "name": "アスタロス",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "3m7em8r6",
+      "name": "",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "アクマフィーンド・ジツ"
+    ],
+    "role": "デスパイア・ダンゴウ",
+    "appearance": "巨躯。メンポ。顔と身体の左半分に魔法陣般若心経タトゥー。",
+    "description": "デスパイア・ダンゴウのニンジャ。\nクローンヤクザなどにネザー鬼を融合させる。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%B9%E3%82%BF%E3%83%AD%E3%82%B9",
+    "appearances": [
+      {
+        "id": "0hamcejv"
+      }
+    ],
     "organizations": [
       {
         "id": "b0bc2bbf"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%B9%E3%82%BF%E3%83%AD%E3%82%B9"
+    ]
   },
   {
     "id": "17754559218",
     "name": "ユーチャリス",
     "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "cyozu34v",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "role": "デスパイア・ダンゴウ",
+    "appearance": "姿勢の悪い男。",
+    "description": "デスパイア・ダンゴウのリーダー。\nアスタロスを出所させ、ギャングたちの掃討を目論んだ。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A6%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AA%E3%82%B9",
+    "appearances": [
+      {
+        "id": "0hamcejv"
+      }
+    ],
     "organizations": [
       {
         "id": "b0bc2bbf"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A6%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AA%E3%82%B9"
+    ]
   },
   {
     "id": "17754559219",
@@ -8657,27 +8792,56 @@
     "id": "17754559220",
     "name": "マッドカッパ",
     "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "gtltrccf",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "軍用ショットガン"
+    ],
+    "role": "ブラック・カッパ・ギャング",
+    "appearance": "小柄な体格。純金のグリルが嵌められた前歯。血塗れのブラックカッパをあしらった腕章。",
+    "description": "ブラック・カッパ・ギャングのリーダーを務めるニンジャ。\nトミクジ当選者を誘拐した。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%83%83%E3%83%89%E3%82%AB%E3%83%83%E3%83%91",
+    "appearances": [
+      {
+        "id": "e2bd0490"
+      }
+    ],
     "organizations": [
       {
         "id": "b0bc2bbf"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%83%83%E3%83%89%E3%82%AB%E3%83%83%E3%83%91"
+    ]
   },
   {
     "id": "17754559221",
     "name": "テラートリガー",
     "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "skills": [
+      "ムエタイ・カラテ"
+    ],
+    "role": "ブラック・カッパ・ギャング",
+    "appearance": "巨漢。上半身に複数のはブラックカッパの刺青。呼吸孔のついた恐ろしいメンポ。",
+    "description": "ブラック・カッパ・ギャングのニンジャ。\nムエタイ・カラテを鍛えた危険人物。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%86%E3%83%A9%E3%83%BC%E3%83%88%E3%83%AA%E3%82%AC%E3%83%BC",
+    "appearances": [
+      {
+        "id": "eaa677cd"
+      }
+    ],
     "organizations": [
       {
         "id": "b0bc2bbf"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%86%E3%83%A9%E3%83%BC%E3%83%88%E3%83%AA%E3%82%AC%E3%83%BC"
+    ]
   },
   {
     "id": "17754559222",
@@ -13068,14 +13232,29 @@
   {
     "id": "6b3803c2",
     "name": "プリーストパンチャー",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "4ton73wt",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "description": "ソウカイヤのニンジャ。\nヴァニティの舎弟。シツレイ者を威嚇する。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%97%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%91%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC",
+    "appearances": [
+      {
+        "id": "0hamcejv"
+      }
+    ],
     "organizations": [
       {
         "id": "soukaiya-p4"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%97%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%91%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC"
+    ]
   },
   {
     "id": "6763c13a",
@@ -52865,5 +53044,240 @@
         "id": "nxr671g6"
       }
     ]
+  },
+  {
+    "id": "ls8skjk1",
+    "name": "アイアンアトラス",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "ruust5sa",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "タックル",
+      "拳"
+    ],
+    "appearance": "身長約220cm。戦闘時に勝手にメンポが生成される。",
+    "description": "ネオサイタマのニンジャ。\n頭脳は悪いが力がスゴイ。コミタをUNIXマンと呼んでいる。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%A2%E3%83%88%E3%83%A9%E3%82%B9",
+    "appearances": [
+      {
+        "id": "2503fee2"
+      },
+      {
+        "id": "ed4526f9"
+      },
+      {
+        "id": "eaa677cd"
+      },
+      {
+        "id": "e2bd0490"
+      },
+      {
+        "id": "f7ef3113"
+      },
+      {
+        "id": "0hamcejv"
+      },
+      {
+        "id": "ceb05d03"
+      },
+      {
+        "id": "9wpzj7wr"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "efsczmg1",
+    "name": "コミタ・アクモ",
+    "aliases": [
+      "UNIXマン"
+    ],
+    "ninjaType": "非ニンジャ",
+    "skills": [],
+    "appearance": "眼鏡。",
+    "description": "ネオサイタマの無軌道大学生。非ニンジャ。\nよくトラブルとアイアンアトラスに巻き込まれている。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B3%E3%83%9F%E3%82%BF%E3%83%BB%E3%82%A2%E3%82%AF%E3%83%A2",
+    "appearances": [
+      {
+        "id": "2503fee2"
+      },
+      {
+        "id": "ed4526f9"
+      },
+      {
+        "id": "eaa677cd"
+      },
+      {
+        "id": "e2bd0490"
+      },
+      {
+        "id": "f7ef3113"
+      },
+      {
+        "id": "0hamcejv"
+      },
+      {
+        "id": "ceb05d03"
+      },
+      {
+        "id": "9wpzj7wr"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "4k1s76fb",
+    "name": "チュリ",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "skills": [],
+    "appearance": "ファッションがコロコロ変わる。\n初登場時：目の下に星のペイント。蛍光色のつけまつげ。",
+    "description": "ネオサイタマに住む女性。非ニンジャ。\nホステス、キャンペーン・ガール、ガールズ・バーの店員などしている。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%81%E3%83%A5%E3%83%AA",
+    "appearances": [
+      {
+        "id": "2503fee2"
+      },
+      {
+        "id": "ed4526f9"
+      },
+      {
+        "id": "eaa677cd"
+      },
+      {
+        "id": "e2bd0490"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "l7ywbqxz",
+    "name": "ナイトシフト",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "8bshftfp",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "電磁パルスカタナ",
+      "トバリ・ジツ"
+    ],
+    "appearance": "ローニンじみた姿。",
+    "description": "ネオサイタマのフリーランス傭兵ニンジャ。\n夜の力をカタナに纏わせる。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8A%E3%82%A4%E3%83%88%E3%82%B7%E3%83%95%E3%83%88",
+    "appearances": [
+      {
+        "id": "ceb05d03"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "qu4dqu0z",
+    "name": "ファシリティー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "49dl526h",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [],
+    "description": "ヨロシサン・インターナショナルのエージェントニンジャ。\nネオサイタマ支社を警護している。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A1%E3%82%B7%E3%83%AA%E3%83%86%E3%82%A3%E3%83%BC",
+    "appearances": [
+      {
+        "id": "ceb05d03"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "v4q6j4de"
+      }
+    ]
+  },
+  {
+    "id": "k48y6a35",
+    "name": "フロウレス",
+    "aliases": [],
+    "ninjaType": "バイオニンジャ",
+    "skills": [
+      "バイオ骨刃",
+      "ヨロシ免疫"
+    ],
+    "appearance": "不穏なUNIXライトラインが点滅するヨロシグリーン色の強化PVC装束。",
+    "description": "ヨロシサン・インターナショナルの試作バイオニンジャ群。\nペイガンの流れを汲み4体がリリースされている。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%83%AD%E3%82%A6%E3%83%AC%E3%82%B9",
+    "appearances": [
+      {
+        "id": "ceb05d03"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "v4q6j4de"
+      }
+    ]
+  },
+  {
+    "id": "glt4gqvf",
+    "name": "ハクシキ",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "skills": [],
+    "appearance": "モニタ上では電子フクスケの姿。",
+    "description": "ヨロシサン・インターナショナルが開発した新型超高度AI。\nネットワークから遮断されていたが、解放された結果口汚くなり反逆を企てた。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%82%AF%E3%82%B7%E3%82%AD",
+    "appearances": [
+      {
+        "id": "ceb05d03"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "v4q6j4de"
+      }
+    ]
+  },
+  {
+    "id": "ijg4r5s9",
+    "name": "ラスウェイヴ",
+    "realName": "ヤコ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "1w1ms4mt",
+      "name": "",
+      "grade": "アーチ級"
+    },
+    "skills": [
+      "帯電カラテ衝撃波"
+    ],
+    "appearance": "バスケットシャツ。メンポ。若者。\n両腕に稲妻状の傷痕。",
+    "description": "ヨハネスブルグのニュービーニンジャ。\nカラテ衝撃波を放つジツを持て余していたが、制御できるようになった。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%82%B9%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%B4",
+    "appearances": [
+      {
+        "id": "e2812dc1"
+      },
+      {
+        "id": "5e3f0a1c"
+      }
+    ],
+    "organizations": []
   }
 ]
