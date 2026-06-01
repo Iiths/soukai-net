@@ -8683,11 +8683,21 @@
     "id": "17754559222",
     "name": "キャラコ",
     "aliases": [],
-    "ninjaType": "ニンジャソウル憑依者",
-    "organizations": [],
-    "appearances": [],
+    "ninjaType": "非ニンジャ",
+    "skills": [],
+    "appearance": "オイランドロイドボディ。サイバーゴス調アイドル・ドレス。\nスピード感のある黒とピンクの編み髪のツインテール。艷やかな黄緑色の唇。お忍び時はフーディーを被る。",
+    "description": "自我を持つネオサイタマのウキヨ。\nアイドル・グループ「ワニコ・レンジャーズ」のセンターを務める。",
     "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%B3"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%B3",
+    "appearances": [
+      {
+        "id": "1f4ce9c9"
+      },
+      {
+        "id": "70d7fbb4"
+      }
+    ],
+    "organizations": []
   },
   {
     "id": "17754559223",
@@ -40638,13 +40648,57 @@
   {
     "id": "5e81c4",
     "name": "ヴァイン",
+    "realName": "ディミトリ・オクダスカヤ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "qjyfrqj9",
+      "name": "クロヤギ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "写し身",
+      "ハヤシ・ジツ",
+      "クロヤギ・ブンシン・ジツ",
+      "ボンサイ・オブ・ハヤシ"
+    ],
+    "appearance": "レイヨウめいて生えた二本の角。茨まみれの茨髑髏じみたフルメンポ。\n不気味な茨が這い赤紫の花々が芽吹くニンジャ装束。\n「オクダスカヤ：あなたの真の友人」と社章が施されたマント。",
+    "description": "オクダスカヤ社創設者の末裔とクロヤギ・ニンジャが融合した姿。\nキーウの地を支配する。アヴァリスに仕えている。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%B4%E3%82%A1%E3%82%A4%E3%83%B3",
+    "appearances": [
+      {
+        "id": "e07b3b1a"
+      },
+      {
+        "id": "89f07b12"
+      },
+      {
+        "id": "76830614"
+      },
+      {
+        "id": "08f154f0"
+      },
+      {
+        "id": "bc845992"
+      },
+      {
+        "id": "7bd07f98"
+      },
+      {
+        "id": "2jvhv6np"
+      }
+    ],
     "organizations": [
       {
         "id": "f0c95ea7"
+      },
+      {
+        "id": "227508fb"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%B4%E3%82%A1%E3%82%A4%E3%83%B3"
+    ]
   },
   {
     "id": "c99973",
@@ -40682,156 +40736,417 @@
   {
     "id": "294939",
     "name": "ウルティカ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "38c6byyi",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": "ビッグニンジャ系"
+    },
+    "skills": [
+      "斧",
+      "山羊角",
+      "蔦の生成"
+    ],
+    "appearance": "ビッグニンジャの巨体。白塗りの鉄面。体中から山羊角が無数に生えている。",
+    "description": "ヴァイン配下の精鋭ニンジャ。\n身体中にひしめく山羊角で身を護るビッグニンジャだ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%83%AB%E3%83%86%E3%82%A3%E3%82%AB",
+    "appearances": [
+      {
+        "id": "2jvhv6np"
+      }
+    ],
     "organizations": [
       {
         "id": "f0c95ea7"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%83%AB%E3%83%86%E3%82%A3%E3%82%AB"
+    ]
   },
   {
     "id": "743726",
     "name": "サカイ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "s6kb9d5b",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "電磁ウィップ",
+      "含み針"
+    ],
+    "appearance": "重サイバネ。山羊めいて横に寝たオーガニックの瞳。女性。",
+    "description": "ヴァイン配下の精鋭ニンジャ。\n電磁ウィップなど複数の武装を持ち、素のカラテも高い。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%82%AB%E3%82%A4",
+    "appearances": [
+      {
+        "id": "2jvhv6np"
+      }
+    ],
     "organizations": [
       {
         "id": "f0c95ea7"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%82%AB%E3%82%A4"
+    ]
   },
   {
     "id": "116c7b",
     "name": "ソーンバロン",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "ec2r7g7m",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ソーンブレイド",
+      "攻性マント"
+    ],
+    "appearance": "フルプレートアーマー。フルメンポ。",
+    "description": "ヴァインの最側近を務める精鋭ニンジャ。\n魔剣ソーンブレイドを自在に操る。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BD%E3%83%BC%E3%83%B3%E3%83%90%E3%83%AD%E3%83%B3",
+    "appearances": [
+      {
+        "id": "2jvhv6np"
+      }
+    ],
     "organizations": [
       {
         "id": "f0c95ea7"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BD%E3%83%BC%E3%83%B3%E3%83%90%E3%83%AD%E3%83%B3"
+    ]
   },
   {
     "id": "a9728c",
     "name": "バードオブプレイ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "rn86n2cy",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ヘンゲヨーカイ・ジツ",
+      "モズ攻撃"
+    ],
+    "appearance": "グリフォンめいた鷲頭と鷲翼。獅子の手足。",
+    "description": "ヴァイン配下の精鋭ニンジャ。\nヘンゲにより翼を持つ怪物となり急降下攻撃する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%83%BC%E3%83%89%E3%82%AA%E3%83%96%E3%83%97%E3%83%AC%E3%82%A4",
+    "appearances": [
+      {
+        "id": "2jvhv6np"
+      }
+    ],
     "organizations": [
       {
         "id": "f0c95ea7"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%83%BC%E3%83%89%E3%82%AA%E3%83%96%E3%83%97%E3%83%AC%E3%82%A4"
+    ]
   },
   {
     "id": "b205db",
     "name": "ファータイル",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "t12mgtda",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "三つの腕関節",
+      "蔦の生成"
+    ],
+    "appearance": "蔦で全身を自縛している。",
+    "description": "ヴァイン配下の精鋭ニンジャ。\n素早いチョップで攻撃し、傷口から蔦を生やして敵を苛む。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A1%E3%83%BC%E3%82%BF%E3%82%A4%E3%83%AB",
+    "appearances": [
+      {
+        "id": "2jvhv6np"
+      }
+    ],
     "organizations": [
       {
         "id": "f0c95ea7"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A1%E3%83%BC%E3%82%BF%E3%82%A4%E3%83%AB"
+    ]
   },
   {
     "id": "ce740f58",
     "name": "ヴェールドフレイム",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "lilr6r4a",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "カースドヴェール・ジツ"
+    ],
+    "description": "ヴァイン配下のニンジャ。\nオヒガンの力を乱すジツを行使する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%B4%E3%82%A7%E3%83%BC%E3%83%AB%E3%83%89%E3%83%95%E3%83%AC%E3%82%A4%E3%83%A0%EF%BC%8F%E3%82%AA%E3%83%BC%E3%83%AD%E3%83%A9%E3%82%A2%E3%82%B5%E3%82%B7%E3%83%B3%EF%BC%8F%E3%82%B7%E3%82%A2%E3%83%BC%E3%83%93%E3%83%BC%E3%83%88",
+    "appearances": [
+      {
+        "id": "2jvhv6np"
+      }
+    ],
     "organizations": [
       {
         "id": "f0c95ea7"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%B4%E3%82%A7%E3%83%BC%E3%83%AB%E3%83%89%E3%83%95%E3%83%AC%E3%82%A4%E3%83%A0%EF%BC%8F%E3%82%AA%E3%83%BC%E3%83%AD%E3%83%A9%E3%82%A2%E3%82%B5%E3%82%B7%E3%83%B3%EF%BC%8F%E3%82%B7%E3%82%A2%E3%83%BC%E3%83%93%E3%83%BC%E3%83%88"
+    ]
   },
   {
     "id": "c14bfbcf",
     "name": "オーロラアサシン",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "7fnmdsug",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "回転斬撃"
+    ],
+    "description": "ヴァイン配下のニンジャ。\n回転斬撃を放つ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%B4%E3%82%A7%E3%83%BC%E3%83%AB%E3%83%89%E3%83%95%E3%83%AC%E3%82%A4%E3%83%A0%EF%BC%8F%E3%82%AA%E3%83%BC%E3%83%AD%E3%83%A9%E3%82%A2%E3%82%B5%E3%82%B7%E3%83%B3%EF%BC%8F%E3%82%B7%E3%82%A2%E3%83%BC%E3%83%93%E3%83%BC%E3%83%88",
+    "appearances": [
+      {
+        "id": "2jvhv6np"
+      }
+    ],
     "organizations": [
       {
         "id": "f0c95ea7"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%B4%E3%82%A7%E3%83%BC%E3%83%AB%E3%83%89%E3%83%95%E3%83%AC%E3%82%A4%E3%83%A0%EF%BC%8F%E3%82%AA%E3%83%BC%E3%83%AD%E3%83%A9%E3%82%A2%E3%82%B5%E3%82%B7%E3%83%B3%EF%BC%8F%E3%82%B7%E3%82%A2%E3%83%BC%E3%83%93%E3%83%BC%E3%83%88"
+    ]
   },
   {
     "id": "8488ea61",
     "name": "シアービート",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "daaejux0",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "鋼鉄の刃"
+    ],
+    "description": "ヴァイン配下のニンジャ。\n両腕を鋼鉄の刃に変えて攻撃する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%B4%E3%82%A7%E3%83%BC%E3%83%AB%E3%83%89%E3%83%95%E3%83%AC%E3%82%A4%E3%83%A0%EF%BC%8F%E3%82%AA%E3%83%BC%E3%83%AD%E3%83%A9%E3%82%A2%E3%82%B5%E3%82%B7%E3%83%B3%EF%BC%8F%E3%82%B7%E3%82%A2%E3%83%BC%E3%83%93%E3%83%BC%E3%83%88",
+    "appearances": [
+      {
+        "id": "2jvhv6np"
+      }
+    ],
     "organizations": [
       {
         "id": "f0c95ea7"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%B4%E3%82%A7%E3%83%BC%E3%83%AB%E3%83%89%E3%83%95%E3%83%AC%E3%82%A4%E3%83%A0%EF%BC%8F%E3%82%AA%E3%83%BC%E3%83%AD%E3%83%A9%E3%82%A2%E3%82%B5%E3%82%B7%E3%83%B3%EF%BC%8F%E3%82%B7%E3%82%A2%E3%83%BC%E3%83%93%E3%83%BC%E3%83%88"
+    ]
   },
   {
     "id": "d92d88",
     "name": "カモロス",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "fd4jozod",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "description": "ヴァイン配下のニンジャ。\nアガートラムの突入を警告した。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%83%A2%E3%83%AD%E3%82%B9",
+    "appearances": [
+      {
+        "id": "2jvhv6np"
+      }
+    ],
     "organizations": [
       {
         "id": "f0c95ea7"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%83%A2%E3%83%AD%E3%82%B9"
+    ]
   },
   {
     "id": "088300",
     "name": "グリムスレッジ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "wa20cgfe",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "指揮",
+      "対ニンジャキャノン"
+    ],
+    "appearance": "重装甲タクティカルニンジャアーマー。赤いマント。サーベルを帯刀。\nエメツ葉巻を挿し込める雄々しいメンポ。",
+    "description": "オクダスカヤ社の古参ニンジャ。\nドローンを通して戦況を俯瞰する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B0%E3%83%AA%E3%83%A0%E3%82%B9%E3%83%AC%E3%83%83%E3%82%B8",
+    "appearances": [
+      {
+        "id": "2jvhv6np"
+      }
+    ],
     "organizations": [
       {
         "id": "f0c95ea7"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B0%E3%83%AA%E3%83%A0%E3%82%B9%E3%83%AC%E3%83%83%E3%82%B8"
+    ]
   },
   {
     "id": "dffd0e28",
     "name": "ブルシュート",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "vruf4wwz",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "description": "ヴァイン配下のニンジャ。\n脱走者と交戦した。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%AB%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%88%EF%BC%8F%E3%82%A2%E3%82%B7%E3%83%83%E3%83%89%E3%83%8F%E3%82%A6%E3%83%B3%E3%83%89",
+    "appearances": [
+      {
+        "id": "2jvhv6np"
+      }
+    ],
     "organizations": [
       {
         "id": "f0c95ea7"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%AB%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%88%EF%BC%8F%E3%82%A2%E3%82%B7%E3%83%83%E3%83%89%E3%83%8F%E3%82%A6%E3%83%B3%E3%83%89"
+    ]
   },
   {
     "id": "a440225e",
     "name": "アシッドハウンド",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "wxh0g440",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "アシッド弾"
+    ],
+    "description": "ヴァイン配下のニンジャ。\nアシッド弾を撃ち込む。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%AB%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%88%EF%BC%8F%E3%82%A2%E3%82%B7%E3%83%83%E3%83%89%E3%83%8F%E3%82%A6%E3%83%B3%E3%83%89",
+    "appearances": [
+      {
+        "id": "2jvhv6np"
+      }
+    ],
     "organizations": [
       {
         "id": "f0c95ea7"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%AB%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%88%EF%BC%8F%E3%82%A2%E3%82%B7%E3%83%83%E3%83%89%E3%83%8F%E3%82%A6%E3%83%B3%E3%83%89"
+    ]
   },
   {
     "id": "c2c50ee6",
     "name": "ネヴェリキーリス",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "hy4iepz1",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "電磁ダガー"
+    ],
+    "description": "ヴァインの配下ニンジャ。\n電磁ダガー二刀流で戦う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8D%E3%83%B4%E3%82%A7%E3%83%AA%E3%82%AD%E3%83%BC%E3%83%AA%E3%82%B9%EF%BC%8F%E3%83%8A%E3%83%AA%E3%83%BC%E3%83%81%E3%83%86%E3%82%A3",
+    "appearances": [
+      {
+        "id": "2jvhv6np"
+      }
+    ],
     "organizations": [
       {
         "id": "f0c95ea7"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8D%E3%83%B4%E3%82%A7%E3%83%AA%E3%82%AD%E3%83%BC%E3%83%AA%E3%82%B9%EF%BC%8F%E3%83%8A%E3%83%AA%E3%83%BC%E3%83%81%E3%83%86%E3%82%A3"
+    ]
   },
   {
     "id": "29f01990",
     "name": "ナリーチティ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "8du48uui",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ダクリウ・ジツ"
+    ],
+    "description": "ヴァイン配下のニンジャ。\nスイトン・ジツの一種で付近の川水から龍を生み出す。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8D%E3%83%B4%E3%82%A7%E3%83%AA%E3%82%AD%E3%83%BC%E3%83%AA%E3%82%B9%EF%BC%8F%E3%83%8A%E3%83%AA%E3%83%BC%E3%83%81%E3%83%86%E3%82%A3",
+    "appearances": [
+      {
+        "id": "2jvhv6np"
+      }
+    ],
     "organizations": [
       {
         "id": "f0c95ea7"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8D%E3%83%B4%E3%82%A7%E3%83%AA%E3%82%AD%E3%83%BC%E3%83%AA%E3%82%B9%EF%BC%8F%E3%83%8A%E3%83%AA%E3%83%BC%E3%83%81%E3%83%86%E3%82%A3"
+    ]
   },
   {
     "id": "0d03dfd5",
@@ -52488,5 +52803,67 @@
       }
     ],
     "organizations": []
+  },
+  {
+    "id": "i752hfb8",
+    "name": "サンドマン",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "6o0fta5c",
+      "name": "ランバ・ニンジャ",
+      "grade": "アーチ級"
+    },
+    "skills": [
+      "ユメウツツ・ジツ",
+      "ヒュプノ・ジツ",
+      "超自然の砂塵"
+    ],
+    "appearance": "砂めいて不定形に流れ続ける超自然の上衣。暗く淀んだ目。",
+    "description": "妖精郷の食客であったニンジャ。\n故郷を奪われた復讐心でザイバツを付け狙う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%B3%E3%83%89%E3%83%9E%E3%83%B3",
+    "appearances": [
+      {
+        "id": "2jvhv6np"
+      },
+      {
+        "id": "6dcsfo7u"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "227508fb"
+      }
+    ]
+  },
+  {
+    "id": "5o93323v",
+    "name": "エレクトラ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "kaacxgl2",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "コッポ・ドー",
+      "ライトニング・エレメンタル・ジツ"
+    ],
+    "appearance": "ミリタリーグリーンのツナギ型ニンジャ装束。ハーネス。マルチ工具ベルト、偏光ゴーグル。女性。",
+    "description": "デルタ・シノビのニンジャ。\n元メカニック整備工。一時的に身体を電光に変えるジツを使う。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%A9",
+    "appearances": [
+      {
+        "id": "2jvhv6np"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "nxr671g6"
+      }
+    ]
   }
 ]
