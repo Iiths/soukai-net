@@ -6500,201 +6500,430 @@
     "name": "総督",
     "aliases": [],
     "ninjaType": "非ニンジャ",
+    "skills": [],
+    "appearance": "両手に白手袋。",
+    "description": "エメツ鉱山都市ハイランドの総督。\nアマクダリ主義者。メガトリイの遺産を狙っている。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E7%B7%8F%E7%9D%A3",
+    "appearances": [
+      {
+        "id": "aac95faa"
+      }
+    ],
     "organizations": [
       {
         "id": "dacd4a06"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E7%B7%8F%E7%9D%A3"
+    ]
   },
   {
     "id": "17754559128",
     "name": "アスクレピオス",
     "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "mo14o2yd",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "鏡面加工スリケン",
+      "治癒"
+    ],
+    "appearance": "眉目秀麗。白く染めた長髪。非人間的な不共感の表情。男性。\n細部に金飾りのついたロイヤルコートの上衣。",
+    "description": "ロイヤルコートのニンジャ。\nヒュギエイアと恋仲で息の合ったイクサをする。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%B9%E3%82%AF%E3%83%AC%E3%83%94%E3%82%AA%E3%82%B9",
+    "appearances": [
+      {
+        "id": "aac95faa"
+      }
+    ],
     "organizations": [
       {
         "id": "dacd4a06"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%B9%E3%82%AF%E3%83%AC%E3%83%94%E3%82%AA%E3%82%B9"
+    ]
   },
   {
     "id": "17754559129",
     "name": "エリダヌス",
     "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "w20a0qry",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "appearance": "長い裾がある白い上衣。",
+    "description": "ロイヤルコートのニンジャ。\n坑道内に潜伏するレジスタンスの制圧任務についていた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%83%AA%E3%83%80%E3%83%8C%E3%82%B9",
+    "appearances": [
+      {
+        "id": "aac95faa"
+      }
+    ],
     "organizations": [
       {
         "id": "dacd4a06"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%83%AA%E3%83%80%E3%83%8C%E3%82%B9"
+    ]
   },
   {
     "id": "17754559130",
     "name": "クラウドバーナー",
     "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "g5yhmfql",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "カトン・ジツ"
+    ],
+    "appearance": "ロイヤルコートの上衣。",
+    "description": "ロイヤルコートのニンジャ。\n両手から火炎放射する。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%83%90%E3%83%BC%E3%83%8A%E3%83%BC",
+    "appearances": [
+      {
+        "id": "aac95faa"
+      }
+    ],
     "organizations": [
       {
         "id": "dacd4a06"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%83%90%E3%83%BC%E3%83%8A%E3%83%BC"
+    ]
   },
   {
     "id": "17754559131",
     "name": "クリプトウォーカー",
     "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "ry5cq0z2",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "シデムシ"
+    ],
+    "appearance": "シデムシの頭部と上半身がサイバネ結合している。フルメンポ。",
+    "description": "ロイヤルコートのニンジャ。\nシデムシと結合し暴動を鎮圧する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AB%E3%83%BC",
+    "appearances": [
+      {
+        "id": "aac95faa"
+      }
+    ],
     "organizations": [
       {
         "id": "dacd4a06"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AB%E3%83%BC"
+    ]
   },
   {
     "id": "17754559132",
     "name": "コールドブラッド",
     "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "sfvtbrbd",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": "コリ・ニンジャ系"
+    },
+    "skills": [
+      "コリ・ジツ"
+    ],
+    "appearance": "メンポ。",
+    "description": "ロイヤルコートのニンジャ。\nジツで相手を氷像に変え、自らの拳で砕く。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%96%E3%83%A9%E3%83%83%E3%83%89",
+    "appearances": [
+      {
+        "id": "aac95faa"
+      }
+    ],
     "organizations": [
       {
         "id": "dacd4a06"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%96%E3%83%A9%E3%83%83%E3%83%89"
+    ]
   },
   {
     "id": "17754559133",
     "name": "スノークーガー",
     "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "yegbvcsn",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "クーガー・スリケン"
+    ],
+    "description": "ロイヤルコートのニンジャ。\nコリ・ジツを纏うスリケンを投擲する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%8E%E3%83%BC%E3%82%AF%E3%83%BC%E3%82%AC%E3%83%BC",
+    "appearances": [
+      {
+        "id": "aac95faa"
+      }
+    ],
     "organizations": [
       {
         "id": "dacd4a06"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%8E%E3%83%BC%E3%82%AF%E3%83%BC%E3%82%AC%E3%83%BC"
+    ]
   },
   {
     "id": "11ca3dcb",
     "name": "ボレアリス",
-    "aliases": [
-      "ゼピュロス"
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "gs47vuhs",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "フージン・ジツ"
+    ],
+    "appearance": "メンポ。",
+    "description": "ロイヤルコートのニンジャ。\nフージンのシャウトと共に竜巻を起こす。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9C%E3%83%AC%E3%82%A2%E3%83%AA%E3%82%B9%EF%BC%8F%E3%82%BC%E3%83%94%E3%83%A5%E3%83%AD%E3%82%B9%EF%BC%8F%E3%83%9A%E3%83%B3%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3",
+    "appearances": [
+      {
+        "id": "aac95faa"
+      }
     ],
     "organizations": [
       {
         "id": "dacd4a06"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9C%E3%83%AC%E3%82%A2%E3%83%AA%E3%82%B9%EF%BC%8F%E3%82%BC%E3%83%94%E3%83%A5%E3%83%AD%E3%82%B9%EF%BC%8F%E3%83%9A%E3%83%B3%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3"
+    ]
   },
   {
     "id": "16d24301",
     "name": "ゼピュロス",
-    "aliases": [
-      "ゼピュロス"
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "rkzy1mm8",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "フージン・ジツ"
+    ],
+    "description": "ロイヤルコートのニンジャ。\n仲間のボレアリスと同じ竜巻のジツの使い手。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9C%E3%83%AC%E3%82%A2%E3%83%AA%E3%82%B9%EF%BC%8F%E3%82%BC%E3%83%94%E3%83%A5%E3%83%AD%E3%82%B9%EF%BC%8F%E3%83%9A%E3%83%B3%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3",
+    "appearances": [
+      {
+        "id": "aac95faa"
+      }
     ],
     "organizations": [
       {
         "id": "dacd4a06"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9C%E3%83%AC%E3%82%A2%E3%83%AA%E3%82%B9%EF%BC%8F%E3%82%BC%E3%83%94%E3%83%A5%E3%83%AD%E3%82%B9%EF%BC%8F%E3%83%9A%E3%83%B3%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3"
+    ]
   },
   {
     "id": "c8ee809a",
     "name": "ペンドラゴン",
-    "aliases": [
-      "ゼピュロス"
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "f6vemf66",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "カトン・ジツ",
+      "カトン・ブレス",
+      "カトンの翼"
+    ],
+    "appearance": "噴射孔つきのメンポ。",
+    "description": "ロイヤルコートのニンジャ。\nメンポの噴射孔からカトンを放つ。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9C%E3%83%AC%E3%82%A2%E3%83%AA%E3%82%B9%EF%BC%8F%E3%82%BC%E3%83%94%E3%83%A5%E3%83%AD%E3%82%B9%EF%BC%8F%E3%83%9A%E3%83%B3%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3",
+    "appearances": [
+      {
+        "id": "aac95faa"
+      }
     ],
     "organizations": [
       {
         "id": "dacd4a06"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9C%E3%83%AC%E3%82%A2%E3%83%AA%E3%82%B9%EF%BC%8F%E3%82%BC%E3%83%94%E3%83%A5%E3%83%AD%E3%82%B9%EF%BC%8F%E3%83%9A%E3%83%B3%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3"
+    ]
   },
   {
     "id": "17754559135",
     "name": "ヒュギエイア",
     "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "4wlfhww2",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "レーザー・クナイ",
+      "治癒"
+    ],
+    "appearance": "陶磁器めいた女性。白く染めた長髪。非人間的な不共感の表情。\n細部には金飾りがあしらわれたロイヤルコート上衣。",
+    "description": "ロイヤルコートのニンジャ。\nアスクレピオスとのタッグで互いを癒し合うことができる。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%92%E3%83%A5%E3%82%AE%E3%82%A8%E3%82%A4%E3%82%A2",
+    "appearances": [
+      {
+        "id": "aac95faa"
+      }
+    ],
     "organizations": [
       {
         "id": "dacd4a06"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%92%E3%83%A5%E3%82%AE%E3%82%A8%E3%82%A4%E3%82%A2"
+    ]
   },
   {
     "id": "17754559136",
     "name": "フォルス",
     "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "headkkja",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "電磁サイ",
+      "スリケン"
+    ],
+    "description": "ロイヤルコートのニンジャ。\n二刀の電磁サイを扱い、スリケンを電磁加速させる奥の手も持つ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A9%E3%83%AB%E3%82%B9",
+    "appearances": [
+      {
+        "id": "aac95faa"
+      }
+    ],
     "organizations": [
       {
         "id": "dacd4a06"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A9%E3%83%AB%E3%82%B9"
+    ]
   },
   {
     "id": "17754559137",
     "name": "フロームンド",
     "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "fnz7h9l2",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ヒカリ・ジツ"
+    ],
+    "appearance": "白い法衣。ジツ発動時に発光する瞳。",
+    "description": "ロイヤルコートの高位ニンジャ。\n数十ものヒカリの剣をジツで操る。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%83%AD%E3%83%BC%E3%83%A0%E3%83%B3%E3%83%89",
+    "appearances": [
+      {
+        "id": "aac95faa"
+      }
+    ],
     "organizations": [
       {
         "id": "dacd4a06"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%83%AD%E3%83%BC%E3%83%A0%E3%83%B3%E3%83%89"
+    ]
   },
   {
     "id": "17754559138",
     "name": "ホワイトロック",
     "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "u92syugv",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "appearance": "モノトーンの上衣。金属のメンポ。虚無的な目。瞳孔が点のように小さい。",
+    "description": "ハイランドの上級治安維持機構ロイヤルコートのニンジャ。\n執行官の役職についていた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%AD%E3%83%83%E3%82%AF",
+    "appearances": [
+      {
+        "id": "aac95faa"
+      }
+    ],
     "organizations": [
       {
         "id": "dacd4a06"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%AD%E3%83%83%E3%82%AF"
+    ]
   },
   {
     "id": "17754559139",
     "name": "タリヤ・カミカ",
     "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "skills": [],
+    "appearance": "首元にハイランダー・コード。女性。",
+    "description": "ハイランドで暮らす女性。\n改心区で診療所を営んでいる。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%83%AA%E3%83%A4%E3%83%BB%E3%82%AB%E3%83%9F%E3%82%AB",
+    "appearances": [
+      {
+        "id": "aac95faa"
+      }
+    ],
     "organizations": [
       {
         "id": "dacd4a06"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%83%AA%E3%83%A4%E3%83%BB%E3%82%AB%E3%83%9F%E3%82%AB"
+    ]
   },
   {
     "id": "17754559140",
@@ -53582,6 +53811,57 @@
     "appearances": [
       {
         "id": "0e784d13"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "0ap8r32e",
+    "name": "カーム",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "1jhrqbmq",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "同期スリケン",
+      "キリモミ・トライアングル・リープ"
+    ],
+    "appearance": "黒い覆面。メンポ。神秘的なエメラルド色に輝く瞳。",
+    "description": "ヘクセンナハト村付近の森で暮らすニンジャ。\n手とスリケンの挙動を同期させることができる。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%83%BC%E3%83%A0",
+    "appearances": [
+      {
+        "id": "0e784d13"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "u5lgp6s7",
+    "name": "ヘクサー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "jq01fbdv",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "カラテ粒子",
+      "エメツ合成ナノ装束",
+      "ナノカラテマシン"
+    ],
+    "appearance": "エメツ合成ナノ装束。フルメンポ。",
+    "description": "サンクタムのニンジャ・エージェント。\nカラテ粒子の矢を放つ。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%82%AF%E3%82%B5%E3%83%BC",
+    "appearances": [
+      {
+        "id": "aac95faa"
       }
     ],
     "organizations": []
