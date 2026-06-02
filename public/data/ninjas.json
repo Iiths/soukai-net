@@ -13368,14 +13368,32 @@
   {
     "id": "a8f11265",
     "name": "ラスティクル",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "e6pvku6p",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "クナイ・ダート",
+      "ヘンゲヨーカイ・ジツ"
+    ],
+    "description": "ソウカイヤのヌケニン。\n硬質の外皮の異形にヘンゲする。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%82%B9%E3%83%86%E3%82%A3%E3%82%AF%E3%83%AB",
+    "appearances": [
+      {
+        "id": "037ef729"
+      }
+    ],
     "organizations": [
       {
         "id": "soukaiya-p4"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%82%B9%E3%83%86%E3%82%A3%E3%82%AF%E3%83%AB"
+    ]
   },
   {
     "id": "42deca10",
@@ -43601,9 +43619,27 @@
       "タマテ・ニンジャ"
     ],
     "ninjaType": "リアルニンジャ",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%83%9E%E3%83%86"
+    "ninjaSoul": {
+      "id": "vcpe1pxv",
+      "name": "タマテ",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "亀の召喚",
+      "毒ガス"
+    ],
+    "appearance": "ヒラメ・ネックレスそのもの。",
+    "description": "カメ・ニンジャクランの騎士。\n首飾りに宿り、タケダ家の子孫に憑依する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%83%9E%E3%83%86",
+    "appearances": [
+      {
+        "id": "61943e5e"
+      }
+    ],
+    "organizations": []
   },
   {
     "id": "8d69a2ab",
@@ -53420,6 +53456,132 @@
     "appearances": [
       {
         "id": "e2812dc1"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "gecfmr1t",
+    "name": "ルミノセイバー",
+    "realName": "ジャタリキ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "0fvp5maa",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "光るカタナ"
+    ],
+    "appearance": "ニンジャ頭巾。",
+    "description": "ネオサイタマのチンピラ。\n光るカタナが獲物。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AB%E3%83%9F%E3%83%8E%E3%82%BB%E3%82%A4%E3%83%90%E3%83%BC",
+    "appearances": [
+      {
+        "id": "d7046493"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "mqcq32e5",
+    "name": "ジェドマロース",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "rgf7txmv",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "コリ・ニンジャクラン"
+    },
+    "skills": [
+      "コリ・ジツ"
+    ],
+    "appearance": "霜を思わせる白い斑のロングコート。",
+    "description": "ネオサイタマのアサシンニンジャ。\n強力なコリ・ジツの使い手。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B8%E3%82%A7%E3%83%89%E3%83%9E%E3%83%AD%E3%83%BC%E3%82%B9",
+    "appearances": [
+      {
+        "id": "0882aca0"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "kj64rdaa",
+    "name": "ブラックウインド",
+    "realName": "ゾンゴ・ナフダ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "yogbnyf1",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "クィリン神獣包丁",
+      "聖獣包丁"
+    ],
+    "appearance": "若いイタマエ。白い髪。厳しい眼差し。黒い鋼のメンポ。",
+    "description": "暗黒イタマエニンジャ。\nスシ・マシンめいた精度と執念でスシを握る。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%A6%E3%82%A4%E3%83%B3%E3%83%89",
+    "appearances": [
+      {
+        "id": "fcb27c94"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "h089xxx7",
+    "name": "ダガースロウ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "aiwnfzym",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "クナイ・ダート",
+      "投げナイフ"
+    ],
+    "appearance": "鎖。拘束具。赤褐色の上半身。マント。",
+    "description": "ウィッチファインダーに従う奴隷ニンジャ。\n投げ武器の使い手。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%80%E3%82%AC%E3%83%BC%E3%82%B9%E3%83%AD%E3%82%A6%EF%BC%8F%E3%82%AB%E3%83%AB%E3%83%8A%E3%83%B4%E3%82%A1%E3%83%AB",
+    "appearances": [
+      {
+        "id": "0e784d13"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "ly3tg4zf",
+    "name": "カルナヴァル",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "dml686jw",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "鎖",
+      "スリケン"
+    ],
+    "appearance": "鎖。拘束具。黒づくめの服装。女性。",
+    "description": "ウィッチファインダーに従う奴隷ニンジャ。\n燃え盛る鎖で攻撃する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%80%E3%82%AC%E3%83%BC%E3%82%B9%E3%83%AD%E3%82%A6%EF%BC%8F%E3%82%AB%E3%83%AB%E3%83%8A%E3%83%B4%E3%82%A1%E3%83%AB",
+    "appearances": [
+      {
+        "id": "0e784d13"
       }
     ],
     "organizations": []
