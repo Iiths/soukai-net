@@ -40667,13 +40667,38 @@
   {
     "id": "fb6e37",
     "name": "クリミナトゥス",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "yeg55xag",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "古代ローマカラテ",
+      "インペリアル・オトシ",
+      "スピニング・チャリオット・ケリ"
+    ],
+    "role": "デウス・エクス・クリミナ",
+    "appearance": "ローマ皇帝彫像を想起させる白いフルメンポ。赤いマント。\n逞しい両腕。左手中指にハンザイ・コンスピラシーの指輪。",
+    "description": "ローマを拠点とするハンザイ組織デウス・エクス・クリミナを束ねるニンジャ。\n古代ローマカラテの使い手。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%AA%E3%83%9F%E3%83%8A%E3%83%88%E3%82%A5%E3%82%B9",
+    "appearances": [
+      {
+        "id": "rnyclxp8"
+      },
+      {
+        "id": "c76aee87"
+      }
+    ],
     "organizations": [
       {
         "id": "728df8e9"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%AA%E3%83%9F%E3%83%8A%E3%83%88%E3%82%A5%E3%82%B9"
+    ]
   },
   {
     "id": "bf0964",
@@ -42260,12 +42285,25 @@
   {
     "id": "b99d0507",
     "name": "アイスダンス",
-    "organizations": [],
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "1qeyzomv",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "コリ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [],
+    "appearance": "目鼻を覆うマスクメンポ。冷気の装束。しなやかな身体。",
+    "description": "ネオサイタマの犯罪者ニンジャ。\nコリ・ニンジャクランの憑依者。",
+    "status": "alive",
     "appearances": [
       {
         "id": "8fffe24e"
       }
-    ]
+    ],
+    "organizations": []
   },
   {
     "id": "097c4098",
@@ -42420,12 +42458,24 @@
   {
     "id": "96f9e13b",
     "name": "ウインターヘロン",
-    "organizations": [],
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "ftsl0z3b",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "コリ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [],
+    "description": "ネオサイタマの犯罪者ニンジャ。\nコリ・ニンジャクランの憑依者。",
+    "status": "alive",
     "appearances": [
       {
         "id": "8fffe24e"
       }
-    ]
+    ],
+    "organizations": []
   },
   {
     "id": "ae02a6f3",
@@ -42517,23 +42567,23 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "ca1c8175"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ],
     "skills": [
       "カトン・ジツ"
     ],
     "role": "ロイヤルニンジャ",
     "appearance": "反抗的チェック模様のボンデージパンツ。黒いタキシード。逞しい肉体。初老の紳士。",
     "description": "カタナ社が誇る7人のロイヤルニンジャの一人。\nカトン・ジツの使い手。",
-    "status": "alive",
-    "appearances": [
-      {
-        "id": "8fffe24e"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "ca1c8175"
-      }
-    ]
+    "status": "alive"
   },
   {
     "id": "c79661af",
@@ -42683,20 +42733,20 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "appearance": "偉丈夫。老師。血のように赤い瞳。床につくほどの長い白髭。",
-    "description": "新興の暗殺ニンジャ集団「ヘイ・ジウ」の長。",
-    "status": "alive",
+    "organizations": [
+      {
+        "id": "76eb5bb8"
+      }
+    ],
     "appearances": [
       {
         "id": "8fffe24e"
       }
     ],
-    "organizations": [
-      {
-        "id": "76eb5bb8"
-      }
-    ]
+    "skills": [],
+    "appearance": "偉丈夫。老師。血のように赤い瞳。床につくほどの長い白髭。",
+    "description": "新興の暗殺ニンジャ集団「ヘイ・ジウ」の長。",
+    "status": "alive"
   },
   {
     "id": "17020f5f",
@@ -42734,6 +42784,16 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "ca1c8175"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ],
     "skills": [
       "小型エメツ・エンジン",
       "ネオン・プラズマ・サーベル",
@@ -42742,37 +42802,59 @@
     "role": "ロイヤルニンジャ",
     "appearance": "英国近衛兵の黄金兜を模したミラーシールド・ヘルメンポ。\n赤い装飾コート。機械式サイバネのクロームメタル・ボディ。",
     "description": "カタナ社が誇る7人のロイヤルニンジャの一人。\n小型エメツ・エンジンの心臓を持ち、精密無比なるプラズマ・サーベルで社敵を突き刺す。",
+    "status": "alive"
+  },
+  {
+    "id": "7d86ae97",
+    "name": "コールドホロウ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "pbav1m0m",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "コリ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "コリ・ジツ"
+    ],
+    "description": "ネオサイタマの犯罪者ニンジャ。\nコリ・ジツを使って無軌道破壊を行っていた。",
     "status": "alive",
     "appearances": [
       {
         "id": "8fffe24e"
       }
     ],
-    "organizations": [
-      {
-        "id": "ca1c8175"
-      }
-    ]
-  },
-  {
-    "id": "7d86ae97",
-    "name": "コールドホロウ",
-    "organizations": [],
-    "appearances": [
-      {
-        "id": "8fffe24e"
-      }
-    ]
+    "organizations": []
   },
   {
     "id": "8b6842d2",
     "name": "ゴールドラッシュ",
-    "organizations": [],
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "0tpv1bqs",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "セトク・ジツ"
+    ],
+    "appearance": "たるんだ腹。アロハシャツ。テキサスレンジャーめいた帽子。サングラス。",
+    "description": "オキナワに快楽水上都市を作ろうとした経済ニンジャ。\n突如リヴァイアサンに襲撃され、何らかの交渉を行った。",
+    "status": "alive",
     "appearances": [
       {
         "id": "8fffe24e"
+      },
+      {
+        "id": "s4cltp8w"
       }
-    ]
+    ],
+    "organizations": []
   },
   {
     "id": "89ccc9ab",
@@ -42842,37 +42924,37 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "description": "ゾウラン・ダイ・カイのニンジャ。",
-    "status": "alive",
+    "organizations": [
+      {
+        "id": "d3e96eb7"
+      }
+    ],
     "appearances": [
       {
         "id": "8fffe24e"
       }
     ],
-    "organizations": [
-      {
-        "id": "d3e96eb7"
-      }
-    ]
+    "skills": [],
+    "description": "ゾウラン・ダイ・カイのニンジャ。",
+    "status": "alive"
   },
   {
     "id": "54350234",
     "name": "ジンクス",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "skills": [
-      "ヘンゲヨーカイ・ジツ"
-    ],
-    "appearance": "狐めいた耳。カタナのように鋭い目つき。亜麻色の髪。毛先にネオンカラー。女性。",
-    "description": "ケモノパンクス勢力「ルツボス」のニンジャ。\nジツの影響で獣化している。",
-    "status": "alive",
+    "organizations": [],
     "appearances": [
       {
         "id": "8fffe24e"
       }
     ],
-    "organizations": []
+    "skills": [
+      "ヘンゲヨーカイ・ジツ"
+    ],
+    "appearance": "狐めいた耳。カタナのように鋭い目つき。亜麻色の髪。毛先にネオンカラー。女性。",
+    "description": "ケモノパンクス勢力「ルツボス」のニンジャ。\nジツの影響で獣化している。",
+    "status": "alive"
   },
   {
     "id": "b7603675",
@@ -42922,18 +43004,18 @@
       "clan": "コリ・ニンジャクラン",
       "origin": ""
     },
-    "skills": [
-      "コリ・ブラスト・ジツ"
-    ],
-    "appearance": "白いDIYニンジャアーマー。宇宙飛行士めいたドーム状のクリスタルフルメンポ。",
-    "description": "ネオサイタマの犯罪者ニンジャ。\nコリ・ブラスト・ジツの使い手。",
-    "status": "alive",
+    "organizations": [],
     "appearances": [
       {
         "id": "8fffe24e"
       }
     ],
-    "organizations": []
+    "skills": [
+      "コリ・ブラスト・ジツ"
+    ],
+    "appearance": "白いDIYニンジャアーマー。宇宙飛行士めいたドーム状のクリスタルフルメンポ。",
+    "description": "ネオサイタマの犯罪者ニンジャ。\nコリ・ブラスト・ジツの使い手。",
+    "status": "alive"
   },
   {
     "id": "f21a95e4",
@@ -43098,12 +43180,24 @@
   {
     "id": "54e719dd",
     "name": "タッツェベルム",
-    "organizations": [],
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "iy5fla9f",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "description": "ネオサイタマの犯罪者ニンジャ。\nコリ戦士たちと行動している。",
+    "status": "alive",
     "appearances": [
       {
         "id": "8fffe24e"
       }
-    ]
+    ],
+    "organizations": []
   },
   {
     "id": "1198bb46",
@@ -43349,12 +43443,24 @@
   {
     "id": "ce0b6a75",
     "name": "ファビウス",
-    "organizations": [],
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "18e6qvut",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "description": "コンテナを護衛していたニンジャ。\nデウス・エクス・クリミナと関係があった。",
+    "status": "dead",
     "appearances": [
       {
         "id": "8fffe24e"
       }
-    ]
+    ],
+    "organizations": []
   },
   {
     "id": "552d35d7",
@@ -43474,20 +43580,20 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "appearance": "スキンヘッド。不気味な刺青。青白い肌の女性。",
-    "description": "ヘイ・ジウのニンジャ。ゼツボウの副官。",
-    "status": "alive",
+    "organizations": [
+      {
+        "id": "76eb5bb8"
+      }
+    ],
     "appearances": [
       {
         "id": "8fffe24e"
       }
     ],
-    "organizations": [
-      {
-        "id": "76eb5bb8"
-      }
-    ]
+    "skills": [],
+    "appearance": "スキンヘッド。不気味な刺青。青白い肌の女性。",
+    "description": "ヘイ・ジウのニンジャ。ゼツボウの副官。",
+    "status": "alive"
   },
   {
     "id": "55b30116",
@@ -43662,19 +43768,19 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "description": "ゾウラン・ダイ・カイのニンジャ。",
-    "status": "alive",
+    "organizations": [
+      {
+        "id": "d3e96eb7"
+      }
+    ],
     "appearances": [
       {
         "id": "8fffe24e"
       }
     ],
-    "organizations": [
-      {
-        "id": "d3e96eb7"
-      }
-    ]
+    "skills": [],
+    "description": "ゾウラン・ダイ・カイのニンジャ。",
+    "status": "alive"
   },
   {
     "id": "8f3e43c4",
@@ -43705,16 +43811,6 @@
   {
     "id": "72e10e0f",
     "name": "ミストアイル",
-    "organizations": [],
-    "appearances": [
-      {
-        "id": "8fffe24e"
-      }
-    ]
-  },
-  {
-    "id": "03c0b2d2",
-    "name": "ミューティレイト",
     "organizations": [],
     "appearances": [
       {
@@ -43756,16 +43852,16 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "appearance": "肩まで届く美しい白髪と長い睫毛。形良いマズル。男オイランを擬人化したようなキモノ。巨大なカタナ。キセル。",
-    "description": "ケモノパンクス勢力「ルツボス」のニンジャ。\nケモノパンクスがニンジャ化していた。",
-    "status": "alive",
+    "organizations": [],
     "appearances": [
       {
         "id": "8fffe24e"
       }
     ],
-    "organizations": []
+    "skills": [],
+    "appearance": "肩まで届く美しい白髪と長い睫毛。形良いマズル。男オイランを擬人化したようなキモノ。巨大なカタナ。キセル。",
+    "description": "ケモノパンクス勢力「ルツボス」のニンジャ。\nケモノパンクスがニンジャ化していた。",
+    "status": "alive"
   },
   {
     "id": "1e2e52e7",
@@ -43804,16 +43900,16 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "appearance": "身体にできた斑点が繋がり生じるニンジャ装束。",
-    "description": "ネオサイタマのニンジャ。\n調合した霊薬を使ってドラッグパーティを繰り返していた。",
-    "status": "dead",
+    "organizations": [],
     "appearances": [
       {
         "id": "8fffe24e"
       }
     ],
-    "organizations": []
+    "skills": [],
+    "appearance": "身体にできた斑点が繋がり生じるニンジャ装束。",
+    "description": "ネオサイタマのニンジャ。\n調合した霊薬を使ってドラッグパーティを繰り返していた。",
+    "status": "dead"
   },
   {
     "id": "4633b10f",
@@ -43903,12 +43999,31 @@
   {
     "id": "9a36c3a8",
     "name": "リヴァイアサン",
-    "organizations": [],
+    "aliases": [],
+    "ninjaType": "リアルニンジャ",
+    "ninjaSoul": {
+      "id": "27xt9ax5",
+      "name": "",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "三又の大槍",
+      "バイオシロナガスクジラ"
+    ],
+    "appearance": "フジツボや海藻に覆われた不気味なマント。白い骨の冠。\nグレーがかった薄水色の肌。赤く輝く目。三叉の大槍。",
+    "description": "オキナワ水没都市から目覚めたリアルニンジャ。\nバイオシロナガスクジラを乗騎とする。",
+    "status": "alive",
     "appearances": [
       {
         "id": "8fffe24e"
+      },
+      {
+        "id": "s4cltp8w"
       }
-    ]
+    ],
+    "organizations": []
   },
   {
     "id": "18acae1d",
@@ -55071,10 +55186,11 @@
     "name": "ロベール・ムラカミ",
     "aliases": [],
     "ninjaType": "非ニンジャ",
-    "skills": [],
-    "appearance": "上等な茶色いウールスーツ。上品なハット。肩眼鏡型の望遠サイバネ・アイ。灰色の髭。初老の男。\n右腕が銀色のサイバネティクス。",
-    "description": "国際探偵の男。\nアルプス山脈でフジキドと出会っていた。",
-    "status": "dead",
+    "organizations": [
+      {
+        "id": "4f04u1l8"
+      }
+    ],
     "appearances": [
       {
         "id": "8fffe24e"
@@ -55083,10 +55199,9 @@
         "id": "61d6dd48"
       }
     ],
-    "organizations": [
-      {
-        "id": "4f04u1l8"
-      }
-    ]
+    "skills": [],
+    "appearance": "上等な茶色いウールスーツ。上品なハット。肩眼鏡型の望遠サイバネ・アイ。灰色の髭。初老の男。\n右腕が銀色のサイバネティクス。",
+    "description": "国際探偵の男。\nアルプス山脈でフジキドと出会っていた。",
+    "status": "dead"
   }
 ]
