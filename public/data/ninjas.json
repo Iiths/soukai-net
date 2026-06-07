@@ -42321,12 +42321,25 @@
   {
     "id": "097c4098",
     "name": "アオイ",
-    "organizations": [],
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "pozdy8el",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "appearance": "青く染めた坊主頭。",
+    "description": "ネオサイタマのニンジャ。\nダイダイ・スターフィンガーの娘を自称する。",
+    "status": "alive",
     "appearances": [
       {
         "id": "8fffe24e"
       }
-    ]
+    ],
+    "organizations": []
   },
   {
     "id": "b91873e0",
@@ -42796,12 +42809,25 @@
   {
     "id": "5c2e157a",
     "name": "グスタフ",
-    "organizations": [],
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "1hlcllmg",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "appearance": "身長200㎝近く。筋骨隆々の身体。青い眼。",
+    "description": "LA郊外に住んでいる男。\n膝を痛めていたがニンジャ化で克服した。",
+    "status": "alive",
     "appearances": [
       {
         "id": "8fffe24e"
       }
-    ]
+    ],
+    "organizations": []
   },
   {
     "id": "274389b8",
@@ -42943,12 +42969,25 @@
   {
     "id": "89ccc9ab",
     "name": "ゴブリントード",
-    "organizations": [],
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "pc4gj79c",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "appearance": "小柄な体格。戦闘中にパンプアップする。",
+    "description": "ヤクザ事業家のニンジャ。\nダイダイを痛めつけていた。",
+    "status": "alive",
     "appearances": [
       {
         "id": "8fffe24e"
       }
-    ]
+    ],
+    "organizations": []
   },
   {
     "id": "16c627ed",
@@ -43043,10 +43082,27 @@
   {
     "id": "b7603675",
     "name": "ジンⅡ",
-    "organizations": [],
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "zbow94gs",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": "ビッグニンジャ系"
+    },
+    "skills": [],
+    "appearance": "変形機能つきのオニ型マスクメンポ。",
+    "description": "アダナス社のニンジャ。\nイータの個人秘書を務めていた。",
+    "status": "alive",
     "appearances": [
       {
         "id": "8fffe24e"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "463e3a45"
       }
     ]
   },
@@ -43228,12 +43284,19 @@
   {
     "id": "77f29d0a",
     "name": "ダートウォーク",
-    "organizations": [],
+    "realName": "バシシ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "skills": [],
+    "appearance": "PVC環境迷彩ブルゾン姿。",
+    "description": "ネオサイタマのニンジャ。\nゾウラン・ダイ・カイへの復讐のためソウカイヤの名を利用した。",
+    "status": "dead",
     "appearances": [
       {
         "id": "8fffe24e"
       }
-    ]
+    ],
+    "organizations": []
   },
   {
     "id": "38e4e50b",
@@ -43310,10 +43373,26 @@
   {
     "id": "2f4c4a56",
     "name": "ディープサイト",
-    "organizations": [],
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "2evp8z5t",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "description": "ゾウラン・ダイ・カイのニンジャ。\nガーランドとヴァニティを襲撃した。",
+    "status": "unknown",
     "appearances": [
       {
         "id": "8fffe24e"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "d3e96eb7"
       }
     ]
   },
@@ -43370,22 +43449,25 @@
   {
     "id": "939b1a8e",
     "name": "デスシャドウ",
-    "organizations": [],
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "fh6mxt8v",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "appearance": "胸元に『死影』と刺繍された黒装束。紫色の目。",
+    "description": "ネオサイタマのアサシンニンジャ。",
+    "status": "unknown",
     "appearances": [
       {
         "id": "8fffe24e"
       }
-    ]
-  },
-  {
-    "id": "728c79f0",
-    "name": "デミホムンクルスニンジャ",
-    "organizations": [],
-    "appearances": [
-      {
-        "id": "8fffe24e"
-      }
-    ]
+    ],
+    "organizations": []
   },
   {
     "id": "a0208dde",
@@ -44245,12 +44327,17 @@
   {
     "id": "f7f680c1",
     "name": "ドクターギルガ",
-    "organizations": [],
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "skills": [],
+    "description": "サイサムラINCのCEO。サイサムライの実子。\nアサト・オムラとウグイスに協力する。",
+    "status": "alive",
     "appearances": [
       {
         "id": "8fffe24e"
       }
-    ]
+    ],
+    "organizations": []
   },
   {
     "id": "a9416fc0",
