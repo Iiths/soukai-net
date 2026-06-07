@@ -13528,7 +13528,15 @@
   {
     "id": "c1328ecd",
     "name": "クレイマン",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "3eugjngj",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p4"
@@ -13538,7 +13546,13 @@
       {
         "id": "8fffe24e"
       }
-    ]
+    ],
+    "skills": [
+      "特殊ムテキ・アティチュード"
+    ],
+    "appearance": "細身の黒スーツ。清楚な顔立ち。手の指が1本ない。首筋にクロスカタナの刺青。",
+    "description": "ソウカイヤのニンジャ。\n身体を白い土塊に変えるムテキの使い手。",
+    "status": "alive"
   },
   {
     "id": "ff682599",
@@ -13565,7 +13579,15 @@
   {
     "id": "d418460a",
     "name": "デスペレイト",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "rtd6m2kt",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p4"
@@ -13575,7 +13597,15 @@
       {
         "id": "8fffe24e"
       }
-    ]
+    ],
+    "skills": [
+      "金属バット",
+      "カラテ・エンハンスメント",
+      "ニンジャソウル感知能力"
+    ],
+    "appearance": "髑髏柄の黒いボウリングシャツ。",
+    "description": "ソウカイヤのニンジャ。\n金属バットにカラテ・エンハンスして戦う。クレイマンとよく組んでいる。",
+    "status": "alive"
   },
   {
     "id": "6b3803c2",
@@ -13739,7 +13769,15 @@
   {
     "id": "148d18d5",
     "name": "ロミオ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "pw32yxid",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "soukaiya-p4"
@@ -13749,7 +13787,13 @@
       {
         "id": "8fffe24e"
       }
-    ]
+    ],
+    "skills": [
+      "ネンリキ・ジツ"
+    ],
+    "appearance": "オーバーサイズの黒いパーカー。黒いメンポ。",
+    "description": "ソウカイヤのニンジャ。\nストリート時代に非合法電子野球でネンリキを使って不正を働いていた。",
+    "status": "alive"
   },
   {
     "id": "ae842727",
@@ -20519,7 +20563,15 @@
   {
     "id": "29dfd871",
     "name": "ジョングルール",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "vy3yfmef",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [
       {
         "id": "zaibatsu-p3p4"
@@ -20529,7 +20581,12 @@
       {
         "id": "8fffe24e"
       }
-    ]
+    ],
+    "skills": [],
+    "role": "アデプト位階",
+    "appearance": "暗黒力士めいた装束。孔だらけの鋼鉄フルメンポ。",
+    "description": "新生ザイバツのニンジャ。\n新年会でオハヤシ・チャントを行った。",
+    "status": "alive"
   },
   {
     "id": "02dc0a38",
@@ -37673,14 +37730,14 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "ネオンジュッテ",
-      "スタン・ボー"
+    "organizations": [
+      {
+        "id": "d3e96eb7"
+      },
+      {
+        "id": "4f623b6b"
+      }
     ],
-    "appearance": "スレイト：蛍光色の長い舌。顔面にネオン・ピアス。「快」の字のネオン・タトゥー。\nスティル・ワールド：襤褸。宝石やリベットを打ち込んだホッケーマスク。全身にジャンク・ネオンパーツ。",
-    "description": "ゾウラン・ダイ・カイの舎弟、後にサンズ・オブ・ケオスの信奉者となったニンジャ。\nやたらと台詞が長い。スタン・ボーなどを獲物とする。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8D%E3%82%AA%E3%83%B3%E3%82%B4%E3%83%96%E3%83%AA%E3%83%B3",
     "appearances": [
       {
         "id": "8fffe24e"
@@ -37689,14 +37746,14 @@
         "id": "362fa849"
       }
     ],
-    "organizations": [
-      {
-        "id": "d3e96eb7"
-      },
-      {
-        "id": "4f623b6b"
-      }
-    ]
+    "skills": [
+      "ネオンジュッテ",
+      "スタン・ボー"
+    ],
+    "appearance": "スレイト：蛍光色の長い舌。顔面にネオン・ピアス。「快」の字のネオン・タトゥー。\nスティル・ワールド：襤褸。宝石やリベットを打ち込んだホッケーマスク。全身にジャンク・ネオンパーツ。",
+    "description": "ゾウラン・ダイ・カイの舎弟、後にサンズ・オブ・ケオスの信奉者となったニンジャ。\nやたらと台詞が長い。スタン・ボーなどを獲物とする。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8D%E3%82%AA%E3%83%B3%E3%82%B4%E3%83%96%E3%83%AA%E3%83%B3"
   },
   {
     "id": "9520ca",
@@ -42282,16 +42339,16 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "appearance": "鉄仮面のレスラー。黄色い繊維。鋼鉄のメンポ。",
-    "description": "デッドロッド・サーカスに所属するレスラー。\n試合中にニンジャになった。",
-    "status": "alive",
+    "organizations": [],
     "appearances": [
       {
         "id": "8fffe24e"
       }
     ],
-    "organizations": []
+    "skills": [],
+    "appearance": "鉄仮面のレスラー。黄色い繊維。鋼鉄のメンポ。",
+    "description": "デッドロッド・サーカスに所属するレスラー。\n試合中にニンジャになった。",
+    "status": "alive"
   },
   {
     "id": "0d86710e",
@@ -42421,22 +42478,22 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "ヘンゲヨーカイ・ジツ"
+    "organizations": [
+      {
+        "id": "79af6ace"
+      }
     ],
-    "appearance": "呪術長衣。ヘンゲ後は巨体、蟲めいた邪悪な甲殻、逆棘爪が生えた六本の腕。",
-    "description": "ボロブドゥールの妖術ニンジャ。\nロウ・ワンの呪文によって巨大な甲殻怪物にヘンゲする。",
-    "status": "dead",
     "appearances": [
       {
         "id": "8fffe24e"
       }
     ],
-    "organizations": [
-      {
-        "id": "79af6ace"
-      }
-    ]
+    "skills": [
+      "ヘンゲヨーカイ・ジツ"
+    ],
+    "appearance": "呪術長衣。ヘンゲ後は巨体、蟲めいた邪悪な甲殻、逆棘爪が生えた六本の腕。",
+    "description": "ボロブドゥールの妖術ニンジャ。\nロウ・ワンの呪文によって巨大な甲殻怪物にヘンゲする。",
+    "status": "dead"
   },
   {
     "id": "fa7dd279",
@@ -42451,10 +42508,30 @@
   {
     "id": "657fe7a9",
     "name": "ガイセリック",
-    "organizations": [],
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "e6cr5tyd",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "カトン・ジツ"
+    ],
+    "role": "ロイヤルニンジャ",
+    "appearance": "反抗的チェック模様のボンデージパンツ。黒いタキシード。逞しい肉体。初老の紳士。",
+    "description": "カタナ社が誇る7人のロイヤルニンジャの一人。\nカトン・ジツの使い手。",
+    "status": "alive",
     "appearances": [
       {
         "id": "8fffe24e"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "ca1c8175"
       }
     ]
   },
@@ -42595,10 +42672,29 @@
   {
     "id": "274389b8",
     "name": "グランドマスター・ゼツボウ",
-    "organizations": [],
+    "aliases": [
+      "ゼツボウ"
+    ],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "cm675hkm",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "appearance": "偉丈夫。老師。血のように赤い瞳。床につくほどの長い白髭。",
+    "description": "新興の暗殺ニンジャ集団「ヘイ・ジウ」の長。",
+    "status": "alive",
     "appearances": [
       {
         "id": "8fffe24e"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "76eb5bb8"
       }
     ]
   },
@@ -42626,11 +42722,35 @@
   },
   {
     "id": "fe3a0386",
-    "name": "クロムウェル（クロームウェル）",
-    "organizations": [],
+    "name": "クロームウェル",
+    "aliases": [
+      "クロムウェル"
+    ],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "kwxdfb5z",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "小型エメツ・エンジン",
+      "ネオン・プラズマ・サーベル",
+      "サーベル・ドー"
+    ],
+    "role": "ロイヤルニンジャ",
+    "appearance": "英国近衛兵の黄金兜を模したミラーシールド・ヘルメンポ。\n赤い装飾コート。機械式サイバネのクロームメタル・ボディ。",
+    "description": "カタナ社が誇る7人のロイヤルニンジャの一人。\n小型エメツ・エンジンの心臓を持ち、精密無比なるプラズマ・サーベルで社敵を突き刺す。",
+    "status": "alive",
     "appearances": [
       {
         "id": "8fffe24e"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "ca1c8175"
       }
     ]
   },
@@ -42713,22 +42833,46 @@
   {
     "id": "fd8de55b",
     "name": "シャドウテイル",
-    "organizations": [],
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "bsfha7e9",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "description": "ゾウラン・ダイ・カイのニンジャ。",
+    "status": "alive",
     "appearances": [
       {
         "id": "8fffe24e"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "d3e96eb7"
       }
     ]
   },
   {
     "id": "54350234",
     "name": "ジンクス",
-    "organizations": [],
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "skills": [
+      "ヘンゲヨーカイ・ジツ"
+    ],
+    "appearance": "狐めいた耳。カタナのように鋭い目つき。亜麻色の髪。毛先にネオンカラー。女性。",
+    "description": "ケモノパンクス勢力「ルツボス」のニンジャ。\nジツの影響で獣化している。",
+    "status": "alive",
     "appearances": [
       {
         "id": "8fffe24e"
       }
-    ]
+    ],
+    "organizations": []
   },
   {
     "id": "b7603675",
@@ -42769,12 +42913,27 @@
   {
     "id": "b9aed595",
     "name": "スノードゥーム",
-    "organizations": [],
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "2o5jsdss",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "コリ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "コリ・ブラスト・ジツ"
+    ],
+    "appearance": "白いDIYニンジャアーマー。宇宙飛行士めいたドーム状のクリスタルフルメンポ。",
+    "description": "ネオサイタマの犯罪者ニンジャ。\nコリ・ブラスト・ジツの使い手。",
+    "status": "alive",
     "appearances": [
       {
         "id": "8fffe24e"
       }
-    ]
+    ],
+    "organizations": []
   },
   {
     "id": "f21a95e4",
@@ -42887,28 +43046,18 @@
     "name": "セイレーン",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "skills": [
-      "スタッフ・オブ・オベディエンス"
-    ],
-    "appearance": "ローブ姿。",
-    "description": "世界を巡り暗躍する謎の邪悪ニンジャ。\n6フィートの棒を突き刺すことでリアルニンジャすら操ることができる。",
-    "status": "alive",
-    "appearances": [
-      {
-        "id": "8fffe24e"
-      }
-    ],
-    "organizations": []
-  },
-  {
-    "id": "f0fede5c",
-    "name": "セクルード",
     "organizations": [],
     "appearances": [
       {
         "id": "8fffe24e"
       }
-    ]
+    ],
+    "skills": [
+      "スタッフ・オブ・オベディエンス"
+    ],
+    "appearance": "ローブ姿。",
+    "description": "世界を巡り暗躍する謎の邪悪ニンジャ。\n6フィートの棒を突き刺すことでリアルニンジャすら操ることができる。",
+    "status": "alive"
   },
   {
     "id": "77f29d0a",
@@ -42959,12 +43108,26 @@
   {
     "id": "1198bb46",
     "name": "ダルネイル",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "r232lmqy",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [],
     "appearances": [
       {
         "id": "8fffe24e"
       }
-    ]
+    ],
+    "skills": [
+      "サイバネ・ネイルガン"
+    ],
+    "description": "外部からヨハネスブルグにやってきたレリックブレイカのニンジャ。\n突き出したサイバネ腕からネイルガンを放つ。",
+    "status": "alive"
   },
   {
     "id": "2f4c4a56",
@@ -43068,22 +43231,22 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "重甲冑"
+    "organizations": [
+      {
+        "id": "79af6ace"
+      }
     ],
-    "appearance": "重甲冑。",
-    "description": "ボロブドゥールのニンジャ。\nオセアニア砦跡を警護していた。",
-    "status": "dead",
     "appearances": [
       {
         "id": "8fffe24e"
       }
     ],
-    "organizations": [
-      {
-        "id": "79af6ace"
-      }
-    ]
+    "skills": [
+      "重甲冑"
+    ],
+    "appearance": "重甲冑。",
+    "description": "ボロブドゥールのニンジャ。\nオセアニア砦跡を警護していた。",
+    "status": "dead"
   },
   {
     "id": "d1de328d",
@@ -43097,18 +43260,18 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "ビーストカラテ"
-    ],
-    "appearance": "ドーベルマンじみた男。",
-    "description": "ケモノパンクスのクラン「ビースティーズ」のニンジャ。\nビーストカラテの使い手。",
-    "status": "dead",
+    "organizations": [],
     "appearances": [
       {
         "id": "8fffe24e"
       }
     ],
-    "organizations": []
+    "skills": [
+      "ビーストカラテ"
+    ],
+    "appearance": "ドーベルマンじみた男。",
+    "description": "ケモノパンクスのクラン「ビースティーズ」のニンジャ。\nビーストカラテの使い手。",
+    "status": "dead"
   },
   {
     "id": "aa6501ac",
@@ -43122,18 +43285,18 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "小型電磁砲"
-    ],
-    "appearance": "呼吸孔つきメンポ。少なくとも胸部がサイバネ。",
-    "description": "レリック氷上船「ンダイ」を恐らく警備していたニンジャ。\n胴体のサイバネボディに小型電磁砲を備える。",
-    "status": "dead",
+    "organizations": [],
     "appearances": [
       {
         "id": "8fffe24e"
       }
     ],
-    "organizations": []
+    "skills": [
+      "小型電磁砲"
+    ],
+    "appearance": "呼吸孔つきメンポ。少なくとも胸部がサイバネ。",
+    "description": "レリック氷上船「ンダイ」を恐らく警備していたニンジャ。\n胴体のサイバネボディに小型電磁砲を備える。",
+    "status": "dead"
   },
   {
     "id": "3b3540e2",
@@ -43284,9 +43447,36 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "d3e96eb7"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ],
     "skills": [],
     "appearance": "邪悪なストライプ・スーツ。",
     "description": "ゾウラン・ダイ・カイのニンジャ。\nネオンゴブリンを舎弟にしていた。",
+    "status": "alive"
+  },
+  {
+    "id": "71d51e2b",
+    "name": "ブラッドウィッチ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "s3wb18ah",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "appearance": "スキンヘッド。不気味な刺青。青白い肌の女性。",
+    "description": "ヘイ・ジウのニンジャ。ゼツボウの副官。",
     "status": "alive",
     "appearances": [
       {
@@ -43295,17 +43485,7 @@
     ],
     "organizations": [
       {
-        "id": "d3e96eb7"
-      }
-    ]
-  },
-  {
-    "id": "71d51e2b",
-    "name": "ブラッドウィッチ",
-    "organizations": [],
-    "appearances": [
-      {
-        "id": "8fffe24e"
+        "id": "76eb5bb8"
       }
     ]
   },
@@ -43473,10 +43653,26 @@
   {
     "id": "8180eb7b",
     "name": "ホワイトスナウト",
-    "organizations": [],
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "lplemea1",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "description": "ゾウラン・ダイ・カイのニンジャ。",
+    "status": "alive",
     "appearances": [
       {
         "id": "8fffe24e"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "d3e96eb7"
       }
     ]
   },
@@ -43492,19 +43688,19 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ],
     "skills": [
       "ゴールデン・ホウオウ・ダイブ",
       "ダイビング・ボディプレス"
     ],
     "appearance": "黄金のヒーローと形容される外見。",
     "description": "デッドロッド・サーカスに所属するレスラーニンジャ。\nアンブレイカブルとはライバル関係。",
-    "status": "alive",
-    "appearances": [
-      {
-        "id": "8fffe24e"
-      }
-    ],
-    "organizations": []
+    "status": "alive"
   },
   {
     "id": "72e10e0f",
@@ -43538,9 +43734,32 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ],
     "skills": [],
     "description": "新興ガリンペイロギャング団「エル・ムサシ」の首領ニンジャ。\n偵察にきたバイオニンジャを捕獲した。",
-    "status": "unknown",
+    "status": "unknown"
+  },
+  {
+    "id": "e16386c7",
+    "name": "ヤグヤグ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "dabqhif7",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "appearance": "肩まで届く美しい白髪と長い睫毛。形良いマズル。男オイランを擬人化したようなキモノ。巨大なカタナ。キセル。",
+    "description": "ケモノパンクス勢力「ルツボス」のニンジャ。\nケモノパンクスがニンジャ化していた。",
+    "status": "alive",
     "appearances": [
       {
         "id": "8fffe24e"
@@ -43549,44 +43768,75 @@
     "organizations": []
   },
   {
-    "id": "e16386c7",
-    "name": "ヤグヤグ",
-    "organizations": [],
-    "appearances": [
-      {
-        "id": "8fffe24e"
-      }
-    ]
-  },
-  {
     "id": "1e2e52e7",
     "name": "ラケダイモン",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "l77ck89o",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [],
     "appearances": [
       {
         "id": "8fffe24e"
       }
-    ]
+    ],
+    "skills": [
+      "ロケットブースター"
+    ],
+    "appearance": "アーミーグリーンのニンジャ装甲。",
+    "description": "ソクセンリキの専務ニンジャ。\n関節部のロケットブースターを駆使して戦う。",
+    "status": "alive"
   },
   {
     "id": "f4cccdb9",
     "name": "ラスコー",
-    "organizations": [],
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "eissldsf",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "appearance": "身体にできた斑点が繋がり生じるニンジャ装束。",
+    "description": "ネオサイタマのニンジャ。\n調合した霊薬を使ってドラッグパーティを繰り返していた。",
+    "status": "dead",
     "appearances": [
       {
         "id": "8fffe24e"
       }
-    ]
+    ],
+    "organizations": []
   },
   {
     "id": "4633b10f",
     "name": "ラッドヴェックス",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "igpyy9o6",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [],
     "appearances": [
       {
         "id": "8fffe24e"
       }
-    ]
+    ],
+    "skills": [],
+    "appearance": "全長180㎝強。サイバネ強化された身体。LANエクステンション混じりの髪。女性。",
+    "description": "外部からヨハネスブルグにやってきたレリックブレイカのニンジャ。\nダルネイルとコンビを組んでいる。",
+    "status": "alive"
   },
   {
     "id": "1b4e25f6",
@@ -43628,12 +43878,27 @@
   {
     "id": "2b638056",
     "name": "ラマンチャ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "k3c02uz2",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
     "organizations": [],
     "appearances": [
       {
         "id": "8fffe24e"
       }
-    ]
+    ],
+    "skills": [
+      "指揮",
+      "装甲車ロシナンテ５"
+    ],
+    "description": "傭兵カンパニー「ソクセンリキ」の専務ニンジャ。\n装甲車から同社の傭兵たちを指揮する。",
+    "status": "alive"
   },
   {
     "id": "9a36c3a8",
@@ -54786,11 +55051,7 @@
     "realName": "コンゴノシマ・ユージ",
     "aliases": [],
     "ninjaType": "非ニンジャ",
-    "skills": [],
-    "appearance": "総金歯。眼帯。白いスーツ。",
-    "description": "ハシリ・モノの主催者の一人にして名物司会。\nサンライザーと組んでいた。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%82%B7%E3%83%AA%E3%83%BB%E3%83%A2%E3%83%8E%E9%81%8B%E5%96%B6%E9%96%A2%E4%BF%82%E8%80%85#vd57ba42",
+    "organizations": [],
     "appearances": [
       {
         "id": "ryr9czzl"
@@ -54799,6 +55060,33 @@
         "id": "8fffe24e"
       }
     ],
-    "organizations": []
+    "skills": [],
+    "appearance": "総金歯。眼帯。白いスーツ。",
+    "description": "ハシリ・モノの主催者の一人にして名物司会。\nサンライザーと組んでいた。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%82%B7%E3%83%AA%E3%83%BB%E3%83%A2%E3%83%8E%E9%81%8B%E5%96%B6%E9%96%A2%E4%BF%82%E8%80%85#vd57ba42"
+  },
+  {
+    "id": "rtpj81i5",
+    "name": "ロベール・ムラカミ",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "skills": [],
+    "appearance": "上等な茶色いウールスーツ。上品なハット。肩眼鏡型の望遠サイバネ・アイ。灰色の髭。初老の男。\n右腕が銀色のサイバネティクス。",
+    "description": "国際探偵の男。\nアルプス山脈でフジキドと出会っていた。",
+    "status": "dead",
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      },
+      {
+        "id": "61d6dd48"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "4f04u1l8"
+      }
+    ]
   }
 ]
