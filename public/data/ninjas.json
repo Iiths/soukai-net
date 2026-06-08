@@ -7514,14 +7514,32 @@
     "name": "ヴェノモス",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "4p93aahy",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "コドク・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "ドクカマキリ・ケン",
+      "ドクカマキリヘルホイール・クルマ",
+      "ドク・ジツ"
+    ],
+    "appearance": "奇妙な幅広の鈴飾りつきの編笠。メンポ。薄汚い包帯で覆われた両腕。黒い双眸。",
+    "description": "ヘイ・ジウのニンジャ。\nドク・ジツに精通し、形意拳と合わせて戦う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%B4%E3%82%A7%E3%83%8E%E3%83%A2%E3%82%B9",
+    "appearances": [
+      {
+        "id": "117065fe"
+      }
+    ],
     "organizations": [
       {
         "id": "76eb5bb8"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%B4%E3%82%A7%E3%83%8E%E3%83%A2%E3%82%B9"
+    ]
   },
   {
     "id": "17754559156",
@@ -8688,10 +8706,21 @@
     "id": "17754559206",
     "name": "トジカタ・ウルフ",
     "aliases": [],
-    "organizations": [],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%88%E3%82%B8%E3%82%AB%E3%82%BF%E3%83%BB%E3%82%A6%E3%83%AB%E3%83%95"
+    "ninjaType": "非ニンジャ",
+    "skills": [
+      "サイバネ肉体パンプ",
+      "仕込み機銃"
+    ],
+    "appearance": "モンツキ姿。ごましお頭。サイバネ・アイ。初老の男。\n首から下が重サイバネ。エンボスの刺青。",
+    "description": "ハウリンウルフ・ヤクザクランのオヤブン。非ニンジャ。\n重サイバネで、両腕に機銃を仕組んでいる。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%88%E3%82%B8%E3%82%AB%E3%82%BF%E3%83%BB%E3%82%A6%E3%83%AB%E3%83%95",
+    "appearances": [
+      {
+        "id": "117065fe"
+      }
+    ],
+    "organizations": []
   },
   {
     "id": "17754559207",
@@ -20557,19 +20586,19 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "description": "新生ザイバツのニンジャ。\n相棒のリコリスと共にクローザーにと交戦した。",
-    "status": "dead",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4"
+      }
+    ],
     "appearances": [
       {
         "id": "8fffe24e"
       }
     ],
-    "organizations": [
-      {
-        "id": "zaibatsu-p3p4"
-      }
-    ]
+    "skills": [],
+    "description": "新生ザイバツのニンジャ。\n相棒のリコリスと共にクローザーにと交戦した。",
+    "status": "dead"
   },
   {
     "id": "29dfd871",
@@ -20942,19 +20971,19 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "description": "新生ザイバツのニンジャ。\n元はヘリオトロープという名前だったが、同名ニンジャがいたので改名された。",
-    "status": "dead",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4"
+      }
+    ],
     "appearances": [
       {
         "id": "8fffe24e"
       }
     ],
-    "organizations": [
-      {
-        "id": "zaibatsu-p3p4"
-      }
-    ]
+    "skills": [],
+    "description": "新生ザイバツのニンジャ。\n元はヘリオトロープという名前だったが、同名ニンジャがいたので改名された。",
+    "status": "dead"
   },
   {
     "id": "0f097b8d",
@@ -40760,13 +40789,34 @@
   {
     "id": "1f2510",
     "name": "パイドパイパー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "nmzpt2w4",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "バイオバンブー笛",
+      "隠し刃",
+      "ギニョル・ジツ"
+    ],
+    "appearance": "穴の空いたメンポ。光る目。不気味な装束。",
+    "description": "ハンザイ・コンスピラシーのニンジャ。\n真下にいる人間を操ってしまう。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%91%E3%82%A4%E3%83%89%E3%83%91%E3%82%A4%E3%83%91%E3%83%BC",
+    "appearances": [
+      {
+        "id": "40d5613c"
+      }
+    ],
     "organizations": [
       {
         "id": "728df8e9"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%91%E3%82%A4%E3%83%89%E3%83%91%E3%82%A4%E3%83%91%E3%83%BC"
+    ]
   },
   {
     "id": "d9b935",
@@ -42330,16 +42380,16 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "appearance": "青く染めた坊主頭。",
-    "description": "ネオサイタマのニンジャ。\nダイダイ・スターフィンガーの娘を自称する。",
-    "status": "alive",
+    "organizations": [],
     "appearances": [
       {
         "id": "8fffe24e"
       }
     ],
-    "organizations": []
+    "skills": [],
+    "appearance": "青く染めた坊主頭。",
+    "description": "ネオサイタマのニンジャ。\nダイダイ・スターフィンガーの娘を自称する。",
+    "status": "alive"
   },
   {
     "id": "b91873e0",
@@ -42483,19 +42533,19 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "description": "ゾウラン・ダイ・カイのニンジャ。\nガーランドとヴァニティを襲撃した。",
-    "status": "unknown",
+    "organizations": [
+      {
+        "id": "d3e96eb7"
+      }
+    ],
     "appearances": [
       {
         "id": "8fffe24e"
       }
     ],
-    "organizations": [
-      {
-        "id": "d3e96eb7"
-      }
-    ]
+    "skills": [],
+    "description": "ゾウラン・ダイ・カイのニンジャ。\nガーランドとヴァニティを襲撃した。",
+    "status": "unknown"
   },
   {
     "id": "96f9e13b",
@@ -42560,19 +42610,19 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "description": "ゾウラン・ダイ・カイのニンジャ。\nガーランドとヴァニティを襲撃した。",
-    "status": "dead",
+    "organizations": [
+      {
+        "id": "d3e96eb7"
+      }
+    ],
     "appearances": [
       {
         "id": "8fffe24e"
       }
     ],
-    "organizations": [
-      {
-        "id": "d3e96eb7"
-      }
-    ]
+    "skills": [],
+    "description": "ゾウラン・ダイ・カイのニンジャ。\nガーランドとヴァニティを襲撃した。",
+    "status": "dead"
   },
   {
     "id": "5ac63f56",
@@ -42608,18 +42658,18 @@
     "name": "オムラアラシ",
     "aliases": [],
     "ninjaType": "ロボ・ニンジャ",
-    "skills": [
-      "テンペスト・オブ・オムラ"
-    ],
-    "appearance": "背中にホロ雷神紋が輝く巨大ロボット。",
-    "description": "オムラ・エンパイア、オムラ・コーア共に否定する鋼鉄の巨神。\nアサト・オムラと適合し、鋼鉄の拳を振るう。",
-    "status": "alive",
+    "organizations": [],
     "appearances": [
       {
         "id": "8fffe24e"
       }
     ],
-    "organizations": []
+    "skills": [
+      "テンペスト・オブ・オムラ"
+    ],
+    "appearance": "背中にホロ雷神紋が輝く巨大ロボット。",
+    "description": "オムラ・エンパイア、オムラ・コーア共に否定する鋼鉄の巨神。\nアサト・オムラと適合し、鋼鉄の拳を振るう。",
+    "status": "alive"
   },
   {
     "id": "657fe7a9",
@@ -42692,22 +42742,22 @@
       "clan": "ケモノ・ニンジャクラン",
       "origin": ""
     },
-    "skills": [
-      "ヘンゲヨーカイ・ジツ"
+    "organizations": [
+      {
+        "id": "u7dl6ywc"
+      }
     ],
-    "appearance": "黒いモダン・ミリタリー風のナイロン装束。特殊部隊風の外見。",
-    "description": "ゼン・ミライ社の警備隊に所属するニンジャ。\nヘンゲヨーカイ・ジツの使い手。CEOとゲーム仲間。",
-    "status": "alive",
     "appearances": [
       {
         "id": "8fffe24e"
       }
     ],
-    "organizations": [
-      {
-        "id": "u7dl6ywc"
-      }
-    ]
+    "skills": [
+      "ヘンゲヨーカイ・ジツ"
+    ],
+    "appearance": "黒いモダン・ミリタリー風のナイロン装束。特殊部隊風の外見。",
+    "description": "ゼン・ミライ社の警備隊に所属するニンジャ。\nヘンゲヨーカイ・ジツの使い手。CEOとゲーム仲間。",
+    "status": "alive"
   },
   {
     "id": "976481d1",
@@ -42747,15 +42797,15 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "description": "サハラ砂漠の北部を支配するニンジャ。\nアーチ級ソウルが暴走し、大食漢の怪物となっている。",
-    "status": "alive",
+    "organizations": [],
     "appearances": [
       {
         "id": "8fffe24e"
       }
     ],
-    "organizations": []
+    "skills": [],
+    "description": "サハラ砂漠の北部を支配するニンジャ。\nアーチ級ソウルが暴走し、大食漢の怪物となっている。",
+    "status": "alive"
   },
   {
     "id": "773dbf0e",
@@ -42818,16 +42868,16 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "appearance": "身長200㎝近く。筋骨隆々の身体。青い眼。",
-    "description": "LA郊外に住んでいる男。\n膝を痛めていたがニンジャ化で克服した。",
-    "status": "alive",
+    "organizations": [],
     "appearances": [
       {
         "id": "8fffe24e"
       }
     ],
-    "organizations": []
+    "skills": [],
+    "appearance": "身長200㎝近く。筋骨隆々の身体。青い眼。",
+    "description": "LA郊外に住んでいる男。\n膝を痛めていたがニンジャ化で克服した。",
+    "status": "alive"
   },
   {
     "id": "274389b8",
@@ -42978,16 +43028,16 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "appearance": "小柄な体格。戦闘中にパンプアップする。",
-    "description": "ヤクザ事業家のニンジャ。\nダイダイを痛めつけていた。",
-    "status": "alive",
+    "organizations": [],
     "appearances": [
       {
         "id": "8fffe24e"
       }
     ],
-    "organizations": []
+    "skills": [],
+    "appearance": "小柄な体格。戦闘中にパンプアップする。",
+    "description": "ヤクザ事業家のニンジャ。\nダイダイを痛めつけていた。",
+    "status": "alive"
   },
   {
     "id": "16c627ed",
@@ -43091,20 +43141,20 @@
       "clan": "",
       "origin": "ビッグニンジャ系"
     },
-    "skills": [],
-    "appearance": "変形機能つきのオニ型マスクメンポ。",
-    "description": "アダナス社のニンジャ。\nイータの個人秘書を務めていた。",
-    "status": "alive",
+    "organizations": [
+      {
+        "id": "463e3a45"
+      }
+    ],
     "appearances": [
       {
         "id": "8fffe24e"
       }
     ],
-    "organizations": [
-      {
-        "id": "463e3a45"
-      }
-    ]
+    "skills": [],
+    "appearance": "変形機能つきのオニ型マスクメンポ。",
+    "description": "アダナス社のニンジャ。\nイータの個人秘書を務めていた。",
+    "status": "alive"
   },
   {
     "id": "05acaffa",
@@ -43287,16 +43337,16 @@
     "realName": "バシシ",
     "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
-    "skills": [],
-    "appearance": "PVC環境迷彩ブルゾン姿。",
-    "description": "ネオサイタマのニンジャ。\nゾウラン・ダイ・カイへの復讐のためソウカイヤの名を利用した。",
-    "status": "dead",
+    "organizations": [],
     "appearances": [
       {
         "id": "8fffe24e"
       }
     ],
-    "organizations": []
+    "skills": [],
+    "appearance": "PVC環境迷彩ブルゾン姿。",
+    "description": "ネオサイタマのニンジャ。\nゾウラン・ダイ・カイへの復讐のためソウカイヤの名を利用した。",
+    "status": "dead"
   },
   {
     "id": "38e4e50b",
@@ -43382,19 +43432,19 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "description": "ゾウラン・ダイ・カイのニンジャ。\nガーランドとヴァニティを襲撃した。",
-    "status": "unknown",
+    "organizations": [
+      {
+        "id": "d3e96eb7"
+      }
+    ],
     "appearances": [
       {
         "id": "8fffe24e"
       }
     ],
-    "organizations": [
-      {
-        "id": "d3e96eb7"
-      }
-    ]
+    "skills": [],
+    "description": "ゾウラン・ダイ・カイのニンジャ。\nガーランドとヴァニティを襲撃した。",
+    "status": "unknown"
   },
   {
     "id": "f5e06f97",
@@ -43458,16 +43508,16 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "appearance": "胸元に『死影』と刺繍された黒装束。紫色の目。",
-    "description": "ネオサイタマのアサシンニンジャ。",
-    "status": "unknown",
+    "organizations": [],
     "appearances": [
       {
         "id": "8fffe24e"
       }
     ],
-    "organizations": []
+    "skills": [],
+    "appearance": "胸元に『死影』と刺繍された黒装束。紫色の目。",
+    "description": "ネオサイタマのアサシンニンジャ。",
+    "status": "unknown"
   },
   {
     "id": "a0208dde",
@@ -43481,18 +43531,18 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "生体触手"
-    ],
-    "appearance": "ラバー装束。頭部にオムラ・エンパイアとは逆回りの雷神紋。",
-    "description": "オムラ・コーアのニンジャ。\nラバー装束は二つに裂け、中からイカめいた触手が飛び出す。",
-    "status": "alive",
+    "organizations": [],
     "appearances": [
       {
         "id": "8fffe24e"
       }
     ],
-    "organizations": []
+    "skills": [
+      "生体触手"
+    ],
+    "appearance": "ラバー装束。頭部にオムラ・エンパイアとは逆回りの雷神紋。",
+    "description": "オムラ・コーアのニンジャ。\nラバー装束は二つに裂け、中からイカめいた触手が飛び出す。",
+    "status": "alive"
   },
   {
     "id": "6a545802",
@@ -44001,19 +44051,19 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "description": "ゾウラン・ダイ・カイのニンジャ。\nガーランドとヴァニティを襲撃した。",
-    "status": "unknown",
+    "organizations": [
+      {
+        "id": "d3e96eb7"
+      }
+    ],
     "appearances": [
       {
         "id": "8fffe24e"
       }
     ],
-    "organizations": [
-      {
-        "id": "d3e96eb7"
-      }
-    ]
+    "skills": [],
+    "description": "ゾウラン・ダイ・カイのニンジャ。\nガーランドとヴァニティを襲撃した。",
+    "status": "unknown"
   },
   {
     "id": "22ec209d",
@@ -44170,18 +44220,18 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "サイバネアーム"
-    ],
-    "appearance": "サイバネアームを含む8本腕。",
-    "description": "ネオサイタマのイタマエニンジャ。\nサイバネアームによる8本腕で高速でスシを握る。",
-    "status": "unknown",
+    "organizations": [],
     "appearances": [
       {
         "id": "8fffe24e"
       }
     ],
-    "organizations": []
+    "skills": [
+      "サイバネアーム"
+    ],
+    "appearance": "サイバネアームを含む8本腕。",
+    "description": "ネオサイタマのイタマエニンジャ。\nサイバネアームによる8本腕で高速でスシを握る。",
+    "status": "unknown"
   },
   {
     "id": "2b638056",
@@ -44298,16 +44348,16 @@
     "name": "ウグイス",
     "aliases": [],
     "ninjaType": "非ニンジャ",
-    "skills": [],
-    "appearance": "紫髪。",
-    "description": "オムラアラシの専用オイランドロイドが自我を得たウキヨ。\nオムラアラシの適合者を探していた。",
-    "status": "alive",
+    "organizations": [],
     "appearances": [
       {
         "id": "8fffe24e"
       }
     ],
-    "organizations": []
+    "skills": [],
+    "appearance": "紫髪。",
+    "description": "オムラアラシの専用オイランドロイドが自我を得たウキヨ。\nオムラアラシの適合者を探していた。",
+    "status": "alive"
   },
   {
     "id": "db55f838",
@@ -44329,15 +44379,15 @@
     "name": "ドクターギルガ",
     "aliases": [],
     "ninjaType": "非ニンジャ",
-    "skills": [],
-    "description": "サイサムラINCのCEO。サイサムライの実子。\nアサト・オムラとウグイスに協力する。",
-    "status": "alive",
+    "organizations": [],
     "appearances": [
       {
         "id": "8fffe24e"
       }
     ],
-    "organizations": []
+    "skills": [],
+    "description": "サイサムラINCのCEO。サイサムライの実子。\nアサト・オムラとウグイスに協力する。",
+    "status": "alive"
   },
   {
     "id": "a9416fc0",
@@ -55426,5 +55476,127 @@
     "appearance": "上等な茶色いウールスーツ。上品なハット。肩眼鏡型の望遠サイバネ・アイ。灰色の髭。初老の男。\n右腕が銀色のサイバネティクス。",
     "description": "国際探偵の男。\nアルプス山脈でフジキドと出会っていた。",
     "status": "dead"
+  },
+  {
+    "id": "kfhrcxez",
+    "name": "エラボレイト",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "atzybsae",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "ハッカー",
+      "サイバネアーム",
+      "ニンジャ・ライブラリ"
+    ],
+    "appearance": "PVCクロームコート。腕と目がサイバネ。\n剃りこみに「エラボレイト」と刻印されたツーブロックヘア。",
+    "description": "ネオサイタマのフリーランスニンジャ。\n独自収集したニンジャ・ライブラリで対象の脅威度を測る。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%83%A9%E3%83%9C%E3%83%AC%E3%82%A4%E3%83%88",
+    "appearances": [
+      {
+        "id": "66ac3aba"
+      },
+      {
+        "id": "rnyclxp8"
+      },
+      {
+        "id": "b490a542"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "by6s59w0",
+    "name": "デスアーチン",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "f7leg3ph",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "デスラトル・ジツ",
+      "肉体再生"
+    ],
+    "appearance": "ニンジャ装束。",
+    "description": "ネオサイタマのニンジャ。サツガイ接触者。\n爆発四散で針を飛ばすジツと再生のジツを合わせて戦う。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B9%E3%82%A2%E3%83%BC%E3%83%81%E3%83%B3",
+    "appearances": [
+      {
+        "id": "66ac3aba"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "k0b0cjo7",
+    "name": "マローダー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "tdn1u409",
+      "name": "",
+      "grade": "等級不明",
+      "origin": "カゼ・ニンジャクラン系"
+    },
+    "skills": [
+      "ソニックカラテ"
+    ],
+    "appearance": "目深に被ったフード。鼻と口を覆うクロームのメンポ。",
+    "description": "ネオサイタマの猟奇殺人者ニンジャ。\n指先からソニックカラテを放つ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%83%AD%E3%83%BC%E3%83%80%E3%83%BC",
+    "appearances": [
+      {
+        "id": "40d5613c"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "j0csq83g",
+    "name": "リンホ・クロキ",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "skills": [
+      "カタナ",
+      "ケンドー",
+      "サイバネアーム",
+      "MT-4900G/L",
+      "ヒキャク",
+      "ニューロンリンク・ブースター"
+    ],
+    "appearance": "首の長さまで伸ばした黒髪。灰色のストライプ状のメッシュ。\nピアス型の骨伝導イヤホン。舌ピアス。ルーズソックス。両目がサイバネアイ。\n両足のヒキャクがソックスで隠れている。",
+    "description": "重サイバネ女子高生。\n傷つく度にサイバネ置換し、破滅的なヤクザ狩りに身を投じる。",
+    "status": "alive",
+    "appearances": [
+      {
+        "id": "117065fe"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "uhkbi6hf",
+    "name": "モニコ・サイトウ",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "skills": [],
+    "appearance": "金髪コケシ髪。眼鏡。舌ピアス。生体LAN端子。",
+    "description": "リンホの同級生だった女子高生。\nUNIXに詳しく、リンホを後方支援する。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%8B%E3%82%B3%E3%83%BB%E3%82%B5%E3%82%A4%E3%83%88%E3%82%A6",
+    "appearances": [
+      {
+        "id": "117065fe"
+      }
+    ],
+    "organizations": []
   }
 ]
