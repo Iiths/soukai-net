@@ -1,9 +1,9 @@
 import { useState, useMemo, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { FilterCriteria, FilterNinjaUseCase } from '../../../usecases/FilterNinjaUseCase';
-import { JsonNinjaRepository } from '../../../infrastructure/repositories/JsonNinjaRepository';
+import { FilterCriteria } from '../../../usecases/FilterNinjaUseCase';
 import { JsonEpisodeRepository } from '../../../infrastructure/repositories/JsonEpisodeRepository';
 import { JsonOrganizationRepository } from '../../../infrastructure/repositories/JsonOrganizationRepository';
+import { useFilterWorker } from '../../../hooks/useFilterWorker';
 import { Ninja } from '../../../domain/entities/Ninja';
 import { Episode } from '../../../domain/entities/Episode';
 import { Organization } from '../../../domain/entities/Organization';
@@ -13,6 +13,7 @@ import styles from './AdvancedSearchPage.module.css';
 
 export function AdvancedSearchPage() {
   const navigate = useNavigate();
+  const filterWorker = useFilterWorker();
   const [criteria, setCriteria] = useState<FilterCriteria>({});
   const [results, setResults] = useState<Ninja[]>([]);
   const [isLoading, setIsLoading] = useState<boolean>(false);
@@ -46,23 +47,22 @@ export function AdvancedSearchPage() {
   }, []);
 
   useEffect(() => {
+    let cancelled = false;
     const performFilter = async () => {
       setIsLoading(true);
       try {
-        const ninjaRepo = new JsonNinjaRepository();
-        const episodeRepo = new JsonEpisodeRepository();
-        const useCase = new FilterNinjaUseCase(ninjaRepo, episodeRepo);
-        const filterResults = await useCase.execute(criteria);
-        // あいうえお順（カタカナ・ひらがな）でソート
+        const filterResults = await filterWorker(criteria);
+        if (cancelled) return;
         filterResults.sort((a, b) => a.name.localeCompare(b.name, 'ja'));
         setResults(filterResults);
       } finally {
-        setIsLoading(false);
+        if (!cancelled) setIsLoading(false);
       }
     };
 
     performFilter();
-  }, [criteria]);
+    return () => { cancelled = true; };
+  }, [criteria, filterWorker]);
 
   const handleCardClick = (id: string) => {
     navigate(`/ninja/${id}`);

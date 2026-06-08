@@ -4,7 +4,8 @@ import { Ninja } from '../../../domain/entities/Ninja';
 import { NinjaType } from '../../../domain/entities/Ninja';
 import { Episode } from '../../../domain/entities/Episode';
 import { Organization } from '../../../domain/entities/Organization';
-import { FilterCriteria, FilterNinjaUseCase } from '../../../usecases/FilterNinjaUseCase';
+import { FilterCriteria } from '../../../usecases/FilterNinjaUseCase';
+import { useFilterWorker } from '../../../hooks/useFilterWorker';
 import { NinjaSoulGrade } from '../../../domain/entities/NinjaSoul';
 import { SearchNinjaUseCase } from '../../../usecases/SearchNinjaUseCase';
 import { JsonNinjaRepository } from '../../../infrastructure/repositories/JsonNinjaRepository';
@@ -75,6 +76,7 @@ function filterCriteriaToEntries(c: FilterCriteria): [string, string][] {
 export function SimpleSearchPage() {
   const navigate = useNavigate();
   const [searchParams, setSearchParams] = useSearchParams();
+  const filterWorker = useFilterWorker();
 
   // URL が Single Source of Truth — ローカル state は持たない
   const query      = searchParams.get(P.QUERY) ?? '';
@@ -131,8 +133,7 @@ export function SimpleSearchPage() {
   const performSearch = useCallback(async (q: string, c: FilterCriteria) => {
     setIsLoading(true);
     try {
-      const ninjaRepo   = new JsonNinjaRepository();
-      const episodeRepo = new JsonEpisodeRepository();
+      const ninjaRepo = new JsonNinjaRepository();
       let base: Ninja[];
 
       if (q.trim()) {
@@ -144,11 +145,17 @@ export function SimpleSearchPage() {
 
       const hasFilter = Object.values(c).some((v) => v !== undefined && v !== '');
       if (hasFilter) {
-        const filterUseCase = new FilterNinjaUseCase(
-          { findAll: async () => base, findById: async (id) => base.find((n) => n.id === id) ?? null },
-          episodeRepo,
-        );
-        base = await filterUseCase.execute(c);
+        // Worker でフィルター実行（UIスレッドをブロックしない）
+        // Worker は自身でデータを保持しているため、テキスト検索結果と突合する必要がある場合は
+        // 名前一致で絞り込む（Worker は全件フィルターなので、テキスト検索との交差は手動実行）
+        if (q.trim()) {
+          // テキスト検索結果をベースに、Worker が返す全件フィルター結果と名前で交差
+          const nameSet = new Set(base.map((n) => n.id));
+          const workerResults = await filterWorker(c);
+          base = workerResults.filter((n) => nameSet.has(n.id));
+        } else {
+          base = await filterWorker(c);
+        }
       }
 
       // あいうえお順（カタカナ・ひらがな）でソート
@@ -157,7 +164,7 @@ export function SimpleSearchPage() {
     } finally {
       setIsLoading(false);
     }
-  }, []);
+  }, [filterWorker]);
 
   // URL パラメータが変わるたびに検索を実行（詳細ページから戻った時も含む）
   useEffect(() => {
