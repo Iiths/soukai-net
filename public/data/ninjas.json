@@ -543,12 +543,35 @@
       "clan": "不明",
       "origin": "第三部最終版にてリアルニンジャ化"
     },
-    "organizations": [
+    "skills": [
+      "チャドー",
+      "ジュー・ジツ"
+    ],
+    "description": "第三部までの主人公、ニンジャスレイヤー。\n第四部以降はサツバツナイトを名乗り、国際探偵として全国各地で活躍中。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%84%E3%83%90%E3%83%84%E3%83%8A%E3%82%A4%E3%83%88",
+    "ninjaUrls": [
       {
-        "id": "4f04u1l8"
+        "label": "トリロジー名鑑（ニンジャスレイヤー）",
+        "url": "https://x.com/NJSLYR/status/20239846824?s=20"
       },
       {
-        "id": "a91ea54d"
+        "label": "トリロジー名鑑（サツバツナイト）",
+        "url": "https://x.com/NJSLYR/status/386736312960573440?s=20"
+      },
+      {
+        "label": "トリロジー名鑑N（ニンジャスレイヤー）",
+        "url": "https://x.com/NJSLYR/status/1650697641691607040?s=20"
+      },
+      {
+        "label": "第4部ニンジャ名鑑",
+        "url": "https://x.com/NJSLYR/status/786094763762155520?s=20"
+      }
+    ],
+    "noteUrls": [
+      {
+        "label": "ニンジャスレイヤー名鑑カード　AoM-0002【サツバツナイト】",
+        "url": "https://diehardtales.com/n/n20bddc9e2621"
       }
     ],
     "appearances": [
@@ -1051,13 +1074,14 @@
         "id": "4de384e9"
       }
     ],
-    "skills": [
-      "チャドー",
-      "ジュー・ジツ"
-    ],
-    "description": "第三部までの主人公、ニンジャスレイヤー。\n第四部以降はサツバツナイトを名乗り、国際探偵として全国各地で活躍中。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%84%E3%83%90%E3%83%84%E3%83%8A%E3%82%A4%E3%83%88"
+    "organizations": [
+      {
+        "id": "4f04u1l8"
+      },
+      {
+        "id": "a91ea54d"
+      }
+    ]
   },
   {
     "id": "177545593",
@@ -19886,17 +19910,11 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "ヘビ・クリス",
-      "蛇矛",
-      "邪悪なアフリカ投げナイフめいたスリケン",
-      "ヘビ・ナギナタ"
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4"
+      }
     ],
-    "role": "マスター位階",
-    "appearance": "長身痩躯。まだらに染めた弁髪。顔の左半分に黒い刺青。\n最初は黄土色の装束。後に黄と黒の迷彩模様装束。メンポ。\n「アルター・オブ～」の負傷後は左眼を閉じている。",
-    "description": "新生ザイバツのニンジャ。\nニーズヘグの押しかけ弟子。\n蛇矛など複数の武器を扱う手練れ。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%91%E3%83%AB%E3%83%88%E3%82%A4",
     "appearances": [
       {
         "id": "vrg4755o"
@@ -19917,11 +19935,17 @@
         "id": "6dcsfo7u"
       }
     ],
-    "organizations": [
-      {
-        "id": "zaibatsu-p3p4"
-      }
-    ]
+    "skills": [
+      "ヘビ・クリス",
+      "蛇矛",
+      "邪悪なアフリカ投げナイフめいたスリケン",
+      "ヘビ・ナギナタ"
+    ],
+    "role": "マスター位階",
+    "appearance": "長身痩躯。まだらに染めた弁髪。顔の左半分に黒い刺青。\n最初は黄土色の装束。後に黄と黒の迷彩模様装束。メンポ。\n「アルター・オブ～」の負傷後は左眼を閉じている。",
+    "description": "新生ザイバツのニンジャ。\nニーズヘグの押しかけ弟子。\n蛇矛など複数の武器を扱う手練れ。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%91%E3%83%AB%E3%83%88%E3%82%A4"
   },
   {
     "id": "da510f47",
@@ -20154,20 +20178,20 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "description": "新生ザイバツのニンジャ。\nドラゴン・シュラインを探索していた。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%97%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%88%EF%BC%8F%E3%83%9E%E3%83%BC%E3%83%81%E3%83%98%E3%82%A2",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4"
+      }
+    ],
     "appearances": [
       {
         "id": "6e95e58d"
       }
     ],
-    "organizations": [
-      {
-        "id": "zaibatsu-p3p4"
-      }
-    ]
+    "skills": [],
+    "description": "新生ザイバツのニンジャ。\nドラゴン・シュラインを探索していた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%97%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%88%EF%BC%8F%E3%83%9E%E3%83%BC%E3%83%81%E3%83%98%E3%82%A2"
   },
   {
     "id": "31e4e8f6",
@@ -20335,20 +20359,20 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "description": "新生ザイバツのニンジャ。\nドラゴン・シュラインを探索していた。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%97%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%88%EF%BC%8F%E3%83%9E%E3%83%BC%E3%83%81%E3%83%98%E3%82%A2",
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4"
+      }
+    ],
     "appearances": [
       {
         "id": "6e95e58d"
       }
     ],
-    "organizations": [
-      {
-        "id": "zaibatsu-p3p4"
-      }
-    ]
+    "skills": [],
+    "description": "新生ザイバツのニンジャ。\nドラゴン・シュラインを探索していた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%97%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%88%EF%BC%8F%E3%83%9E%E3%83%BC%E3%83%81%E3%83%98%E3%82%A2"
   },
   {
     "id": "7e7b57ac",
@@ -20721,22 +20745,22 @@
       "clan": "ハデス・ニンジャクラン",
       "origin": ""
     },
-    "skills": [
-      "影と不可視にまつわるジツ"
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4"
+      }
     ],
-    "appearance": "少年。",
-    "description": "新生ザイバツのニュービーニンジャ。\nアラクネに囚われていたが助けられ、パープルタコの庇護を受けた。",
-    "status": "alive",
     "appearances": [
       {
         "id": "s4cltp8w"
       }
     ],
-    "organizations": [
-      {
-        "id": "zaibatsu-p3p4"
-      }
-    ]
+    "skills": [
+      "影と不可視にまつわるジツ"
+    ],
+    "appearance": "少年。",
+    "description": "新生ザイバツのニュービーニンジャ。\nアラクネに囚われていたが助けられ、パープルタコの庇護を受けた。",
+    "status": "alive"
   },
   {
     "id": "3c542167",
@@ -21028,6 +21052,12 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "zaibatsu-p3p4"
+      }
+    ],
+    "appearances": [],
     "skills": [
       "ラスト・ジツ",
       "呪いのカタナ"
@@ -21035,13 +21065,7 @@
     "role": "アデプト位階",
     "appearance": "赤錆だらけの鎧。",
     "description": "新生ザイバツのアデプトニンジャ。\n卑金属を錆びさせるジツと緑青の呪剣を振るう。",
-    "status": "unknown",
-    "appearances": [],
-    "organizations": [
-      {
-        "id": "zaibatsu-p3p4"
-      }
-    ]
+    "status": "unknown"
   },
   {
     "id": "54916b91",
@@ -37631,21 +37655,21 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "appearance": "メンポ。",
-    "description": "サンズ・オブ・ケオスのニンジャ。\nダイフク・ビルディングに潜伏していた。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AA%E3%83%90%E3%83%BC%E3%83%90%E3%83%B3%E3%82%AF%EF%BC%8F%E3%82%A2%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%96%EF%BC%8F%E3%83%8F%E3%82%A4%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%EF%BC%8F%E3%83%8B%E3%82%A2%E3%82%B3%E3%83%BC%E3%83%96",
+    "organizations": [
+      {
+        "id": "4f623b6b"
+      }
+    ],
     "appearances": [
       {
         "id": "rnyclxp8"
       }
     ],
-    "organizations": [
-      {
-        "id": "4f623b6b"
-      }
-    ]
+    "skills": [],
+    "appearance": "メンポ。",
+    "description": "サンズ・オブ・ケオスのニンジャ。\nダイフク・ビルディングに潜伏していた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AA%E3%83%90%E3%83%BC%E3%83%90%E3%83%B3%E3%82%AF%EF%BC%8F%E3%82%A2%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%96%EF%BC%8F%E3%83%8F%E3%82%A4%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%EF%BC%8F%E3%83%8B%E3%82%A2%E3%82%B3%E3%83%BC%E3%83%96"
   },
   {
     "id": "a18f6b29",
@@ -37659,23 +37683,23 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "4f623b6b"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "rnyclxp8"
+      }
+    ],
     "skills": [
       "カラテミサイル"
     ],
     "appearance": "メンポ。",
     "description": "サンズ・オブ・ケオスのニンジャ。\nカラテミサイルの使い手。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AA%E3%83%90%E3%83%BC%E3%83%90%E3%83%B3%E3%82%AF%EF%BC%8F%E3%82%A2%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%96%EF%BC%8F%E3%83%8F%E3%82%A4%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%EF%BC%8F%E3%83%8B%E3%82%A2%E3%82%B3%E3%83%BC%E3%83%96",
-    "appearances": [
-      {
-        "id": "rnyclxp8"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "4f623b6b"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AA%E3%83%90%E3%83%BC%E3%83%90%E3%83%B3%E3%82%AF%EF%BC%8F%E3%82%A2%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%96%EF%BC%8F%E3%83%8F%E3%82%A4%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%EF%BC%8F%E3%83%8B%E3%82%A2%E3%82%B3%E3%83%BC%E3%83%96"
   },
   {
     "id": "79ee8f62",
@@ -37689,23 +37713,23 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "4f623b6b"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "rnyclxp8"
+      }
+    ],
     "skills": [
       "カトン・ボール"
     ],
     "appearance": "メンポ。",
     "description": "サンズ・オブ・ケオスのニンジャ。\nカトン・ジツの使い手。カトン・ボールを放つ。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AA%E3%83%90%E3%83%BC%E3%83%90%E3%83%B3%E3%82%AF%EF%BC%8F%E3%82%A2%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%96%EF%BC%8F%E3%83%8F%E3%82%A4%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%EF%BC%8F%E3%83%8B%E3%82%A2%E3%82%B3%E3%83%BC%E3%83%96",
-    "appearances": [
-      {
-        "id": "rnyclxp8"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "4f623b6b"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AA%E3%83%90%E3%83%BC%E3%83%90%E3%83%B3%E3%82%AF%EF%BC%8F%E3%82%A2%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%96%EF%BC%8F%E3%83%8F%E3%82%A4%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%EF%BC%8F%E3%83%8B%E3%82%A2%E3%82%B3%E3%83%BC%E3%83%96"
   },
   {
     "id": "d791b881",
@@ -37719,21 +37743,21 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "appearance": "メンポ。",
-    "description": "サンズ・オブ・ケオスのニンジャ。\nダイフク・ビルディングに潜伏していた。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AA%E3%83%90%E3%83%BC%E3%83%90%E3%83%B3%E3%82%AF%EF%BC%8F%E3%82%A2%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%96%EF%BC%8F%E3%83%8F%E3%82%A4%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%EF%BC%8F%E3%83%8B%E3%82%A2%E3%82%B3%E3%83%BC%E3%83%96",
+    "organizations": [
+      {
+        "id": "4f623b6b"
+      }
+    ],
     "appearances": [
       {
         "id": "rnyclxp8"
       }
     ],
-    "organizations": [
-      {
-        "id": "4f623b6b"
-      }
-    ]
+    "skills": [],
+    "appearance": "メンポ。",
+    "description": "サンズ・オブ・ケオスのニンジャ。\nダイフク・ビルディングに潜伏していた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AA%E3%83%90%E3%83%BC%E3%83%90%E3%83%B3%E3%82%AF%EF%BC%8F%E3%82%A2%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%96%EF%BC%8F%E3%83%8F%E3%82%A4%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%EF%BC%8F%E3%83%8B%E3%82%A2%E3%82%B3%E3%83%BC%E3%83%96"
   },
   {
     "id": "9815ea54",
@@ -37747,20 +37771,20 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "description": "サンズ・オブ・ケオスのニンジャ。\nカタナ社の博覧会を襲撃した。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%AA%E3%83%BC%E3%82%AF%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%EF%BC%8F%E3%83%AA%E3%83%88%E3%83%AB%E3%83%9D%E3%83%B3%E3%83%89%EF%BC%8F%E3%82%A2%E3%83%AD%E3%83%BC%E3%83%9E%E3%82%A6%E3%82%B9",
+    "organizations": [
+      {
+        "id": "4f623b6b"
+      }
+    ],
     "appearances": [
       {
         "id": "rnyclxp8"
       }
     ],
-    "organizations": [
-      {
-        "id": "4f623b6b"
-      }
-    ]
+    "skills": [],
+    "description": "サンズ・オブ・ケオスのニンジャ。\nカタナ社の博覧会を襲撃した。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%AA%E3%83%BC%E3%82%AF%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%EF%BC%8F%E3%83%AA%E3%83%88%E3%83%AB%E3%83%9D%E3%83%B3%E3%83%89%EF%BC%8F%E3%82%A2%E3%83%AD%E3%83%BC%E3%83%9E%E3%82%A6%E3%82%B9"
   },
   {
     "id": "b3b759ba",
@@ -37774,22 +37798,22 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "ダイカタナ"
+    "organizations": [
+      {
+        "id": "4f623b6b"
+      }
     ],
-    "description": "サンズ・オブ・ケオスのニンジャ。\n奇声と共にダイカタナで切りかかる。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%AA%E3%83%BC%E3%82%AF%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%EF%BC%8F%E3%83%AA%E3%83%88%E3%83%AB%E3%83%9D%E3%83%B3%E3%83%89%EF%BC%8F%E3%82%A2%E3%83%AD%E3%83%BC%E3%83%9E%E3%82%A6%E3%82%B9",
     "appearances": [
       {
         "id": "rnyclxp8"
       }
     ],
-    "organizations": [
-      {
-        "id": "4f623b6b"
-      }
-    ]
+    "skills": [
+      "ダイカタナ"
+    ],
+    "description": "サンズ・オブ・ケオスのニンジャ。\n奇声と共にダイカタナで切りかかる。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%AA%E3%83%BC%E3%82%AF%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%EF%BC%8F%E3%83%AA%E3%83%88%E3%83%AB%E3%83%9D%E3%83%B3%E3%83%89%EF%BC%8F%E3%82%A2%E3%83%AD%E3%83%BC%E3%83%9E%E3%82%A6%E3%82%B9"
   },
   {
     "id": "5af935e2",
@@ -37803,23 +37827,23 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "4f623b6b"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "rnyclxp8"
+      }
+    ],
     "skills": [
       "ボウガン",
       "エンハンス・ジツ"
     ],
     "description": "サンズ・オブ・ケオスのニンジャ。\nエンハンスされたボウガンから矢を射出する。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%AA%E3%83%BC%E3%82%AF%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%EF%BC%8F%E3%83%AA%E3%83%88%E3%83%AB%E3%83%9D%E3%83%B3%E3%83%89%EF%BC%8F%E3%82%A2%E3%83%AD%E3%83%BC%E3%83%9E%E3%82%A6%E3%82%B9",
-    "appearances": [
-      {
-        "id": "rnyclxp8"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "4f623b6b"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%AA%E3%83%BC%E3%82%AF%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%EF%BC%8F%E3%83%AA%E3%83%88%E3%83%AB%E3%83%9D%E3%83%B3%E3%83%89%EF%BC%8F%E3%82%A2%E3%83%AD%E3%83%BC%E3%83%9E%E3%82%A6%E3%82%B9"
   },
   {
     "id": "23e47d81",
@@ -37833,20 +37857,20 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "description": "サンズ・オブ・ケオスのニンジャ。\nカタナ社の博覧会を襲撃した。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BF%E3%83%AD%E3%83%B3%EF%BC%8F%E3%82%AD%E3%83%AB%E3%82%AF%E3%82%A4%E3%83%83%E3%82%AF",
+    "organizations": [
+      {
+        "id": "4f623b6b"
+      }
+    ],
     "appearances": [
       {
         "id": "rnyclxp8"
       }
     ],
-    "organizations": [
-      {
-        "id": "4f623b6b"
-      }
-    ]
+    "skills": [],
+    "description": "サンズ・オブ・ケオスのニンジャ。\nカタナ社の博覧会を襲撃した。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BF%E3%83%AD%E3%83%B3%EF%BC%8F%E3%82%AD%E3%83%AB%E3%82%AF%E3%82%A4%E3%83%83%E3%82%AF"
   },
   {
     "id": "4dc7193f",
@@ -37860,22 +37884,22 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "毒クナイ"
+    "organizations": [
+      {
+        "id": "4f623b6b"
+      }
     ],
-    "description": "サンズ・オブ・ケオスのニンジャ。\n毒クナイを獲物とする。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BF%E3%83%AD%E3%83%B3%EF%BC%8F%E3%82%AD%E3%83%AB%E3%82%AF%E3%82%A4%E3%83%83%E3%82%AF",
     "appearances": [
       {
         "id": "rnyclxp8"
       }
     ],
-    "organizations": [
-      {
-        "id": "4f623b6b"
-      }
-    ]
+    "skills": [
+      "毒クナイ"
+    ],
+    "description": "サンズ・オブ・ケオスのニンジャ。\n毒クナイを獲物とする。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BF%E3%83%AD%E3%83%B3%EF%BC%8F%E3%82%AD%E3%83%AB%E3%82%AF%E3%82%A4%E3%83%83%E3%82%AF"
   },
   {
     "id": "b38c04",
@@ -37889,20 +37913,20 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "description": "サンズ・オブ・ケオスのニンジャ。\nカタナ社の博覧会を襲撃した。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%83%8A%E3%83%BC%E3%83%90%E3%83%B3%E3%83%96%E3%83%BC",
+    "organizations": [
+      {
+        "id": "4f623b6b"
+      }
+    ],
     "appearances": [
       {
         "id": "rnyclxp8"
       }
     ],
-    "organizations": [
-      {
-        "id": "4f623b6b"
-      }
-    ]
+    "skills": [],
+    "description": "サンズ・オブ・ケオスのニンジャ。\nカタナ社の博覧会を襲撃した。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%83%8A%E3%83%BC%E3%83%90%E3%83%B3%E3%83%96%E3%83%BC"
   },
   {
     "id": "9f9adb",
@@ -37949,22 +37973,22 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "カゼ・ダイシュリケン"
+    "organizations": [
+      {
+        "id": "4f623b6b"
+      }
     ],
-    "description": "サンズ・オブ・ケオスの古参ニンジャ。サツガイ接触者。\n真空の巨大刃、カゼ・ダイシュリケンを投擲する。",
-    "status": "unknown",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AD%E3%83%A3%E3%83%83%E3%83%88%E3%82%A8%E3%83%83%E3%82%B8",
     "appearances": [
       {
         "id": "rnyclxp8"
       }
     ],
-    "organizations": [
-      {
-        "id": "4f623b6b"
-      }
-    ]
+    "skills": [
+      "カゼ・ダイシュリケン"
+    ],
+    "description": "サンズ・オブ・ケオスの古参ニンジャ。サツガイ接触者。\n真空の巨大刃、カゼ・ダイシュリケンを投擲する。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AD%E3%83%A3%E3%83%83%E3%83%88%E3%82%A8%E3%83%83%E3%82%B8"
   },
   {
     "id": "a737a0c6",
@@ -38085,6 +38109,16 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "4f623b6b"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "rnyclxp8"
+      }
+    ],
     "skills": [
       "カラテビーム",
       "カラテミサイル",
@@ -38092,17 +38126,7 @@
     ],
     "description": "サンズ・オブ・ケオスのニンジャ。サツガイ接触者。\n血中カラテ粒子を圧縮してビームする。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%83%B4%E3%82%A9%E3%83%BC%E3%83%88",
-    "appearances": [
-      {
-        "id": "rnyclxp8"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "4f623b6b"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%83%B4%E3%82%A9%E3%83%BC%E3%83%88"
   },
   {
     "id": "da7f2c",
@@ -38229,23 +38253,23 @@
       "clan": "",
       "origin": "カトン系"
     },
+    "organizations": [
+      {
+        "id": "4f623b6b"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "rnyclxp8"
+      }
+    ],
     "skills": [
       "カトン・ジツ",
       "コリ・ジツ"
     ],
     "description": "サンズ・オブ・ケオスのニンジャ。サツガイ接触者。\n与えられたコリ・ジツと元々のカトン・ジツの相性が悪く、困っていた。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%83%BC%E3%83%B3%E3%83%89%E3%82%A8%E3%82%A2",
-    "appearances": [
-      {
-        "id": "rnyclxp8"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "4f623b6b"
-      }
-    ]
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%83%BC%E3%83%B3%E3%83%89%E3%82%A8%E3%82%A2"
   },
   {
     "id": "a94348",
@@ -38292,16 +38316,11 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "杭打ち機",
-      "鉤手",
-      "ジョルリ・ジツ",
-      "スパイグラス・オブ・オール・シーイング"
+    "organizations": [
+      {
+        "id": "4f623b6b"
+      }
     ],
-    "appearance": "身長173cm。私掠船船長じみた装束。バイコーン帽。\n葉巻・スキットルを挿し込めるメンポ。\n【トレイス・オブ・ダークニンジャ】以降は右手に鉤手、左足に釘打ち機。",
-    "description": "サンズ・オブ・ケオスのニンジャ。サツガイ接触者。\nマグロツェッペリンをジョルリ・ジツで操る私掠船船長。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%97%E3%83%A9%E3%82%A4%E3%83%99%E3%83%86%E3%82%A3%E3%82%A2",
     "appearances": [
       {
         "id": "rnyclxp8"
@@ -38319,11 +38338,16 @@
         "id": "r4yepeot"
       }
     ],
-    "organizations": [
-      {
-        "id": "4f623b6b"
-      }
-    ]
+    "skills": [
+      "杭打ち機",
+      "鉤手",
+      "ジョルリ・ジツ",
+      "スパイグラス・オブ・オール・シーイング"
+    ],
+    "appearance": "身長173cm。私掠船船長じみた装束。バイコーン帽。\n葉巻・スキットルを挿し込めるメンポ。\n【トレイス・オブ・ダークニンジャ】以降は右手に鉤手、左足に釘打ち機。",
+    "description": "サンズ・オブ・ケオスのニンジャ。サツガイ接触者。\nマグロツェッペリンをジョルリ・ジツで操る私掠船船長。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%97%E3%83%A9%E3%82%A4%E3%83%99%E3%83%86%E3%82%A3%E3%82%A2"
   },
   {
     "id": "2417e9",
@@ -38370,20 +38394,20 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "description": "サンズ・オブ・ケオスのニンジャ。\nカタナ社の博覧会を襲撃した。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%83%BC%E3%83%87%E3%82%A3%E3%83%BC%E3%83%9C%E3%83%A0",
+    "organizations": [
+      {
+        "id": "4f623b6b"
+      }
+    ],
     "appearances": [
       {
         "id": "rnyclxp8"
       }
     ],
-    "organizations": [
-      {
-        "id": "4f623b6b"
-      }
-    ]
+    "skills": [],
+    "description": "サンズ・オブ・ケオスのニンジャ。\nカタナ社の博覧会を襲撃した。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%83%BC%E3%83%87%E3%82%A3%E3%83%BC%E3%83%9C%E3%83%A0"
   },
   {
     "id": "98e180",
@@ -38430,22 +38454,22 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "ドトン・ジツ"
+    "organizations": [
+      {
+        "id": "4f623b6b"
+      }
     ],
-    "description": "サンズ・オブ・ケオスのニンジャ。\n相手を床下に引きずり込み、仕留める。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%83%B3%E3%83%89%E3%83%AF%E3%83%BC%E3%83%A0",
     "appearances": [
       {
         "id": "rnyclxp8"
       }
     ],
-    "organizations": [
-      {
-        "id": "4f623b6b"
-      }
-    ]
+    "skills": [
+      "ドトン・ジツ"
+    ],
+    "description": "サンズ・オブ・ケオスのニンジャ。\n相手を床下に引きずり込み、仕留める。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%83%B3%E3%83%89%E3%83%AF%E3%83%BC%E3%83%A0"
   },
   {
     "id": "feae61",
@@ -46534,19 +46558,19 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "s4cltp8w"
+      }
+    ],
     "skills": [
       "狂気の力"
     ],
     "appearance": "怪物めいた巨大な蜘蛛。",
     "description": "イェテボリの森を住処としていたリアルニンジャ。\n狂気の力でニンジャを集め餌として保存していた。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%A9%E3%82%AF%E3%83%8D",
-    "appearances": [
-      {
-        "id": "s4cltp8w"
-      }
-    ],
-    "organizations": []
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%A9%E3%82%AF%E3%83%8D"
   },
   {
     "id": "15df4d23",
