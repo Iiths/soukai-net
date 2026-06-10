@@ -418,6 +418,27 @@
   text-decoration: underline;
 }
 
+/* リンク一覧 */
+.linkList {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.externalLink {
+  color: var(--color-primary-mint);
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+.externalLink:hover {
+  color: var(--color-primary);
+  text-decoration: underline;
+}
+
 /* クリック可能な組織バッジ */
 .searchableTag {
   background: none;

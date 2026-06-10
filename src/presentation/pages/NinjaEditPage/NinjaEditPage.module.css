@@ -510,6 +510,21 @@
   flex: 1;
 }
 
+/* ラベル付きリンク入力行（名称＋URL＋削除ボタン） */
+.labeledLinkRow {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.labeledLinkRow .input:first-child {
+  flex: 0 0 14rem;
+}
+
+.labeledLinkRow .input:nth-child(2) {
+  flex: 1;
+}
+
 /* ---- トグル（チェックボックス行） ---- */
 .toggle {
   display: flex;

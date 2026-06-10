@@ -2,6 +2,12 @@ import { NinjaSoul } from './NinjaSoul';
 import { OrganizationRef } from './Organization';
 import { EpisodeRef } from './Episode';
 
+/** ラベル付きリンク（名鑑URL・noteURL等で使用） */
+export type LabeledLink = {
+  label: string;
+  url: string;
+};
+
 export type NinjaType =
   | 'ニンジャソウル憑依者'
   | 'リアルニンジャ'
@@ -38,6 +44,9 @@ export type Ninja = {
   appearance?: string;
   description?: string;
   status?: 'alive' | 'dead' | 'unknown';
-  imageUrl?: string;
   wikiUrl?: string;
+  /** ニンジャ名鑑ツイートへのリンク（複数可） */
+  ninjaUrls?: LabeledLink[];
+  /** note公式キャラクターページへのリンク（複数可） */
+  noteUrls?: LabeledLink[];
 };

@@ -20,8 +20,9 @@ function normalizeNinja(raw: unknown): Ninja {
     appearance: nullable(r.appearance) as string | undefined,
     description: nullable(r.description) as string | undefined,
     status: nullable(r.status) as Ninja['status'],
-    imageUrl: nullable(r.imageUrl) as string | undefined,
     wikiUrl: nullable(r.wikiUrl) as string | undefined,
+    ninjaUrls: nullable(r.ninjaUrls) as Ninja['ninjaUrls'],
+    noteUrls: nullable(r.noteUrls) as Ninja['noteUrls'],
   };
 }
 

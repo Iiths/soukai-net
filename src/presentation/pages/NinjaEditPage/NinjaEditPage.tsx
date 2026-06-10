@@ -54,6 +54,8 @@ function ninjaToForm(
       clan: '',
       origin: '',
     },
+    ninjaUrls: ninja.ninjaUrls ?? [],
+    noteUrls: ninja.noteUrls ?? [],
     _hasSoul: !!ninja.ninjaSoul,
   };
 }
@@ -71,10 +73,11 @@ function formToNinja(form: FormState): Ninja {
     role: form.role?.trim() || undefined,
     appearance: form.appearance?.trim() || undefined,
     description: form.description?.trim() || undefined,
-    imageUrl: form.imageUrl?.trim() || undefined,
     wikiUrl: form.wikiUrl?.trim() || undefined,
     aliases: form.aliases?.filter(a => a.trim()) ?? [],
     skills: form.skills?.filter(s => s.trim()) ?? [],
+    ninjaUrls: form.ninjaUrls?.filter(l => l.url.trim()) ?? [],
+    noteUrls: form.noteUrls?.filter(l => l.url.trim()) ?? [],
   };
 }
 
@@ -95,8 +98,9 @@ function emptyForm(): FormState {
     appearance: undefined,
     description: undefined,
     status: undefined,
-    imageUrl: undefined,
     wikiUrl: undefined,
+    ninjaUrls: [],
+    noteUrls: [],
     _hasSoul: false,
   };
 }
@@ -654,15 +658,6 @@ export function NinjaEditPage() {
                 type="url"
               />
             </Field>
-            <Field label="画像 URL">
-              <input
-                className={styles.input}
-                value={form.imageUrl ?? ''}
-                onChange={e => set('imageUrl', e.target.value)}
-                placeholder="https://..."
-                type="url"
-              />
-            </Field>
             <Field label="ID（読み取り専用）">
               <input
                 className={`${styles.input} ${styles.inputReadonly}`}
@@ -670,6 +665,94 @@ export function NinjaEditPage() {
                 readOnly
               />
             </Field>
+          </div>
+        </fieldset>
+
+        {/* ── ニンジャ名鑑 ── */}
+        <fieldset className={styles.fieldset}>
+          <legend className={styles.legend}>ニンジャ名鑑</legend>
+          <div className={styles.dynamicList}>
+            {form.ninjaUrls?.map((item, i) => (
+              <div key={i} className={styles.labeledLinkRow}>
+                <input
+                  className={styles.input}
+                  value={item.label}
+                  onChange={e => {
+                    const next = [...(form.ninjaUrls ?? [])];
+                    next[i] = { ...next[i], label: e.target.value };
+                    set('ninjaUrls', next);
+                  }}
+                  placeholder="名称（例: ナラク・ニンジャ名鑑）"
+                />
+                <input
+                  className={styles.input}
+                  value={item.url}
+                  onChange={e => {
+                    const next = [...(form.ninjaUrls ?? [])];
+                    next[i] = { ...next[i], url: e.target.value };
+                    set('ninjaUrls', next);
+                  }}
+                  placeholder="https://x.com/NJSLYR/status/..."
+                  type="url"
+                />
+                <button
+                  className={styles.btnRemove}
+                  onClick={() => {
+                    const next = (form.ninjaUrls ?? []).filter((_, idx) => idx !== i);
+                    set('ninjaUrls', next);
+                  }}
+                  title="削除"
+                >✕</button>
+              </div>
+            ))}
+            <button
+              className={styles.btnAdd}
+              onClick={() => set('ninjaUrls', [...(form.ninjaUrls ?? []), { label: '', url: '' }])}
+            >＋ 名鑑を追加</button>
+          </div>
+        </fieldset>
+
+        {/* ── note公式ページ ── */}
+        <fieldset className={styles.fieldset}>
+          <legend className={styles.legend}>note公式ページ</legend>
+          <div className={styles.dynamicList}>
+            {form.noteUrls?.map((item, i) => (
+              <div key={i} className={styles.labeledLinkRow}>
+                <input
+                  className={styles.input}
+                  value={item.label}
+                  onChange={e => {
+                    const next = [...(form.noteUrls ?? [])];
+                    next[i] = { ...next[i], label: e.target.value };
+                    set('noteUrls', next);
+                  }}
+                  placeholder="名称（例: ナラク・ニンジャ詳細ページ）"
+                />
+                <input
+                  className={styles.input}
+                  value={item.url}
+                  onChange={e => {
+                    const next = [...(form.noteUrls ?? [])];
+                    next[i] = { ...next[i], url: e.target.value };
+                    set('noteUrls', next);
+                  }}
+                  placeholder="https://diehardtales.com/n/..."
+                  type="url"
+                />
+                <button
+                  className={styles.btnRemove}
+                  onClick={() => {
+                    const next = (form.noteUrls ?? []).filter((_, idx) => idx !== i);
+                    set('noteUrls', next);
+                  }}
+                  title="削除"
+                >✕</button>
+              </div>
+            ))}
+            <button
+              className={styles.btnAdd}
+              onClick={() => set('noteUrls', [...(form.noteUrls ?? []), { label: '', url: '' }])}
+            >＋ noteページを追加</button>
           </div>
         </fieldset>
 
