@@ -10,6 +10,8 @@ export type FilterCriteria = {
   season?: number;
   /** エピソードタイトル（部分一致） */
   episodeTitle?: string;
+  /** エピソードID（完全一致） */
+  episodeId?: string;
   /** ニンジャソウルの等級 */
   ninjaSoulGrade?: NinjaSoulGrade;
   /** 所属ニンジャクラン（部分一致） */
@@ -38,7 +40,8 @@ export class FilterNinjaUseCase {
     const needsEpisodeFilter =
       criteria.arc !== undefined ||
       criteria.season !== undefined ||
-      criteria.episodeTitle !== undefined;
+      criteria.episodeTitle !== undefined ||
+      criteria.episodeId !== undefined;
 
     let episodeMap: Map<string, Episode> = new Map();
     if (needsEpisodeFilter) {
@@ -71,6 +74,12 @@ export class FilterNinjaUseCase {
           const ep = episodeMap.get(ref.id);
           return ep?.title.toLowerCase().includes(criteria.episodeTitle!.toLowerCase());
         });
+        if (!epMatch) return false;
+      }
+
+      // エピソードIDフィルター（完全一致）
+      if (criteria.episodeId) {
+        const epMatch = ninja.appearances.some((ref) => ref.id === criteria.episodeId);
         if (!epMatch) return false;
       }
 

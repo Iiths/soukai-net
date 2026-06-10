@@ -6,6 +6,7 @@ export type FilterCriteria = {
   arc?: string;
   season?: number;
   episodeTitle?: string;
+  episodeId?: string;
   ninjaSoulGrade?: NinjaSoulGrade;
   ninjaSoulClan?: string;
   ninjaType?: NinjaType;
@@ -64,6 +65,9 @@ function applyFilter(ninjas: Ninja[], episodes: Episode[], criteria: FilterCrite
         episodeMap.get(ref.id)?.title.toLowerCase().includes(criteria.episodeTitle!.toLowerCase())
       );
       if (!match) return false;
+    }
+    if (criteria.episodeId) {
+      if (!ninja.appearances.some((ref) => ref.id === criteria.episodeId)) return false;
     }
     if (criteria.ninjaSoulGrade && ninja.ninjaSoul?.grade !== criteria.ninjaSoulGrade) return false;
     if (criteria.ninjaSoulClan &&

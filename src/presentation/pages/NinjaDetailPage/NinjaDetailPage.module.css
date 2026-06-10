@@ -417,3 +417,27 @@
   color: var(--color-primary);
   text-decoration: underline;
 }
+
+/* クリック可能な組織バッジ */
+.searchableTag {
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  display: inline-flex;
+}
+
+.searchableTag:hover > * {
+  opacity: 0.75;
+}
+
+/* クリック可能なエピソードカード */
+.episodeCardClickable {
+  cursor: pointer;
+  transition: border-color 0.15s, background 0.15s;
+}
+
+.episodeCardClickable:hover {
+  border-color: var(--color-primary-mint);
+  background: var(--color-bg-secondary, #1a2233);
+}

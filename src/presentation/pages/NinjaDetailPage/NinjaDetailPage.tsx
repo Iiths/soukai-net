@@ -198,7 +198,14 @@ export function NinjaDetailPage() {
             <h2 className={styles.sectionTitle}>所属組織</h2>
             <div className={styles.tagRow}>
               {organizations.map((org) => (
-                <Badge key={org.id} variant="org" text={org.name} />
+                <button
+                  key={org.id}
+                  className={styles.searchableTag}
+                  onClick={() => navigate(`/?org=${encodeURIComponent(org.id)}&filter=1`)}
+                  title={`「${org.name}」で検索`}
+                >
+                  <Badge variant="org" text={org.name} />
+                </button>
               ))}
             </div>
           </section>
@@ -228,7 +235,12 @@ export function NinjaDetailPage() {
             <>
               <div className={styles.episodeGrid}>
                 {(showAllEpisodes ? episodes : episodes.slice(0, EPISODE_INITIAL_COUNT)).map((ep) => (
-                  <div key={ep.id} className={styles.episodeCard}>
+                  <div
+                    key={ep.id}
+                    className={`${styles.episodeCard} ${styles.episodeCardClickable}`}
+                    onClick={() => navigate(`/?epid=${encodeURIComponent(ep.id)}&filter=1`)}
+                    title={`「${ep.title}」の登場ニンジャを検索`}
+                  >
                     <div className={styles.epTitle}>{ep.title}</div>
                     <div className={styles.epMeta}>
                       {hasValue(ep.arc) && <Badge variant="arc" text={ep.arc!} />}
