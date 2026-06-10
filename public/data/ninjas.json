@@ -19877,14 +19877,51 @@
   {
     "id": "49c74611",
     "name": "スパルトイ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "96k5mey9",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ヘビ・クリス",
+      "蛇矛",
+      "邪悪なアフリカ投げナイフめいたスリケン",
+      "ヘビ・ナギナタ"
+    ],
+    "role": "マスター位階",
+    "appearance": "長身痩躯。まだらに染めた弁髪。顔の左半分に黒い刺青。\n最初は黄土色の装束。後に黄と黒の迷彩模様装束。メンポ。\n「アルター・オブ～」の負傷後は左眼を閉じている。",
+    "description": "新生ザイバツのニンジャ。\nニーズヘグの押しかけ弟子。\n蛇矛など複数の武器を扱う手練れ。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%91%E3%83%AB%E3%83%88%E3%82%A4",
+    "appearances": [
+      {
+        "id": "vrg4755o"
+      },
+      {
+        "id": "6e95e58d"
+      },
+      {
+        "id": "vyhgnuh0"
+      },
+      {
+        "id": "8r8ibb8m"
+      },
+      {
+        "id": "his9gvkp"
+      },
+      {
+        "id": "6dcsfo7u"
+      }
+    ],
     "organizations": [
       {
         "id": "zaibatsu-p3p4"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%91%E3%83%AB%E3%83%88%E3%82%A4"
+    ]
   },
   {
     "id": "da510f47",
@@ -20108,13 +20145,29 @@
   {
     "id": "f4df974e",
     "name": "プリースト",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "5s82r28d",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "description": "新生ザイバツのニンジャ。\nドラゴン・シュラインを探索していた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%97%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%88%EF%BC%8F%E3%83%9E%E3%83%BC%E3%83%81%E3%83%98%E3%82%A2",
+    "appearances": [
+      {
+        "id": "6e95e58d"
+      }
+    ],
     "organizations": [
       {
         "id": "zaibatsu-p3p4"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "31e4e8f6",
@@ -20273,13 +20326,29 @@
   {
     "id": "bbabed3b",
     "name": "マーチヘア",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "xq2729v6",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "description": "新生ザイバツのニンジャ。\nドラゴン・シュラインを探索していた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%97%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%88%EF%BC%8F%E3%83%9E%E3%83%BC%E3%83%81%E3%83%98%E3%82%A2",
+    "appearances": [
+      {
+        "id": "6e95e58d"
+      }
+    ],
     "organizations": [
       {
         "id": "zaibatsu-p3p4"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "7e7b57ac",
@@ -20306,17 +20375,6 @@
     "description": "新生ザイバツのニンジャ。\nドラゴン・ニンジャの捜索任務にあたっていた。",
     "status": "dead",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%AB%E3%82%B3%E3%83%A9%E3%82%AF%EF%BC%8F%E3%83%A9%E3%83%B3%E3%83%89%E3%82%AF%E3%83%A9%E3%83%96%EF%BC%8F%E3%82%AA%E3%83%AD%E3%83%90%E3%82%B9"
-  },
-  {
-    "id": "410a044e",
-    "name": "コショウ",
-    "ninjaType": "ニンジャソウル憑依者",
-    "organizations": [
-      {
-        "id": "zaibatsu-p3p4"
-      }
-    ],
-    "appearances": []
   },
   {
     "id": "a77db545",
@@ -20654,13 +20712,31 @@
   {
     "id": "02dc0a38",
     "name": "スティギア",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "jt94x83l",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "ハデス・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "影と不可視にまつわるジツ"
+    ],
+    "appearance": "少年。",
+    "description": "新生ザイバツのニュービーニンジャ。\nアラクネに囚われていたが助けられ、パープルタコの庇護を受けた。",
+    "status": "alive",
+    "appearances": [
+      {
+        "id": "s4cltp8w"
+      }
+    ],
     "organizations": [
       {
         "id": "zaibatsu-p3p4"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "3c542167",
@@ -20943,13 +21019,29 @@
   {
     "id": "254d65a5",
     "name": "ラストサムライ",
+    "aliases": [],
     "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "sskd57jj",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ラスト・ジツ",
+      "呪いのカタナ"
+    ],
+    "role": "アデプト位階",
+    "appearance": "赤錆だらけの鎧。",
+    "description": "新生ザイバツのアデプトニンジャ。\n卑金属を錆びさせるジツと緑青の呪剣を振るう。",
+    "status": "unknown",
+    "appearances": [],
     "organizations": [
       {
         "id": "zaibatsu-p3p4"
       }
-    ],
-    "appearances": []
+    ]
   },
   {
     "id": "54916b91",
@@ -41325,17 +41417,6 @@
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AC%E3%83%AB%E3%82%AC%E3%83%B3%E3%83%81%E3%83%A5%E3%82%A2"
   },
   {
-    "id": "ff07c4",
-    "name": "スレイプニル",
-    "organizations": [
-      {
-        "id": "40e6677e"
-      }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%AC%E3%82%A4%E3%83%97%E3%83%8B%E3%83%AB"
-  },
-  {
     "id": "8ba202",
     "name": "メガオーダー",
     "aliases": [],
@@ -46444,10 +46525,28 @@
   {
     "id": "4ac809ad",
     "name": "アラクネ",
+    "aliases": [],
     "ninjaType": "リアルニンジャ",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%A9%E3%82%AF%E3%83%8D"
+    "ninjaSoul": {
+      "id": "zztvuaho",
+      "name": "",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "狂気の力"
+    ],
+    "appearance": "怪物めいた巨大な蜘蛛。",
+    "description": "イェテボリの森を住処としていたリアルニンジャ。\n狂気の力でニンジャを集め餌として保存していた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%A9%E3%82%AF%E3%83%8D",
+    "appearances": [
+      {
+        "id": "s4cltp8w"
+      }
+    ],
+    "organizations": []
   },
   {
     "id": "15df4d23",
