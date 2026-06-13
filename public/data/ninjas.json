@@ -8155,14 +8155,33 @@
     "id": "17754559174",
     "name": "ノンリニア",
     "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "e3ruc1k0",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "見破り"
+    ],
+    "appearance": "不可思議な色彩を帯びた双眸。",
+    "description": "リロン・ケミカル社のニンジャ。\nツツモタセによる変装などを見破るジツを持つ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8E%E3%83%B3%E3%83%AA%E3%83%8B%E3%82%A2",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "rnyclxp8"
+      }
+    ],
     "organizations": [
       {
         "id": "1ede41ee"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8E%E3%83%B3%E3%83%AA%E3%83%8B%E3%82%A2"
+    ]
   },
   {
     "id": "17754559175",
