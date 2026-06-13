@@ -6547,14 +6547,34 @@
     "id": "17754559126",
     "name": "アイアンデビル",
     "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "ocy5fa42",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "ナックルナイフ",
+      "カゼ・ブンシン"
+    ],
+    "appearance": "ストライプ柄ヤクザスーツ。鋼鉄ハンニャ面。",
+    "description": "ゾウラン・ダイ・カイのニンジャ。\nマイめいた動きでブンシンし、二刀のナックルナイフで戦う。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%87%E3%83%93%E3%83%AB",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "3b4d6efa"
+      }
+    ],
     "organizations": [
       {
         "id": "d3e96eb7"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%87%E3%83%93%E3%83%AB"
+    ]
   },
   {
     "id": "17754559127",
@@ -7569,14 +7589,35 @@
     "id": "17754559156",
     "name": "バニシングポイント",
     "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "lnrgd2xe",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "カンフー・カラテ",
+      "イヤーカップ",
+      "マバタキ・ジツ"
+    ],
+    "appearance": "白く長い眉毛。「消失」と刺繍されたカンフーウェア装束。猛禽めいたメンポ。\n好々爺めいたシルエット。",
+    "description": "ヘイ・ジウのニンジャ。\nマバタキ・ジツとカンフー・カラテのタツジン。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%83%8B%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "3b4d6efa"
+      }
+    ],
     "organizations": [
       {
         "id": "76eb5bb8"
       }
-    ],
-    "appearances": [],
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%83%8B%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88"
+    ]
   },
   {
     "id": "17754559157",
@@ -39214,13 +39255,33 @@
   {
     "id": "3a2b3ec6",
     "name": "リバーリーチ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "6unns68z",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "スイトン・クナイ"
+    ],
+    "description": "サンズ・オブ・ケオスのニンジャ。\n指先から水の矢を放つ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%83%94%E3%83%83%E3%82%BA%E3%83%89%E3%82%A2%EF%BC%8F%E3%83%AA%E3%83%90%E3%83%BC%E3%83%AA%E3%83%BC%E3%83%81",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "r4yepeot"
+      }
+    ],
     "organizations": [
       {
         "id": "4f623b6b"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%83%94%E3%83%83%E3%82%BA%E3%83%89%E3%82%A2%EF%BC%8F%E3%83%AA%E3%83%90%E3%83%BC%E3%83%AA%E3%83%BC%E3%83%81"
+    ]
   },
   {
     "id": "ce3293",
@@ -42098,17 +42159,6 @@
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%AA%E3%83%9F%E3%83%8A%E3%83%88%E3%82%A5%E3%82%B9"
   },
   {
-    "id": "4845fc",
-    "name": "オムラ・エンパイア",
-    "organizations": [
-      {
-        "id": "728df8e9"
-      }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AA%E3%83%A0%E3%83%A9%E3%83%BB%E3%82%A8%E3%83%B3%E3%83%91%E3%82%A4%E3%82%A2"
-  },
-  {
     "id": "7ac7e7",
     "name": "アークティック",
     "aliases": [],
@@ -43502,11 +43552,17 @@
     "name": "モーターヤブ",
     "aliases": [],
     "ninjaType": "ロボ・ニンジャ",
-    "organizations": [
-      {
-        "id": "9fd6aaf4"
-      }
+    "skills": [
+      "サスマタ",
+      "ガトリングガン",
+      "機銃",
+      "グレネードランチャー"
     ],
+    "appearance": "逆関節の二脚ロボット。様々な武装。",
+    "description": "オムラ・インダストリが開発した量産型ロボニンジャ。\n堅牢な装甲、強力な武装に加え貧弱なAIを搭載している。\nオムラ内外から様々な亜種が生産された。",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%A4%E3%83%96",
+    "ninjaUrls": [],
+    "noteUrls": [],
     "appearances": [
       {
         "id": "y9j264iq"
@@ -43540,17 +43596,16 @@
       },
       {
         "id": "a26d6fd0"
+      },
+      {
+        "id": "zlsfsxqj"
       }
     ],
-    "skills": [
-      "サスマタ",
-      "ガトリングガン",
-      "機銃",
-      "グレネードランチャー"
-    ],
-    "appearance": "逆関節の二脚ロボット。様々な武装。",
-    "description": "オムラ・インダストリが開発した量産型ロボニンジャ。\n堅牢な装甲、強力な武装に加え貧弱なAIを搭載している。\nオムラ内外から様々な亜種が生産された。",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%A4%E3%83%96"
+    "organizations": [
+      {
+        "id": "9fd6aaf4"
+      }
+    ]
   },
   {
     "id": "d32f31e4",
@@ -57750,5 +57805,610 @@
       }
     ],
     "organizations": []
+  },
+  {
+    "id": "7ldc6ftl",
+    "name": "チューニ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "tm6lgf3z",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "ハッカー",
+      "タクティカルライフル",
+      "カタナ",
+      "メイアルーアジコンパッソ"
+    ],
+    "appearance": "傭兵顔の男。腰にハンドガン。四肢がサイバネ。生体LAN。\n指にハンザイ・コンスピラシーの指輪。",
+    "description": "ハンザイ・コンスピラシーの所属ニンジャ。元傭兵。\nハッキングと戦闘能力を兼ね備えている。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8B",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "70d7fbb4"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "02zeilar",
+    "name": "ドロシー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "qqtd9mtg",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "ドク・カラテ"
+    ],
+    "appearance": "酷薄そうな面構え。女性。ノースリーブのニンジャ装束。\nエメツめいて黒いネイル。",
+    "description": "ハンザイ・コンスピラシーの構成員ニンジャ。元オイランアサシン。\nネイルに塗られたドクで戦う白兵戦特化。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%89%E3%83%AD%E3%82%B7%E3%83%BC",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "70d7fbb4"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "728df8e9"
+      }
+    ]
+  },
+  {
+    "id": "43wdhtmy",
+    "name": "ドクター・ピジョン",
+    "aliases": [],
+    "skills": [],
+    "appearance": "ピンと伸びた髭。",
+    "description": "ハンザイ・コンスピラシーのイングランド支部長。\n犯罪発明王の異名を持つ。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%89%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%94%E3%82%B8%E3%83%A7%E3%83%B3",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "70d7fbb4"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "728df8e9"
+      }
+    ]
+  },
+  {
+    "id": "zqlus9xu",
+    "name": "アプレゲール",
+    "aliases": [],
+    "skills": [],
+    "appearance": "眼鏡。",
+    "description": "ハンザイ・コンスピラシーのニューヨーク支部長。\nヌーテック社の核弾頭を盗み出していた。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%97%E3%83%AC%E3%82%B2%E3%83%BC%E3%83%AB",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "rnyclxp8"
+      },
+      {
+        "id": "70d7fbb4"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "728df8e9"
+      }
+    ]
+  },
+  {
+    "id": "rrh2dax5",
+    "name": "クラーケンロード",
+    "aliases": [],
+    "skills": [],
+    "description": "ハンザイ・コンスピラシーのアタラシ・サイベリア支部長。\n違法カニキャッチ船を率いている。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AF%E3%83%A9%E3%83%BC%E3%82%B1%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "rnyclxp8"
+      },
+      {
+        "id": "70d7fbb4"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "728df8e9"
+      }
+    ]
+  },
+  {
+    "id": "bhbkbtwz",
+    "name": "カシナート",
+    "aliases": [],
+    "skills": [],
+    "description": "ハンザイ・コンスピラシーの構成員。\nレッドドラゴンのUNIXにウイルス感染させた。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%82%B7%E3%83%8A%E3%83%BC%E3%83%88",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "70d7fbb4"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "728df8e9"
+      }
+    ]
+  },
+  {
+    "id": "w9eyz6c8",
+    "name": "ネイルファイル",
+    "aliases": [],
+    "skills": [],
+    "appearance": "ジャケット。\nコトダマ空間上：華麗な図像。",
+    "description": "ハンザイ・コンスピラシーのロス・アンゼルス支部長。\nゼン・ミライ社のCEOを誘拐した。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8D%E3%82%A4%E3%83%AB%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "rnyclxp8"
+      },
+      {
+        "id": "70d7fbb4"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "728df8e9"
+      }
+    ]
+  },
+  {
+    "id": "wphl9qwi",
+    "name": "ドミニオン",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "vgj077os",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "震動カラテ"
+    ],
+    "description": "カタナ社のニンジャ。\nマークフォーを補佐していた。震動カラテの使い手。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%89%E3%83%9F%E3%83%8B%E3%82%AA%E3%83%B3",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "70d7fbb4"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "ca1c8175"
+      }
+    ]
+  },
+  {
+    "id": "ginaus8g",
+    "name": "レオニダス",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "ay5rh0y6",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "ハッカー"
+    ],
+    "description": "ハンザイ・コンスピラシーに所属するハッカーニンジャ。\nメガコーポ相手に偽装工作を仕掛けるワザマエを誇る。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%82%AA%E3%83%8B%E3%83%80%E3%82%B9",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "70d7fbb4"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "728df8e9"
+      }
+    ]
+  },
+  {
+    "id": "artckl6p",
+    "name": "ロードリング",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "596iubf3",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [],
+    "description": "カタナ社のニンジャ。\n突然現れたアラシ・ニンジャと交戦した。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AD%E3%83%BC%E3%83%89%E3%83%AA%E3%83%B3%E3%82%B0%EF%BC%8F%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%83%AA%E3%82%A4%EF%BC%8F%E3%83%AC%E3%82%BE%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%88",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "70d7fbb4"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "ca1c8175"
+      }
+    ]
+  },
+  {
+    "id": "grb4lmi9",
+    "name": "レゾリュート",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "650vmb07",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [],
+    "description": "カタナ社のニンジャ。\n突然現れたアラシ・ニンジャと交戦した。",
+    "status": "dead",
+    "wikiUrl": "カタナ社のニンジャ。 突然現れたアラシ・ニンジャと交戦した。",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "70d7fbb4"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "ca1c8175"
+      }
+    ]
+  },
+  {
+    "id": "bk2a1iv9",
+    "name": "ジェントリイ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "h7i9xg4g",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "仕込み杖",
+      "カラテ・エンハンス"
+    ],
+    "description": "カタナ社のニンジャ。\n仕込み杖に紫色のカラテ・エンハンスを込めて切りかかる。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AD%E3%83%BC%E3%83%89%E3%83%AA%E3%83%B3%E3%82%B0%EF%BC%8F%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%83%AA%E3%82%A4%EF%BC%8F%E3%83%AC%E3%82%BE%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%88",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "70d7fbb4"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "ca1c8175"
+      }
+    ]
+  },
+  {
+    "id": "t5m323z2",
+    "name": "ロバストネス",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "rn5fjo1d",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [],
+    "description": "ロクハラ・コーポレーションのニンジャ。\n経験を積んだ交渉役。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AD%E3%83%90%E3%82%B9%E3%83%88%E3%83%8D%E3%82%B9",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "70d7fbb4"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "xpmxfwp7"
+      }
+    ]
+  },
+  {
+    "id": "gh85oirp",
+    "name": "フォーティチュード",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "z4xprfwf",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [],
+    "description": "ロクハラ・コーポレーションのニンジャ。\nレリックを格納した車両を護衛していた。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A9%E3%83%BC%E3%83%86%E3%82%A3%E3%83%81%E3%83%A5%E3%83%BC%E3%83%89%EF%BC%8F%E3%83%A9%E3%83%B3%E3%83%89%E3%83%87%E3%83%BC%E3%83%A2%E3%83%B3",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "70d7fbb4"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "xpmxfwp7"
+      }
+    ]
+  },
+  {
+    "id": "31kk6os3",
+    "name": "ランドデーモン",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "tm60djuz",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [],
+    "description": "ロクハラ・コーポレーションのニンジャ。\nレリックを格納した車両を護衛していた。",
+    "status": "unknown",
+    "wikiUrl": "ロクハラ・コーポレーションのニンジャ。 レリックを格納した車両を護衛していた。",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "70d7fbb4"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "xpmxfwp7"
+      }
+    ]
+  },
+  {
+    "id": "89yr1tz5",
+    "name": "ヘルスラッシュ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "j61hkg1s",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "カタナ"
+    ],
+    "appearance": "稲妻模様が描かれた黒いバラクラバ。「ヘル斬大衆」と刺繍された装甲ベスト。",
+    "description": "ならずもの集団「ヘルスラッシャズ」の首領ニンジャ。\nカタナを獲物とする。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%98%E3%83%AB%E3%82%B9%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "70d7fbb4"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "8axjg3l9"
+      }
+    ]
+  },
+  {
+    "id": "308nvln7",
+    "name": "プラエトリアン",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "bq3f9pdk",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [],
+    "appearance": "稲妻模様が描かれた黒いバラクラバ。「ヘル斬大衆」と刺繍された装甲ベスト。",
+    "description": "ヘルスラッシャズのニンジャ。\n下衆な言動が目立つ。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%97%E3%83%A9%E3%82%A8%E3%83%88%E3%83%AA%E3%82%A2%E3%83%B3",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "70d7fbb4"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "8axjg3l9"
+      }
+    ]
+  },
+  {
+    "id": "4mik9vei",
+    "name": "キルゴーグル",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "z8gy8iyi",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "アーク放電"
+    ],
+    "appearance": "稲妻模様が描かれた黒いバラクラバ。「ヘル斬大衆」と刺繍された装甲ベスト。\nバラクラバから飛び出したゴーグル。",
+    "description": "ヘルスラッシャズのニンジャ。\n掌から放電して攻撃する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AD%E3%83%AB%E3%82%B4%E3%83%BC%E3%82%B0%E3%83%AB",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "70d7fbb4"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "8axjg3l9"
+      }
+    ]
+  },
+  {
+    "id": "v9m286oh",
+    "name": "トレンチディガー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "okorki2p",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [],
+    "appearance": "稲妻模様が描かれた黒いバラクラバ。「ヘル斬大衆」と刺繍された装甲ベスト。",
+    "description": "ヘルスラッシャズのニンジャ。\n彼らはネオサイタマ郊外で活動している。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%88%E3%83%AC%E3%83%B3%E3%83%81%E3%83%87%E3%82%A3%E3%82%AC%E3%83%BC",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "70d7fbb4"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "8axjg3l9"
+      }
+    ]
+  },
+  {
+    "id": "kpi8rjju",
+    "name": "ポイントマン",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "kse6x2i7",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "ナイフ"
+    ],
+    "appearance": "稲妻模様が描かれた黒いバラクラバ。「ヘル斬大衆」と刺繍された装甲ベスト。",
+    "description": "ヘルスラッシャズのニンジャ。\nナイフ使い。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%83%9E%E3%83%B3",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "70d7fbb4"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "8axjg3l9"
+      }
+    ]
+  },
+  {
+    "id": "jp2am4pc",
+    "name": "タグギャザラー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "nndqeaou",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "ドッグタグ・スリケン"
+    ],
+    "appearance": "稲妻模様が描かれた黒いバラクラバ。「ヘル斬大衆」と刺繍された装甲ベスト。\nバラクラバの全面に連ねて貼り付けられたドッグタグ。",
+    "description": "ヘルスラッシャズのニンジャ。\nドッグタグをスリケンめいて投擲する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%82%B0%E3%82%AE%E3%83%A3%E3%82%B6%E3%83%A9%E3%83%BC",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "70d7fbb4"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "8axjg3l9"
+      }
+    ]
+  },
+  {
+    "id": "zn1lo9fu",
+    "name": "サムボルバー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "96zz87wb",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "親指銃"
+    ],
+    "appearance": "稲妻模様が描かれた黒いバラクラバ。「ヘル斬大衆」と刺繍された装甲ベスト。",
+    "description": "ヘルスラッシャズのニンジャ。\n親指銃なるもので連続射撃する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%A0%E3%83%9C%E3%83%AB%E3%83%90%E3%83%BC",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "70d7fbb4"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "8axjg3l9"
+      }
+    ]
   }
 ]
