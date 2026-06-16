@@ -57108,24 +57108,27 @@
     "ninjaSoul": {
       "id": "1kld09cj",
       "name": "",
-      "grade": "等級不明"
+      "grade": "アーチ級",
+      "clan": "ハッパ・ニンジャ"
     },
-    "organizations": [
-      {
-        "id": "d3e96eb7"
-      }
+    "skills": [
+      "ナイトロブラスト・ジツ"
     ],
+    "appearance": "斑模様ヤクザスーツ姿。",
+    "description": "ゾウラン・ダイ・カイのニンジャ。\n拳圧によって空気を変容、破砕させてしまう。",
+    "status": "dead",
+    "ninjaUrls": [],
+    "noteUrls": [],
     "appearances": [
       {
         "id": "zlsfsxqj"
       }
     ],
-    "skills": [
-      "バクハツ・ジツ（仮）"
-    ],
-    "appearance": "斑模様ヤクザスーツ姿。",
-    "description": "ゾウラン・ダイ・カイのニンジャ。\n危険な爆発系のジツを使う。",
-    "status": "alive"
+    "organizations": [
+      {
+        "id": "d3e96eb7"
+      }
+    ]
   },
   {
     "id": "u75nr07z",
