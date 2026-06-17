@@ -22379,6 +22379,25 @@
       "grade": "グレーター級",
       "clan": "ホウオウ・ニンジャクラン"
     },
+    "organizations": [
+      {
+        "id": "cd4744be"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "z7rgd0bm"
+      },
+      {
+        "id": "x9g18jha"
+      },
+      {
+        "id": "qeenefau"
+      },
+      {
+        "id": "vr3fq73p"
+      }
+    ],
     "skills": [
       "フェニックス・カトン",
       "フェザースリケン"
@@ -22394,26 +22413,7 @@
         "url": "https://x.com/NJSLYR/status/352988754874597378?s=20"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "z7rgd0bm"
-      },
-      {
-        "id": "x9g18jha"
-      },
-      {
-        "id": "qeenefau"
-      },
-      {
-        "id": "vr3fq73p"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "cd4744be"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "1763bf6c",
@@ -22882,6 +22882,19 @@
       "clan": "ロクビ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "cd4744be"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "z7rgd0bm"
+      },
+      {
+        "id": "x9g18jha"
+      }
+    ],
     "skills": [
       "首分離",
       "麻痺毒サイバネ含み針"
@@ -22891,20 +22904,7 @@
     "status": "dead",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%83%A5%E3%83%A9%E3%83%8F%E3%83%B3",
     "ninjaUrls": [],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "z7rgd0bm"
-      },
-      {
-        "id": "x9g18jha"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "cd4744be"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "1947043e",
@@ -49246,20 +49246,25 @@
       "name": "",
       "grade": "等級不明"
     },
+    "skills": [],
+    "appearance": "白いマッシュルームヘア。目が隠れるほど長い前髪。\n黒いメンポ。黒いオーバーサイズのストリートウェア装束。腕に邪悪なエメツタトゥー。",
+    "description": "ゾウラン・ダイ・カイの若いニンジャ。",
+    "status": "alive",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      },
+      {
+        "id": "nn33qjyt"
+      }
+    ],
     "organizations": [
       {
         "id": "d3e96eb7"
       }
-    ],
-    "appearances": [
-      {
-        "id": "8fffe24e"
-      }
-    ],
-    "skills": [],
-    "appearance": "白いマッシュルームヘア。目が隠れるほど長い前髪。\n黒いメンポ。黒いオーバーサイズのストリートウェア装束。腕に邪悪なエメツタトゥー。",
-    "description": "ゾウラン・ダイ・カイの若いニンジャ。",
-    "status": "alive"
+    ]
   },
   {
     "id": "xhm7uo40",
@@ -57111,6 +57116,16 @@
       "grade": "アーチ級",
       "clan": "ハッパ・ニンジャ"
     },
+    "organizations": [
+      {
+        "id": "d3e96eb7"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "zlsfsxqj"
+      }
+    ],
     "skills": [
       "ナイトロブラスト・ジツ"
     ],
@@ -57118,17 +57133,7 @@
     "description": "ゾウラン・ダイ・カイのニンジャ。\n拳圧によって空気を変容、破砕させてしまう。",
     "status": "dead",
     "ninjaUrls": [],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "zlsfsxqj"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "d3e96eb7"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "u75nr07z",
@@ -58653,5 +58658,71 @@
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%BD%E3%83%AC%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3",
     "ninjaUrls": [],
     "noteUrls": []
+  },
+  {
+    "id": "erdcpn39",
+    "name": "サイクロン",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "qc5kklwd",
+      "name": "",
+      "grade": "等級不明",
+      "origin": "カゼ系"
+    },
+    "skills": [
+      "テコン・ドー",
+      "ソニックカラテ"
+    ],
+    "appearance": "ヤクザジャケット。「끝발까지」と書かれた虎模様のエメツタトゥー。鋭いメンポ。",
+    "description": "ゾウラン・ダイ・カイにスカウトされたニンジャ。\nテコン・ドーとソニックカラテを組み合わせて戦う武闘派。",
+    "status": "alive",
+    "ninjaUrls": [
+      {
+        "label": "ニンジャ名鑑リンク",
+        "url": "https://x.com/NJSLYR/status/1789907434909086144?s=20"
+      }
+    ],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "nn33qjyt"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "d3e96eb7"
+      }
+    ]
+  },
+  {
+    "id": "2wxze4rh",
+    "name": "ディバンカー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "32knpj1v",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "プラズマトンファー",
+      "電磁シールド"
+    ],
+    "appearance": "四角い顔。展開式メンポ。両手にトンファー。",
+    "description": "KATANA所属のニンジャ。\n電磁シールドを展開できる二刀のプラズマトンファーで戦う。",
+    "status": "dead",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "nn33qjyt"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "ca1c8175"
+      }
+    ]
   }
 ]
