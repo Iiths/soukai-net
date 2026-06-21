@@ -16972,7 +16972,9 @@
     "role": "アデプト位階",
     "description": "ザイバツのニンジャ。パーガトリー派閥。\n同期のガラハッドに出世で追い抜かれている。",
     "status": "dead",
-    "wikiUrl": "http://localhost:5173/ninja/37ac486c/edit"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%82%A4%E3%83%AC%E3%83%B3%EF%BC%8F%E3%82%AC%E3%83%A9%E3%83%8F%E3%83%83%E3%83%89%EF%BC%8F%E3%83%98%E3%83%B4%E3%82%A3%E3%83%BC%E3%83%A1%E3%82%A4%E3%82%B9%EF%BC%8F%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB%E3%83%81%E3%83%A7%E3%83%B3%EF%BC%8F%E3%82%AF%E3%83%AD%E3%82%A6%E3%83%A9%E3%83%BC",
+    "ninjaUrls": [],
+    "noteUrls": []
   },
   {
     "id": "3c4adc35",
@@ -49246,12 +49248,11 @@
       "name": "",
       "grade": "等級不明"
     },
-    "skills": [],
-    "appearance": "白いマッシュルームヘア。目が隠れるほど長い前髪。\n黒いメンポ。黒いオーバーサイズのストリートウェア装束。腕に邪悪なエメツタトゥー。",
-    "description": "ゾウラン・ダイ・カイの若いニンジャ。",
-    "status": "alive",
-    "ninjaUrls": [],
-    "noteUrls": [],
+    "organizations": [
+      {
+        "id": "d3e96eb7"
+      }
+    ],
     "appearances": [
       {
         "id": "8fffe24e"
@@ -49260,11 +49261,12 @@
         "id": "nn33qjyt"
       }
     ],
-    "organizations": [
-      {
-        "id": "d3e96eb7"
-      }
-    ]
+    "skills": [],
+    "appearance": "白いマッシュルームヘア。目が隠れるほど長い前髪。\n黒いメンポ。黒いオーバーサイズのストリートウェア装束。腕に邪悪なエメツタトゥー。",
+    "description": "ゾウラン・ダイ・カイの若いニンジャ。",
+    "status": "alive",
+    "ninjaUrls": [],
+    "noteUrls": []
   },
   {
     "id": "xhm7uo40",
@@ -58670,6 +58672,16 @@
       "grade": "等級不明",
       "origin": "カゼ系"
     },
+    "organizations": [
+      {
+        "id": "d3e96eb7"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "nn33qjyt"
+      }
+    ],
     "skills": [
       "テコン・ドー",
       "ソニックカラテ"
@@ -58683,17 +58695,7 @@
         "url": "https://x.com/NJSLYR/status/1789907434909086144?s=20"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "nn33qjyt"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "d3e96eb7"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "2wxze4rh",
@@ -58705,6 +58707,16 @@
       "name": "",
       "grade": "等級不明"
     },
+    "organizations": [
+      {
+        "id": "ca1c8175"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "nn33qjyt"
+      }
+    ],
     "skills": [
       "プラズマトンファー",
       "電磁シールド"
@@ -58713,16 +58725,55 @@
     "description": "KATANA所属のニンジャ。\n電磁シールドを展開できる二刀のプラズマトンファーで戦う。",
     "status": "dead",
     "ninjaUrls": [],
+    "noteUrls": []
+  },
+  {
+    "id": "0g7xkzlf",
+    "name": "デスアダー",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "weq4gkr3",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [],
+    "appearance": "ベージュ色のカラテ胴着。女性。",
+    "description": "恐らくコブラ教団のニンジャ。\nメイヘムを倒したニンジャを追ってネオサイタマに向かい、\nオーストラリアに辿り着いた。",
+    "status": "alive",
+    "ninjaUrls": [],
     "noteUrls": [],
     "appearances": [
       {
-        "id": "nn33qjyt"
+        "id": "vnr9112e"
       }
     ],
-    "organizations": [
+    "organizations": []
+  },
+  {
+    "id": "llraezam",
+    "name": "ソリッドエンド",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "dvc2wvzc",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "網膜HUD",
+      "IRCクナイ"
+    ],
+    "appearance": "身体の一定割合がサイバネ。左腕にハンドベルトUNIX。",
+    "description": "ネオサイタマのフリーランスニンジャ。\n巨大資産目的でグランマの塔に侵入した。",
+    "status": "alive",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
       {
-        "id": "ca1c8175"
+        "id": "665uuria"
       }
-    ]
+    ],
+    "organizations": []
   }
 ]
