@@ -216,28 +216,11 @@
       "grade": "等級不明",
       "clan": null
     },
-    "skills": [
-      "ジュー・ジツ",
-      "黒炎"
-    ],
-    "description": "ニンジャスレイヤーに宿る宿る謎のニンジャソウル。\n第4部現在はマスラダに憑いている。\n邪悪だが、先代ニンジャスレイヤーであるフジキドの影響も受けている。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8A%E3%83%A9%E3%82%AF%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
-    "ninjaUrls": [
+    "organizations": [
       {
-        "label": "トリロジー名鑑",
-        "url": "https://x.com/NJSLYR/status/27602702359855104"
-      },
-      {
-        "label": "トリロジー名鑑N",
-        "url": "https://x.com/NJSLYR/status/1685846205350486016"
-      },
-      {
-        "label": "AoM名鑑",
-        "url": "https://x.com/NJSLYR/status/998417618095620096"
+        "id": "a91ea54d"
       }
     ],
-    "noteUrls": [],
     "appearances": [
       {
         "id": "2aa88754"
@@ -537,11 +520,28 @@
         "id": "zlsfsxqj"
       }
     ],
-    "organizations": [
+    "skills": [
+      "ジュー・ジツ",
+      "黒炎"
+    ],
+    "description": "ニンジャスレイヤーに宿る宿る謎のニンジャソウル。\n第4部現在はマスラダに憑いている。\n邪悪だが、先代ニンジャスレイヤーであるフジキドの影響も受けている。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8A%E3%83%A9%E3%82%AF%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
+    "ninjaUrls": [
       {
-        "id": "a91ea54d"
+        "label": "トリロジー名鑑",
+        "url": "https://x.com/NJSLYR/status/27602702359855104"
+      },
+      {
+        "label": "トリロジー名鑑N",
+        "url": "https://x.com/NJSLYR/status/1685846205350486016"
+      },
+      {
+        "label": "AoM名鑑",
+        "url": "https://x.com/NJSLYR/status/998417618095620096"
       }
-    ]
+    ],
+    "noteUrls": []
   },
   {
     "id": "177545592",
@@ -1537,31 +1537,11 @@
       "ナンシー・リン"
     ],
     "ninjaType": "非ニンジャ",
-    "skills": [
-      "ハッカー"
-    ],
-    "description": "フリー・ジャーナリストにしてハッカー。\n時に単独で敵地に侵入し、時にニンジャスレイヤーと共に悪事を暴く。\n4部では汎用オイランドロイドに宿り、ナンシー・リンを名乗る。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8A%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%BB%E3%83%AA%E3%83%BC",
-    "ninjaUrls": [
+    "organizations": [
       {
-        "label": "トリロジー名鑑",
-        "url": "https://x.com/NJSLYR/status/20312511409"
-      },
-      {
-        "label": "トリロジー名鑑N",
-        "url": "https://x.com/NJSLYR/status/1652175409973460992"
-      },
-      {
-        "label": "AoM名鑑（ナンシー・リー）",
-        "url": "https://x.com/NJSLYR/status/1263862444042010625"
-      },
-      {
-        "label": "AoM名鑑（ナンシー・リン）",
-        "url": "https://x.com/NJSLYR/status/1430340603158482948"
+        "id": "a91ea54d"
       }
     ],
-    "noteUrls": [],
     "appearances": [
       {
         "id": "dawsncb4"
@@ -1756,11 +1736,31 @@
         "id": "c76aee87"
       }
     ],
-    "organizations": [
+    "skills": [
+      "ハッカー"
+    ],
+    "description": "フリー・ジャーナリストにしてハッカー。\n時に単独で敵地に侵入し、時にニンジャスレイヤーと共に悪事を暴く。\n4部では汎用オイランドロイドに宿り、ナンシー・リンを名乗る。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8A%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%BB%E3%83%AA%E3%83%BC",
+    "ninjaUrls": [
       {
-        "id": "a91ea54d"
+        "label": "トリロジー名鑑",
+        "url": "https://x.com/NJSLYR/status/20312511409"
+      },
+      {
+        "label": "トリロジー名鑑N",
+        "url": "https://x.com/NJSLYR/status/1652175409973460992"
+      },
+      {
+        "label": "AoM名鑑（ナンシー・リー）",
+        "url": "https://x.com/NJSLYR/status/1263862444042010625"
+      },
+      {
+        "label": "AoM名鑑（ナンシー・リン）",
+        "url": "https://x.com/NJSLYR/status/1430340603158482948"
       }
-    ]
+    ],
+    "noteUrls": []
   },
   {
     "id": "177545598",
@@ -2135,37 +2135,11 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "ピストル・カラテ",
-      "49マグナム",
-      "カラス・ガン",
-      "シニフリ・ジツ",
-      "カラス変身"
-    ],
-    "role": "私立探偵",
-    "appearance": "白髪。黒の瞳。眠そうな目蓋が印象的な顔立ち。身長190cm。首の後ろに生体LAN端子。\nカラスめいたロングコート。額に黒い太陽コロナめいた傷痕。負傷後は右目に眼帯。\n第4部後は三本足のカラス。後に人間形態と自由に変えられるようになった。",
-    "description": "キョート共和国の私立探偵。暗黒武道ピストルカラテの使い手。\n人情に厚く、様々な事件に立ち向かう。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%82%AB%E3%82%AE%E3%83%BB%E3%82%AC%E3%83%B3%E3%83%89%E3%83%BC",
-    "ninjaUrls": [
+    "organizations": [
       {
-        "label": "トリロジー名鑑",
-        "url": "https://x.com/NJSLYR/status/29066047798"
-      },
-      {
-        "label": "トリロジー名鑑N",
-        "url": "https://x.com/NJSLYR/status/1663385611821260800"
-      },
-      {
-        "label": "AoM名鑑（タカギ・ガンドー）",
-        "url": "https://x.com/NJSLYR/status/1010370336477474816"
-      },
-      {
-        "label": "AoM名鑑（タカギ・ガンドー）",
-        "url": "https://x.com/NJSLYR/status/1905947931800125490"
+        "id": "a91ea54d"
       }
     ],
-    "noteUrls": [],
     "appearances": [
       {
         "id": "3zn1rjr5"
@@ -2267,11 +2241,37 @@
         "id": "3972e76a"
       }
     ],
-    "organizations": [
+    "skills": [
+      "ピストル・カラテ",
+      "49マグナム",
+      "カラス・ガン",
+      "シニフリ・ジツ",
+      "カラス変身"
+    ],
+    "role": "私立探偵",
+    "appearance": "白髪。黒の瞳。眠そうな目蓋が印象的な顔立ち。身長190cm。首の後ろに生体LAN端子。\nカラスめいたロングコート。額に黒い太陽コロナめいた傷痕。負傷後は右目に眼帯。\n第4部後は三本足のカラス。後に人間形態と自由に変えられるようになった。",
+    "description": "キョート共和国の私立探偵。暗黒武道ピストルカラテの使い手。\n人情に厚く、様々な事件に立ち向かう。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%82%AB%E3%82%AE%E3%83%BB%E3%82%AC%E3%83%B3%E3%83%89%E3%83%BC",
+    "ninjaUrls": [
       {
-        "id": "a91ea54d"
+        "label": "トリロジー名鑑",
+        "url": "https://x.com/NJSLYR/status/29066047798"
+      },
+      {
+        "label": "トリロジー名鑑N",
+        "url": "https://x.com/NJSLYR/status/1663385611821260800"
+      },
+      {
+        "label": "AoM名鑑（タカギ・ガンドー）",
+        "url": "https://x.com/NJSLYR/status/1010370336477474816"
+      },
+      {
+        "label": "AoM名鑑（タカギ・ガンドー）",
+        "url": "https://x.com/NJSLYR/status/1905947931800125490"
       }
-    ]
+    ],
+    "noteUrls": []
   },
   {
     "id": "1775455913",
@@ -2287,6 +2287,12 @@
       "grade": "アーチ級",
       "clan": ""
     },
+    "organizations": [
+      {
+        "id": "a91ea54d"
+      }
+    ],
+    "appearances": [],
     "skills": [
       "ユメミル・ジツ"
     ],
@@ -2307,13 +2313,7 @@
         "url": "https://x.com/NJSLYR/status/943676625945690112"
       }
     ],
-    "noteUrls": [],
-    "appearances": [],
-    "organizations": [
-      {
-        "id": "a91ea54d"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "1775455914",
@@ -2328,28 +2328,17 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "ソウル・アブソープション・ジツ"
-    ],
-    "appearance": "アフロヘアー。上半身裸。\n第4部以降は顎鬚を生やす。\n身長は第1部時点で身長173cm。第4部以降は180㎝。",
-    "description": "アフロ頭の元高校生ニンジャ。\n1部ではソウカイヤを抜けシマナガシに属していた。\n4部以降はアラスカでアニキと慕われている。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%89",
-    "ninjaUrls": [
+    "organizations": [
       {
-        "label": "トリロジー名鑑",
-        "url": "https://x.com/NJSLYR/status/21827960544"
+        "id": "soukaiya-p1"
       },
       {
-        "label": "トリロジー名鑑N",
-        "url": "https://x.com/NJSLYR/status/1657943396370243585"
+        "id": "8d0b3043"
       },
       {
-        "label": "AoM名鑑",
-        "url": "https://x.com/NJSLYR/status/903539744142835712"
+        "id": "a91ea54d"
       }
     ],
-    "noteUrls": [],
     "appearances": [
       {
         "id": "8x6pt5fy"
@@ -2424,17 +2413,28 @@
         "id": "gzrph4m3"
       }
     ],
-    "organizations": [
+    "skills": [
+      "ソウル・アブソープション・ジツ"
+    ],
+    "appearance": "アフロヘアー。上半身裸。\n第4部以降は顎鬚を生やす。\n身長は第1部時点で身長173cm。第4部以降は180㎝。",
+    "description": "アフロ頭の元高校生ニンジャ。\n1部ではソウカイヤを抜けシマナガシに属していた。\n4部以降はアラスカでアニキと慕われている。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%89",
+    "ninjaUrls": [
       {
-        "id": "soukaiya-p1"
+        "label": "トリロジー名鑑",
+        "url": "https://x.com/NJSLYR/status/21827960544"
       },
       {
-        "id": "8d0b3043"
+        "label": "トリロジー名鑑N",
+        "url": "https://x.com/NJSLYR/status/1657943396370243585"
       },
       {
-        "id": "a91ea54d"
+        "label": "AoM名鑑",
+        "url": "https://x.com/NJSLYR/status/903539744142835712"
       }
-    ]
+    ],
+    "noteUrls": []
   },
   {
     "id": "1775455915",
@@ -2895,26 +2895,11 @@
       "clan": "シ・ニンジャクラン",
       "origin": "イカ・ニンジャクランの高位ソウルも併せ持つ。"
     },
-    "skills": [
-      "触手",
-      "カラテドレイン",
-      "ゾンビー生成"
-    ],
-    "appearance": "長身。胸元が強調されたPVC白衣。PVCナース帽。\nオレンジ色のボブカットが印象的。オレンジ色のハイヒール。シリコン製の豊満。\nニンジャ化後は上記のような霊体姿。本体は巨大な触手の怪物。",
-    "description": "リー先生の愛人兼助手。\n日本有数の頭脳を持つ。現在の本体はカイジュウサイズ。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%83%96%E3%82%AD%E3%83%BB%E3%83%8A%E3%83%8F%E3%82%BF",
-    "ninjaUrls": [
+    "organizations": [
       {
-        "label": "トリロジー名鑑",
-        "url": "https://x.com/NJSLYR/status/29065606983"
-      },
-      {
-        "label": "トリロジー名鑑N",
-        "url": "https://x.com/NJSLYR/status/1663383967742189568"
+        "id": "09afd629"
       }
     ],
-    "noteUrls": [],
     "appearances": [
       {
         "id": "t4llx7ft"
@@ -2944,11 +2929,26 @@
         "id": "1rdmzslz"
       }
     ],
-    "organizations": [
+    "skills": [
+      "触手",
+      "カラテドレイン",
+      "ゾンビー生成"
+    ],
+    "appearance": "長身。胸元が強調されたPVC白衣。PVCナース帽。\nオレンジ色のボブカットが印象的。オレンジ色のハイヒール。シリコン製の豊満。\nニンジャ化後は上記のような霊体姿。本体は巨大な触手の怪物。",
+    "description": "リー先生の愛人兼助手。\n日本有数の頭脳を持つ。現在の本体はカイジュウサイズ。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%83%96%E3%82%AD%E3%83%BB%E3%83%8A%E3%83%8F%E3%82%BF",
+    "ninjaUrls": [
       {
-        "id": "09afd629"
+        "label": "トリロジー名鑑",
+        "url": "https://x.com/NJSLYR/status/29065606983"
+      },
+      {
+        "label": "トリロジー名鑑N",
+        "url": "https://x.com/NJSLYR/status/1663383967742189568"
       }
-    ]
+    ],
+    "noteUrls": []
   },
   {
     "id": "1775455928",
@@ -2963,30 +2963,11 @@
       "clan": "シ・ニンジャクラン",
       "origin": ""
     },
-    "skills": [
-      "爪",
-      "超再生能力",
-      "ゲン・ジツ"
-    ],
-    "appearance": "病的な細面、長身痩躯。\nPVC白衣。分厚いセル眼鏡。\nニンジャ化後は暗青のニンジャ装束の上から白衣。",
-    "description": "リー先生の助手兼護衛。\n強大なニンジャソウルを得た代償に日光アレルギーになった。\nよく首だけになる。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%AB%E3%83%BC%E3%83%96%E3%83%A9%E3%83%83%E3%83%89",
-    "ninjaUrls": [
+    "organizations": [
       {
-        "label": "トリロジー名鑑",
-        "url": "https://x.com/NJSLYR/status/21994080128"
-      },
-      {
-        "label": "トリロジー名鑑N",
-        "url": "https://x.com/NJSLYR/status/1658308055120089088"
-      },
-      {
-        "label": "AoM名鑑",
-        "url": "https://x.com/NJSLYR/status/1131023378276446208"
+        "id": "09afd629"
       }
     ],
-    "noteUrls": [],
     "appearances": [
       {
         "id": "t4llx7ft"
@@ -3028,11 +3009,30 @@
         "id": "emcygtsj"
       }
     ],
-    "organizations": [
+    "skills": [
+      "爪",
+      "超再生能力",
+      "ゲン・ジツ"
+    ],
+    "appearance": "病的な細面、長身痩躯。\nPVC白衣。分厚いセル眼鏡。\nニンジャ化後は暗青のニンジャ装束の上から白衣。",
+    "description": "リー先生の助手兼護衛。\n強大なニンジャソウルを得た代償に日光アレルギーになった。\nよく首だけになる。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%AB%E3%83%BC%E3%83%96%E3%83%A9%E3%83%83%E3%83%89",
+    "ninjaUrls": [
       {
-        "id": "09afd629"
+        "label": "トリロジー名鑑",
+        "url": "https://x.com/NJSLYR/status/21994080128"
+      },
+      {
+        "label": "トリロジー名鑑N",
+        "url": "https://x.com/NJSLYR/status/1658308055120089088"
+      },
+      {
+        "label": "AoM名鑑",
+        "url": "https://x.com/NJSLYR/status/1131023378276446208"
       }
-    ]
+    ],
+    "noteUrls": []
   },
   {
     "id": "1775455929",
@@ -4392,32 +4392,17 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "編笠",
-      "マチューテ",
-      "タケヤリ",
-      "数々のニンジャ・トラップ"
-    ],
-    "role": "サワタリ・カンパニーCEO",
-    "appearance": "迷彩柄のニンジャ装束。ベトコン風の衣笠。\n4部では通常時はモスグリーンの開襟シャツや白衣。戦闘時は軍コートを羽織る。",
-    "description": "危険なナム妄想に囚われた狂気のニンジャ。\n仲間を守るため奔走している。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A9%E3%83%AC%E3%82%B9%E3%83%88%E3%83%BB%E3%82%B5%E3%83%AF%E3%82%BF%E3%83%AA",
-    "ninjaUrls": [
+    "organizations": [
       {
-        "label": "トリロジー名鑑",
-        "url": "https://x.com/NJSLYR/status/28501497475"
+        "id": "0ed3fcb2"
       },
       {
-        "label": "トリロジー名鑑N",
-        "url": "https://x.com/NJSLYR/status/1660482312918958085"
+        "id": "8e0630be"
       },
       {
-        "label": "AoM名鑑",
-        "url": "https://x.com/NJSLYR/status/1046702531462778881"
+        "id": "y8yzi8su"
       }
     ],
-    "noteUrls": [],
     "appearances": [
       {
         "id": "e4pwggow"
@@ -4483,17 +4468,32 @@
         "id": "66ac3aba"
       }
     ],
-    "organizations": [
+    "skills": [
+      "編笠",
+      "マチューテ",
+      "タケヤリ",
+      "数々のニンジャ・トラップ"
+    ],
+    "role": "サワタリ・カンパニーCEO",
+    "appearance": "迷彩柄のニンジャ装束。ベトコン風の衣笠。\n4部では通常時はモスグリーンの開襟シャツや白衣。戦闘時は軍コートを羽織る。",
+    "description": "危険なナム妄想に囚われた狂気のニンジャ。\n仲間を守るため奔走している。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%95%E3%82%A9%E3%83%AC%E3%82%B9%E3%83%88%E3%83%BB%E3%82%B5%E3%83%AF%E3%82%BF%E3%83%AA",
+    "ninjaUrls": [
       {
-        "id": "0ed3fcb2"
+        "label": "トリロジー名鑑",
+        "url": "https://x.com/NJSLYR/status/28501497475"
       },
       {
-        "id": "8e0630be"
+        "label": "トリロジー名鑑N",
+        "url": "https://x.com/NJSLYR/status/1660482312918958085"
       },
       {
-        "id": "y8yzi8su"
+        "label": "AoM名鑑",
+        "url": "https://x.com/NJSLYR/status/1046702531462778881"
       }
-    ]
+    ],
+    "noteUrls": []
   },
   {
     "id": "1775455965",
@@ -6006,31 +6006,14 @@
       "clan": "タナカ・ニンジャクラン",
       "origin": ""
     },
-    "skills": [
-      "パイロキネシス ",
-      "テレポーテーション",
-      "イグナイツ・インプルーブド・カトン・アーツ"
-    ],
-    "role": "頭目",
-    "appearance": "真っ赤に染めた頭髪。パンクな外見。眉毛の代わりにイバラタトゥー。\n「地獄お」と書かれたマフラー。レザー装束。身長160cm。\n第4部では赤い髪を右半分を編み込みのロングヘア、左半分を刈り上げにしている。",
-    "description": "生来のパイロマンサーにニンジャソウルが憑依。\nザイバツニンジャであったがヌケニン。一時シルバーキーと共存していた。\n第4部ではオーストラリアのモーターサイクル馬賊「スレイプニル」を率いている。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%82%B0%E3%83%8A%E3%82%A4%E3%83%88",
-    "ninjaUrls": [
+    "organizations": [
       {
-        "label": "トリロジー名鑑",
-        "url": "https://x.com/NJSLYR/status/14388327104909312"
+        "id": "zaibatsu-p2"
       },
       {
-        "label": "トリロジー名鑑N",
-        "url": "https://x.com/NJSLYR/status/1676791649404616704"
-      },
-      {
-        "label": "AoM名鑑",
-        "url": "https://x.com/NJSLYR/status/1174933477839425539"
+        "id": "417b0b62"
       }
     ],
-    "noteUrls": [],
     "appearances": [
       {
         "id": "12ml6hmz"
@@ -6060,14 +6043,31 @@
         "id": "emcygtsj"
       }
     ],
-    "organizations": [
+    "skills": [
+      "パイロキネシス ",
+      "テレポーテーション",
+      "イグナイツ・インプルーブド・カトン・アーツ"
+    ],
+    "role": "頭目",
+    "appearance": "真っ赤に染めた頭髪。パンクな外見。眉毛の代わりにイバラタトゥー。\n「地獄お」と書かれたマフラー。レザー装束。身長160cm。\n第4部では赤い髪を右半分を編み込みのロングヘア、左半分を刈り上げにしている。",
+    "description": "生来のパイロマンサーにニンジャソウルが憑依。\nザイバツニンジャであったがヌケニン。一時シルバーキーと共存していた。\n第4部ではオーストラリアのモーターサイクル馬賊「スレイプニル」を率いている。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%82%B0%E3%83%8A%E3%82%A4%E3%83%88",
+    "ninjaUrls": [
       {
-        "id": "zaibatsu-p2"
+        "label": "トリロジー名鑑",
+        "url": "https://x.com/NJSLYR/status/14388327104909312"
       },
       {
-        "id": "417b0b62"
+        "label": "トリロジー名鑑N",
+        "url": "https://x.com/NJSLYR/status/1676791649404616704"
+      },
+      {
+        "label": "AoM名鑑",
+        "url": "https://x.com/NJSLYR/status/1174933477839425539"
       }
-    ]
+    ],
+    "noteUrls": []
   },
   {
     "id": "17754559107",
@@ -9652,6 +9652,25 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "a91ea54d"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "2aa8207d"
+      },
+      {
+        "id": "8fffe24e"
+      },
+      {
+        "id": "249f4a74"
+      },
+      {
+        "id": "ac533ac4"
+      }
+    ],
     "skills": [
       "トライアングル・リープ",
       "スプリント"
@@ -9670,26 +9689,7 @@
         "url": "https://x.com/NJSLYR/status/1658308603365965824"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "2aa8207d"
-      },
-      {
-        "id": "8fffe24e"
-      },
-      {
-        "id": "249f4a74"
-      },
-      {
-        "id": "ac533ac4"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "a91ea54d"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "17754559227",
@@ -9935,32 +9935,14 @@
       "clan": "ゴダ・ニンジャクラン",
       "origin": "その他6つのニンジャソウルを持つ。現在は設定の都合で省略。"
     },
-    "skills": [
-      "イアイドー",
-      "ビッグカラテ",
-      "イタミ・ジツ",
-      "サソリ・ファイティング・スタイル",
-      "モズ・ダイブキック",
-      "フドウカナシバリ・ジツ",
-      "テレキネシス・ジツ",
-      "カラテミサイル"
-    ],
-    "role": "ソウカイヤの首魁",
-    "appearance": "アルマーニのスーツ。黄金メンポ。\nスーツの下に四聖獣が描かれたニンジャ装束。\nイクサ時は武田信玄めいた金縁の黒い鋼の甲冑を着用。",
-    "description": "ソウカイ・シンジケートのドン。\n七つのニンジャソウルを身に宿す。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%82%AA%E3%83%A2%E3%83%88%E3%83%BB%E3%82%AB%E3%83%B3",
-    "ninjaUrls": [
+    "organizations": [
       {
-        "label": "トリロジー名鑑",
-        "url": "https://x.com/NJSLYR/status/20241043095"
+        "id": "soukaiya-p1"
       },
       {
-        "label": "トリロジー名鑑N",
-        "url": "https://x.com/NJSLYR/status/1651059313698541573"
+        "id": "y8yzi8su"
       }
     ],
-    "noteUrls": [],
     "appearances": [
       {
         "id": "t3b3cjoh"
@@ -10002,14 +9984,32 @@
         "id": "q0zjg8rk"
       }
     ],
-    "organizations": [
+    "skills": [
+      "イアイドー",
+      "ビッグカラテ",
+      "イタミ・ジツ",
+      "サソリ・ファイティング・スタイル",
+      "モズ・ダイブキック",
+      "フドウカナシバリ・ジツ",
+      "テレキネシス・ジツ",
+      "カラテミサイル"
+    ],
+    "role": "ソウカイヤの首魁",
+    "appearance": "アルマーニのスーツ。黄金メンポ。\nスーツの下に四聖獣が描かれたニンジャ装束。\nイクサ時は武田信玄めいた金縁の黒い鋼の甲冑を着用。",
+    "description": "ソウカイ・シンジケートのドン。\n七つのニンジャソウルを身に宿す。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%82%AA%E3%83%A2%E3%83%88%E3%83%BB%E3%82%AB%E3%83%B3",
+    "ninjaUrls": [
       {
-        "id": "soukaiya-p1"
+        "label": "トリロジー名鑑",
+        "url": "https://x.com/NJSLYR/status/20241043095"
       },
       {
-        "id": "y8yzi8su"
+        "label": "トリロジー名鑑N",
+        "url": "https://x.com/NJSLYR/status/1651059313698541573"
       }
-    ]
+    ],
+    "noteUrls": []
   },
   {
     "id": "d4831bd0",
@@ -10068,33 +10068,17 @@
       "clan": "ハガネ・ニンジャクラン",
       "origin": "ベッピンに封じられたソウル"
     },
-    "skills": [
-      "デス・キリ",
-      "ヤミ・ウチ",
-      "カンジ・キル",
-      "ソード・オブ・オヒガン",
-      "イアイドー"
-    ],
-    "role": "ザイバツ・グランドロード",
-    "appearance": "灰色の髪。オブシディアン色の装束。\n全身鎧、またはローブ。妖刀ベッピンを持つ。",
-    "description": "妖刀ベッピンを操るニンジャ。\nラオモト・カンの懐刀として、またはザイバツのニンジャとして、\nニンジャスレイヤー（フジキド・ケンジ）と幾度となく渡り合った。\n現在は打倒カツ・ワンソーを掲げ、新生したザイバツを率いている。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%80%E3%83%BC%E3%82%AF%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
-    "ninjaUrls": [
+    "organizations": [
       {
-        "label": "トリロジー名鑑",
-        "url": "https://x.com/NJSLYR/status/20240497815?s=20"
+        "id": "soukaiya-p1"
       },
       {
-        "label": "トリロジー名鑑N",
-        "url": "https://x.com/NJSLYR/status/1650698176326934528?s=20"
+        "id": "zaibatsu-p2"
       },
       {
-        "label": "AoM名鑑",
-        "url": "https://x.com/NJSLYR/status/877904413242699776?s=20"
+        "id": "zaibatsu-p3p4"
       }
     ],
-    "noteUrls": [],
     "appearances": [
       {
         "id": "tlibhtjh"
@@ -10154,17 +10138,33 @@
         "id": "6dcsfo7u"
       }
     ],
-    "organizations": [
+    "skills": [
+      "デス・キリ",
+      "ヤミ・ウチ",
+      "カンジ・キル",
+      "ソード・オブ・オヒガン",
+      "イアイドー"
+    ],
+    "role": "ザイバツ・グランドロード",
+    "appearance": "灰色の髪。オブシディアン色の装束。\n全身鎧、またはローブ。妖刀ベッピンを持つ。",
+    "description": "妖刀ベッピンを操るニンジャ。\nラオモト・カンの懐刀として、またはザイバツのニンジャとして、\nニンジャスレイヤー（フジキド・ケンジ）と幾度となく渡り合った。\n現在は打倒カツ・ワンソーを掲げ、新生したザイバツを率いている。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%80%E3%83%BC%E3%82%AF%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
+    "ninjaUrls": [
       {
-        "id": "soukaiya-p1"
+        "label": "トリロジー名鑑",
+        "url": "https://x.com/NJSLYR/status/20240497815?s=20"
       },
       {
-        "id": "zaibatsu-p2"
+        "label": "トリロジー名鑑N",
+        "url": "https://x.com/NJSLYR/status/1650698176326934528?s=20"
       },
       {
-        "id": "zaibatsu-p3p4"
+        "label": "AoM名鑑",
+        "url": "https://x.com/NJSLYR/status/877904413242699776?s=20"
       }
-    ]
+    ],
+    "noteUrls": []
   },
   {
     "id": "d1f3d115",
@@ -10178,6 +10178,16 @@
       "clan": "ビッグ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "qad20i3w"
+      }
+    ],
     "skills": [
       "ビッグカラテ",
       "大型ハーレー"
@@ -10197,17 +10207,7 @@
         "url": "https://x.com/NJSLYR/status/1654325774214905856"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "qad20i3w"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "soukaiya-p1"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "c2128d31",
@@ -10222,6 +10222,16 @@
       "clan": "アスラニンジャ・クラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "qvshvm0c"
+      }
+    ],
     "skills": [
       "ザムラ・カラテ",
       "カラダチ",
@@ -10242,17 +10252,7 @@
         "url": "https://x.com/NJSLYR/status/1652874076241952770"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "qvshvm0c"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "soukaiya-p1"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "f21d20dd",
@@ -10266,6 +10266,19 @@
       "clan": "ヘビ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "gx89trl9"
+      },
+      {
+        "id": "vr3fq73p"
+      }
+    ],
     "skills": [
       "ダイジャ・バイト",
       "ドク・ジツ"
@@ -10285,20 +10298,7 @@
         "url": "https://x.com/NJSLYR/status/1651424049837531136?s=20"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "gx89trl9"
-      },
-      {
-        "id": "vr3fq73p"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "soukaiya-p1"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "e93dc3e2",
@@ -10315,6 +10315,19 @@
       "clan": "シノビ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "uduraffr"
+      },
+      {
+        "id": "vr3fq73p"
+      }
+    ],
     "skills": [
       "常人の三倍の脚力",
       "ステルス・ジツ",
@@ -10335,20 +10348,7 @@
         "url": "https://x.com/NJSLYR/status/1651062208988844033?s=20"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "uduraffr"
-      },
-      {
-        "id": "vr3fq73p"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "soukaiya-p1"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "ba75adb0",
@@ -10362,6 +10362,16 @@
       "clan": "コブラ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "uduraffr"
+      }
+    ],
     "skills": [
       "フドウカナシバリ・ジツ",
       "ゼゲン・ゲイズ"
@@ -10381,17 +10391,7 @@
         "url": "https://x.com/NJSLYR/status/1661933429485879303"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "uduraffr"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "soukaiya-p1"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "4fb59b2a",
@@ -10405,6 +10405,19 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "48pg2qdu"
+      },
+      {
+        "id": "r3d5m4sz"
+      }
+    ],
     "skills": [
       "ハッカー",
       "多重ログイン"
@@ -10424,20 +10437,7 @@
         "url": "https://x.com/NJSLYR/status/1652872332384559106"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "48pg2qdu"
-      },
-      {
-        "id": "r3d5m4sz"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "soukaiya-p1"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "d21b2cf5",
@@ -10451,6 +10451,31 @@
       "clan": "トブ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "qad20i3w"
+      },
+      {
+        "id": "v3fc0ycx"
+      },
+      {
+        "id": "t4llx7ft"
+      },
+      {
+        "id": "9lclsu2q"
+      },
+      {
+        "id": "kqp68e75"
+      },
+      {
+        "id": "uduraffr"
+      }
+    ],
     "skills": [
       "ステルス凧",
       "サーチライト",
@@ -10473,32 +10498,7 @@
         "url": "https://x.com/NJSLYR/status/1656863400490848258"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "qad20i3w"
-      },
-      {
-        "id": "v3fc0ycx"
-      },
-      {
-        "id": "t4llx7ft"
-      },
-      {
-        "id": "9lclsu2q"
-      },
-      {
-        "id": "kqp68e75"
-      },
-      {
-        "id": "uduraffr"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "soukaiya-p1"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "49a3fe5b",
@@ -10512,6 +10512,19 @@
       "clan": "アルマジロ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "9lclsu2q"
+      },
+      {
+        "id": "vr3fq73p"
+      }
+    ],
     "skills": [
       "オムラ・チタニウム装甲",
       "転がる"
@@ -10531,20 +10544,7 @@
         "url": "https://x.com/NJSLYR/status/1679326335561535489"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "9lclsu2q"
-      },
-      {
-        "id": "vr3fq73p"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "soukaiya-p1"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "5dab8174",
@@ -10593,6 +10593,16 @@
       "clan": "イカ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "9lclsu2q"
+      }
+    ],
     "skills": [
       "高性能メカアーム"
     ],
@@ -10611,17 +10621,7 @@
         "url": "https://x.com/NJSLYR/status/1653235506761854976"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "9lclsu2q"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "soukaiya-p1"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "f8997794",
@@ -10700,6 +10700,22 @@
       "clan": "タナカ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "tlibhtjh"
+      },
+      {
+        "id": "v3fc0ycx"
+      },
+      {
+        "id": "qvshvm0c"
+      }
+    ],
     "skills": [
       "フドウノリウツリ・ジツ",
       "ネンリキ・ジツ"
@@ -10719,23 +10735,7 @@
         "url": "https://x.com/NJSLYR/status/1651422588764295168"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "tlibhtjh"
-      },
-      {
-        "id": "v3fc0ycx"
-      },
-      {
-        "id": "qvshvm0c"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "soukaiya-p1"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "0c3d0461",
@@ -10748,6 +10748,25 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "qad20i3w"
+      },
+      {
+        "id": "cpmbwnte"
+      },
+      {
+        "id": "9lclsu2q"
+      },
+      {
+        "id": "gogrsj04"
+      }
+    ],
     "skills": [
       "カモフラージュに関するジツ"
     ],
@@ -10764,26 +10783,7 @@
         "url": "https://x.com/NJSLYR/status/1678238920625242113"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "qad20i3w"
-      },
-      {
-        "id": "cpmbwnte"
-      },
-      {
-        "id": "9lclsu2q"
-      },
-      {
-        "id": "gogrsj04"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "soukaiya-p1"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "6d92243a",
@@ -10797,6 +10797,16 @@
       "clan": "スッパ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "3cxcdqaf"
+      }
+    ],
     "skills": [
       "高速しゃがみ前進",
       "サマーソルトキック"
@@ -10815,17 +10825,7 @@
         "url": "https://x.com/NJSLYR/status/1674252556145692677"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "3cxcdqaf"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "soukaiya-p1"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "562b94f4",
@@ -10904,6 +10904,16 @@
       "clan": "コリ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "zpm2lvo5"
+      }
+    ],
     "skills": [
       "コリ・スリケン",
       "コリ・クナイ",
@@ -10924,17 +10934,7 @@
         "url": "https://x.com/NJSLYR/status/1656496129088032768"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "zpm2lvo5"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "soukaiya-p1"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "a04759d6",
@@ -10978,6 +10978,16 @@
       "clan": "クロガネ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "tde9kneb"
+      }
+    ],
     "skills": [
       "ムテキ・アティチュード",
       "スリケン"
@@ -10996,17 +11006,7 @@
         "url": "https://x.com/NJSLYR/status/1658669426814889984"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "tde9kneb"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "soukaiya-p1"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "35de511a",
@@ -11082,6 +11082,19 @@
       "clan": "イタミ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "qs1ghuk5"
+      },
+      {
+        "id": "kqp68e75"
+      }
+    ],
     "skills": [
       "イタミ・ジツ"
     ],
@@ -11098,20 +11111,7 @@
         "url": "https://x.com/NJSLYR/status/1661206759854473216"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "qs1ghuk5"
-      },
-      {
-        "id": "kqp68e75"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "soukaiya-p1"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "74dc507d",
@@ -11125,6 +11125,16 @@
       "clan": "モズ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "v3fc0ycx"
+      }
+    ],
     "skills": [
       "モズ急降下"
     ],
@@ -11142,17 +11152,7 @@
         "url": "https://x.com/NJSLYR/status/1678965863544934405"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "v3fc0ycx"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "soukaiya-p1"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "18172fc4",
@@ -11227,6 +11227,16 @@
       "clan": "イナゴ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "lnp1mmrk"
+      }
+    ],
     "skills": [
       "コントロール・パラサイト・ムシ"
     ],
@@ -11244,17 +11254,7 @@
         "url": "https://x.com/NJSLYR/status/1659036484597600256"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "lnp1mmrk"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "soukaiya-p1"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "f5166bc1",
@@ -11294,6 +11294,16 @@
       "clan": "ナガレ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "lnp1mmrk"
+      }
+    ],
     "skills": [
       "リキッド・ソード"
     ],
@@ -11311,17 +11321,7 @@
         "url": "https://x.com/NJSLYR/status/1660483653196218368"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "lnp1mmrk"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "soukaiya-p1"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "03f5c336",
@@ -11365,6 +11365,16 @@
       "clan": "コダマ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "tlibhtjh"
+      }
+    ],
     "skills": [
       "ディスインテグレイト・ツカミ・ジツ"
     ],
@@ -11381,17 +11391,7 @@
         "url": "https://x.com/NJSLYR/status/1673525859549077505"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "tlibhtjh"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "soukaiya-p1"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "3c50af7c",
@@ -11405,6 +11405,19 @@
       "clan": "ノブシ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "op22vpoh"
+      },
+      {
+        "id": "0ij95wkj"
+      }
+    ],
     "skills": [
       "スナイパー・スリケン"
     ],
@@ -11422,20 +11435,7 @@
         "url": "https://x.com/NJSLYR/status/1666647371298766848"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "op22vpoh"
-      },
-      {
-        "id": "0ij95wkj"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "soukaiya-p1"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "a388da3f",
@@ -11780,6 +11780,16 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "zi9w4m1z"
+      }
+    ],
     "skills": [
       "パンキドー",
       "ロシアンスリケン"
@@ -11797,17 +11807,7 @@
         "url": "https://x.com/NJSLYR/status/1651784192970334209?s=20"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "zi9w4m1z"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "soukaiya-p1"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "7d44defa",
@@ -11978,6 +11978,16 @@
       "clan": "サソリ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "48pg2qdu"
+      }
+    ],
     "skills": [
       "サソリ・ファイティング・スタイル",
       "カトン・ジツ"
@@ -11996,17 +12006,7 @@
         "url": "https://x.com/NJSLYR/status/1658667970523205637"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "48pg2qdu"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "soukaiya-p1"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "cdba0e3d",
@@ -12052,6 +12052,16 @@
       "clan": "クモ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "9lclsu2q"
+      }
+    ],
     "skills": [
       "フドウカナシバリ・ジツ",
       "腕を伸ばす"
@@ -12070,17 +12080,7 @@
         "url": "https://x.com/NJSLYR/status/1655767203571200000"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "9lclsu2q"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "soukaiya-p1"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "24e4e634",
@@ -12151,6 +12151,16 @@
       "clan": "ムカデ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "op22vpoh"
+      }
+    ],
     "skills": [
       "ドトン・ジツ",
       "サイバネティック・ムカデ化"
@@ -12169,17 +12179,7 @@
         "url": "https://x.com/NJSLYR/status/1670991878500798464"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "op22vpoh"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "soukaiya-p1"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "007db8b7",
@@ -12447,6 +12447,16 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "v3fc0ycx"
+      }
+    ],
     "skills": [
       "ボックス・カラテ"
     ],
@@ -12464,17 +12474,7 @@
         "url": "https://x.com/NJSLYR/status/1678601732098781185"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "v3fc0ycx"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "soukaiya-p1"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "a23e9265",
@@ -12582,6 +12582,16 @@
       "clan": "ローグ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "tlibhtjh"
+      }
+    ],
     "skills": [
       "ハッキングツール"
     ],
@@ -12598,17 +12608,7 @@
         "url": "https://x.com/NJSLYR/status/1672076468925636613"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "tlibhtjh"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "soukaiya-p1"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "d0c010a4",
@@ -12766,6 +12766,16 @@
       "clan": "ソナエ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "v3fc0ycx"
+      }
+    ],
     "skills": [
       "オジギ・ガトリング"
     ],
@@ -12783,17 +12793,7 @@
         "url": "https://x.com/NJSLYR/status/1678602590760886272"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "v3fc0ycx"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "soukaiya-p1"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "6020515b",
@@ -13098,6 +13098,16 @@
       "clan": "ウシカイ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "xebveoef"
+      }
+    ],
     "skills": [
       "闘牛カラテ"
     ],
@@ -13115,17 +13125,7 @@
         "url": "https://x.com/NJSLYR/status/1666647487938183168"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "xebveoef"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "soukaiya-p1"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "42f13bc7",
@@ -13139,6 +13139,16 @@
       "clan": "キツネ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "x6t1b1fr"
+      }
+    ],
     "skills": [
       "シニフリ・ジツ"
     ],
@@ -13156,17 +13166,7 @@
         "url": "https://x.com/NJSLYR/status/1665917219069652993"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "x6t1b1fr"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "soukaiya-p1"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "48e3dd08",
@@ -13280,6 +13280,16 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "kqp68e75"
+      }
+    ],
     "skills": [
       "火炎瓶",
       "ホバーホイール"
@@ -13298,17 +13308,7 @@
         "url": "https://x.com/NJSLYR/status/1665917654249644033"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "kqp68e75"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "soukaiya-p1"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "015f713f",
@@ -13380,6 +13380,16 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "v3fc0ycx"
+      }
+    ],
     "skills": [
       "マグネ・ジツ"
     ],
@@ -13397,17 +13407,7 @@
         "url": "https://x.com/NJSLYR/status/1678239336268185601"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "v3fc0ycx"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "soukaiya-p1"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "68bd50e1",
@@ -14827,6 +14827,28 @@
       "origin": "",
       "grade": "レッサー級"
     },
+    "organizations": [
+      {
+        "id": "zaibatsu-p2"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "w1fu608s"
+      },
+      {
+        "id": "9a9c26f3"
+      },
+      {
+        "id": "wbfhbzoh"
+      },
+      {
+        "id": "js9ejlo6"
+      },
+      {
+        "id": "vyhgnuh0"
+      }
+    ],
     "skills": [
       "カラダチ",
       "ダブル・ポン・パンチ",
@@ -14848,29 +14870,7 @@
         "url": "https://x.com/NJSLYR/status/1674251108351639552"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "w1fu608s"
-      },
-      {
-        "id": "9a9c26f3"
-      },
-      {
-        "id": "wbfhbzoh"
-      },
-      {
-        "id": "js9ejlo6"
-      },
-      {
-        "id": "vyhgnuh0"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "zaibatsu-p2"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "00bc0368",
@@ -14938,6 +14938,19 @@
       "clan": "マイニユ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "zaibatsu-p2"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "6o0erlqp"
+      },
+      {
+        "id": "js9ejlo6"
+      }
+    ],
     "skills": [
       "ムシアナ・ジツ",
       "アンタイ・ウェポン",
@@ -14958,20 +14971,7 @@
         "url": "https://x.com/NJSLYR/status/1655766060367507457"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "6o0erlqp"
-      },
-      {
-        "id": "js9ejlo6"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "zaibatsu-p2"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "b96afd16",
@@ -15604,6 +15604,16 @@
       "clan": "キノコニンジャ・クラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "zaibatsu-p2"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "d3b40e37"
+      }
+    ],
     "skills": [
       "ドトン・ジツ",
       "回復能力（マツタケ）"
@@ -15623,17 +15633,7 @@
         "url": "https://x.com/NJSLYR/status/1667003146370166791"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "d3b40e37"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "zaibatsu-p2"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "a9490c07",
@@ -16069,6 +16069,16 @@
       "origin": "",
       "grade": "等級不明"
     },
+    "organizations": [
+      {
+        "id": "zaibatsu-p2"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "12ml6hmz"
+      }
+    ],
     "skills": [
       "へカトン・ジツ",
       "アースクエイク・シコ"
@@ -16088,17 +16098,7 @@
         "url": "https://x.com/NJSLYR/status/1663743974379786241"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "12ml6hmz"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "zaibatsu-p2"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "efbb5889",
@@ -16529,6 +16529,22 @@
       "clan": "ダマシ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "zaibatsu-p2"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "12ml6hmz"
+      },
+      {
+        "id": "g01g2lf0"
+      },
+      {
+        "id": "nghu0pwd"
+      }
+    ],
     "skills": [
       "ゲン・ジツ",
       "エネルギー・スリケン"
@@ -16548,23 +16564,7 @@
         "url": "https://x.com/NJSLYR/status/1655409497924567041"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "12ml6hmz"
-      },
-      {
-        "id": "g01g2lf0"
-      },
-      {
-        "id": "nghu0pwd"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "zaibatsu-p2"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "dd8ca0c1",
@@ -17169,6 +17169,16 @@
       "clan": "テッポウ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "zaibatsu-p2"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "oer10ykn"
+      }
+    ],
     "skills": [
       "ピストルカラテ"
     ],
@@ -17187,17 +17197,7 @@
         "url": "https://x.com/NJSLYR/status/1684037942044672002"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "oer10ykn"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "zaibatsu-p2"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "88396d55",
@@ -17577,6 +17577,19 @@
       "clan": "ケモノ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "zaibatsu-p2"
+      },
+      {
+        "id": "y8yzi8su"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "js9ejlo6"
+      }
+    ],
     "skills": [
       "爪",
       "強化薬"
@@ -17596,20 +17609,7 @@
         "url": "https://x.com/NJSLYR/status/1681505573735628800"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "js9ejlo6"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "zaibatsu-p2"
-      },
-      {
-        "id": "y8yzi8su"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "e1c5bd49",
@@ -17934,6 +17934,16 @@
       "clan": "ローグ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "zaibatsu-p2"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "7orkjubb"
+      }
+    ],
     "skills": [
       "サイバネ・ブンシン・ジツ",
       "ミニガン",
@@ -17954,17 +17964,7 @@
         "url": "https://x.com/NJSLYR/status/1663019424453115910"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "7orkjubb"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "zaibatsu-p2"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "17813da1",
@@ -18880,6 +18880,22 @@
       "clan": "シノビ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "zaibatsu-p2"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "w1fu608s"
+      },
+      {
+        "id": "b2f24cc3"
+      },
+      {
+        "id": "4f7f71ff"
+      }
+    ],
     "skills": [
       "光学迷彩フロシキ",
       "クナイ・ダート",
@@ -18900,23 +18916,7 @@
         "url": "https://x.com/NJSLYR/status/1656135094221037569"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "w1fu608s"
-      },
-      {
-        "id": "b2f24cc3"
-      },
-      {
-        "id": "4f7f71ff"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "zaibatsu-p2"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "1ef49a81",
@@ -19522,6 +19522,25 @@
       "clan": "ドク・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "zaibatsu-p2"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "9j0jnn2l"
+      },
+      {
+        "id": "n18b20ae"
+      },
+      {
+        "id": "tqlc7ayk"
+      },
+      {
+        "id": "vr3fq73p"
+      }
+    ],
     "skills": [
       "ドク・ジツ",
       "アンタイ・ニンジャ・ウィルス"
@@ -19541,26 +19560,7 @@
         "url": "https://x.com/NJSLYR/status/1653967135516028928"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "9j0jnn2l"
-      },
-      {
-        "id": "n18b20ae"
-      },
-      {
-        "id": "tqlc7ayk"
-      },
-      {
-        "id": "vr3fq73p"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "zaibatsu-p2"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "a6b43489",
@@ -20157,6 +20157,16 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "zaibatsu-p2"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "oer10ykn"
+      }
+    ],
     "skills": [
       "トバシ・ケン"
     ],
@@ -20174,17 +20184,7 @@
         "url": "https://x.com/NJSLYR/status/1681862638937186304"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "oer10ykn"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "zaibatsu-p2"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "c0a62532",
@@ -28170,6 +28170,25 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "cd4744be"
+      },
+      {
+        "id": "e5bcd27c"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "12216e23"
+      },
+      {
+        "id": "20d3a4ce"
+      },
+      {
+        "id": "1rdmzslz"
+      }
+    ],
     "skills": [
       "電気ジュッテ",
       "電磁メリケンサック",
@@ -28189,26 +28208,7 @@
         "url": "https://x.com/NJSLYR/status/1676429201132621827"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "12216e23"
-      },
-      {
-        "id": "20d3a4ce"
-      },
-      {
-        "id": "1rdmzslz"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "cd4744be"
-      },
-      {
-        "id": "e5bcd27c"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "dfdb0bb3",
@@ -29955,6 +29955,31 @@
       "clan": "ドラゴン・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "38e6ee73"
+      },
+      {
+        "id": "a91ea54d"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "qs1ghuk5"
+      },
+      {
+        "id": "qad20i3w"
+      },
+      {
+        "id": "op22vpoh"
+      },
+      {
+        "id": "kqp68e75"
+      },
+      {
+        "id": "w6ccm5qg"
+      }
+    ],
     "skills": [
       "チャドー",
       "ドラゴン・トビゲリ",
@@ -29974,32 +29999,7 @@
         "url": "https://x.com/NJSLYR/status/1652178156831506432"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "qs1ghuk5"
-      },
-      {
-        "id": "qad20i3w"
-      },
-      {
-        "id": "op22vpoh"
-      },
-      {
-        "id": "kqp68e75"
-      },
-      {
-        "id": "w6ccm5qg"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "38e6ee73"
-      },
-      {
-        "id": "a91ea54d"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "77c4c0",
@@ -30014,27 +30014,11 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "ボンジャン・カラテ",
-      "ヘブンスルーキャノン",
-      "拒否のハンマー",
-      "ボンジャン・センキュタイ"
-    ],
-    "appearance": "ボンジャン・バトルカフタンをアレンジした白と橙のツートーンのニンジャ装束。\n眉目秀麗。メンポや頭巾はつけない。「バトルクエスト～」以降は隻腕。",
-    "description": "ボンジャン・テンプルのレッサーボンズにニンジャソウルが憑依。\n自分の運命に苦悩しながらもボンジャン・カラテを振るう。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%B3%E3%83%A9%E3%82%A4%E3%83%88",
-    "ninjaUrls": [
+    "organizations": [
       {
-        "label": "トリロジー名鑑",
-        "url": "https://x.com/NJSLYR/status/27244763329593344"
-      },
-      {
-        "label": "トリロジー名鑑N",
-        "url": "https://x.com/NJSLYR/status/1683674292259790848"
+        "id": "a91ea54d"
       }
     ],
-    "noteUrls": [],
     "appearances": [
       {
         "id": "d6eo1dkg"
@@ -30055,11 +30039,27 @@
         "id": "2b15f640"
       }
     ],
-    "organizations": [
+    "skills": [
+      "ボンジャン・カラテ",
+      "ヘブンスルーキャノン",
+      "拒否のハンマー",
+      "ボンジャン・センキュタイ"
+    ],
+    "appearance": "ボンジャン・バトルカフタンをアレンジした白と橙のツートーンのニンジャ装束。\n眉目秀麗。メンポや頭巾はつけない。「バトルクエスト～」以降は隻腕。",
+    "description": "ボンジャン・テンプルのレッサーボンズにニンジャソウルが憑依。\n自分の運命に苦悩しながらもボンジャン・カラテを振るう。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%B3%E3%83%A9%E3%82%A4%E3%83%88",
+    "ninjaUrls": [
       {
-        "id": "a91ea54d"
+        "label": "トリロジー名鑑",
+        "url": "https://x.com/NJSLYR/status/27244763329593344"
+      },
+      {
+        "label": "トリロジー名鑑N",
+        "url": "https://x.com/NJSLYR/status/1683674292259790848"
       }
-    ]
+    ],
+    "noteUrls": []
   },
   {
     "id": "393907",
@@ -30147,23 +30147,11 @@
     "id": "ef1524",
     "name": "バーバヤガ",
     "aliases": [],
-    "skills": [
-      "第三の目"
-    ],
-    "description": "コトダマ空間上に出現する謎めいた存在。\nフジキドに数々の啓示を与える。ナンシーと関係があるようだ。",
-    "status": "unknown",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%83%BC%E3%83%90%E3%83%A4%E3%82%AC",
-    "ninjaUrls": [
+    "organizations": [
       {
-        "label": "トリロジー名鑑",
-        "url": "https://x.com/NJSLYR/status/9405003336777729"
-      },
-      {
-        "label": "トリロジー名鑑N",
-        "url": "https://x.com/NJSLYR/status/1676428370211647488"
+        "id": "a91ea54d"
       }
     ],
-    "noteUrls": [],
     "appearances": [
       {
         "id": "9a7q6o48"
@@ -30199,11 +30187,23 @@
         "id": "0u9lh1lc"
       }
     ],
-    "organizations": [
+    "skills": [
+      "第三の目"
+    ],
+    "description": "コトダマ空間上に出現する謎めいた存在。\nフジキドに数々の啓示を与える。ナンシーと関係があるようだ。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%83%BC%E3%83%90%E3%83%A4%E3%82%AC",
+    "ninjaUrls": [
       {
-        "id": "a91ea54d"
+        "label": "トリロジー名鑑",
+        "url": "https://x.com/NJSLYR/status/9405003336777729"
+      },
+      {
+        "label": "トリロジー名鑑N",
+        "url": "https://x.com/NJSLYR/status/1676428370211647488"
       }
-    ]
+    ],
+    "noteUrls": []
   },
   {
     "id": "ea666b",
@@ -30794,6 +30794,19 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      },
+      {
+        "id": "po2io281"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "x9g18jha"
+      }
+    ],
     "skills": [],
     "appearance": "ひょろ長い。暗黒タケウマに乗る。",
     "description": "ネオソウカイ・シンジケートのニンジャ。\n暗黒タケウマによって高所をキープする。",
@@ -30809,20 +30822,7 @@
         "url": "https://x.com/NJSLYR/status/1679327836291870720"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "x9g18jha"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "soukaiya-p1"
-      },
-      {
-        "id": "po2io281"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "733c75f9",
@@ -30836,6 +30836,19 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      },
+      {
+        "id": "po2io281"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "x9g18jha"
+      }
+    ],
     "skills": [
       "タケヤリ"
     ],
@@ -30853,20 +30866,7 @@
         "url": "https://x.com/NJSLYR/status/1681501470548721666"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "x9g18jha"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "soukaiya-p1"
-      },
-      {
-        "id": "po2io281"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "d892f4",
@@ -32037,24 +32037,14 @@
       "origin": "",
       "grade": "等級不明"
     },
-    "skills": [
-      "液体金属バイオボディ"
-    ],
-    "appearance": "液体金属で形成された肉体。身体を変形させて両腕を鎌にしたりする。",
-    "description": "サヴァイヴァー・ドージョーの一員。\n水銀のように自由自在に液状化し、刃物化した腕などで奇襲する。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%A3%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%96%E3%83%89",
-    "ninjaUrls": [
+    "organizations": [
       {
-        "label": "トリロジー名鑑",
-        "url": "https://x.com/NJSLYR/status/20696057543"
+        "id": "y8yzi8su"
       },
       {
-        "label": "トリロジー名鑑N",
-        "url": "https://x.com/NJSLYR/status/1656133016929071105"
+        "id": "8e0630be"
       }
     ],
-    "noteUrls": [],
     "appearances": [
       {
         "id": "e4pwggow"
@@ -32072,14 +32062,24 @@
         "id": "ot4lpixl"
       }
     ],
-    "organizations": [
+    "skills": [
+      "液体金属バイオボディ"
+    ],
+    "appearance": "液体金属で形成された肉体。身体を変形させて両腕を鎌にしたりする。",
+    "description": "サヴァイヴァー・ドージョーの一員。\n水銀のように自由自在に液状化し、刃物化した腕などで奇襲する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%A3%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%96%E3%83%89",
+    "ninjaUrls": [
       {
-        "id": "y8yzi8su"
+        "label": "トリロジー名鑑",
+        "url": "https://x.com/NJSLYR/status/20696057543"
       },
       {
-        "id": "8e0630be"
+        "label": "トリロジー名鑑N",
+        "url": "https://x.com/NJSLYR/status/1656133016929071105"
       }
-    ]
+    ],
+    "noteUrls": []
   },
   {
     "id": "47a7ac",
@@ -32092,6 +32092,25 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "8e0630be"
+      },
+      {
+        "id": "y8yzi8su"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "e4pwggow"
+      },
+      {
+        "id": "dawsncb4"
+      },
+      {
+        "id": "r3d5m4sz"
+      }
+    ],
     "skills": [
       "バイオ・イアイド"
     ],
@@ -32109,26 +32128,7 @@
         "url": "https://x.com/NJSLYR/status/1659396063315529728"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "e4pwggow"
-      },
-      {
-        "id": "dawsncb4"
-      },
-      {
-        "id": "r3d5m4sz"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "8e0630be"
-      },
-      {
-        "id": "y8yzi8su"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "a69131",
@@ -32255,22 +32255,11 @@
     "name": "バスター・テツオ",
     "aliases": [],
     "ninjaType": "非ニンジャ",
-    "skills": [],
-    "appearance": "赤いレンズのスコープゴーグル。真紅のスカーフ。赤いマント。二本の旗。",
-    "description": "イッキ・ウチコワシの謎めいたリーダー。\n高いカリスマ性に反しその素性は不明。\n3部後半ではウチコワシから放逐され、\nその後の行方は定かではない。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%86%E3%83%84%E3%82%AA",
-    "ninjaUrls": [
+    "organizations": [
       {
-        "label": "トリロジー名鑑",
-        "url": "https://x.com/NJSLYR/status/28479234204"
-      },
-      {
-        "label": "トリロジー名鑑N",
-        "url": "https://x.com/NJSLYR/status/1659395248194482177"
+        "id": "834cd3d8"
       }
     ],
-    "noteUrls": [],
     "appearances": [
       {
         "id": "b66fd6y7"
@@ -32297,11 +32286,22 @@
         "id": "8r8ibb8m"
       }
     ],
-    "organizations": [
+    "skills": [],
+    "appearance": "赤いレンズのスコープゴーグル。真紅のスカーフ。赤いマント。二本の旗。",
+    "description": "イッキ・ウチコワシの謎めいたリーダー。\n高いカリスマ性に反しその素性は不明。\n3部後半ではウチコワシから放逐され、\nその後の行方は定かではない。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%86%E3%83%84%E3%82%AA",
+    "ninjaUrls": [
       {
-        "id": "834cd3d8"
+        "label": "トリロジー名鑑",
+        "url": "https://x.com/NJSLYR/status/28479234204"
+      },
+      {
+        "label": "トリロジー名鑑N",
+        "url": "https://x.com/NJSLYR/status/1659395248194482177"
       }
-    ]
+    ],
+    "noteUrls": []
   },
   {
     "id": "061cbb",
@@ -32357,6 +32357,22 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "834cd3d8"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "b66fd6y7"
+      },
+      {
+        "id": "nghu0pwd"
+      },
+      {
+        "id": "0rdbo5t6"
+      }
+    ],
     "skills": [
       "バーニングハンド "
     ],
@@ -32373,23 +32389,7 @@
         "url": "https://x.com/NJSLYR/status/1668092263984148480"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "b66fd6y7"
-      },
-      {
-        "id": "nghu0pwd"
-      },
-      {
-        "id": "0rdbo5t6"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "834cd3d8"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "5e9b6b",
@@ -32435,6 +32435,16 @@
       "clan": "ヤクシャ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "834cd3d8"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "0rdbo5t6"
+      }
+    ],
     "skills": [
       "ジャグリング・ジツ",
       "ディスク・スリケン",
@@ -32454,17 +32464,7 @@
         "url": "https://x.com/NJSLYR/status/1676789753432395777"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "0rdbo5t6"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "834cd3d8"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "797d53",
@@ -32508,6 +32508,16 @@
       "clan": "",
       "origin": "さほど高位のソウルではない"
     },
+    "organizations": [
+      {
+        "id": "834cd3d8"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "b66fd6y7"
+      }
+    ],
     "skills": [
       "パチンコ・ジツ"
     ],
@@ -32525,17 +32535,7 @@
         "url": "https://x.com/NJSLYR/status/1668091976074543109"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "b66fd6y7"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "834cd3d8"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "6f4b7a",
@@ -32610,6 +32610,16 @@
       "clan": "タナカ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "834cd3d8"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "y9j264iq"
+      }
+    ],
     "skills": [
       "ネンリキ・ジツ",
       "ゼゲン・ジツ"
@@ -32628,17 +32638,7 @@
         "url": "https://x.com/NJSLYR/status/1666285942922174464"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "y9j264iq"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "834cd3d8"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "51fbba",
@@ -32714,25 +32714,11 @@
       "clan": "シ・ニンジャクラン",
       "origin": ""
     },
-    "skills": [
-      "ネクロカラテ",
-      "鎖付きバズソー",
-      "ニンジャ・カニバリズム"
-    ],
-    "description": "リー先生の元から脱走したゾンビ―ニンジャ。\n伝説的ニンジャソウルを宿す。平穏を望んでいる。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B8%E3%82%A7%E3%83%8E%E3%82%B5%E3%82%A4%E3%83%89",
-    "ninjaUrls": [
+    "organizations": [
       {
-        "label": "トリロジー名鑑",
-        "url": "https://x.com/NJSLYR/status/20312253718?s=20"
-      },
-      {
-        "label": "トリロジー名鑑N",
-        "url": "https://x.com/NJSLYR/status/1651786418719694850?s=20"
+        "id": "09afd629"
       }
     ],
-    "noteUrls": [],
     "appearances": [
       {
         "id": "orlfnv3l"
@@ -32771,11 +32757,25 @@
         "id": "1rdmzslz"
       }
     ],
-    "organizations": [
+    "skills": [
+      "ネクロカラテ",
+      "鎖付きバズソー",
+      "ニンジャ・カニバリズム"
+    ],
+    "description": "リー先生の元から脱走したゾンビ―ニンジャ。\n伝説的ニンジャソウルを宿す。平穏を望んでいる。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B8%E3%82%A7%E3%83%8E%E3%82%B5%E3%82%A4%E3%83%89",
+    "ninjaUrls": [
       {
-        "id": "09afd629"
+        "label": "トリロジー名鑑",
+        "url": "https://x.com/NJSLYR/status/20312253718?s=20"
+      },
+      {
+        "label": "トリロジー名鑑N",
+        "url": "https://x.com/NJSLYR/status/1651786418719694850?s=20"
       }
-    ]
+    ],
+    "noteUrls": []
   },
   {
     "id": "d6fa9c",
@@ -32789,6 +32789,16 @@
       "clan": "",
       "origin": "ウーサー・ペンドラゴンその人。"
     },
+    "organizations": [
+      {
+        "id": "09afd629"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "cc57v76p"
+      }
+    ],
     "skills": [
       "ツーハンデッド・カタナブレードツルギ",
       "バイク・チャリオット"
@@ -32807,17 +32817,7 @@
         "url": "https://x.com/NJSLYR/status/1655407844680945664"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "cc57v76p"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "09afd629"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "f503a0",
@@ -32854,6 +32854,22 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "09afd629"
+      },
+      {
+        "id": "0d9c3107"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "6b51f583"
+      },
+      {
+        "id": "1rdmzslz"
+      }
+    ],
     "skills": [
       "ネクロ・カラテ",
       "ニンジャ病原菌"
@@ -32872,23 +32888,7 @@
         "url": "https://x.com/NJSLYR/status/1656498289980903424"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "6b51f583"
-      },
-      {
-        "id": "1rdmzslz"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "09afd629"
-      },
-      {
-        "id": "0d9c3107"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "72590e",
@@ -32902,6 +32902,16 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "09afd629"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "fwq12d1u"
+      }
+    ],
     "skills": [
       "ネクロ・カラテ",
       "ハカバ・ハンド"
@@ -32920,17 +32930,7 @@
         "url": "https://x.com/NJSLYR/status/1668457668107976704"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "fwq12d1u"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "09afd629"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "2a6a59",
@@ -33411,6 +33411,12 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "09afd629"
+      }
+    ],
+    "appearances": [],
     "skills": [],
     "appearance": "骨と腱と目玉しか残っていない肉体。灰色のニンジャ装束。",
     "description": "INWが生みだしたゾンビーニンジャ。\n白骨肉体によりスリケンがすり抜けてしまう。\nニンジャ名鑑で突如フリーランス傭兵になっている事が記された。",
@@ -33430,13 +33436,7 @@
         "url": "https://x.com/NJSLYR/status/2062056590237487425?s=20"
       }
     ],
-    "noteUrls": [],
-    "appearances": [],
-    "organizations": [
-      {
-        "id": "09afd629"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "5663ef",
@@ -33964,6 +33964,25 @@
     "name": "アキラノ・ハンカバ",
     "aliases": [],
     "ninjaType": "非ニンジャ",
+    "organizations": [
+      {
+        "id": "83982ced"
+      },
+      {
+        "id": "e9a2f554"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "xh9n74xs"
+      },
+      {
+        "id": "635624e9"
+      },
+      {
+        "id": "3972e76a"
+      }
+    ],
     "skills": [
       "ハンカバ・カブキ",
       "ジツ封じの結界",
@@ -33988,26 +34007,7 @@
         "url": "https://x.com/NJSLYR/status/1013629049522946048"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "xh9n74xs"
-      },
-      {
-        "id": "635624e9"
-      },
-      {
-        "id": "3972e76a"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "83982ced"
-      },
-      {
-        "id": "e9a2f554"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "c12a05",
@@ -34702,6 +34702,22 @@
       "clan": "マンジ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "y8yzi8su"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "9a7q6o48"
+      },
+      {
+        "id": "12ml6hmz"
+      },
+      {
+        "id": "js9ejlo6"
+      }
+    ],
     "skills": [
       "カマイタチ・ジツ",
       "ドス・ダガー二刀流"
@@ -34719,23 +34735,7 @@
         "url": "https://x.com/NJSLYR/status/1669540199611904002"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "9a7q6o48"
-      },
-      {
-        "id": "12ml6hmz"
-      },
-      {
-        "id": "js9ejlo6"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "y8yzi8su"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "a18762",
@@ -34782,6 +34782,15 @@
     "name": "ゴッドハンド",
     "aliases": [],
     "ninjaType": "非ニンジャ",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "lnp1mmrk"
+      },
+      {
+        "id": "3c2cb74c"
+      }
+    ],
     "skills": [
       "オスモウ"
     ],
@@ -34799,16 +34808,7 @@
         "url": "https://x.com/NJSLYR/status/1670993565324054529"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "lnp1mmrk"
-      },
-      {
-        "id": "3c2cb74c"
-      }
-    ],
-    "organizations": []
+    "noteUrls": []
   },
   {
     "id": "7db688",
@@ -34852,6 +34852,16 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "y8yzi8su"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "m1uefv3f"
+      }
+    ],
     "skills": [
       "吸血"
     ],
@@ -34869,17 +34879,7 @@
         "url": "https://x.com/NJSLYR/status/1659033781976850433"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "m1uefv3f"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "y8yzi8su"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "57728c",
@@ -35720,6 +35720,16 @@
     "realName": "カネダ・オムラ",
     "aliases": [],
     "ninjaType": "ロボ・ニンジャ",
+    "organizations": [
+      {
+        "id": "9fd6aaf4"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "a26d6fd0"
+      }
+    ],
     "skills": [
       "スリケン",
       "サイ",
@@ -35739,17 +35749,7 @@
         "url": "https://x.com/NJSLYR/status/1661570393201844225"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "a26d6fd0"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "9fd6aaf4"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "6fa1fb",
@@ -36606,6 +36606,19 @@
       "clan": "コンゴウ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "4bba956b"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "d6eo1dkg"
+      },
+      {
+        "id": "037c5cb8"
+      }
+    ],
     "skills": [
       "6フィートボー",
       "聖なるブレーサー"
@@ -36625,20 +36638,7 @@
         "url": "https://x.com/NJSLYR/status/1684037683813961728"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "d6eo1dkg"
-      },
-      {
-        "id": "037c5cb8"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "4bba956b"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "e72fcb",
@@ -38557,25 +38557,7 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "スリケンバルカン",
-      "カゼのジツ"
-    ],
-    "appearance": "身長8フィート超の巨躯。\n「ツル」と繰り返しショドーされたニンジャ装束。フロシキのようなマント。\nシシマイ・オメーン。",
-    "description": "ダークニンジャを導く謎めいた運命者。 過去を見通すと嘯く。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%AF%E3%83%AC%E3%82%A4%E3%83%B3",
-    "ninjaUrls": [
-      {
-        "label": "トリロジー名鑑",
-        "url": "https://x.com/NJSLYR/status/5954181038870528"
-      },
-      {
-        "label": "トリロジー名鑑N",
-        "url": "https://x.com/NJSLYR/status/1673166673296375808"
-      }
-    ],
-    "noteUrls": [],
+    "organizations": [],
     "appearances": [
       {
         "id": "9lclsu2q"
@@ -38596,7 +38578,25 @@
         "id": "rujnq8bg"
       }
     ],
-    "organizations": []
+    "skills": [
+      "スリケンバルカン",
+      "カゼのジツ"
+    ],
+    "appearance": "身長8フィート超の巨躯。\n「ツル」と繰り返しショドーされたニンジャ装束。フロシキのようなマント。\nシシマイ・オメーン。",
+    "description": "ダークニンジャを導く謎めいた運命者。 過去を見通すと嘯く。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%AF%E3%83%AC%E3%82%A4%E3%83%B3",
+    "ninjaUrls": [
+      {
+        "label": "トリロジー名鑑",
+        "url": "https://x.com/NJSLYR/status/5954181038870528"
+      },
+      {
+        "label": "トリロジー名鑑N",
+        "url": "https://x.com/NJSLYR/status/1673166673296375808"
+      }
+    ],
+    "noteUrls": []
   },
   {
     "id": "c3371a",
@@ -38612,6 +38612,21 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "tlibhtjh"
+      },
+      {
+        "id": "9lclsu2q"
+      },
+      {
+        "id": "3zn1rjr5"
+      },
+      {
+        "id": "q0zjg8rk"
+      }
+    ],
     "skills": [
       "スリケンバルカン",
       "カゼのジツ",
@@ -38631,22 +38646,7 @@
         "url": "https://x.com/NJSLYR/status/1673166465787379712"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "tlibhtjh"
-      },
-      {
-        "id": "9lclsu2q"
-      },
-      {
-        "id": "3zn1rjr5"
-      },
-      {
-        "id": "q0zjg8rk"
-      }
-    ],
-    "organizations": []
+    "noteUrls": []
   },
   {
     "id": "c15b4e",
@@ -38716,6 +38716,12 @@
     "aliases": [
       "ヌンジャ"
     ],
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "q0zjg8rk"
+      }
+    ],
     "skills": [],
     "role": "ヌンジャ",
     "description": "最古のニンジャ。世界の創造と破壊を繰り返していた。\nバトル・オブ・ムーホンで滅ぼされるもそのソウルはキンカクに宿った。",
@@ -38731,13 +38737,7 @@
         "url": "https://x.com/NJSLYR/status/1685848754317119489"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "q0zjg8rk"
-      }
-    ],
-    "organizations": []
+    "noteUrls": []
   },
   {
     "id": "88ec1c",
@@ -43432,6 +43432,15 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "3cygxhpv"
+      },
+      {
+        "id": "d66fda01"
+      }
+    ],
     "skills": [],
     "role": "ニンジャ八大将軍",
     "appearance": "全長約21メートルの巨体。虚ろな表情。体毛。",
@@ -43448,16 +43457,7 @@
         "url": "https://x.com/NJSLYR/status/1663744862242631685"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "3cygxhpv"
-      },
-      {
-        "id": "d66fda01"
-      }
-    ],
-    "organizations": []
+    "noteUrls": []
   },
   {
     "id": "8ba202",
@@ -44639,6 +44639,16 @@
       "clan": "タマヤ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "9fd6aaf4"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "y9j264iq"
+      }
+    ],
     "skills": [
       "高分子バクチク"
     ],
@@ -44656,44 +44666,18 @@
         "url": "https://x.com/NJSLYR/status/1657945757474000897"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "y9j264iq"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "9fd6aaf4"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "eeb4b94d",
     "name": "モーターヤブ",
     "aliases": [],
     "ninjaType": "ロボ・ニンジャ",
-    "skills": [
-      "サスマタ",
-      "ガトリングガン",
-      "機銃",
-      "グレネードランチャー"
-    ],
-    "appearance": "逆関節の二脚ロボット。様々な武装。",
-    "description": "オムラ・インダストリが開発した量産型ロボニンジャ。\n堅牢な装甲、強力な武装に加え貧弱なAIを搭載している。\nオムラ内外から様々な亜種が生産された。",
-    "status": "unknown",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%A4%E3%83%96",
-    "ninjaUrls": [
+    "organizations": [
       {
-        "label": "トリロジー名鑑",
-        "url": "https://x.com/NJSLYR/status/28662137021"
-      },
-      {
-        "label": "トリロジー名鑑N",
-        "url": "https://x.com/NJSLYR/status/1661209892802420738"
+        "id": "9fd6aaf4"
       }
     ],
-    "noteUrls": [],
     "appearances": [
       {
         "id": "y9j264iq"
@@ -44732,36 +44716,38 @@
         "id": "zlsfsxqj"
       }
     ],
-    "organizations": [
+    "skills": [
+      "サスマタ",
+      "ガトリングガン",
+      "機銃",
+      "グレネードランチャー"
+    ],
+    "appearance": "逆関節の二脚ロボット。様々な武装。",
+    "description": "オムラ・インダストリが開発した量産型ロボニンジャ。\n堅牢な装甲、強力な武装に加え貧弱なAIを搭載している。\nオムラ内外から様々な亜種が生産された。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%A4%E3%83%96",
+    "ninjaUrls": [
       {
-        "id": "9fd6aaf4"
+        "label": "トリロジー名鑑",
+        "url": "https://x.com/NJSLYR/status/28662137021"
+      },
+      {
+        "label": "トリロジー名鑑N",
+        "url": "https://x.com/NJSLYR/status/1661209892802420738"
       }
-    ]
+    ],
+    "noteUrls": []
   },
   {
     "id": "d32f31e4",
     "name": "モータードクロ",
     "aliases": [],
     "ninjaType": "ロボ・ニンジャ",
-    "skills": [
-      "ゼンメツ・アクション・モード",
-      "スシ・フィード"
-    ],
-    "appearance": "「秩序」と書かれた屈強な鋼の胸板。神話のニンジャ戦士めいたデザイン。\n8本のアームと4本の脚。胴体にガトリングガン、口部にグレネードランチャー。\nサスマタ、ジュッテ、カマ、ツルギ、斧、カタナ、ナギナタ、ハンマーを背中のキャリアカーゴに格納。",
-    "description": "オムラ・インダストリが開発したロボ・ニンジャ。\nラオモト・カン監修。対ニンジャ戦を想定している。",
-    "status": "unknown",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%89%E3%82%AF%E3%83%AD",
-    "ninjaUrls": [
+    "organizations": [
       {
-        "label": "トリロジー名鑑",
-        "url": "https://x.com/NJSLYR/status/28662893713"
-      },
-      {
-        "label": "トリロジー名鑑N",
-        "url": "https://x.com/NJSLYR/status/1661569095312220160"
+        "id": "9fd6aaf4"
       }
     ],
-    "noteUrls": [],
     "appearances": [
       {
         "id": "t3b3cjoh"
@@ -44791,11 +44777,25 @@
         "id": "e2bd0490"
       }
     ],
-    "organizations": [
+    "skills": [
+      "ゼンメツ・アクション・モード",
+      "スシ・フィード"
+    ],
+    "appearance": "「秩序」と書かれた屈強な鋼の胸板。神話のニンジャ戦士めいたデザイン。\n8本のアームと4本の脚。胴体にガトリングガン、口部にグレネードランチャー。\nサスマタ、ジュッテ、カマ、ツルギ、斧、カタナ、ナギナタ、ハンマーを背中のキャリアカーゴに格納。",
+    "description": "オムラ・インダストリが開発したロボ・ニンジャ。\nラオモト・カン監修。対ニンジャ戦を想定している。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%89%E3%82%AF%E3%83%AD",
+    "ninjaUrls": [
       {
-        "id": "9fd6aaf4"
+        "label": "トリロジー名鑑",
+        "url": "https://x.com/NJSLYR/status/28662893713"
+      },
+      {
+        "label": "トリロジー名鑑N",
+        "url": "https://x.com/NJSLYR/status/1661569095312220160"
       }
-    ]
+    ],
+    "noteUrls": []
   },
   {
     "id": "952cc1d4",
@@ -44859,22 +44859,7 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "appearance": "ニンジャ装束状でサイズ不定の砂嵐ノイズ。\n指に鉤爪。",
-    "description": "コトダマ空間内に現れる半狂乱ニンジャ存在。\nポータルなどで訪れた者に無差別に襲い掛かる。",
-    "status": "unknown",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%83%B3%E3%82%AF%E3%82%A3%E3%82%B8%E3%82%BF%E3%83%BC",
-    "ninjaUrls": [
-      {
-        "label": "トリロジー名鑑",
-        "url": "https://x.com/NJSLYR/status/9882766493618176"
-      },
-      {
-        "label": "トリロジー名鑑N",
-        "url": "https://x.com/NJSLYR/status/1676432061975101441"
-      }
-    ],
-    "noteUrls": [],
+    "organizations": [],
     "appearances": [
       {
         "id": "9a7q6o48"
@@ -44895,7 +44880,22 @@
         "id": "kehqgsdx"
       }
     ],
-    "organizations": []
+    "skills": [],
+    "appearance": "ニンジャ装束状でサイズ不定の砂嵐ノイズ。\n指に鉤爪。",
+    "description": "コトダマ空間内に現れる半狂乱ニンジャ存在。\nポータルなどで訪れた者に無差別に襲い掛かる。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%83%B3%E3%82%AF%E3%82%A3%E3%82%B8%E3%82%BF%E3%83%BC",
+    "ninjaUrls": [
+      {
+        "label": "トリロジー名鑑",
+        "url": "https://x.com/NJSLYR/status/9882766493618176"
+      },
+      {
+        "label": "トリロジー名鑑N",
+        "url": "https://x.com/NJSLYR/status/1676432061975101441"
+      }
+    ],
+    "noteUrls": []
   },
   {
     "id": "76e6fbe9",
@@ -44965,6 +44965,19 @@
       "clan": "ヘビ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "zaibatsu-p2"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "v3fc0ycx"
+      },
+      {
+        "id": "vr3fq73p"
+      }
+    ],
     "skills": [
       "アイアンオトメ",
       "アフリカ投げナイフめいた邪悪なスリケン",
@@ -44985,20 +44998,7 @@
         "url": "https://x.com/NJSLYR/status/1678966884635656194"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "v3fc0ycx"
-      },
-      {
-        "id": "vr3fq73p"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "zaibatsu-p2"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "fe8855e9",
@@ -45035,6 +45035,19 @@
       "clan": "フマー・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "qad20i3w"
+      },
+      {
+        "id": "c582c4a9"
+      }
+    ],
     "skills": [
       "ダイシュリケン",
       "吹き矢（タケウチ）"
@@ -45054,20 +45067,7 @@
         "url": "https://x.com/NJSLYR/status/1654323792909574144"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "qad20i3w"
-      },
-      {
-        "id": "c582c4a9"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "soukaiya-p1"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "6469eb16",
@@ -45082,6 +45082,16 @@
       "grade": "等級不明",
       "clan": "キツネ・ニンジャクラン"
     },
+    "organizations": [
+      {
+        "id": "cd4744be"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "rqe3snbe"
+      }
+    ],
     "skills": [
       "シニフリ・ジツ"
     ],
@@ -45090,17 +45100,7 @@
     "status": "dead",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9F%E3%83%8B%E3%83%83%E3%83%88%E3%83%9E%E3%83%B3#:hl:word=%E3%83%9F%E3%83%8B%E3%83%83%E3%83%88%E3%83%9E%E3%83%B3",
     "ninjaUrls": [],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "rqe3snbe"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "cd4744be"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "wejtqhmz",
@@ -49117,6 +49117,12 @@
       "grade": "等級不明",
       "origin": "恐らくアーチ級ソウル"
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "rvx6izeb"
+      }
+    ],
     "skills": [
       "超自然の蒼い炎"
     ],
@@ -49134,40 +49140,14 @@
         "url": "https://x.com/NJSLYR/status/1663017276495527936"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "rvx6izeb"
-      }
-    ],
-    "organizations": []
+    "noteUrls": []
   },
   {
     "id": "icxpucio",
     "name": "ヤクザ天狗",
     "aliases": [],
     "ninjaType": "非ニンジャ",
-    "skills": [
-      "オートマチック・ヤクザガン",
-      "ドス・ダガー",
-      "ヤクザモービル",
-      "仕込み銃"
-    ],
-    "appearance": "ヤクザスーツ。テング・オメーン。銀色の背負式ジェットエンジン。\n二丁のヤクザガン、リデンプション&アブソリューション。",
-    "description": "神出鬼没のニンジャハンター。非ニンジャ。\n贖罪のため聖戦を続けていると嘯く。\n彼は狂っている。",
-    "status": "unknown",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A4%E3%82%AF%E3%82%B6%E5%A4%A9%E7%8B%97",
-    "ninjaUrls": [
-      {
-        "label": "トリロジー名鑑",
-        "url": "https://x.com/NJSLYR/status/27237293857181696"
-      },
-      {
-        "label": "トリロジー名鑑N",
-        "url": "https://x.com/NJSLYR/status/1683674207799095297"
-      }
-    ],
-    "noteUrls": [],
+    "organizations": [],
     "appearances": [
       {
         "id": "f0psa406"
@@ -49194,7 +49174,27 @@
         "id": "916339c2"
       }
     ],
-    "organizations": []
+    "skills": [
+      "オートマチック・ヤクザガン",
+      "ドス・ダガー",
+      "ヤクザモービル",
+      "仕込み銃"
+    ],
+    "appearance": "ヤクザスーツ。テング・オメーン。銀色の背負式ジェットエンジン。\n二丁のヤクザガン、リデンプション&アブソリューション。",
+    "description": "神出鬼没のニンジャハンター。非ニンジャ。\n贖罪のため聖戦を続けていると嘯く。\n彼は狂っている。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A4%E3%82%AF%E3%82%B6%E5%A4%A9%E7%8B%97",
+    "ninjaUrls": [
+      {
+        "label": "トリロジー名鑑",
+        "url": "https://x.com/NJSLYR/status/27237293857181696"
+      },
+      {
+        "label": "トリロジー名鑑N",
+        "url": "https://x.com/NJSLYR/status/1683674207799095297"
+      }
+    ],
+    "noteUrls": []
   },
   {
     "id": "kjdub9df",
@@ -49446,29 +49446,14 @@
       "grade": "等級不明",
       "origin": "ネンリキ系のソウル"
     },
-    "skills": [
-      "ヨロシ・ジツ"
-    ],
-    "role": "CEO",
-    "appearance": "成人男性。エキゾチックな顔立ち。\n（～第3部）濃緑に金の渦巻き模様。\n（第4部）金の渦巻き模様の細身のスリーピース・スーツ。イクサ時はニンジャ装束に変形。メンポ。",
-    "description": "バイオニンジャの統制者として生み出されたバイオニンジャ。\n第4部はCEOの座に上り詰めた。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%96%E3%82%B8%E3%83%A5%E3%82%B2%E3%82%A4%E3%82%BF%E3%83%BC",
-    "ninjaUrls": [
+    "organizations": [
       {
-        "label": "トリロジー名鑑",
-        "url": "https://x.com/NJSLYR/status/2948104747749377"
+        "id": "y8yzi8su"
       },
       {
-        "label": "トリロジー名鑑N",
-        "url": "https://x.com/NJSLYR/status/1669541254315786242"
-      },
-      {
-        "label": "AoM名鑑",
-        "url": "https://x.com/NJSLYR/status/1006840051756437504"
+        "id": "v4q6j4de"
       }
     ],
-    "noteUrls": [],
     "appearances": [
       {
         "id": "gb8b6euf"
@@ -49513,14 +49498,29 @@
         "id": "ceb05d03"
       }
     ],
-    "organizations": [
+    "skills": [
+      "ヨロシ・ジツ"
+    ],
+    "role": "CEO",
+    "appearance": "成人男性。エキゾチックな顔立ち。\n（～第3部）濃緑に金の渦巻き模様。\n（第4部）金の渦巻き模様の細身のスリーピース・スーツ。イクサ時はニンジャ装束に変形。メンポ。",
+    "description": "バイオニンジャの統制者として生み出されたバイオニンジャ。\n第4部はCEOの座に上り詰めた。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%96%E3%82%B8%E3%83%A5%E3%82%B2%E3%82%A4%E3%82%BF%E3%83%BC",
+    "ninjaUrls": [
       {
-        "id": "y8yzi8su"
+        "label": "トリロジー名鑑",
+        "url": "https://x.com/NJSLYR/status/2948104747749377"
       },
       {
-        "id": "v4q6j4de"
+        "label": "トリロジー名鑑N",
+        "url": "https://x.com/NJSLYR/status/1669541254315786242"
+      },
+      {
+        "label": "AoM名鑑",
+        "url": "https://x.com/NJSLYR/status/1006840051756437504"
       }
-    ]
+    ],
+    "noteUrls": []
   },
   {
     "id": "pvtfrf6t",
@@ -50085,6 +50085,22 @@
       "grade": "アーチ級",
       "clan": "アカシ・ニンジャクラン"
     },
+    "organizations": [
+      {
+        "id": "zaibatsu-p2"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "9lclsu2q"
+      },
+      {
+        "id": "12ml6hmz"
+      },
+      {
+        "id": "t4m7hei5"
+      }
+    ],
     "skills": [
       "ユメアルク・ジツ",
       "ウラナイ・ジツ"
@@ -50103,23 +50119,7 @@
         "url": "https://x.com/NJSLYR/status/1673526090432929796"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "9lclsu2q"
-      },
-      {
-        "id": "12ml6hmz"
-      },
-      {
-        "id": "t4m7hei5"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "zaibatsu-p2"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "mov033xg",
@@ -50386,6 +50386,16 @@
       "grade": "レッサー級",
       "clan": "ライデン・ニンジャクラン"
     },
+    "organizations": [
+      {
+        "id": "9fd6aaf4"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "hfcqzrkh"
+      }
+    ],
     "skills": [
       "サイバネ放電ユニット"
     ],
@@ -50403,17 +50413,7 @@
         "url": "https://x.com/NJSLYR/status/1667004057016496129"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "hfcqzrkh"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "9fd6aaf4"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "hvzbs4wl",
@@ -58223,9 +58223,10 @@
     "skills": [
       "ナイトロブラスト・ジツ"
     ],
-    "appearance": "斑模様ヤクザスーツ姿。",
+    "appearance": "斑模様ヤクザスーツ。ジャケットの下にヤクザニンジャ装束。\n手甲。メンポ。「䑓」の漢字を意匠化したヤクザ金バッジ。",
     "description": "ゾウラン・ダイ・カイのニンジャ。\n拳圧によって空気を変容、破砕させてしまう。",
     "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%82%BA%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%84#:hl:word=%E3%83%90%E3%82%BA",
     "ninjaUrls": [],
     "noteUrls": []
   },
@@ -59829,18 +59830,18 @@
       "name": "",
       "grade": "等級不明"
     },
-    "skills": [],
-    "appearance": "ベージュ色のカラテ胴着。女性。",
-    "description": "恐らくコブラ教団のニンジャ。\nメイヘムを倒したニンジャを追ってネオサイタマに向かい、\nオーストラリアに辿り着いた。",
-    "status": "alive",
-    "ninjaUrls": [],
-    "noteUrls": [],
+    "organizations": [],
     "appearances": [
       {
         "id": "vnr9112e"
       }
     ],
-    "organizations": []
+    "skills": [],
+    "appearance": "ベージュ色のカラテ胴着。女性。",
+    "description": "恐らくコブラ教団のニンジャ。\nメイヘムを倒したニンジャを追ってネオサイタマに向かい、\nオーストラリアに辿り着いた。",
+    "status": "alive",
+    "ninjaUrls": [],
+    "noteUrls": []
   },
   {
     "id": "llraezam",
@@ -59852,6 +59853,12 @@
       "name": "",
       "grade": "等級不明"
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "665uuria"
+      }
+    ],
     "skills": [
       "網膜HUD",
       "IRCクナイ"
@@ -59860,13 +59867,7 @@
     "description": "ネオサイタマのフリーランスニンジャ。\n巨大資産目的でグランマの塔に侵入した。",
     "status": "alive",
     "ninjaUrls": [],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "665uuria"
-      }
-    ],
-    "organizations": []
+    "noteUrls": []
   },
   {
     "id": "1d37nmwg",
@@ -59879,6 +59880,8 @@
       "name": "",
       "grade": "等級不明"
     },
+    "organizations": [],
+    "appearances": [],
     "skills": [
       "包丁"
     ],
@@ -59895,9 +59898,7 @@
         "url": "https://x.com/NJSLYR/status/1653964387416416256"
       }
     ],
-    "noteUrls": [],
-    "appearances": [],
-    "organizations": []
+    "noteUrls": []
   },
   {
     "id": "jfyk9pkk",
@@ -59909,6 +59910,18 @@
       "name": "",
       "grade": "等級不明"
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "y9j264iq"
+      },
+      {
+        "id": "zpm2lvo5"
+      },
+      {
+        "id": "5b7a2175"
+      }
+    ],
     "skills": [],
     "appearance": "黒いレインコート。スモトリ体形。",
     "description": "スモトリ崩れの反体制ラッパーにニンジャソウルが憑依。\n名鑑上はナラク化したニンジャスレイヤーに殺される予定だったが、免れた。",
@@ -59924,19 +59937,7 @@
         "url": "https://x.com/NJSLYR/status/1656862048712794112"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "y9j264iq"
-      },
-      {
-        "id": "zpm2lvo5"
-      },
-      {
-        "id": "5b7a2175"
-      }
-    ],
-    "organizations": []
+    "noteUrls": []
   },
   {
     "id": "4be4ja2y",
@@ -59949,6 +59950,8 @@
       "grade": "等級不明",
       "origin": "複数のソウルを憑依させられていた。"
     },
+    "organizations": [],
+    "appearances": [],
     "skills": [],
     "description": "ヨクバリ計画の被検体。\n自我崩壊して二重人格モンスターとなり、廃棄された。",
     "status": "dead",
@@ -59962,9 +59965,7 @@
         "url": "https://x.com/NJSLYR/status/1668456604688338944"
       }
     ],
-    "noteUrls": [],
-    "appearances": [],
-    "organizations": []
+    "noteUrls": []
   },
   {
     "id": "mz1g9u0r",
@@ -59976,6 +59977,8 @@
       "name": "",
       "grade": "等級不明"
     },
+    "organizations": [],
+    "appearances": [],
     "skills": [
       "頭突き"
     ],
@@ -59992,9 +59995,7 @@
         "url": "https://x.com/NJSLYR/status/1673526831012773891"
       }
     ],
-    "noteUrls": [],
-    "appearances": [],
-    "organizations": []
+    "noteUrls": []
   },
   {
     "id": "6hn97csl",
@@ -60006,6 +60007,12 @@
       "name": "カレハ・ニンジャ",
       "grade": "アーチ級"
     },
+    "organizations": [
+      {
+        "id": "09afd629"
+      }
+    ],
+    "appearances": [],
     "skills": [
       "体液蒸発"
     ],
@@ -60021,12 +60028,49 @@
         "url": "https://x.com/NJSLYR/status/1681862232517537793"
       }
     ],
-    "noteUrls": [],
-    "appearances": [],
-    "organizations": [
+    "noteUrls": []
+  },
+  {
+    "id": "xqbisl2i",
+    "name": "スプレマシー",
+    "realName": "イセ・ブルーオーシャン",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "mrmtb6en",
+      "name": "",
+      "grade": "等級不明",
+      "origin": "ハサミにロブスターの残留意識が宿る。"
+    },
+    "skills": [
+      "ハサミ",
+      "ロブスター・カラテ",
+      "再生能力"
+    ],
+    "appearance": "身長163cm。豊満。女性。\n知的な青いセルフレームメガネ。白衣。首からヨロシ研究員カード。\nニンジャ化後：右腕が青いハサミ。蛍光ブルーに光る瞳。",
+    "description": "ヨロシサン・インターナショナルの女研究員に謎のロブスター・ソウルが憑依。\nロブスターと対話し、強大なロブスター・カラテを振るう。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%82%BB%E3%83%BB%E3%83%96%E3%83%AB%E3%83%BC%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3",
+    "ninjaUrls": [
       {
-        "id": "09afd629"
+        "label": "AoM名鑑",
+        "url": "https://x.com/NJSLYR/status/1412729370641195010"
       }
-    ]
+    ],
+    "noteUrls": [
+      {
+        "label": "ニンジャ名鑑カード",
+        "url": "https://diehardtales.com/n/n8139bf493e36"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "b5928632"
+      },
+      {
+        "id": "c81f586e"
+      }
+    ],
+    "organizations": []
   }
 ]
