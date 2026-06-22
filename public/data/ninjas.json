@@ -3993,17 +3993,21 @@
       "id": "zkrxrtjo",
       "name": "ハデス・ニンジャ",
       "grade": "アーチ級",
-      "clan": "ハデス・ニンジャ",
+      "clan": "ハデス・ニンジャクラン",
       "origin": ""
     },
-    "organizations": [
-      {
-        "id": "f35c5c1d"
-      },
-      {
-        "id": "zaibatsu-p2"
-      }
+    "skills": [
+      "シャドウピン・ジツ",
+      "シャドウコピー・ジツ",
+      "シャドウリープ・ジツ",
+      "アイアンオトメ"
     ],
+    "appearance": "ザイバツ時代：全身にクナイダート・ベルトを仕込んだニンジャ装束。\n第3部：フード付きニンジャ装束。ジツで生み出した影の右腕。\n第4部：灰色のニンジャ装束。煤けた厚手のテックコート。首元にライダーゴーグル。",
+    "description": "暗黒ハイク高校生に強大なニンジャソウルが憑依。\nザイバツに属していたがヌケニンし、第3部ではシャドウドラゴンと化していた。\n第4部ではハデス・ネットを作り、ハデス・ニンジャクランの憑依者を繋いでいる。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%82%A6%E3%82%A3%E3%83%BC%E3%83%B4",
+    "ninjaUrls": [],
+    "noteUrls": [],
     "appearances": [
       {
         "id": "3zn1rjr5"
@@ -4063,16 +4067,14 @@
         "id": "66ac3aba"
       }
     ],
-    "skills": [
-      "シャドウピン・ジツ",
-      "シャドウコピー・ジツ",
-      "シャドウリープ・ジツ",
-      "アイアンオトメ"
-    ],
-    "appearance": "ザイバツ時代：全身にクナイダート・ベルトを仕込んだニンジャ装束。\n第3部：フード付きニンジャ装束。ジツで生み出した影の右腕。\n第4部：灰色のニンジャ装束。煤けた厚手のテックコート。首元にライダーゴーグル。",
-    "description": "暗黒ハイク高校生に強大なニンジャソウルが憑依。\nザイバツに属していたがヌケニンし、第3部ではシャドウドラゴンと化していた。\n第4部ではハデス・ネットを作り、ハデス・ニンジャクランの憑依者を繋いでいる。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%82%A6%E3%82%A3%E3%83%BC%E3%83%B4"
+    "organizations": [
+      {
+        "id": "f35c5c1d"
+      },
+      {
+        "id": "zaibatsu-p2"
+      }
+    ]
   },
   {
     "id": "1775455954",
@@ -6660,17 +6662,20 @@
     "aliases": [
       "龍崎"
     ],
+    "ninjaType": "ニンジャソウル憑依者",
     "ninjaSoul": {
       "id": "c70ockgq",
       "name": "",
       "clan": "",
       "origin": ""
     },
-    "organizations": [
-      {
-        "id": "d3e96eb7"
-      }
-    ],
+    "skills": [],
+    "appearance": "カイゼル髭。恰幅の良い男。ダブルのスーツ。",
+    "description": "ゾウラン・ダイ・カイの頭首。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%82%A3%E3%83%AB%E3%83%A0%E3%82%B1%E3%83%BC%E3%83%97",
+    "ninjaUrls": [],
+    "noteUrls": [],
     "appearances": [
       {
         "id": "r4yepeot"
@@ -6679,9 +6684,11 @@
         "id": "0hamcejv"
       }
     ],
-    "skills": [],
-    "description": "ゾウラン・ダイ・カイの頭首",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%82%A3%E3%83%AB%E3%83%A0%E3%82%B1%E3%83%BC%E3%83%97"
+    "organizations": [
+      {
+        "id": "d3e96eb7"
+      }
+    ]
   },
   {
     "id": "17754559126",
@@ -6692,19 +6699,9 @@
       "id": "ocy5fa42",
       "name": "",
       "grade": "等級不明",
-      "clan": "",
+      "clan": "ヤクシャ・ニンジャクラン",
       "origin": ""
     },
-    "organizations": [
-      {
-        "id": "d3e96eb7"
-      }
-    ],
-    "appearances": [
-      {
-        "id": "3b4d6efa"
-      }
-    ],
     "skills": [
       "ナックルナイフ",
       "カゼ・ブンシン"
@@ -6714,7 +6711,17 @@
     "status": "alive",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%87%E3%83%93%E3%83%AB",
     "ninjaUrls": [],
-    "noteUrls": []
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "3b4d6efa"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "d3e96eb7"
+      }
+    ]
   },
   {
     "id": "17754559127",
@@ -45302,19 +45309,21 @@
       "clan": "",
       "origin": ""
     },
-    "organizations": [
-      {
-        "id": "d3e96eb7"
-      }
-    ],
+    "skills": [],
+    "description": "ゾウラン・ダイ・カイのニンジャ。\nガーランドとヴァニティを襲撃した。",
+    "status": "dead",
+    "ninjaUrls": [],
+    "noteUrls": [],
     "appearances": [
       {
         "id": "8fffe24e"
       }
     ],
-    "skills": [],
-    "description": "ゾウラン・ダイ・カイのニンジャ。\nガーランドとヴァニティを襲撃した。",
-    "status": "unknown"
+    "organizations": [
+      {
+        "id": "d3e96eb7"
+      }
+    ]
   },
   {
     "id": "96f9e13b",
@@ -45379,19 +45388,23 @@
       "clan": "",
       "origin": ""
     },
-    "organizations": [
-      {
-        "id": "d3e96eb7"
-      }
+    "skills": [
+      "鬼瓦召喚"
     ],
+    "description": "ゾウラン・ダイ・カイのニンジャ。\n光り輝く大きな鬼瓦を召喚するタタミ・ジツの亜種を使う。",
+    "status": "dead",
+    "ninjaUrls": [],
+    "noteUrls": [],
     "appearances": [
       {
         "id": "8fffe24e"
       }
     ],
-    "skills": [],
-    "description": "ゾウラン・ダイ・カイのニンジャ。\nガーランドとヴァニティを襲撃した。",
-    "status": "dead"
+    "organizations": [
+      {
+        "id": "d3e96eb7"
+      }
+    ]
   },
   {
     "id": "5ac63f56",
@@ -45866,19 +45879,24 @@
       "clan": "",
       "origin": ""
     },
-    "organizations": [
-      {
-        "id": "d3e96eb7"
-      }
+    "skills": [
+      "シャドウヘイスト・ジツ",
+      "カンフー・カラテ"
     ],
+    "description": "ゾウラン・ダイ・カイのニンジャ。\n黒い墨絵めいた残像を残し高速攻撃する。",
+    "status": "alive",
+    "ninjaUrls": [],
+    "noteUrls": [],
     "appearances": [
       {
         "id": "8fffe24e"
       }
     ],
-    "skills": [],
-    "description": "ゾウラン・ダイ・カイのニンジャ。",
-    "status": "alive"
+    "organizations": [
+      {
+        "id": "d3e96eb7"
+      }
+    ]
   },
   {
     "id": "54350234",
@@ -46201,19 +46219,21 @@
       "clan": "",
       "origin": ""
     },
-    "organizations": [
-      {
-        "id": "d3e96eb7"
-      }
-    ],
+    "skills": [],
+    "description": "ゾウラン・ダイ・カイのニンジャ。\nガーランドとヴァニティを襲撃した。",
+    "status": "alive",
+    "ninjaUrls": [],
+    "noteUrls": [],
     "appearances": [
       {
         "id": "8fffe24e"
       }
     ],
-    "skills": [],
-    "description": "ゾウラン・ダイ・カイのニンジャ。\nガーランドとヴァニティを襲撃した。",
-    "status": "unknown"
+    "organizations": [
+      {
+        "id": "d3e96eb7"
+      }
+    ]
   },
   {
     "id": "f5e06f97",
@@ -46523,23 +46543,27 @@
       "id": "taf8wfuc",
       "name": "",
       "grade": "等級不明",
-      "clan": "",
+      "clan": "ワニ・ニンジャクラン",
       "origin": ""
     },
-    "organizations": [
-      {
-        "id": "d3e96eb7"
-      }
+    "skills": [
+      "デスロール・ケン"
     ],
+    "appearance": "危険なワニ革スーツ。金チェーンつきの眼鏡。\n首元にゾウラン・ダイ・カイの金バッジ。",
+    "description": "ゾウラン・ダイ・カイの古参構成員ニンジャ。",
+    "status": "alive",
+    "ninjaUrls": [],
+    "noteUrls": [],
     "appearances": [
       {
         "id": "8fffe24e"
       }
     ],
-    "skills": [],
-    "appearance": "危険なワニ革スーツ。金チェーンつきの眼鏡。\n首元にゾウラン・ダイ・カイの金バッジ。",
-    "description": "ゾウラン・ダイ・カイの上位ニンジャ。",
-    "status": "alive"
+    "organizations": [
+      {
+        "id": "d3e96eb7"
+      }
+    ]
   },
   {
     "id": "8ceebc0a",
@@ -46820,19 +46844,21 @@
       "clan": "",
       "origin": ""
     },
-    "organizations": [
-      {
-        "id": "d3e96eb7"
-      }
-    ],
+    "skills": [],
+    "description": "ゾウラン・ダイ・カイのニンジャ。\nガーランドとヴァニティを襲撃した。",
+    "status": "dead",
+    "ninjaUrls": [],
+    "noteUrls": [],
     "appearances": [
       {
         "id": "8fffe24e"
       }
     ],
-    "skills": [],
-    "description": "ゾウラン・ダイ・カイのニンジャ。\nガーランドとヴァニティを襲撃した。",
-    "status": "unknown"
+    "organizations": [
+      {
+        "id": "d3e96eb7"
+      }
+    ]
   },
   {
     "id": "22ec209d",
@@ -47537,10 +47563,28 @@
   {
     "id": "380ae00f",
     "name": "カネコ・ニンジャ",
+    "aliases": [],
     "ninjaType": "リアルニンジャ",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%83%8D%E3%82%B3%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+    "ninjaSoul": {
+      "id": "bki0audx",
+      "name": "カネコ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "appearance": "プテラノドンに騎乗。",
+    "description": "バトル・オブ・ムーホン時代のリアルニンジャ。\nライチョウ・ニンジャ率いるプテラノドン隊に所属していた。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%83%8D%E3%82%B3%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "d66fda01"
+      }
+    ],
+    "organizations": []
   },
   {
     "id": "5a930396",
@@ -47704,10 +47748,31 @@
   {
     "id": "96afb87a",
     "name": "ゲド・ニンジャ",
+    "aliases": [],
     "ninjaType": "リアルニンジャ",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B2%E3%83%89%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+    "ninjaSoul": {
+      "id": "jjhbu15s",
+      "name": "ゲド・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "ヤイバ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "回転刃",
+      "ツルギ・マイ・マカブル"
+    ],
+    "appearance": "血塗れの武具を携えている。",
+    "description": "バトル・オブ・ムーホンで活躍した西軍のリアルニンジャ。\nヤイバ・ニンジャと共に離れ里の村人を虐殺していた。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B2%E3%83%89%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "d66fda01"
+      }
+    ],
+    "organizations": []
   },
   {
     "id": "f9c110ac",
@@ -47867,10 +47932,31 @@
   {
     "id": "da6a656b",
     "name": "ザンコク・ニンジャ",
+    "aliases": [],
     "ninjaType": "リアルニンジャ",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B6%E3%83%B3%E3%82%B3%E3%82%AF%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+    "ninjaSoul": {
+      "id": "rnymbfmx",
+      "name": "ザンコク・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "ヤイバ・ニンジャクラン",
+      "origin": ""
+    },
+    "skills": [
+      "回転刃",
+      "ツルギ・マイ・マカブル"
+    ],
+    "appearance": "血塗れの武具を携える。",
+    "description": "バトル・オブ・ムーホンで活躍した西軍のリアルニンジャ。\nヤイバ・ニンジャと共に離れ里の村人を虐殺していた。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B6%E3%83%B3%E3%82%B3%E3%82%AF%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "d66fda01"
+      }
+    ],
+    "organizations": []
   },
   {
     "id": "eab94a3e",
@@ -47944,10 +48030,34 @@
   {
     "id": "3e7d152f",
     "name": "ゾウ・ニンジャ",
+    "aliases": [],
     "ninjaType": "リアルニンジャ",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BE%E3%82%A6%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+    "ninjaSoul": {
+      "id": "h2ils39z",
+      "name": "ゾウ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "象戦車",
+      "メイス"
+    ],
+    "appearance": "象兜。象型メイス。",
+    "description": "バトル・オブ・ムーホンで活躍した西軍のリアルニンジャ。\n象戦車部隊を率い、六騎士を奇襲した。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BE%E3%82%A6%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "d66fda01"
+      },
+      {
+        "id": "s4cltp8w"
+      }
+    ],
+    "organizations": []
   },
   {
     "id": "49365b6c",
@@ -48262,10 +48372,30 @@
   {
     "id": "54b02ac6",
     "name": "ヒグマ・ニンジャ",
+    "aliases": [],
     "ninjaType": "リアルニンジャ",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%92%E3%82%B0%E3%83%9E%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+    "ninjaSoul": {
+      "id": "c6qxnphp",
+      "name": "ヒグマ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "暗黒カラテ騎馬",
+      "鉄戟斧"
+    ],
+    "description": "バトル・オブ・ムーホン時代に活躍した東軍の豪傑ニンジャ。\n暗黒カラテ騎馬を駆り、両手の鉄戟斧で敵を切り裂く。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%92%E3%82%B0%E3%83%9E%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "d66fda01"
+      }
+    ],
+    "organizations": []
   },
   {
     "id": "790d44ac",
@@ -48567,10 +48697,29 @@
   {
     "id": "5c943e8e",
     "name": "ライチョウ・ニンジャ",
+    "aliases": [],
     "ninjaType": "リアルニンジャ",
-    "organizations": [],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%82%A4%E3%83%81%E3%83%A7%E3%82%A6%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3"
+    "ninjaSoul": {
+      "id": "unkxocs9",
+      "name": "ライチョウ・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [
+      "プテラノドン"
+    ],
+    "description": "バトル・オブ・ムーホンで活躍した東軍のリアルニンジャ。\nプテラノドン騎手ニンジャたちを率いていた。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%82%A4%E3%83%81%E3%83%A7%E3%82%A6%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "d66fda01"
+      }
+    ],
+    "organizations": []
   },
   {
     "id": "26772de3",
@@ -58192,29 +58341,29 @@
     "ninjaType": "ニンジャソウル憑依者",
     "ninjaSoul": {
       "id": "1kld09cj",
-      "name": "",
-      "grade": "アーチ級",
-      "clan": "ハッパ・ニンジャ"
+      "name": "ハッパ・ニンジャ",
+      "grade": "アーチ級"
     },
-    "organizations": [
-      {
-        "id": "d3e96eb7"
-      }
-    ],
-    "appearances": [
-      {
-        "id": "zlsfsxqj"
-      }
-    ],
     "skills": [
-      "ナイトロブラスト・ジツ"
+      "ナイトロブラスト・ジツ",
+      "常人の三倍の脚力"
     ],
     "appearance": "斑模様ヤクザスーツ。ジャケットの下にヤクザニンジャ装束。\n手甲。メンポ。「䑓」の漢字を意匠化したヤクザ金バッジ。",
     "description": "ゾウラン・ダイ・カイのニンジャ。\n拳圧によって空気を変容、破砕させてしまう。",
     "status": "dead",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%82%BA%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%84#:hl:word=%E3%83%90%E3%82%BA",
     "ninjaUrls": [],
-    "noteUrls": []
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "zlsfsxqj"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "d3e96eb7"
+      }
+    ]
   },
   {
     "id": "u75nr07z",
@@ -60055,6 +60204,216 @@
       },
       {
         "id": "c81f586e"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "an9xbjc6",
+    "name": "フロストバイト",
+    "aliases": [],
+    "ninjaType": "リアルニンジャ",
+    "ninjaSoul": {
+      "id": "l92g05zs",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "コリ・ニンジャクラン"
+    },
+    "skills": [
+      "白ライオン",
+      "コリ・ナギナタ"
+    ],
+    "appearance": "白いニンジャ装束。偉丈夫。白いライオンに跨っている。\n氷の刃のナギナタ。",
+    "description": "バトル・オブ・ムーホンで活躍した東軍の指揮官級ニンジャ。\n白ライオンに騎乗し、氷のナギナタを振るう。",
+    "status": "unknown",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "d66fda01"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "bbxkhiwl",
+    "name": "マンタ・ニンジャ",
+    "aliases": [],
+    "ninjaType": "リアルニンジャ",
+    "ninjaSoul": {
+      "id": "1oklny60",
+      "name": "マンタ・ニンジャ",
+      "grade": "アーチ級"
+    },
+    "skills": [
+      "ヘンゲヨーカイ・ジツ"
+    ],
+    "appearance": "エイ皮のマント。",
+    "description": "バトル・オブ・ムーホンで活躍した東軍のニンジャ。\n巨大エイにヘンゲし、複数のニンジャを乗せて飛ぶ。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%83%B3%E3%82%BF%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "d66fda01"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "oyvwcn7z",
+    "name": "ブラックソーン",
+    "aliases": [],
+    "ninjaType": "リアルニンジャ",
+    "ninjaSoul": {
+      "id": "3ngpod55",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "槍斧",
+      "カラテ・エンハンス・ジツ"
+    ],
+    "appearance": "棘だらけの甲冑。フルメンポ。馬に乗っている。",
+    "description": "バトル・オブ・ムーホンで活躍した西軍の指揮官ニンジャ。\n馬に騎乗し、エンハンスした槍斧で攻撃する。",
+    "status": "unknown",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "d66fda01"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "1cy7o18h",
+    "name": "シャークヘッド",
+    "aliases": [],
+    "ninjaType": "リアルニンジャ",
+    "ninjaSoul": {
+      "id": "5ggiw0ov",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "包丁"
+    ],
+    "appearance": "身長4m超。血に汚れた白いジュー・ウェア。サメ頭。",
+    "description": "バトル・オブ・ムーホンで活躍したイタマエニンジャ。\n厨房に無断侵入する者には誰であろうと容赦しない。",
+    "status": "unknown",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "d66fda01"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "p6ian28u",
+    "name": "スバル・ニンジャ",
+    "aliases": [],
+    "ninjaType": "リアルニンジャ",
+    "ninjaSoul": {
+      "id": "wt0gx45u",
+      "name": "スバル・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "タナバタ・ニンジャクラン"
+    },
+    "skills": [
+      "ポータル・ジツ"
+    ],
+    "appearance": "ボロボロのローブ姿。神秘的な眼光。",
+    "description": "バトル・オブ・ムーホンに巻き込まれたリアルニンジャ。\n相方のムツラ・ニンジャに先立たれ、ザヴやシルバーキーに同行することに。",
+    "status": "unknown",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "d66fda01"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "cocrwgdt",
+    "name": "バロル・ニンジャ",
+    "aliases": [],
+    "ninjaType": "リアルニンジャ",
+    "ninjaSoul": {
+      "id": "x1z6mgl7",
+      "name": "バロル・ニンジャ",
+      "grade": "アーチ級",
+      "clan": "アクマ・ニンジャクラン"
+    },
+    "skills": [
+      "イビルアイ",
+      "熱線",
+      "鎖"
+    ],
+    "appearance": "身長3m超。黒曜石じみた漆黒の体。獣人めいた野太く荒々しい四肢。\n背に鉄の骨の翼。頭のあるべきところに炎に包まれた巨大な単眼。",
+    "description": "バトル・オブ・ムーホンで活躍した西軍のリアルニンジャ。\nアクマ・ニンジャの筆頭弟子。\nイビルアイに熱線も放つため”邪眼”の名で恐れられる。",
+    "status": "dead",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "d66fda01"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "3h6ave3g",
+    "name": "スルト・ニンジャ",
+    "aliases": [],
+    "ninjaType": "リアルニンジャ",
+    "ninjaSoul": {
+      "id": "4w4pxb43",
+      "name": "スルト・ニンジャ",
+      "grade": "アーチ級"
+    },
+    "skills": [
+      "炎のツルギ"
+    ],
+    "role": "ニンジャ八大将軍",
+    "appearance": "超高熱の巨人。燃え盛る巨大剣。",
+    "description": "バトル・オブ・ムーホンで活躍した西軍のニンジャ将軍。\n燃え盛る炎の巨大剣の一振りは災害そのもの。\nサツガイによって現代によみがえった。",
+    "status": "alive",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "d66fda01"
+      }
+    ],
+    "organizations": []
+  },
+  {
+    "id": "w3cylhyd",
+    "name": "ケモノ・ニンジャ",
+    "aliases": [],
+    "ninjaType": "リアルニンジャ",
+    "ninjaSoul": {
+      "id": "z53gfmsb",
+      "name": "ケモノ・ニンジャ",
+      "grade": "アーチ級"
+    },
+    "skills": [
+      "ヘンゲヨーカイ・ジツ"
+    ],
+    "role": "ニンジャ八大将軍",
+    "appearance": "ヘンゲ時：異形のキマイラめいた怪物。あるいは巨大な熊や狼。",
+    "description": "バトル・オブ・ムーホンで活躍した西軍のニンジャ将軍。\nヘンゲヨーカイ・ジツの祖。文明に嫌気がさし荒野に消え去った。",
+    "status": "unknown",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "d66fda01"
       }
     ],
     "organizations": []
