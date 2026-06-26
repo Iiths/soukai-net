@@ -3996,18 +3996,14 @@
       "clan": "ハデス・ニンジャクラン",
       "origin": ""
     },
-    "skills": [
-      "シャドウピン・ジツ",
-      "シャドウコピー・ジツ",
-      "シャドウリープ・ジツ",
-      "アイアンオトメ"
+    "organizations": [
+      {
+        "id": "f35c5c1d"
+      },
+      {
+        "id": "zaibatsu-p2"
+      }
     ],
-    "appearance": "ザイバツ時代：全身にクナイダート・ベルトを仕込んだニンジャ装束。\n第3部：フード付きニンジャ装束。ジツで生み出した影の右腕。\n第4部：灰色のニンジャ装束。煤けた厚手のテックコート。首元にライダーゴーグル。",
-    "description": "暗黒ハイク高校生に強大なニンジャソウルが憑依。\nザイバツに属していたがヌケニンし、第3部ではシャドウドラゴンと化していた。\n第4部ではハデス・ネットを作り、ハデス・ニンジャクランの憑依者を繋いでいる。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%82%A6%E3%82%A3%E3%83%BC%E3%83%B4",
-    "ninjaUrls": [],
-    "noteUrls": [],
     "appearances": [
       {
         "id": "3zn1rjr5"
@@ -4067,14 +4063,18 @@
         "id": "66ac3aba"
       }
     ],
-    "organizations": [
-      {
-        "id": "f35c5c1d"
-      },
-      {
-        "id": "zaibatsu-p2"
-      }
-    ]
+    "skills": [
+      "シャドウピン・ジツ",
+      "シャドウコピー・ジツ",
+      "シャドウリープ・ジツ",
+      "アイアンオトメ"
+    ],
+    "appearance": "ザイバツ時代：全身にクナイダート・ベルトを仕込んだニンジャ装束。\n第3部：フード付きニンジャ装束。ジツで生み出した影の右腕。\n第4部：灰色のニンジャ装束。煤けた厚手のテックコート。首元にライダーゴーグル。",
+    "description": "暗黒ハイク高校生に強大なニンジャソウルが憑依。\nザイバツに属していたがヌケニンし、第3部ではシャドウドラゴンと化していた。\n第4部ではハデス・ネットを作り、ハデス・ニンジャクランの憑依者を繋いでいる。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%82%A6%E3%82%A3%E3%83%BC%E3%83%B4",
+    "ninjaUrls": [],
+    "noteUrls": []
   },
   {
     "id": "1775455954",
@@ -6669,13 +6669,11 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "appearance": "カイゼル髭。恰幅の良い男。ダブルのスーツ。",
-    "description": "ゾウラン・ダイ・カイの頭首。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%82%A3%E3%83%AB%E3%83%A0%E3%82%B1%E3%83%BC%E3%83%97",
-    "ninjaUrls": [],
-    "noteUrls": [],
+    "organizations": [
+      {
+        "id": "d3e96eb7"
+      }
+    ],
     "appearances": [
       {
         "id": "r4yepeot"
@@ -6684,11 +6682,13 @@
         "id": "0hamcejv"
       }
     ],
-    "organizations": [
-      {
-        "id": "d3e96eb7"
-      }
-    ]
+    "skills": [],
+    "appearance": "カイゼル髭。恰幅の良い男。ダブルのスーツ。",
+    "description": "ゾウラン・ダイ・カイの頭首。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%82%A3%E3%83%AB%E3%83%A0%E3%82%B1%E3%83%BC%E3%83%97",
+    "ninjaUrls": [],
+    "noteUrls": []
   },
   {
     "id": "17754559126",
@@ -6702,6 +6702,16 @@
       "clan": "ヤクシャ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "d3e96eb7"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "3b4d6efa"
+      }
+    ],
     "skills": [
       "ナックルナイフ",
       "カゼ・ブンシン"
@@ -6711,17 +6721,7 @@
     "status": "alive",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%87%E3%83%93%E3%83%AB",
     "ninjaUrls": [],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "3b4d6efa"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "d3e96eb7"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "17754559127",
@@ -10565,19 +10565,6 @@
       "clan": "シャチ・ニンジャクラン",
       "origin": ""
     },
-    "organizations": [
-      {
-        "id": "soukaiya-p1"
-      }
-    ],
-    "appearances": [
-      {
-        "id": "9lclsu2q"
-      },
-      {
-        "id": "vr3fq73p"
-      }
-    ],
     "skills": [
       "アクアカラテ",
       "ハープーン"
@@ -10586,7 +10573,31 @@
     "appearance": "ウェットニンジャ装束。シュノーケルめいたメンポ。\n両腕部にハープーン射出機構。",
     "description": "ソウカイ・シックスゲイツの一人。末期シックスゲイツ。\n水中戦に特化している。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89",
+    "ninjaUrls": [
+      {
+        "label": "トリロジー名鑑",
+        "url": "https://x.com/NJSLYR/status/62368005937565696"
+      },
+      {
+        "label": "トリロジー名鑑N",
+        "url": "https://x.com/NJSLYR/status/1712668728255713553"
+      }
+    ],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "9lclsu2q"
+      },
+      {
+        "id": "vr3fq73p"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      }
+    ]
   },
   {
     "id": "7676ea0f",
@@ -10676,16 +10687,6 @@
       "clan": "ヤイバ・ニンジャクラン",
       "origin": ""
     },
-    "organizations": [
-      {
-        "id": "soukaiya-p1"
-      }
-    ],
-    "appearances": [
-      {
-        "id": "9lclsu2q"
-      }
-    ],
     "skills": [
       "カクシ・キリ"
     ],
@@ -10693,7 +10694,28 @@
     "appearance": "スリムフィット黒ニンジャ装束。\n全身にカタナの展開機構。",
     "description": "ソウカイ・シックスゲイツの一人。末期シックスゲイツ。\n計数百本のカタナで奇襲する。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%82%A4%E3%82%B6%E3%83%BC%E3%82%A8%E3%83%83%E3%82%B8"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%82%A4%E3%82%B6%E3%83%BC%E3%82%A8%E3%83%83%E3%82%B8",
+    "ninjaUrls": [
+      {
+        "label": "トリロジー名鑑",
+        "url": "https://x.com/NJSLYR/status/57254093915291648"
+      },
+      {
+        "label": "トリロジー名鑑N",
+        "url": "https://x.com/NJSLYR/status/1701068297712902554"
+      }
+    ],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "9lclsu2q"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      }
+    ]
   },
   {
     "id": "f1140ec0",
@@ -10848,16 +10870,6 @@
       "clan": "カゼ・ニンジャクラン",
       "origin": ""
     },
-    "organizations": [
-      {
-        "id": "soukaiya-p1"
-      }
-    ],
-    "appearances": [
-      {
-        "id": "fmmj8ad1"
-      }
-    ],
     "skills": [
       "ソニックカラテ",
       "ジェット・ツキ"
@@ -10866,7 +10878,28 @@
     "appearance": "金糸のニンジャ装束、悪趣味な。\nリーゼントヘア。柄シャツに白いズボンを着用。スタッズ付きブレーサー。",
     "description": "ソウカイ・シックスゲイツの一人。スカウト部門筆頭。\n元ヤクザ・バウンサーでソニックカラテの使い手。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF%E3%83%96%E3%83%BC%E3%83%A0"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF%E3%83%96%E3%83%BC%E3%83%A0",
+    "ninjaUrls": [
+      {
+        "label": "トリロジー名鑑",
+        "url": "https://x.com/NJSLYR/status/58020287354109952"
+      },
+      {
+        "label": "トリロジー名鑑N",
+        "url": "https://x.com/NJSLYR/status/1701068967065100621"
+      }
+    ],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "fmmj8ad1"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      }
+    ]
   },
   {
     "id": "35d8a63d",
@@ -12200,23 +12233,34 @@
       "clan": "",
       "origin": ""
     },
-    "organizations": [
-      {
-        "id": "soukaiya-p1"
-      }
-    ],
-    "appearances": [
-      {
-        "id": "t4llx7ft"
-      }
-    ],
     "skills": [
       "セントリーガン",
       "セントリーパンチ"
     ],
     "description": "ソウカイヤの末端ニンジャ。\nサンシタ。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BB%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BB%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC",
+    "ninjaUrls": [
+      {
+        "label": "トリロジー名鑑",
+        "url": "https://x.com/NJSLYR/status/57246255256047616"
+      },
+      {
+        "label": "トリロジー名鑑N",
+        "url": "https://x.com/NJSLYR/status/1698533835972182061"
+      }
+    ],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "t4llx7ft"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      }
+    ]
   },
   {
     "id": "d6ca39db",
@@ -13330,22 +13374,33 @@
       "clan": "ジャガー・ニンジャクラン",
       "origin": ""
     },
-    "organizations": [
-      {
-        "id": "soukaiya-p1"
-      }
-    ],
-    "appearances": [
-      {
-        "id": "3rbo5xaf"
-      }
-    ],
     "skills": [
       "常人の三倍の脚力"
     ],
     "description": "ソウカイヤの末端ニンジャ。\n鍵爪と脚力が持ち味。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%82%AA%E3%83%91%E3%83%AB%E3%83%89"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%82%AA%E3%83%91%E3%83%AB%E3%83%89",
+    "ninjaUrls": [
+      {
+        "label": "トリロジー名鑑",
+        "url": "https://x.com/NJSLYR/status/33572155958497280"
+      },
+      {
+        "label": "トリロジー名鑑N",
+        "url": "https://x.com/NJSLYR/status/1690924626829008896"
+      }
+    ],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "3rbo5xaf"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "soukaiya-p1"
+      }
+    ]
   },
   {
     "id": "8b7ea790",
@@ -14650,11 +14705,28 @@
       "clan": "ソガ・ニンジャクラン",
       "origin": ""
     },
-    "organizations": [
+    "skills": [
+      "キョジツテンカンホー・ジツ",
+      "タタミ・ジツ",
+      "ドス・ダガー",
+      "高速再生"
+    ],
+    "role": "ザイバツ・ロード",
+    "appearance": "車椅子。老齢。秘的なノーレン。身長184cm。",
+    "description": "ザイバツ・シャドーギルドの謎めいた首領。\nショーグン・オーヴァーロードの末裔を自認。\nキョジツテンカンホーでキョートを支配している。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AD%E3%83%BC%E3%83%89%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%82%B6%E3%82%A4%E3%83%90%E3%83%84",
+    "ninjaUrls": [
       {
-        "id": "zaibatsu-p2"
+        "label": "トリロジー名鑑",
+        "url": "https://x.com/NJSLYR/status/62680133483495424"
+      },
+      {
+        "label": "トリロジー名鑑N",
+        "url": "https://x.com/NJSLYR/status/1712671063648432601"
       }
     ],
+    "noteUrls": [],
     "appearances": [
       {
         "id": "9lclsu2q"
@@ -14681,17 +14753,11 @@
         "id": "oer10ykn"
       }
     ],
-    "skills": [
-      "キョジツテンカンホー・ジツ",
-      "タタミ・ジツ",
-      "ドス・ダガー",
-      "高速再生"
-    ],
-    "role": "ザイバツ・ロード",
-    "appearance": "車椅子。老齢。秘的なノーレン。身長184cm。",
-    "description": "ザイバツ・シャドーギルドの謎めいた首領。\nショーグン・オーヴァーロードの末裔を自認。\nキョジツテンカンホーでキョートを支配している。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AD%E3%83%BC%E3%83%89%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%82%B6%E3%82%A4%E3%83%90%E3%83%84"
+    "organizations": [
+      {
+        "id": "zaibatsu-p2"
+      }
+    ]
   },
   {
     "id": "d64d2ab2",
@@ -14789,11 +14855,26 @@
       "clan": "",
       "origin": ""
     },
-    "organizations": [
+    "skills": [
+      "アスラ・カラテ",
+      "カゲムシャ・ジツ"
+    ],
+    "role": "グランドマスター位階",
+    "appearance": "暗青紫色のニンジャ装束。背中に二本のニンジャソード。身長187㎝。",
+    "description": "ザイバツ・グランドマスターの一人。キョート城の庭師。\nカタナだけでなく巨大ブッダ像をもネンリキで操る。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B1%E3%82%A4%E3%83%93%E3%82%A4%E3%83%B3",
+    "ninjaUrls": [
       {
-        "id": "zaibatsu-p2"
+        "label": "トリロジー名鑑",
+        "url": "https://x.com/NJSLYR/status/51822946364301312"
+      },
+      {
+        "label": "トリロジー名鑑N",
+        "url": "https://x.com/NJSLYR/status/1691647184197017747"
       }
     ],
+    "noteUrls": [],
     "appearances": [
       {
         "id": "12ml6hmz"
@@ -14811,15 +14892,11 @@
         "id": "oer10ykn"
       }
     ],
-    "skills": [
-      "アスラ・カラテ",
-      "カゲムシャ・ジツ"
-    ],
-    "role": "グランドマスター位階",
-    "appearance": "暗青紫色のニンジャ装束。背中に二本のニンジャソード。身長187㎝。",
-    "description": "ザイバツ・グランドマスターの一人。キョート城の庭師。\nカタナだけでなく巨大ブッダ像をもネンリキで操る。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B1%E3%82%A4%E3%83%93%E3%82%A4%E3%83%B3"
+    "organizations": [
+      {
+        "id": "zaibatsu-p2"
+      }
+    ]
   },
   {
     "id": "3c04da97",
@@ -15775,11 +15852,27 @@
       "clan": "タカジョウ・ニンジャクラン",
       "origin": ""
     },
-    "organizations": [
+    "skills": [
+      "ダブル・ポン・パンチ",
+      "スリケン・ボウガン",
+      "バイオイーグル『アヤミ』"
+    ],
+    "role": "マスター位階",
+    "appearance": "関節部が装甲めいた甲冑ニンジャ装束。\nスリケン・ボウガン。",
+    "description": "ザイバツのマスターニンジャ。ネオサイタマ駐屯組。\n亡き恋人を重ねたバイオイーグルとの連携は凶悪。\nマルノウチ抗争参加者。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B9%E3%83%8A%E3%82%A4%E3%83%88",
+    "ninjaUrls": [
       {
-        "id": "zaibatsu-p2"
+        "label": "トリロジー名鑑",
+        "url": "https://x.com/NJSLYR/status/55052736965787649"
+      },
+      {
+        "label": "トリロジー名鑑N",
+        "url": "https://x.com/NJSLYR/status/1694185199838642613"
       }
     ],
+    "noteUrls": [],
     "appearances": [
       {
         "id": "9j0jnn2l"
@@ -15791,16 +15884,11 @@
         "id": "64543510"
       }
     ],
-    "skills": [
-      "ダブル・ポン・パンチ",
-      "スリケン・ボウガン",
-      "バイオイーグル『アヤミ』"
-    ],
-    "role": "マスター位階",
-    "appearance": "関節部が装甲めいた甲冑ニンジャ装束。\nスリケン・ボウガン。",
-    "description": "ザイバツのマスターニンジャ。ネオサイタマ駐屯組。\n亡き恋人を重ねたバイオイーグルとの連携は凶悪。\nマルノウチ抗争参加者。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%B9%E3%83%8A%E3%82%A4%E3%83%88"
+    "organizations": [
+      {
+        "id": "zaibatsu-p2"
+      }
+    ]
   },
   {
     "id": "03208477",
@@ -16794,11 +16882,25 @@
       "clan": "ヒャッポ・ニンジャクラン",
       "origin": ""
     },
-    "organizations": [
+    "skills": [
+      "ザオ・ケン"
+    ],
+    "role": "アデプト位階",
+    "appearance": "白いスプリントアーマー装束。鉄仮面メンポ。目と口を縫い合わされている。身長210cm。\n10フィート長のカタナ「ザオ・ケン」。",
+    "description": "ザイバツのニンジャ。ネオサイタマ駐屯組。\nアデプト位階だがその実力はマスター位階にも匹敵。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%83%B3%E3%83%9A%E3%82%A4%E3%83%AB%E3%83%A1%E3%83%B3%E3%83%88",
+    "ninjaUrls": [
       {
-        "id": "zaibatsu-p2"
+        "label": "トリロジー名鑑",
+        "url": "https://x.com/NJSLYR/status/62363804054458368"
+      },
+      {
+        "label": "トリロジー名鑑N",
+        "url": "https://x.com/NJSLYR/status/1707231042837557680"
       }
     ],
+    "noteUrls": [],
     "appearances": [
       {
         "id": "9j0jnn2l"
@@ -16813,14 +16915,11 @@
         "id": "6o0erlqp"
       }
     ],
-    "skills": [
-      "ザオ・ケン"
-    ],
-    "role": "アデプト位階",
-    "appearance": "白いスプリントアーマー装束。鉄仮面メンポ。目と口を縫い合わされている。身長210cm。\n10フィート長のカタナ「ザオ・ケン」。",
-    "description": "ザイバツのニンジャ。ネオサイタマ駐屯組。\nアデプト位階だがその実力はマスター位階にも匹敵。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A4%E3%83%B3%E3%83%9A%E3%82%A4%E3%83%AB%E3%83%A1%E3%83%B3%E3%83%88"
+    "organizations": [
+      {
+        "id": "zaibatsu-p2"
+      }
+    ]
   },
   {
     "id": "bf868421",
@@ -20035,23 +20134,34 @@
       "clan": "イヌ・ニンジャクラン",
       "origin": ""
     },
-    "organizations": [
-      {
-        "id": "zaibatsu-p2"
-      }
-    ],
-    "appearances": [
-      {
-        "id": "t4m7hei5"
-      }
-    ],
     "skills": [
       "刃物状の四肢"
     ],
     "appearance": "口元が露出したフルフェイスめいたメンポ。\n手足の肘・膝から置換された刃。",
     "description": "思考能力を破壊されたザイバツの護衛ニンジャ。\nキョート城を徘徊し侵入者に襲い掛かる。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AF%E3%83%83%E3%83%81%E3%83%89%E3%83%83%E3%82%B0"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AF%E3%83%83%E3%83%81%E3%83%89%E3%83%83%E3%82%B0",
+    "ninjaUrls": [
+      {
+        "label": "トリロジー名鑑",
+        "url": "https://x.com/NJSLYR/status/62533575194591232"
+      },
+      {
+        "label": "トリロジー名鑑N",
+        "url": "https://x.com/NJSLYR/status/1717014033558286652"
+      }
+    ],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "t4m7hei5"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "zaibatsu-p2"
+      }
+    ]
   },
   {
     "id": "8c194133",
@@ -22280,11 +22390,30 @@
       "clan": "ゼウス・ニンジャクラン",
       "origin": ""
     },
-    "organizations": [
+    "skills": [
+      "デン・ジツ",
+      "デン・スリケン",
+      "エネルギードレイン",
+      "デン・ブンシン",
+      "デン・スフィア",
+      "肉体再構成"
+    ],
+    "role": "アマクダリ12人",
+    "appearance": "褐色の肌、後ろへ撫で付けた白髪めいた金髪。眉目秀麗な男。灰色の瞳。身長182cm。\n普段は白いスーツ。イクサ時は黄金のパルスが駆け巡る電撃装束。\nブレーサーとメンポの意匠の威容はオリュンポス12忍の頂点に立つ者にふさわしいと形容される。",
+    "description": "アマクダリ・セクトの実質的指導者。\n文字通り稲妻の速度で放たれるデン・スリケンは並のニンジャを一瞬で感電死させる。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%AC%E3%83%A1%E3%83%A0%E3%83%8E%E3%83%B3",
+    "ninjaUrls": [
       {
-        "id": "cd4744be"
+        "label": "トリロジー名鑑",
+        "url": "https://x.com/NJSLYR/status/53096280813092865"
+      },
+      {
+        "label": "トリロジー名鑑N",
+        "url": "https://x.com/NJSLYR/status/1691648168713449702"
       }
     ],
+    "noteUrls": [],
     "appearances": [
       {
         "id": "9lclsu2q"
@@ -22353,19 +22482,11 @@
         "id": "e9c2b6e2"
       }
     ],
-    "skills": [
-      "デン・ジツ",
-      "デン・スリケン",
-      "エネルギードレイン",
-      "デン・ブンシン",
-      "デン・スフィア",
-      "肉体再構成"
-    ],
-    "role": "アマクダリ12人",
-    "appearance": "褐色の肌、後ろへ撫で付けた白髪めいた金髪。眉目秀麗な男。灰色の瞳。身長182cm。\n普段は白いスーツ。イクサ時は黄金のパルスが駆け巡る電撃装束。\nブレーサーとメンポの意匠の威容はオリュンポス12忍の頂点に立つ者にふさわしいと形容される。",
-    "description": "アマクダリ・セクトの実質的指導者。\n文字通り稲妻の速度で放たれるデン・スリケンは並のニンジャを一瞬で感電死させる。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%AC%E3%83%A1%E3%83%A0%E3%83%8E%E3%83%B3"
+    "organizations": [
+      {
+        "id": "cd4744be"
+      }
+    ]
   },
   {
     "id": "02595771",
@@ -26668,6 +26789,31 @@
       "clan": "イタミ・ニンジャクラン",
       "origin": ""
     },
+    "skills": [
+      "イタミ・ジツ",
+      "フック付き鎖",
+      "鋼鉄カンオケ"
+    ],
+    "appearance": "紺のニンジャ装束。筋骨隆々の異常巨体。身長250㎝超。\n両腕に鎖。背中に鋼鉄カンオケ。",
+    "description": "アマクダリのニンジャ。\nカンオケ内に入れた敵の痛みを自らも受けイタミ・ジツを発動する。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%A3%E3%82%B9%E3%82%A8%E3%82%A4%E3%83%96%E3%83%A9%E3%83%BC",
+    "ninjaUrls": [
+      {
+        "label": "トリロジー名鑑",
+        "url": "https://x.com/NJSLYR/status/55067807993442305"
+      },
+      {
+        "label": "トリロジー名鑑N",
+        "url": "https://x.com/NJSLYR/status/1698531443495014489"
+      }
+    ],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "st6b9q7x"
+      }
+    ],
     "organizations": [
       {
         "id": "soukaiya-p1"
@@ -26675,21 +26821,7 @@
       {
         "id": "cd4744be"
       }
-    ],
-    "appearances": [
-      {
-        "id": "st6b9q7x"
-      }
-    ],
-    "skills": [
-      "イタミ・ジツ",
-      "フック付き鎖",
-      "鋼鉄カンオケ"
-    ],
-    "appearance": "紺のニンジャ装束。筋骨隆々の異常巨体。身長250㎝超。\n両腕に鎖。背中に鋼鉄カンオケ。",
-    "description": "アマクダリのニンジャ。\nカンオケ内に入れた敵の痛みを自らにも与えイタミ・ジツに変える。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%A3%E3%82%B9%E3%82%A8%E3%82%A4%E3%83%96%E3%83%A9%E3%83%BC"
+    ]
   },
   {
     "id": "1a7a20d8",
@@ -29773,12 +29905,32 @@
       "clan": "シ・ニンジャクラン",
       "origin": "シ・ニンジャ分離の際にカイデン"
     },
-    "organizations": [
+    "skills": [
+      "サクラ・エンハンスメント・ジツ",
+      "オリガミ・ミサイル",
+      "イアイドー"
+    ],
+    "description": "元オリガミ部の女子高生ニンジャ。\n4部ではシ・ニンジャにまつわるニンジャから命を狙われていた。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A4%E3%83%A2%E3%83%88%E3%83%BB%E3%82%B3%E3%82%AD",
+    "ninjaUrls": [
       {
-        "id": "a91ea54d"
+        "label": "トリロジー名鑑",
+        "url": "https://x.com/NJSLYR/status/53101345103810560"
       },
       {
-        "id": "gndew7o1"
+        "label": "トリロジー名鑑N",
+        "url": "https://x.com/NJSLYR/status/1694184559301325182"
+      },
+      {
+        "label": "AoM名鑑",
+        "url": "https://x.com/NJSLYR/status/1116269863457001472"
+      }
+    ],
+    "noteUrls": [
+      {
+        "label": "ニンジャ名鑑カード",
+        "url": "https://diehardtales.com/n/n40074184068a"
       }
     ],
     "appearances": [
@@ -29861,14 +30013,14 @@
         "id": "emcygtsj"
       }
     ],
-    "skills": [
-      "サクラ・エンハンスメント・ジツ",
-      "オリガミ・ミサイル",
-      "イアイドー"
-    ],
-    "description": "元オリガミ部の女子高生ニンジャ。\n4部ではシ・ニンジャにまつわるニンジャから命を狙われていた。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A4%E3%83%A2%E3%83%88%E3%83%BB%E3%82%B3%E3%82%AD"
+    "organizations": [
+      {
+        "id": "a91ea54d"
+      },
+      {
+        "id": "gndew7o1"
+      }
+    ]
   },
   {
     "id": "d04d37",
@@ -32675,16 +32827,6 @@
       "clan": "",
       "origin": ""
     },
-    "organizations": [
-      {
-        "id": "09afd629"
-      }
-    ],
-    "appearances": [
-      {
-        "id": "t4llx7ft"
-      }
-    ],
     "skills": [
       "ネクロカラテ",
       "麻痺毒クナイ・ダート"
@@ -32692,7 +32834,28 @@
     "appearance": "灰色のニンジャ装束。長身の老人。\n体色は鉛色に変じ、眼は紫色に輝く。\n両手首に結ばれたクナイ・ダート。",
     "description": "リー先生が作り出したゾンビーニンジャ第1号。\nネクロカラテで戦う。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%83%99%E3%83%8A%E3%83%B3%E3%83%88"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%83%99%E3%83%8A%E3%83%B3%E3%83%88",
+    "ninjaUrls": [
+      {
+        "label": "トリロジー名鑑",
+        "url": "https://x.com/NJSLYR/status/33511942966476800"
+      },
+      {
+        "label": "トリロジー名鑑N",
+        "url": "https://x.com/NJSLYR/status/1688387251083067392"
+      }
+    ],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "t4llx7ft"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "09afd629"
+      }
+    ]
   },
   {
     "id": "b0a575",
@@ -36571,12 +36734,6 @@
       "clan": "",
       "origin": ""
     },
-    "organizations": [],
-    "appearances": [
-      {
-        "id": "tqlc7ayk"
-      }
-    ],
     "skills": [
       "キネシス・タイプ",
       "ハッカー"
@@ -36584,7 +36741,24 @@
     "appearance": "山吹色の装束。黄金の鎖やブレスレットを身につける。黒人。",
     "description": "ハッカークラン「ゴールデンドーン」を治めるハッカーニンジャ。\nキネシス・ジツを利用した遠隔超高速タイプを実現する。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%83%B3%E3%82%AD%E3%83%89%E3%82%A5"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A8%E3%83%B3%E3%82%AD%E3%83%89%E3%82%A5",
+    "ninjaUrls": [
+      {
+        "label": "トリロジー名鑑",
+        "url": "https://x.com/NJSLYR/status/33557676436758528"
+      },
+      {
+        "label": "トリロジー名鑑N",
+        "url": "https://x.com/NJSLYR/status/1688389749965496320"
+      }
+    ],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "tqlc7ayk"
+      }
+    ],
+    "organizations": []
   },
   {
     "id": "002343",
@@ -37519,17 +37693,28 @@
       "clan": "マンモス・ニンジャクラン",
       "origin": ""
     },
-    "organizations": [],
+    "skills": [],
+    "appearance": "マンモス・アーマー。マンモス・タスク。",
+    "description": "シャドー・コンの参加者。ニンジャ。\n古代ローマカラテ会に所属している。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%83%B3%E3%83%8B%E3%83%90%E3%83%AB",
+    "ninjaUrls": [
+      {
+        "label": "トリロジー名鑑",
+        "url": "https://x.com/NJSLYR/status/59127124103135232"
+      },
+      {
+        "label": "トリロジー名鑑N",
+        "url": "https://x.com/NJSLYR/status/1707229122966249914"
+      }
+    ],
+    "noteUrls": [],
     "appearances": [
       {
         "id": "wbfhbzoh"
       }
     ],
-    "skills": [],
-    "appearance": "マンモス・アーマー。マンモス・タスク。",
-    "description": "シャドー・コンの参加者。ニンジャ。\n古代ローマカラテ会に所属している。",
-    "status": "unknown",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8F%E3%83%B3%E3%83%8B%E3%83%90%E3%83%AB"
+    "organizations": []
   },
   {
     "id": "8399e1",
@@ -45309,21 +45494,21 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "description": "ゾウラン・ダイ・カイのニンジャ。\nガーランドとヴァニティを襲撃した。",
-    "status": "dead",
-    "ninjaUrls": [],
-    "noteUrls": [],
+    "organizations": [
+      {
+        "id": "d3e96eb7"
+      }
+    ],
     "appearances": [
       {
         "id": "8fffe24e"
       }
     ],
-    "organizations": [
-      {
-        "id": "d3e96eb7"
-      }
-    ]
+    "skills": [],
+    "description": "ゾウラン・ダイ・カイのニンジャ。\nガーランドとヴァニティを襲撃した。",
+    "status": "dead",
+    "ninjaUrls": [],
+    "noteUrls": []
   },
   {
     "id": "96f9e13b",
@@ -45388,23 +45573,23 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "d3e96eb7"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ],
     "skills": [
       "鬼瓦召喚"
     ],
     "description": "ゾウラン・ダイ・カイのニンジャ。\n光り輝く大きな鬼瓦を召喚するタタミ・ジツの亜種を使う。",
     "status": "dead",
     "ninjaUrls": [],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "8fffe24e"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "d3e96eb7"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "5ac63f56",
@@ -45879,6 +46064,16 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "d3e96eb7"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ],
     "skills": [
       "シャドウヘイスト・ジツ",
       "カンフー・カラテ"
@@ -45886,17 +46081,7 @@
     "description": "ゾウラン・ダイ・カイのニンジャ。\n黒い墨絵めいた残像を残し高速攻撃する。",
     "status": "alive",
     "ninjaUrls": [],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "8fffe24e"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "d3e96eb7"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "54350234",
@@ -46219,21 +46404,21 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "description": "ゾウラン・ダイ・カイのニンジャ。\nガーランドとヴァニティを襲撃した。",
-    "status": "alive",
-    "ninjaUrls": [],
-    "noteUrls": [],
+    "organizations": [
+      {
+        "id": "d3e96eb7"
+      }
+    ],
     "appearances": [
       {
         "id": "8fffe24e"
       }
     ],
-    "organizations": [
-      {
-        "id": "d3e96eb7"
-      }
-    ]
+    "skills": [],
+    "description": "ゾウラン・ダイ・カイのニンジャ。\nガーランドとヴァニティを襲撃した。",
+    "status": "alive",
+    "ninjaUrls": [],
+    "noteUrls": []
   },
   {
     "id": "f5e06f97",
@@ -46546,6 +46731,16 @@
       "clan": "ワニ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "d3e96eb7"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ],
     "skills": [
       "デスロール・ケン"
     ],
@@ -46553,17 +46748,7 @@
     "description": "ゾウラン・ダイ・カイの古参構成員ニンジャ。",
     "status": "alive",
     "ninjaUrls": [],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "8fffe24e"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "d3e96eb7"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "8ceebc0a",
@@ -46844,21 +47029,21 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [],
-    "description": "ゾウラン・ダイ・カイのニンジャ。\nガーランドとヴァニティを襲撃した。",
-    "status": "dead",
-    "ninjaUrls": [],
-    "noteUrls": [],
+    "organizations": [
+      {
+        "id": "d3e96eb7"
+      }
+    ],
     "appearances": [
       {
         "id": "8fffe24e"
       }
     ],
-    "organizations": [
-      {
-        "id": "d3e96eb7"
-      }
-    ]
+    "skills": [],
+    "description": "ゾウラン・ダイ・カイのニンジャ。\nガーランドとヴァニティを襲撃した。",
+    "status": "dead",
+    "ninjaUrls": [],
+    "noteUrls": []
   },
   {
     "id": "22ec209d",
@@ -47572,19 +47757,19 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "d66fda01"
+      }
+    ],
     "skills": [],
     "appearance": "プテラノドンに騎乗。",
     "description": "バトル・オブ・ムーホン時代のリアルニンジャ。\nライチョウ・ニンジャ率いるプテラノドン隊に所属していた。",
     "status": "unknown",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%83%8D%E3%82%B3%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
     "ninjaUrls": [],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "d66fda01"
-      }
-    ],
-    "organizations": []
+    "noteUrls": []
   },
   {
     "id": "5a930396",
@@ -47757,6 +47942,12 @@
       "clan": "ヤイバ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "d66fda01"
+      }
+    ],
     "skills": [
       "回転刃",
       "ツルギ・マイ・マカブル"
@@ -47766,13 +47957,7 @@
     "status": "unknown",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B2%E3%83%89%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
     "ninjaUrls": [],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "d66fda01"
-      }
-    ],
-    "organizations": []
+    "noteUrls": []
   },
   {
     "id": "f9c110ac",
@@ -47941,6 +48126,12 @@
       "clan": "ヤイバ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "d66fda01"
+      }
+    ],
     "skills": [
       "回転刃",
       "ツルギ・マイ・マカブル"
@@ -47950,13 +48141,7 @@
     "status": "unknown",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B6%E3%83%B3%E3%82%B3%E3%82%AF%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
     "ninjaUrls": [],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "d66fda01"
-      }
-    ],
-    "organizations": []
+    "noteUrls": []
   },
   {
     "id": "eab94a3e",
@@ -48039,6 +48224,15 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "d66fda01"
+      },
+      {
+        "id": "s4cltp8w"
+      }
+    ],
     "skills": [
       "象戦車",
       "メイス"
@@ -48048,16 +48242,7 @@
     "status": "dead",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BE%E3%82%A6%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
     "ninjaUrls": [],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "d66fda01"
-      },
-      {
-        "id": "s4cltp8w"
-      }
-    ],
-    "organizations": []
+    "noteUrls": []
   },
   {
     "id": "49365b6c",
@@ -48381,6 +48566,12 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "d66fda01"
+      }
+    ],
     "skills": [
       "暗黒カラテ騎馬",
       "鉄戟斧"
@@ -48389,13 +48580,7 @@
     "status": "unknown",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%92%E3%82%B0%E3%83%9E%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
     "ninjaUrls": [],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "d66fda01"
-      }
-    ],
-    "organizations": []
+    "noteUrls": []
   },
   {
     "id": "790d44ac",
@@ -48706,6 +48891,12 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "d66fda01"
+      }
+    ],
     "skills": [
       "プテラノドン"
     ],
@@ -48713,13 +48904,7 @@
     "status": "unknown",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%A9%E3%82%A4%E3%83%81%E3%83%A7%E3%82%A6%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
     "ninjaUrls": [],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "d66fda01"
-      }
-    ],
-    "organizations": []
+    "noteUrls": []
   },
   {
     "id": "26772de3",
@@ -50677,23 +50862,34 @@
       "grade": "レッサー級",
       "clan": "サソリ・ニンジャクラン"
     },
-    "organizations": [
-      {
-        "id": "9fd6aaf4"
-      }
-    ],
-    "appearances": [
-      {
-        "id": "a26d6fd0"
-      }
-    ],
     "skills": [
       "サイバネティック・カトン・ジツ"
     ],
     "appearance": "円柱の重なったサイバネティック・ニンジャヘルム。\n両眼はLEDアイ。",
     "description": "オムラ・インダストリの残党企業ニンジャ。\n火炎放射装置を使ったカトン・ジツを使う。",
     "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC"
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC",
+    "ninjaUrls": [
+      {
+        "label": "トリロジー名鑑",
+        "url": "https://x.com/NJSLYR/status/39220964860510208"
+      },
+      {
+        "label": "トリロジー名鑑N",
+        "url": "https://x.com/NJSLYR/status/1690924802293583872"
+      }
+    ],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "a26d6fd0"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "9fd6aaf4"
+      }
+    ]
   },
   {
     "id": "71d4dq8e",
@@ -58344,6 +58540,16 @@
       "name": "ハッパ・ニンジャ",
       "grade": "アーチ級"
     },
+    "organizations": [
+      {
+        "id": "d3e96eb7"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "zlsfsxqj"
+      }
+    ],
     "skills": [
       "ナイトロブラスト・ジツ",
       "常人の三倍の脚力"
@@ -58353,17 +58559,7 @@
     "status": "dead",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%82%BA%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%84#:hl:word=%E3%83%90%E3%82%BA",
     "ninjaUrls": [],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "zlsfsxqj"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "d3e96eb7"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "u75nr07z",
@@ -60177,6 +60373,15 @@
       "grade": "等級不明",
       "origin": "ハサミにロブスターの残留意識が宿る。"
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "b5928632"
+      },
+      {
+        "id": "c81f586e"
+      }
+    ],
     "skills": [
       "ハサミ",
       "ロブスター・カラテ",
@@ -60197,16 +60402,7 @@
         "label": "ニンジャ名鑑カード",
         "url": "https://diehardtales.com/n/n8139bf493e36"
       }
-    ],
-    "appearances": [
-      {
-        "id": "b5928632"
-      },
-      {
-        "id": "c81f586e"
-      }
-    ],
-    "organizations": []
+    ]
   },
   {
     "id": "an9xbjc6",
@@ -60219,6 +60415,12 @@
       "grade": "等級不明",
       "clan": "コリ・ニンジャクラン"
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "d66fda01"
+      }
+    ],
     "skills": [
       "白ライオン",
       "コリ・ナギナタ"
@@ -60227,13 +60429,7 @@
     "description": "バトル・オブ・ムーホンで活躍した東軍の指揮官級ニンジャ。\n白ライオンに騎乗し、氷のナギナタを振るう。",
     "status": "unknown",
     "ninjaUrls": [],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "d66fda01"
-      }
-    ],
-    "organizations": []
+    "noteUrls": []
   },
   {
     "id": "bbxkhiwl",
@@ -60245,6 +60441,12 @@
       "name": "マンタ・ニンジャ",
       "grade": "アーチ級"
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "d66fda01"
+      }
+    ],
     "skills": [
       "ヘンゲヨーカイ・ジツ"
     ],
@@ -60253,13 +60455,7 @@
     "status": "unknown",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%83%B3%E3%82%BF%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
     "ninjaUrls": [],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "d66fda01"
-      }
-    ],
-    "organizations": []
+    "noteUrls": []
   },
   {
     "id": "oyvwcn7z",
@@ -60271,6 +60467,12 @@
       "name": "",
       "grade": "等級不明"
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "d66fda01"
+      }
+    ],
     "skills": [
       "槍斧",
       "カラテ・エンハンス・ジツ"
@@ -60279,13 +60481,7 @@
     "description": "バトル・オブ・ムーホンで活躍した西軍の指揮官ニンジャ。\n馬に騎乗し、エンハンスした槍斧で攻撃する。",
     "status": "unknown",
     "ninjaUrls": [],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "d66fda01"
-      }
-    ],
-    "organizations": []
+    "noteUrls": []
   },
   {
     "id": "1cy7o18h",
@@ -60297,6 +60493,12 @@
       "name": "",
       "grade": "等級不明"
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "d66fda01"
+      }
+    ],
     "skills": [
       "包丁"
     ],
@@ -60304,13 +60506,7 @@
     "description": "バトル・オブ・ムーホンで活躍したイタマエニンジャ。\n厨房に無断侵入する者には誰であろうと容赦しない。",
     "status": "unknown",
     "ninjaUrls": [],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "d66fda01"
-      }
-    ],
-    "organizations": []
+    "noteUrls": []
   },
   {
     "id": "p6ian28u",
@@ -60323,6 +60519,12 @@
       "grade": "アーチ級",
       "clan": "タナバタ・ニンジャクラン"
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "d66fda01"
+      }
+    ],
     "skills": [
       "ポータル・ジツ"
     ],
@@ -60330,13 +60532,7 @@
     "description": "バトル・オブ・ムーホンに巻き込まれたリアルニンジャ。\n相方のムツラ・ニンジャに先立たれ、ザヴやシルバーキーに同行することに。",
     "status": "unknown",
     "ninjaUrls": [],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "d66fda01"
-      }
-    ],
-    "organizations": []
+    "noteUrls": []
   },
   {
     "id": "cocrwgdt",
@@ -60349,6 +60545,12 @@
       "grade": "アーチ級",
       "clan": "アクマ・ニンジャクラン"
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "d66fda01"
+      }
+    ],
     "skills": [
       "イビルアイ",
       "熱線",
@@ -60358,13 +60560,7 @@
     "description": "バトル・オブ・ムーホンで活躍した西軍のリアルニンジャ。\nアクマ・ニンジャの筆頭弟子。\nイビルアイに熱線も放つため”邪眼”の名で恐れられる。",
     "status": "dead",
     "ninjaUrls": [],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "d66fda01"
-      }
-    ],
-    "organizations": []
+    "noteUrls": []
   },
   {
     "id": "3h6ave3g",
@@ -60376,6 +60572,12 @@
       "name": "スルト・ニンジャ",
       "grade": "アーチ級"
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "d66fda01"
+      }
+    ],
     "skills": [
       "炎のツルギ"
     ],
@@ -60384,13 +60586,7 @@
     "description": "バトル・オブ・ムーホンで活躍した西軍のニンジャ将軍。\n燃え盛る炎の巨大剣の一振りは災害そのもの。\nサツガイによって現代によみがえった。",
     "status": "alive",
     "ninjaUrls": [],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "d66fda01"
-      }
-    ],
-    "organizations": []
+    "noteUrls": []
   },
   {
     "id": "w3cylhyd",
@@ -60402,6 +60598,12 @@
       "name": "ケモノ・ニンジャ",
       "grade": "アーチ級"
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "d66fda01"
+      }
+    ],
     "skills": [
       "ヘンゲヨーカイ・ジツ"
     ],
@@ -60410,10 +60612,121 @@
     "description": "バトル・オブ・ムーホンで活躍した西軍のニンジャ将軍。\nヘンゲヨーカイ・ジツの祖。文明に嫌気がさし荒野に消え去った。",
     "status": "unknown",
     "ninjaUrls": [],
+    "noteUrls": []
+  },
+  {
+    "id": "djft4whs",
+    "name": "グリーンアサシン",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "n3vcf7h0",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "キバチ・ガン"
+    ],
+    "description": "試作兵器を盗み出したニンジャ。\nキバチ・ガンは緑色のチャージプラズマ弾を放つという。",
+    "status": "unknown",
+    "ninjaUrls": [
+      {
+        "label": "トリロジー名鑑",
+        "url": "https://x.com/NJSLYR/status/41113452655296512"
+      },
+      {
+        "label": "トリロジー名鑑N",
+        "url": "https://x.com/NJSLYR/status/1691284929878065152"
+      }
+    ],
+    "noteUrls": [],
+    "appearances": [],
+    "organizations": []
+  },
+  {
+    "id": "ed9apl8p",
+    "name": "ブラックヘイズ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "y8b4c7ta",
+      "name": "",
+      "grade": "レッサー級",
+      "clan": "カイコ・ニンジャクラン"
+    },
+    "skills": [
+      "ヘイズ・ネット・ジツ",
+      "葉巻爆弾",
+      "改造テッコV8",
+      "鷲の捕獲"
+    ],
+    "appearance": "身長179cm。深緑、またはガンメタル色のニンジャ装束。\n葉巻を挿し込めるメンポ。4部ではサイバネティクス・ニンジャ装束。後頭部にLANケーブル。",
+    "description": "フリーランスの傭兵ニンジャ。\n応用の効くヘイズ・ネットや葉巻爆弾を利用して戦う技巧派。\n第4部ではカタナ社に一時囚われていたが、再び傭兵となった。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%98%E3%82%A4%E3%82%BA",
+    "ninjaUrls": [
+      {
+        "label": "トリロジー名鑑",
+        "url": "https://x.com/NJSLYR/status/44319586300080128"
+      },
+      {
+        "label": "トリロジー名鑑N",
+        "url": "https://x.com/NJSLYR/status/1691285132844691456"
+      },
+      {
+        "label": "AoM名鑑",
+        "url": "https://x.com/NJSLYR/status/1031716260415860736"
+      }
+    ],
     "noteUrls": [],
     "appearances": [
       {
-        "id": "d66fda01"
+        "id": "xl6ufucq"
+      },
+      {
+        "id": "9lclsu2q"
+      },
+      {
+        "id": "cc57v76p"
+      },
+      {
+        "id": "tqlc7ayk"
+      },
+      {
+        "id": "nghu0pwd"
+      },
+      {
+        "id": "12ml6hmz"
+      },
+      {
+        "id": "6b51f583"
+      },
+      {
+        "id": "x9g18jha"
+      },
+      {
+        "id": "z7rgd0bm"
+      },
+      {
+        "id": "996b5766"
+      },
+      {
+        "id": "8r8ibb8m"
+      },
+      {
+        "id": "05nq0m0g"
+      },
+      {
+        "id": "63cf6a67"
+      },
+      {
+        "id": "dk9icyo7"
+      },
+      {
+        "id": "cb7e74c2"
+      },
+      {
+        "id": "8fffe24e"
       }
     ],
     "organizations": []
