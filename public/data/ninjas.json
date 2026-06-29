@@ -8702,39 +8702,77 @@
     "name": "センダイユメコ",
     "aliases": [],
     "ninjaType": "非ニンジャ",
+    "skills": [
+      "カタナ"
+    ],
+    "appearance": "身長約210cm。長い四肢。小さな頭。均整の取れた肉体。\n金のネックレス。黒い瞳。青いアイシャドー。真珠色に輝くキモノ。",
+    "description": "ウキヨポリスを率いる女王。\n長大なカタナの二刀流で戦う。\n現在は新天地を求めている。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BB%E3%83%B3%E3%83%80%E3%82%A4%E3%83%A6%E3%83%A1%E3%82%B3",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "74d02c3a"
+      }
+    ],
     "organizations": [
       {
         "id": "cb6c1bf9"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BB%E3%83%B3%E3%83%80%E3%82%A4%E3%83%A6%E3%83%A1%E3%82%B3"
+    ]
   },
   {
     "id": "17754559189",
     "name": "リンゴアメ",
     "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "skills": [],
+    "appearance": "銀とプラチナを含有する素材<柔らかい銀>でできた腕。",
+    "description": "ウキヨポリスのウキヨ。\nコトブキを気にかけていた。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AA%E3%83%B3%E3%82%B4%E3%82%A2%E3%83%A1",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "74d02c3a"
+      }
+    ],
     "organizations": [
       {
         "id": "cb6c1bf9"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AA%E3%83%B3%E3%82%B4%E3%82%A2%E3%83%A1"
+    ]
   },
   {
     "id": "17754559190",
     "name": "バギヌキ",
     "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "1bld4f75",
+      "name": "",
+      "grade": "等級不明",
+      "clan": "",
+      "origin": ""
+    },
+    "skills": [],
+    "description": "オイランドロイド収集家ニンジャ。\nウキヨたちに反逆された。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%82%AE%E3%83%8C%E3%82%AD",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "74d02c3a"
+      }
+    ],
     "organizations": [
       {
         "id": "cb6c1bf9"
       }
-    ],
-    "appearances": [],
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%90%E3%82%AE%E3%83%8C%E3%82%AD"
+    ]
   },
   {
     "id": "17754559191",
@@ -35942,35 +35980,72 @@
   {
     "id": "06594f",
     "name": "スズキ",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "skills": [],
+    "description": "ウットコ建設のカチグミ・サラリマン。\nシンカンセンのカチグミ車両に乗っていた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%BA%E3%82%AD",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "w1fu608s"
+      }
+    ],
     "organizations": [
       {
         "id": "745f5d6b"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B9%E3%82%BA%E3%82%AD"
+    ]
   },
   {
     "id": "1f6197",
     "name": "サトウ",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "skills": [],
+    "description": "ウットコ建設のカチグミ・サラリマン。\nキルゾーンで狩りを楽しんでいた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%88%E3%82%A6",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "tde9kneb"
+      }
+    ],
     "organizations": [
       {
         "id": "745f5d6b"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%B5%E3%83%88%E3%82%A6"
+    ]
   },
   {
     "id": "5ccff2",
     "name": "ナガム",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "skills": [
+      "ショットガン",
+      "セラミックナイフ"
+    ],
+    "appearance": "ケンドー型装甲服。腰に手榴弾、タッパー。",
+    "description": "ウットコ建設のカチグミ・サラリマン。\nキルゾーンで狩りを楽しんでいた。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8A%E3%82%AC%E3%83%A0",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "tde9kneb"
+      }
+    ],
     "organizations": [
       {
         "id": "745f5d6b"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%8A%E3%82%AC%E3%83%A0"
+    ]
   },
   {
     "id": "488507",
@@ -36570,35 +36645,70 @@
   {
     "id": "4d62c4",
     "name": "カンダ・ノボルバシ",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "skills": [],
+    "description": "NSTV（ネオサイタマTV）の社員。ニスイの元養父。\n事故で命を落とし、更に汚名を被せられてしまっていた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%83%B3%E3%83%80%E3%83%BB%E3%83%8E%E3%83%9C%E3%83%AB%E3%83%90%E3%82%B7",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "5jvbtmyb"
+      }
+    ],
     "organizations": [
       {
         "id": "a0ab4324"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%83%B3%E3%83%80%E3%83%BB%E3%83%8E%E3%83%9C%E3%83%AB%E3%83%90%E3%82%B7"
+    ]
   },
   {
     "id": "0a84a4",
     "name": "アサノ・ミツイ",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "skills": [],
+    "appearance": "小麦色に焼けた肥満顔。口髭。\nアマクダリ入り以降はネクタイに「天下」の文字をあしらったプラチナ製のタイピン。",
+    "description": "アサノサン・パワーズ社の第七部長。\nマケグミメンタルだったが、ブラックメイルとの出会いで野心に目覚めた。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%B5%E3%83%8E%E3%83%BB%E3%83%9F%E3%83%84%E3%82%A4",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "3951d013"
+      }
+    ],
     "organizations": [
       {
         "id": "426e4dbf"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%B5%E3%83%8E%E3%83%BB%E3%83%9F%E3%83%84%E3%82%A4"
+    ]
   },
   {
     "id": "b03f3f",
     "name": "アサノ・モチロウ",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "skills": [],
+    "appearance": "肥満体。",
+    "description": "アサノサン・パワーズ社の第3部長。\nアサノ・ミツイの暗殺を企てたが、逆に弱みを握られ手駒にされた。",
+    "status": "unknown",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%B5%E3%83%8E%E3%83%BB%E3%83%A2%E3%83%81%E3%83%AD%E3%82%A6",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "3951d013"
+      }
+    ],
     "organizations": [
       {
         "id": "426e4dbf"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%82%B5%E3%83%8E%E3%83%BB%E3%83%A2%E3%83%81%E3%83%AD%E3%82%A6"
+    ]
   },
   {
     "id": "ebdefe",
@@ -48776,6 +48886,12 @@
       "clan": "アクマ・ニンジャクラン",
       "origin": ""
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "s4cltp8w"
+      }
+    ],
     "skills": [
       "アクマフィーンド・ジツ"
     ],
@@ -48784,13 +48900,7 @@
     "status": "dead",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%94%E3%83%83%E3%83%88%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
     "ninjaUrls": [],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "s4cltp8w"
-      }
-    ],
-    "organizations": []
+    "noteUrls": []
   },
   {
     "id": "82aeec63",
@@ -48863,18 +48973,7 @@
       "clan": "",
       "origin": ""
     },
-    "skills": [
-      "ムテキ・アティチュード",
-      "ムテキ・カラテ",
-      "回転ムテキ攻撃",
-      "八武器"
-    ],
-    "appearance": "巨体。ギナタ、ハンマー、鋸、サスマタ、カタナ、ヤリ、クマデイ、メイスの八つの武器。",
-    "description": "平安時代のリアルニンジャ。\nブル・ヘイケに敗れ配下となった。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%99%E3%83%B3%E3%82%B1%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
-    "ninjaUrls": [],
-    "noteUrls": [],
+    "organizations": [],
     "appearances": [
       {
         "id": "t3b3cjoh"
@@ -48889,7 +48988,18 @@
         "id": "s4cltp8w"
       }
     ],
-    "organizations": []
+    "skills": [
+      "ムテキ・アティチュード",
+      "ムテキ・カラテ",
+      "回転ムテキ攻撃",
+      "八武器"
+    ],
+    "appearance": "巨体。ギナタ、ハンマー、鋸、サスマタ、カタナ、ヤリ、クマデイ、メイスの八つの武器。",
+    "description": "平安時代のリアルニンジャ。\nブル・ヘイケに敗れ配下となった。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%99%E3%83%B3%E3%82%B1%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
+    "ninjaUrls": [],
+    "noteUrls": []
   },
   {
     "id": "c1521500",
@@ -49169,19 +49279,19 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "ac533ac4"
+      }
+    ],
     "skills": [],
     "appearance": "山のような巨体。白い毛。焔のように揺れ続ける体毛。神秘的な金色の炎が灯る額。獣。",
     "description": "強大なリアルニンジャアニマル。\n現在はストライダーに憑依している。",
     "status": "dead",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%AC%E3%82%A4%E3%82%B1%E3%83%B3%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3",
     "ninjaUrls": [],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "ac533ac4"
-      }
-    ],
-    "organizations": []
+    "noteUrls": []
   },
   {
     "id": "6163cf5f",
@@ -61032,5 +61142,51 @@
     "status": "unknown",
     "ninjaUrls": [],
     "noteUrls": []
+  },
+  {
+    "id": "sgdu8jvo",
+    "name": "ミチグラ・キトミ",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "skills": [],
+    "appearance": "年齢のわりにボリューム感のある黒髪。ゴルフ焼けした肌。柄の強いネクタイ。",
+    "description": "NSTV（ネオサイタマTV）社の名物パーソナリティー。\n強い口調で煽情的に視聴者に語り掛ける。が、不自然に思われてもいる。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9F%E3%83%81%E3%82%B0%E3%83%A9%E3%83%BB%E3%82%AD%E3%83%88%E3%83%9F",
+    "ninjaUrls": [
+      {
+        "label": "トリロジー名鑑",
+        "url": "https://x.com/NJSLYR/status/680030416695201792?s=20"
+      }
+    ],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "370fffc1"
+      },
+      {
+        "id": "rwd4t44a"
+      },
+      {
+        "id": "a5aiu21s"
+      },
+      {
+        "id": "93f8b0a5"
+      },
+      {
+        "id": "032c13ba"
+      },
+      {
+        "id": "40d5613c"
+      },
+      {
+        "id": "92d5732c"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "a0ab4324"
+      }
+    ]
   }
 ]
