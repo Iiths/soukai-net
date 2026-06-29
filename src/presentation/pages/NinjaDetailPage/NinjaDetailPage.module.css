@@ -373,14 +373,27 @@
   font-size: 0.93rem;
 }
 
-/* ---- Meta footer ---- */
-.metaFooter {
-  margin-top: 0.5rem;
-  padding-top: 1rem;
-  border-top: 1px dashed var(--color-border);
+/* ---- Meta link section ---- */
+.metaLinkSection {
+  display: flex;
+  flex-direction: column;
+}
+
+.metaLinkGroup {
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
+  padding: 0.75rem 0;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.metaLinkGroup:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.metaLinkGroup:first-child {
+  padding-top: 0;
 }
 
 .metaRow {
@@ -392,11 +405,10 @@
 
 .metaLabel {
   flex-shrink: 0;
-  width: 4rem;
+  width: 9rem;
   color: var(--color-text-muted);
-  text-transform: uppercase;
   letter-spacing: 0.06em;
-  font-size: 0.72rem;
+  font-size: 0.78rem;
 }
 
 .metaCode {

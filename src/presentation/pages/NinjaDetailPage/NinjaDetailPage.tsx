@@ -273,49 +273,62 @@ export function NinjaDetailPage() {
             : <Empty label="説明" />}
         </section>
 
-        {/* メタ情報フッター（名鑑・note・Wikiリンク） */}
+        {/* 詳細リンク（名鑑・note・Wiki） */}
         {(hasValue(ninja.ninjaUrls) || hasValue(ninja.noteUrls) || hasValue(ninja.wikiUrl)) && (
-          <div className={styles.metaFooter}>
-            {hasValue(ninja.ninjaUrls) && ninja.ninjaUrls!.map((item, i) => (
-              <div key={`meikan-${i}`} className={styles.metaRow}>
-                <span className={styles.metaLabel}>名鑑</span>
-                <a
-                  href={item.url}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className={styles.wikiLink}
-                >
-                  {item.label}
-                </a>
-              </div>
-            ))}
-            {hasValue(ninja.noteUrls) && ninja.noteUrls!.map((item, i) => (
-              <div key={`note-${i}`} className={styles.metaRow}>
-                <span className={styles.metaLabel}>Note</span>
-                <a
-                  href={item.url}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className={styles.wikiLink}
-                >
-                  {item.label}
-                </a>
-              </div>
-            ))}
-            {hasValue(ninja.wikiUrl) && (
-              <div className={styles.metaRow}>
-                <span className={styles.metaLabel}>Wiki</span>
-                <a
-                  href={ninja.wikiUrl}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className={styles.wikiLink}
-                >
-                  ニンジャスレイヤーWikiの個別ページ
-                </a>
-              </div>
-            )}
-          </div>
+          <section className={styles.section}>
+            <h2 className={styles.sectionTitle}>詳細リンク</h2>
+            <div className={styles.metaLinkSection}>
+              {hasValue(ninja.ninjaUrls) && (
+                <div className={styles.metaLinkGroup}>
+                  {ninja.ninjaUrls!.map((item, i) => (
+                    <div key={`meikan-${i}`} className={styles.metaRow}>
+                      <span className={styles.metaLabel}>{i === 0 ? 'ニンジャ名鑑' : ''}</span>
+                      <a
+                        href={item.url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className={styles.wikiLink}
+                      >
+                        {item.label}
+                      </a>
+                    </div>
+                  ))}
+                </div>
+              )}
+              {hasValue(ninja.noteUrls) && (
+                <div className={styles.metaLinkGroup}>
+                  {ninja.noteUrls!.map((item, i) => (
+                    <div key={`note-${i}`} className={styles.metaRow}>
+                      <span className={styles.metaLabel}>{i === 0 ? 'NOTE公式ページ' : ''}</span>
+                      <a
+                        href={item.url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className={styles.wikiLink}
+                      >
+                        {item.label}
+                      </a>
+                    </div>
+                  ))}
+                </div>
+              )}
+              {hasValue(ninja.wikiUrl) && (
+                <div className={styles.metaLinkGroup}>
+                  <div className={styles.metaRow}>
+                    <span className={styles.metaLabel}>Wiki</span>
+                    <a
+                      href={ninja.wikiUrl}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className={styles.wikiLink}
+                    >
+                      ニンジャスレイヤーWikiの個別ページ
+                    </a>
+                  </div>
+                </div>
+              )}
+            </div>
+          </section>
         )}
       </div>
     </div>
