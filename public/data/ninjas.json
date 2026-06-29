@@ -33990,13 +33990,20 @@
   {
     "id": "6f6a2a",
     "name": "マコ・ツキノミ",
-    "organizations": [
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "skills": [],
+    "description": "武装集団「ハヤイ・ツカイテ団」の構成員。\n少年時代のフジオの仲間だった。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%B3%E3%83%BB%E3%83%84%E3%82%AD%E3%83%8E%E3%83%9F",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
       {
-        "id": "1454a3ff"
+        "id": "rujnq8bg"
       }
     ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%B3%E3%83%BB%E3%83%84%E3%82%AD%E3%83%8E%E3%83%9F"
+    "organizations": []
   },
   {
     "id": "628105",
@@ -34938,16 +34945,31 @@
   {
     "id": "a18762",
     "name": "アナカ・マコト",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "skills": [],
+    "appearance": "競泳水着じみたボディスーツ。濃いグレーのジュー・ウェア。強化樹脂笠。\n私服は対汚染ブルゾン。",
+    "description": "キョートのリキシャードライバー。\n「バイオ鹿計画」のフロッピーを入手してしまい、ニンジャ騒動に巻き込まれた。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%8A%E3%82%AB%E3%83%BB%E3%83%9E%E3%82%B3%E3%83%88",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "b2f24cc3"
+      },
+      {
+        "id": "12ml6hmz"
+      }
+    ],
     "organizations": [
       {
-        "id": "y8yzi8su"
+        "id": "e9a2f554"
       },
       {
         "id": "a3eb746e"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A2%E3%83%8A%E3%82%AB%E3%83%BB%E3%83%9E%E3%82%B3%E3%83%88"
+    ]
   },
   {
     "id": "5f6e27",
@@ -36050,13 +36072,25 @@
   {
     "id": "488507",
     "name": "ディンタキ・カツマ",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "skills": [],
+    "appearance": "深い皺の老人。右手薬指がケジメされている。",
+    "description": "カイヅマ・ショーユ社の社長。\n会社を一代で築き上げた。モットーはタイムイズマネー。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%A3%E3%83%B3%E3%82%BF%E3%82%AD%E3%83%BB%E3%82%AB%E3%83%84%E3%83%9E",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "zi9w4m1z"
+      }
+    ],
     "organizations": [
       {
         "id": "bd724733"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%87%E3%82%A3%E3%83%B3%E3%82%BF%E3%82%AD%E3%83%BB%E3%82%AB%E3%83%84%E3%83%9E"
+    ]
   },
   {
     "id": "1de2b6",
@@ -38606,13 +38640,25 @@
   {
     "id": "c27de1",
     "name": "タジモト",
+    "aliases": [],
+    "ninjaType": "非ニンジャ",
+    "skills": [],
+    "appearance": "サイバーサングラス。身体の8割がサイバネ。",
+    "description": "カナリハヤイ社のリキシャードライバー。\n違法薬物の運びに手を染めていた暴君。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%82%B8%E3%83%A2%E3%83%88",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "b2f24cc3"
+      }
+    ],
     "organizations": [
       {
         "id": "a3eb746e"
       }
-    ],
-    "appearances": [],
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BF%E3%82%B8%E3%83%A2%E3%83%88"
+    ]
   },
   {
     "id": "1fe1e5",
