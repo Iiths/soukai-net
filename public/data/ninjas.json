@@ -8758,19 +8758,19 @@
     "name": "オノマチ・ツルゴ",
     "aliases": [],
     "ninjaType": "非ニンジャ",
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "385dad67"
+      }
+    ],
     "skills": [],
     "appearance": "疲労で弛んだ顔。レンズがぺたぺたと白いメガネ。\nエピソード途中から：首から「強い」と書かれたオマモリ袋。",
     "description": "トクボ・ファイナンス社の係長。サーバー保守を担当。\n部下の怪死事件を受け、神秘修練者ニンジャに依頼した。",
     "status": "alive",
     "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AA%E3%83%8E%E3%83%9E%E3%83%81%E3%83%BB%E3%83%84%E3%83%AB%E3%82%B4",
     "ninjaUrls": [],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "385dad67"
-      }
-    ],
-    "organizations": []
+    "noteUrls": []
   },
   {
     "id": "17754559188",
@@ -38993,23 +38993,23 @@
     "name": "GNマサルVI",
     "aliases": [],
     "ninjaType": "非ニンジャ",
+    "organizations": [
+      {
+        "id": "b0b48e6a"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "m7ldwmab"
+      }
+    ],
     "skills": [],
     "appearance": "黒いハッカーギャングスーツ。サイバーサングラス。車椅子。",
     "description": "DシズムIIIファミリーの団員。\nジェノサイドをヨージンボに雇おうとした。",
     "status": "dead",
     "wikiUrl": "https://wikiwiki.jp/njslyr/GN%E3%83%9E%E3%82%B5%E3%83%ABVI",
     "ninjaUrls": [],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "m7ldwmab"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "b0b48e6a"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "099ea5",
@@ -62096,5 +62096,75 @@
       }
     ],
     "noteUrls": []
+  },
+  {
+    "id": "awn2hiba",
+    "name": "モーターマンモス",
+    "aliases": [],
+    "ninjaType": "ロボ・ニンジャ",
+    "skills": [
+      "暴徒鎮圧ガトリングガン",
+      "火炎放射器",
+      "パワーショベル"
+    ],
+    "appearance": "全長50m。四脚歩行のロボニンジャ。",
+    "description": "オムラ・エンパイアが開発した超大型決戦兵器。\n不人気商品であったが、半強制的に系列社などに導入させた。",
+    "status": "alive",
+    "ninjaUrls": [],
+    "noteUrls": [
+      {
+        "label": "シャード・オブ・マッポーカリプス(88)：機動警察法人ロクハラ・コーポレイション",
+        "url": "https://diehardtales.com/n/n7312155e5284"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "40d5613c"
+      },
+      {
+        "id": "6dcsfo7u"
+      },
+      {
+        "id": "665uuria"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "40e6677e"
+      },
+      {
+        "id": "xpmxfwp7"
+      }
+    ]
+  },
+  {
+    "id": "7ftsln8q",
+    "name": "マエストロ",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "xd9t7iex",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "カタナ（仕込み杖）",
+      "ステルス・ジツ"
+    ],
+    "appearance": "幾何学テキスタイルの燕尾服。カタナが仕込まれたステッキ。\nハンザイ・コンスピラシーの指輪。",
+    "description": "ハンザイ・コンスピラシーのニンジャ。\nステルスコートで姿を隠し、ステッキに仕込んだカタナを振るう。",
+    "status": "alive",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "665uuria"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "728df8e9"
+      }
+    ]
   }
 ]
