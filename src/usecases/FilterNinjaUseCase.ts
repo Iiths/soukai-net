@@ -8,8 +8,6 @@ export type FilterCriteria = {
   arc?: string;
   /** 登場シーズン（第4部以降のみ対象） */
   season?: number;
-  /** エピソードタイトル（部分一致） */
-  episodeTitle?: string;
   /** エピソードID（完全一致） */
   episodeId?: string;
   /** ニンジャソウルの等級 */
@@ -40,7 +38,6 @@ export class FilterNinjaUseCase {
     const needsEpisodeFilter =
       criteria.arc !== undefined ||
       criteria.season !== undefined ||
-      criteria.episodeTitle !== undefined ||
       criteria.episodeId !== undefined;
 
     let episodeMap: Map<string, Episode> = new Map();
@@ -66,15 +63,6 @@ export class FilterNinjaUseCase {
           return ep?.season === criteria.season;
         });
         if (!seasonMatch) return false;
-      }
-
-      // エピソードタイトルフィルター（部分一致）
-      if (criteria.episodeTitle) {
-        const epMatch = ninja.appearances.some((ref) => {
-          const ep = episodeMap.get(ref.id);
-          return ep?.title.toLowerCase().includes(criteria.episodeTitle!.toLowerCase());
-        });
-        if (!epMatch) return false;
       }
 
       // エピソードIDフィルター（完全一致）

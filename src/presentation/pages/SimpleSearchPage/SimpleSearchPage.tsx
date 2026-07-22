@@ -22,7 +22,6 @@ const P = {
   FILTER_OPEN:   'filter',
   ARC:           'arc',
   SEASON:        'season',
-  EPISODE_TITLE: 'ep',
   EPISODE_ID:    'epid',
   SOUL_GRADE:    'grade',
   SOUL_CLAN:     'clan',
@@ -34,7 +33,7 @@ const P = {
 } as const;
 
 const FILTER_PARAM_KEYS = [
-  P.ARC, P.SEASON, P.EPISODE_TITLE, P.EPISODE_ID,
+  P.ARC, P.SEASON, P.EPISODE_ID,
   P.SOUL_GRADE, P.SOUL_CLAN,
   P.NINJA_TYPE, P.ORG, P.STATUS,
   P.ROLE, P.SKILL,
@@ -46,7 +45,6 @@ function paramsToFilterCriteria(sp: URLSearchParams): FilterCriteria {
   const c: FilterCriteria = {};
   const arc    = sp.get(P.ARC);           if (arc)    c.arc           = arc;
   const season = sp.get(P.SEASON);        if (season) c.season        = Number(season);
-  const ep     = sp.get(P.EPISODE_TITLE); if (ep)     c.episodeTitle  = ep;
   const epid   = sp.get(P.EPISODE_ID);    if (epid)   c.episodeId     = epid;
   const grade  = sp.get(P.SOUL_GRADE);    if (grade)  c.ninjaSoulGrade = grade as NinjaSoulGrade;
   const clan   = sp.get(P.SOUL_CLAN);     if (clan)   c.ninjaSoulClan = clan;
@@ -62,7 +60,6 @@ function filterCriteriaToEntries(c: FilterCriteria): [string, string][] {
   const entries: [string, string][] = [];
   if (c.arc)                  entries.push([P.ARC,           c.arc]);
   if (c.season !== undefined) entries.push([P.SEASON,        String(c.season)]);
-  if (c.episodeTitle)         entries.push([P.EPISODE_TITLE, c.episodeTitle]);
   if (c.episodeId)            entries.push([P.EPISODE_ID,    c.episodeId]);
   if (c.ninjaSoulGrade)       entries.push([P.SOUL_GRADE,    c.ninjaSoulGrade]);
   if (c.ninjaSoulClan)        entries.push([P.SOUL_CLAN,     c.ninjaSoulClan]);
@@ -245,6 +242,7 @@ export function SimpleSearchPage() {
             onChange={handleCriteriaChange}
             arcs={arcs}
             seasons={seasons}
+            episodes={allEpisodes}
             ninjaSoulClans={ninjaSoulClans}
             organizations={allOrganizations}
           />

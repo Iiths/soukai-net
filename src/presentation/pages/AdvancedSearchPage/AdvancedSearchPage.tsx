@@ -83,6 +83,7 @@ export function AdvancedSearchPage() {
         arcs={arcs}
         organizations={allOrganizations}
         seasons={[]}
+        episodes={allEpisodes}
         ninjaSoulClans={[]}
       />
 

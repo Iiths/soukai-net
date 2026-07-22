@@ -1,7 +1,10 @@
+import { useMemo } from 'react';
 import { FilterCriteria } from '../../../usecases/FilterNinjaUseCase';
 import { NinjaType } from '../../../domain/entities/Ninja';
 import { NinjaSoulGrade } from '../../../domain/entities/NinjaSoul';
 import { Organization } from '../../../domain/entities/Organization';
+import { Episode } from '../../../domain/entities/Episode';
+import { Combobox } from '../Combobox/Combobox';
 import styles from './FilterPanel.module.css';
 
 const NINJA_TYPES: NinjaType[] = [
@@ -25,6 +28,7 @@ interface FilterPanelProps {
   onChange: (criteria: FilterCriteria) => void;
   arcs: string[];
   seasons: number[];
+  episodes: Episode[];
   ninjaSoulClans: string[];
   organizations: Organization[];
 }
@@ -34,6 +38,7 @@ export function FilterPanel({
   onChange,
   arcs,
   seasons,
+  episodes,
   ninjaSoulClans,
   organizations,
 }: FilterPanelProps) {
@@ -43,6 +48,27 @@ export function FilterPanel({
   ) => {
     onChange({ ...criteria, [key]: value === '' ? undefined : value });
   };
+
+  const episodeOptions = useMemo(
+    () =>
+      [...episodes]
+        .sort((a, b) => a.title.localeCompare(b.title, 'ja'))
+        .map((ep) => ({
+          value: ep.id,
+          label: ep.arc ? `${ep.title}（${ep.arc}）` : ep.title,
+        })),
+    [episodes]
+  );
+
+  const ninjaSoulClanOptions = useMemo(
+    () => ninjaSoulClans.map((clan) => ({ value: clan, label: clan })),
+    [ninjaSoulClans]
+  );
+
+  const organizationOptions = useMemo(
+    () => organizations.map((org) => ({ value: org.id, label: org.name })),
+    [organizations]
+  );
 
   return (
     <div className={styles.panel}>
@@ -86,12 +112,11 @@ export function FilterPanel({
 
           <div className={styles.filterGroup}>
             <label className={styles.label}>エピソード</label>
-            <input
-              className={styles.input}
-              type="text"
+            <Combobox
+              options={episodeOptions}
+              value={criteria.episodeId || ''}
+              onChange={(v) => set('episodeId', v)}
               placeholder="エピソード名で検索"
-              value={criteria.episodeTitle || ''}
-              onChange={(e) => set('episodeTitle', e.target.value)}
             />
           </div>
         </div>
@@ -159,18 +184,12 @@ export function FilterPanel({
 
           <div className={styles.filterGroup}>
             <label className={styles.label}>ニンジャクラン</label>
-            <select
-              className={styles.select}
+            <Combobox
+              options={ninjaSoulClanOptions}
               value={criteria.ninjaSoulClan || ''}
-              onChange={(e) => set('ninjaSoulClan', e.target.value)}
-            >
-              <option value="">すべて</option>
-              {ninjaSoulClans.map((clan) => (
-                <option key={clan} value={clan}>
-                  {clan}
-                </option>
-              ))}
-            </select>
+              onChange={(v) => set('ninjaSoulClan', v)}
+              placeholder="クラン名で検索"
+            />
           </div>
         </div>
       </div>
@@ -181,18 +200,12 @@ export function FilterPanel({
         <div className={styles.filterRow}>
           <div className={styles.filterGroup}>
             <label className={styles.label}>所属組織</label>
-            <select
-              className={styles.select}
+            <Combobox
+              options={organizationOptions}
               value={criteria.organizationId || ''}
-              onChange={(e) => set('organizationId', e.target.value)}
-            >
-              <option value="">すべて</option>
-              {organizations.map((org) => (
-                <option key={org.id} value={org.id}>
-                  {org.name}
-                </option>
-              ))}
-            </select>
+              onChange={(v) => set('organizationId', v)}
+              placeholder="組織名で検索"
+            />
           </div>
 
           <div className={styles.filterGroup}>

@@ -5,7 +5,6 @@ import type { NinjaSoulGrade } from '../domain/entities/NinjaSoul';
 export type FilterCriteria = {
   arc?: string;
   season?: number;
-  episodeTitle?: string;
   episodeId?: string;
   ninjaSoulGrade?: NinjaSoulGrade;
   ninjaSoulClan?: string;
@@ -44,8 +43,7 @@ async function loadData(): Promise<void> {
 function applyFilter(ninjas: Ninja[], episodes: Episode[], criteria: FilterCriteria): Ninja[] {
   const needsEpisodeMap =
     criteria.arc !== undefined ||
-    criteria.season !== undefined ||
-    criteria.episodeTitle !== undefined;
+    criteria.season !== undefined;
 
   const episodeMap = needsEpisodeMap
     ? new Map(episodes.map((ep) => [ep.id, ep]))
@@ -58,12 +56,6 @@ function applyFilter(ninjas: Ninja[], episodes: Episode[], criteria: FilterCrite
     }
     if (criteria.season !== undefined) {
       const match = ninja.appearances.some((ref) => episodeMap.get(ref.id)?.season === criteria.season);
-      if (!match) return false;
-    }
-    if (criteria.episodeTitle) {
-      const match = ninja.appearances.some((ref) =>
-        episodeMap.get(ref.id)?.title.toLowerCase().includes(criteria.episodeTitle!.toLowerCase())
-      );
       if (!match) return false;
     }
     if (criteria.episodeId) {
