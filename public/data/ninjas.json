@@ -9709,21 +9709,7 @@
       "clan": "ノルド・ニンジャクラン",
       "origin": ""
     },
-    "skills": [
-      "バーバル・カラテ",
-      "両刃剣"
-    ],
-    "appearance": "硬い長髪。鼻から下を覆う黒い鋼のメンポ。\n蛮人あるいはケルト戦士じみた青い刺青、イクサペイント。",
-    "description": "中国地方奥地からやってきた蛮人ニンジャ。\n荒々しいカラテで戦う。",
-    "status": "alive",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%9A%E3%82%A4%E3%83%B3%E3%83%88",
-    "ninjaUrls": [
-      {
-        "label": "トリロジー名鑑",
-        "url": "https://x.com/NJSLYR/status/209466925137399810"
-      }
-    ],
-    "noteUrls": [],
+    "organizations": [],
     "appearances": [
       {
         "id": "37c99a76"
@@ -9738,7 +9724,21 @@
         "id": "vnr9112e"
       }
     ],
-    "organizations": []
+    "skills": [
+      "バーバル・カラテ",
+      "両刃剣"
+    ],
+    "appearance": "硬い長髪。鼻から下を覆う黒い鋼のメンポ。\n蛮人あるいはケルト戦士じみた青い刺青、イクサペイント。",
+    "description": "中国地方奥地からやってきた蛮人ニンジャ。\n荒々しいカラテで戦う。",
+    "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%9A%E3%82%A4%E3%83%B3%E3%83%88",
+    "ninjaUrls": [
+      {
+        "label": "トリロジー名鑑",
+        "url": "https://x.com/NJSLYR/status/209466925137399810"
+      }
+    ],
+    "noteUrls": []
   },
   {
     "id": "17754559224",
@@ -18702,6 +18702,19 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "zaibatsu-p2"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "12ml6hmz"
+      },
+      {
+        "id": "rujnq8bg"
+      }
+    ],
     "skills": [
       "スナイパースリケン"
     ],
@@ -18714,20 +18727,7 @@
         "url": "https://x.com/NJSLYR/status/205327805934866434"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "12ml6hmz"
-      },
-      {
-        "id": "rujnq8bg"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "zaibatsu-p2"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "58e0e3b0",
@@ -25063,6 +25063,22 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "cd4744be"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "996b5766"
+      },
+      {
+        "id": "8r8ibb8m"
+      },
+      {
+        "id": "ff3c9805"
+      }
+    ],
     "skills": [
       "鉄傘",
       "アイ・オブ・サーペント"
@@ -25080,23 +25096,7 @@
         "url": "https://x.com/NJSLYR/status/1235811632539820032"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "996b5766"
-      },
-      {
-        "id": "8r8ibb8m"
-      },
-      {
-        "id": "ff3c9805"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "cd4744be"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "3bee741b",
@@ -38237,6 +38237,16 @@
       "clan": "",
       "origin": ""
     },
+    "organizations": [
+      {
+        "id": "7bb790d7"
+      }
+    ],
+    "appearances": [
+      {
+        "id": "t2l0ugzn"
+      }
+    ],
     "skills": [
       "近接カラテ"
     ],
@@ -38250,17 +38260,7 @@
         "url": "https://x.com/NJSLYR/status/209471569829969920"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "t2l0ugzn"
-      }
-    ],
-    "organizations": [
-      {
-        "id": "7bb790d7"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "4d6372",
@@ -51530,6 +51530,12 @@
       "grade": "レッサー級",
       "clan": "コソク・ニンジャクラン"
     },
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "w0ir764o"
+      }
+    ],
     "skills": [
       "拘束具投擲",
       "ポン・パンチ"
@@ -51544,18 +51550,18 @@
         "url": "https://x.com/NJSLYR/status/205316465912578048"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "w0ir764o"
-      }
-    ],
-    "organizations": []
+    "noteUrls": []
   },
   {
     "id": "gsh02hus",
     "name": "シンギュラリティ",
     "aliases": [],
+    "organizations": [],
+    "appearances": [
+      {
+        "id": "w0ir764o"
+      }
+    ],
     "skills": [],
     "description": "リー先生が実在を突き止めた超ニンジャ存在。\n事象の先に立つとされる。",
     "status": "unknown",
@@ -51566,13 +51572,7 @@
         "url": "https://x.com/NJSLYR/status/214727252787740673"
       }
     ],
-    "noteUrls": [],
-    "appearances": [
-      {
-        "id": "w0ir764o"
-      }
-    ],
-    "organizations": []
+    "noteUrls": []
   },
   {
     "id": "k7tszb34",
@@ -62849,7 +62849,7 @@
     ],
     "appearance": "幾何学テキスタイルの燕尾服。カタナが仕込まれたステッキ。\nハンザイ・コンスピラシーの指輪。",
     "description": "ハンザイ・コンスピラシーのニンジャ。\nステルスコートで姿を隠し、ステッキに仕込んだカタナを振るう。",
-    "status": "alive",
+    "status": "dead",
     "ninjaUrls": [],
     "noteUrls": []
   },
@@ -63083,6 +63083,12 @@
       "name": "",
       "grade": "等級不明"
     },
+    "organizations": [
+      {
+        "id": "09afd629"
+      }
+    ],
+    "appearances": [],
     "skills": [
       "墓石"
     ],
@@ -63095,13 +63101,7 @@
         "url": "https://x.com/NJSLYR/status/205334785776820225"
       }
     ],
-    "noteUrls": [],
-    "appearances": [],
-    "organizations": [
-      {
-        "id": "09afd629"
-      }
-    ]
+    "noteUrls": []
   },
   {
     "id": "qflpmuj6",
@@ -63113,6 +63113,8 @@
       "name": "",
       "grade": "等級不明"
     },
+    "organizations": [],
+    "appearances": [],
     "skills": [],
     "appearance": "皮膚が爬虫類めいた硬い皮。",
     "description": "爬虫類めいた皮膚を持つニンジャ。\n両手を合わせてワニ頭を作り、それで敵を嚙み殺すという。",
@@ -63123,8 +63125,6 @@
         "url": "https://x.com/NJSLYR/status/215796593763418113"
       }
     ],
-    "noteUrls": [],
-    "appearances": [],
-    "organizations": []
+    "noteUrls": []
   }
 ]
