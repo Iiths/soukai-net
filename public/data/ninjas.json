@@ -4155,19 +4155,14 @@
       "clan": "ハデス・ニンジャクラン",
       "origin": ""
     },
-    "skills": [
-      "シャドウヴィジョン・ジツ",
-      "シャドウネット・ジツ",
-      "墓暴きの虫",
-      "ダイジャ・バイト"
+    "organizations": [
+      {
+        "id": "f35c5c1d"
+      },
+      {
+        "id": "3d06734e"
+      }
     ],
-    "role": "ワイズマン",
-    "appearance": "輪郭の一定しない影めいた黒い外套。ザルニーツァ以上の高身長。ただし普段はうずくまっている。\n骸骨めいた青白い顔。三重の虹彩を持つ瞳。",
-    "description": "過冬の上級戦士ワイズマンの一人。サツガイ接触者。\n常に発狂しており対話が困難。影のジツで死体を操る。",
-    "status": "dead",
-    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%82%B7%E3%83%9E%E3%83%BC%E3%83%AB",
-    "ninjaUrls": [],
-    "noteUrls": [],
     "appearances": [
       {
         "id": "his9gvkp"
@@ -4185,14 +4180,19 @@
         "id": "typqvzha"
       }
     ],
-    "organizations": [
-      {
-        "id": "f35c5c1d"
-      },
-      {
-        "id": "3d06734e"
-      }
-    ]
+    "skills": [
+      "シャドウヴィジョン・ジツ",
+      "シャドウネット・ジツ",
+      "墓暴きの虫",
+      "ダイジャ・バイト"
+    ],
+    "role": "ワイズマン",
+    "appearance": "輪郭の一定しない影めいた黒い外套。ザルニーツァ以上の高身長。ただし普段はうずくまっている。\n骸骨めいた青白い顔。三重の虹彩を持つ瞳。",
+    "description": "過冬の上級戦士ワイズマンの一人。サツガイ接触者。\n常に発狂しており対話が困難。影のジツで死体を操る。",
+    "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%AB%E3%82%B7%E3%83%9E%E3%83%BC%E3%83%AB",
+    "ninjaUrls": [],
+    "noteUrls": []
   },
   {
     "id": "1775455956",
@@ -61917,12 +61917,6 @@
       "name": "",
       "grade": "等級不明"
     },
-    "organizations": [],
-    "appearances": [
-      {
-        "id": "665uuria"
-      }
-    ],
     "skills": [
       "網膜HUD",
       "IRCクナイ"
@@ -61930,8 +61924,15 @@
     "appearance": "身体の一定割合がサイバネ。左腕にハンドベルトUNIX。",
     "description": "ネオサイタマのフリーランスニンジャ。\n巨大資産目的でグランマの塔に侵入した。",
     "status": "alive",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%82%BD%E3%83%AA%E3%83%83%E3%83%89%E3%82%A8%E3%83%B3%E3%83%89#:hl:word=%E3%82%BD%E3%83%AA%E3%83%83%E3%83%89",
     "ninjaUrls": [],
-    "noteUrls": []
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "665uuria"
+      }
+    ],
+    "organizations": []
   },
   {
     "id": "1d37nmwg",
@@ -62835,16 +62836,6 @@
       "name": "",
       "grade": "等級不明"
     },
-    "organizations": [
-      {
-        "id": "728df8e9"
-      }
-    ],
-    "appearances": [
-      {
-        "id": "665uuria"
-      }
-    ],
     "skills": [
       "カタナ（仕込み杖）",
       "ステルス・ジツ"
@@ -62852,8 +62843,19 @@
     "appearance": "幾何学テキスタイルの燕尾服。カタナが仕込まれたステッキ。\nハンザイ・コンスピラシーの指輪。",
     "description": "ハンザイ・コンスピラシーのニンジャ。\nステルスコートで姿を隠し、ステッキに仕込んだカタナを振るう。",
     "status": "dead",
+    "wikiUrl": "https://wikiwiki.jp/njslyr/%E3%83%9E%E3%82%A8%E3%82%B9%E3%83%88%E3%83%AD",
     "ninjaUrls": [],
-    "noteUrls": []
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "665uuria"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "728df8e9"
+      }
+    ]
   },
   {
     "id": "wm7pelvn",
@@ -63128,5 +63130,61 @@
       }
     ],
     "noteUrls": []
+  },
+  {
+    "id": "4lxu3nch",
+    "name": "ダウンバースト",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "z2avyp9h",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [],
+    "appearance": "フード。規則的に並んだ20個のサイバネアイ。ガスマスク。",
+    "description": "ヤルキ重工のニンジャ。\n不可侵協定中のザイバツからモータルを攫おうとしていた。",
+    "status": "dead",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "f1e10d99"
+      }
+    ]
+  },
+  {
+    "id": "pppu69oz",
+    "name": "フォアキャスト",
+    "aliases": [],
+    "ninjaType": "ニンジャソウル憑依者",
+    "ninjaSoul": {
+      "id": "ojbuh74e",
+      "name": "",
+      "grade": "等級不明"
+    },
+    "skills": [
+      "ネンリキ・ジツ"
+    ],
+    "appearance": "バイオツノゼミめいた異形頭部。4個増設されたバイオ脳髄。ガスマスク。",
+    "description": "ヤルキ重工のニンジャ。\n不可侵協定中のザイバツからモータルを攫おうとしていた。",
+    "status": "unknown",
+    "ninjaUrls": [],
+    "noteUrls": [],
+    "appearances": [
+      {
+        "id": "8fffe24e"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "f1e10d99"
+      }
+    ]
   }
 ]
